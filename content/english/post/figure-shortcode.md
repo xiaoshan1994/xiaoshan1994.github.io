@@ -25,7 +25,7 @@ Here are some examples; please be aware that these styles only take effect when 
 
 
 
-{{< youtube GGpSdf3dFNE > title="A New Hugo Site in Under Two Minutes"}}
+{{< youtube GGpSdf3dFNE >}}
 
 
 
