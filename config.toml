@@ -32,6 +32,25 @@ listDateFormat = "2/1/2006"
 # Read More links for truncated summaries
 # readMore = true
 # postSectionName = "blog"
+[menu]
+
+  [[menu.main]]
+  name = "Home"
+  identifier = "home"
+  weight = 100
+  url = "/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
+  identifier = "posts"
+  url = "/post/"
+
+  [[menu.main]]
+  name = "About"
+  weight = 300
+  identifier = "about"
+  url = "/about/"
 
 [simpleAnalytics]
 # enable = true
