@@ -13,3 +13,10 @@ Blogging form Leiden since 2021
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
 favicon = "favicons/"
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
