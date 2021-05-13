@@ -4,7 +4,7 @@ title = "My New Hugo Site"
 theme = "anatole"
 
 [params]
-title = "I'm Kai Li"
+title = "Kai Li"
 author = "Kai Li"
 description = "PhD candidate in Leiden University"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/kai_profile.jpg"
