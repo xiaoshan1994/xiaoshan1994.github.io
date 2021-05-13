@@ -28,7 +28,7 @@ Here are some examples; please be aware that these styles only take effect when 
 {{< figure src="static/images/Kai_profile photo.png
 " title="Steve Francia" >}}
 
-{{< figure src="/static/images/Kai_profile photo.png
+{{< figure src="/images/Kai_profile photo.png
 " title="Steve Francia" >}}
 
 
