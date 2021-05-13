@@ -13,21 +13,7 @@ Blogging form Leiden since 2021
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
 favicon = "favicons/"
-mainSections = ["post"]
-images = ["images/site-feature-image.png"]
-doNotLoadAnimations = false
-# Form Spree Contact Form
-#contactFormAction = "https://formspree.io/f/your-form-hash-here"
-# Google Site Verify
-#googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-singleDateFormat = "2/1/2006"
-indexDateFormat = "2/1/2006"
-listDateFormat = "2/1/2006"
-# Commento Comments
-# CommentoURL = "https://commento.example.com/js/commento.js"
-# Read More links for truncated summaries
-# readMore = true
-# postSectionName = "blog"
+
 [menu]
 
   [[menu.main]]
