@@ -29,6 +29,8 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
 
+There is a new par
+
 {{< figure src="/images/Kai_profile%20photo.png" title="Steve Francia" >}}
 
 
