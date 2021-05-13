@@ -23,7 +23,7 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-normal (without any classes)" >}}
 
-{{< figure src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tacdn.com%2Fmedia%2Fattractions-splice-spp-674x446%2F07%2F26%2F3c%2F87.jpg&imgrefurl=https%3A%2F%2Fwww.viator.com%2Fnl-NL%2Ftours%2FBeijing%2FBeijing-Lama-Temple-Panda-Garden-and-Ancient-Altar-Day-Tour%2Fd321-2042SIC_09&tbnid=4obrBGPoT28kBM&vet=12ahUKEwjJu97AwsXwAhXUiP0HHWimDVYQMygAegUIARDTAQ..i&docid=MeOs6xU0ZBXtKM&w=669&h=446&q=panda&ved=2ahUKEwjJu97AwsXwAhXUiP0HHWimDVYQMygAegUIARDTAQ" alt="image" caption="figure-normal (without any classes)" >}}
+{{< figure src=https://media.tacdn.com/media/attractions-splice-spp-674x446/07/26/3c/87.jpg" alt="image" caption="figure-normal (without any classes)" >}}
 
 {{< figure src="images/Kai_profile photo.png" title="Steve Francia" >}}
 
