@@ -12,7 +12,7 @@ Blogging form Leiden since 2021
 """
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
-favicon = "static/favicons/favicon.ico"
+favicon = "favicons/favicon.ico"
 
 [menu]
 
