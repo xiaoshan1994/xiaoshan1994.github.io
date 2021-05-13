@@ -10,7 +10,7 @@ description = """PhD candidate in Environmental Sciences at Leiden University
 k.li@cml.leidenuniv.nl
 Blogging form Leiden since 2021
 """
-favicon = "favicons/"
+favicon = "static/favicons/favicon.ico"
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
 doNotLoadAnimations = true # Animations are loaded by default
