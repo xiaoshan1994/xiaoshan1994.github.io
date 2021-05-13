@@ -5,11 +5,9 @@ theme = "anatole"
 
 [params]
 
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
 [[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
+ icon = "fab fa-linkedin"
+ title = "Linkedin"
 
 title = "Kai Li (李锴)"
 author = "Kai Li"
