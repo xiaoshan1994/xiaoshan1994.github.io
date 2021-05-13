@@ -21,7 +21,7 @@ If a figure has no class set, the image will behave just like a normal markdown 
 
 Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
 
-{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-normal (without any classes)" >}}
+{{< figure src="https://via.placeholder.com/1500x800" alt="image" caption="figure-normal (without any classes)" >}}
 
 {{< figure src=https://media.tacdn.com/media/attractions-splice-spp-674x446/07/26/3c/87.jpg" alt="image" caption="figure-normal (without any classes)" >}}
 
