@@ -30,6 +30,7 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< figure src="/images/Kai_profile photo.png
 " title="Steve Francia" >}}
+{{< youtube GGpSdf3dFNE >}}
 
 
 {{< figure src="https://github.com/xiaoshan1994/xiaoshan1994.github.io/blob/main/static/images/Kai_profile%20photo.png" title="Steve Francia" >}}
