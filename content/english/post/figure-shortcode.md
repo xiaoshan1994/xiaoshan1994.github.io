@@ -26,9 +26,8 @@ Here are some examples; please be aware that these styles only take effect when 
 
 
 
-{{< youtube GGpSdf3dFNE >}}
 
-
+{{< youtube w7Ft2ymGmfc >}}
 
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
 
