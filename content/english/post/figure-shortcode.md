@@ -21,6 +21,7 @@ If a figure has no class set, the image will behave just like a normal markdown 
 
 Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
 
+Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
 
 
 
