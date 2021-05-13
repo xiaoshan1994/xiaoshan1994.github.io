@@ -1,7 +1,6 @@
 baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "anatole"
+
 
 [params]
 title = "Kai Li (李锴)"
