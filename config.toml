@@ -17,7 +17,6 @@ doNotLoadAnimations = true # Animations are loaded by default
 disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.7
 readMore = true
-postSectionName = "blog"
 
 [menu]
 
