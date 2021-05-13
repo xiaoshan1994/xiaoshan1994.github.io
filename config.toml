@@ -1,6 +1,7 @@
 baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
-
+title = "Website of kaili"
+theme = "anatole"
 
 [params]
 title = "Kai Li (李锴)"
