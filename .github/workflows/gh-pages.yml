@@ -20,8 +20,6 @@ jobs:
       with:
          hugo-version: 'latest'
 
-    - name: Build
-      run: hugo
 
 
     - name: Deploy
