@@ -18,6 +18,18 @@ disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.7
 readMore = true
 
+[Languages]
+  [Languages.en]
+  title = "My blog"
+  weight = 1
+  LanguageName = "EN"
+
+  [Languages.cn]
+  title = "我的博客"
+  description = "Ich bin Jane"
+  weight = 2
+  LanguageName = "CN"
+
 [menu]
 
   [[menu.main]]
