@@ -12,4 +12,4 @@ Blogging form Leiden since 2021
 """
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
-favicon = "favicons/klicon"
+favicon = "favicons/klicon.ico"
