@@ -13,10 +13,6 @@ Blogging form Leiden since 2021
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
 favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
