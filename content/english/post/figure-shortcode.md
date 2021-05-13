@@ -23,7 +23,7 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< figure src="https://via.placeholder.com/1500x800" alt="image" caption="figure-normal (without any classes)" >}}
 
-{{< figure src=https://media.tacdn.com/media/attractions-splice-spp-674x446/07/26/3c/87.jpg" alt="image" caption="figure-normal (without any classes)" >}}
+{{< figure src="https://www.pictureband.nl/wp-content/uploads/2021/05/Picture-2021-BW-Jan-Laurens-Peter-Rinus-Appie-768x586.jpg" alt="image" caption="figure-normal (without any classes)" >}}
 
 {{< figure src="images/Kai_profile photo.png" title="Steve Francia" >}}
 
