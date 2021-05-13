@@ -4,7 +4,10 @@ title = "My New Hugo Site"
 theme = "anatole"
 
 [params]
-title = "Kai Li"
+title = "Kai Li (李锴)"
 author = "Kai Li"
-description = "PhD candidate in Environmental Sciences at Leiden University"
+description = """PhD candidate in Environmental Sciences at Leiden University
+k.li@cml.leidenuniv.nl
+Blogging form Leiden since 2021
+"""
 profilePicture = "images/Kai_profile2.png"
