@@ -25,7 +25,8 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< figure src="https://www.pictureband.nl/wp-content/uploads/2021/05/Picture-2021-BW-Jan-Laurens-Peter-Rinus-Appie-768x586.jpg" alt="image" caption="figure-normal (without any classes)" >}}
 
-{{< figure src="images/Kai_profile photo.png" title="Steve Francia" >}}
+{{< figure src="static/images/Kai_profile photo.png
+" title="Steve Francia" >}}
 
 
 {{< figure src="https://github.com/xiaoshan1994/xiaoshan1994.github.io/blob/main/static/images/Kai_profile%20photo.png" title="Steve Francia" >}}
