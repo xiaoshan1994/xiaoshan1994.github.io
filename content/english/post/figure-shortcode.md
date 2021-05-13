@@ -30,13 +30,13 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< figure src="/images/Kai_profile photo.png
 " title="Steve Francia" >}}
+
 {{< youtube GGpSdf3dFNE >}}
 
 
 {{< figure src="https://github.com/xiaoshan1994/xiaoshan1994.github.io/blob/main/static/images/Kai_profile%20photo.png" title="Steve Francia" >}}
 
 
-{{< figure src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tacdn.com%2Fmedia%2Fattractions-splice-spp-674x446%2F07%2F26%2F3c%2F87.jpg&imgrefurl=https%3A%2F%2Fwww.viator.com%2Fnl-NL%2Ftours%2FBeijing%2FBeijing-Lama-Temple-Panda-Garden-and-Ancient-Altar-Day-Tour%2Fd321-2042SIC_09&tbnid=4obrBGPoT28kBM&vet=12ahUKEwjJu97AwsXwAhXUiP0HHWimDVYQMygAegUIARDTAQ..i&docid=MeOs6xU0ZBXtKM&w=669&h=446&q=panda&ved=2ahUKEwjJu97AwsXwAhXUiP0HHWimDVYQMygAegUIARDTAQ" title="google" >}}
 Pellentesque posuere sem nec nunc varius, id hendrerit arcu consequat. Maecenas commodo, sapien ut gravida porttitor, dolor risus facilisis enim, eget pharetra nibh nisl porttitor sapien. Proin finibus elementum ligula sit amet hendrerit. Praesent et erat sodales ante accumsan pharetra non eu nulla. Sed vehicula consequat lorem, a fermentum ante faucibus quis. Aliquam erat volutpat. In vitae tincidunt dui. Proin sit amet ligula sodales, elementum tortor et, venenatis sem. Maecenas non nisl erat. Curabitur nec velit eros. Ut cursus lacus nisi, non pretium libero euismod et. Fusce luctus in nisi quis sollicitudin. Aenean nec blandit ligula. Duis ac felis lorem. Proin tellus tellus, dictum nec tempus sit amet, venenatis ac felis. Sed in pharetra nulla, non mollis sem.
 
 {{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-big" class="big" >}}
