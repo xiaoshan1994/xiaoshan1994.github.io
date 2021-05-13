@@ -2,3 +2,9 @@ baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
+
+[params]
+title = "I'm Kai Li"
+author = "Kai Li"
+description = "PhD candidate in Leiden University"
+profilePicture = "images/profile.jpg"
