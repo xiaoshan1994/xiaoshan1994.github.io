@@ -2,7 +2,7 @@ baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
-
+favicon = "favicons/"
 [params]
 title = "Kai Li (李锴)"
 author = "Kai Li"
@@ -12,7 +12,6 @@ Blogging form Leiden since 2021
 """
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
-favicon = "favicons/"
 doNotLoadAnimations = true # Animations are loaded by default
 disableThemeSwitcher = true # Theme switcher is enabled by default
 contentratio = 0.7
@@ -49,15 +48,6 @@ readMore = true
   weight = 300
   identifier = "about"
   url = "/about/"
-
-[simpleAnalytics]
-# enable = true
-# customurl = "https://analytics.example.com"
-
-## Math settings
-[math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 
 ## Social links
