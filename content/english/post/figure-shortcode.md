@@ -25,10 +25,10 @@ Here are some examples; please be aware that these styles only take effect when 
 
 
 
-{{< youtube w7Ft2ymGmfc >}}<br/>
-Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
+{{< youtube w7Ft2ymGmfc >}}  
+
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
-Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
+
 {{< figure src="/images/Kai_profile%20photo.png" title="Steve Francia" >}}
 
 
