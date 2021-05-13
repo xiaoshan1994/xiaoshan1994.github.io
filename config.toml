@@ -13,8 +13,7 @@ Blogging form Leiden since 2021
 favicon = "static/favicons/favicon.ico"
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
-doNotLoadAnimations = true # Animations are loaded by default
-disableThemeSwitcher = true # Theme switcher is enabled by default
+
 contentratio = 0.7
 readMore = true
 
