@@ -29,6 +29,8 @@ Here are some examples; please be aware that these styles only take effect when 
 
 {{< youtube GGpSdf3dFNE >}}
 
+
+
 {{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
 
 {{< figure src="https://github.com/xiaoshan1994/xiaoshan1994.github.io/blob/main/static/images/Kai_profile%20photo.png" title="Steve Francia" >}}
