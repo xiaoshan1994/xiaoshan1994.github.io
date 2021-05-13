@@ -4,6 +4,13 @@ title = "Website of kaili"
 theme = "anatole"
 
 [params]
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+
 title = "Kai Li (李锴)"
 author = "Kai Li"
 description = """PhD candidate in Environmental Sciences at Leiden University
@@ -49,24 +56,4 @@ readMore = true
   url = "/about/"
 
 
-## Social links
-# use 'fab' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fab fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
 
-[[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[socialIcons]]
-icon = "fab fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
-
-[[socialIcons]]
-icon = "fas fa-envelope"
-title = "e-mail"
-url = "mailto:mail@example.com"
