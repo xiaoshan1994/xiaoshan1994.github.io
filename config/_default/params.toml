@@ -44,14 +44,14 @@ title = "university"
 url = "https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1"
 
 [[socialIcons]]
-icon = "fab fa-github"
-title = "GitHub"
-url = "https://github.com/xiaoshan1994"
-
-[[socialIcons]]
 icon = "fab fa-google"
 title = "google"
 url = "https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/xiaoshan1994"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
