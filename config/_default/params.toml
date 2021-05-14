@@ -49,9 +49,9 @@ title = "GitHub"
 url = "https://github.com/xiaoshan1994"
 
 [[socialIcons]]
-icon = "fas fa-graduation-cap"
-title = "graduation-cap"
-url = "https://www.instagram.com/"
+icon = "fab fa-google"
+title = "google"
+url = "https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
