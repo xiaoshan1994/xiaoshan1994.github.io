@@ -4,10 +4,9 @@ weight = 1
 LanguageName = "EN"
 contentDir = "content/english"
 
-[ar]
-title = "عربي"
-description = "أنا أحمد"
-contentDir = "content/arabic" 
+[cn]
+title = "我的博客"
+description = "莱顿大学环境科学在读博士"
+contentDir = "content/chinese" 
 weight = 2
-LanguageDirection = "rtl" 
-LanguageName = "AR"
+LanguageName = "CN"
