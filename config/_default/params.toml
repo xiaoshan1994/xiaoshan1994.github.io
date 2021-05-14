@@ -46,7 +46,7 @@ url = "https://de.linkedin.com/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/xiaoshan1994"
 
 [[socialIcons]]
 icon = "fab fa-instagram"
@@ -56,4 +56,4 @@ url = "https://www.instagram.com/"
 [[socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:k.li@cml.leidenuniv.nl"
