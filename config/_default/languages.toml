@@ -17,5 +17,4 @@ title = "我的博客"
 description = "莱顿大学环境科学学术民工"
 contentDir = "content/chinese" 
 weight = 3
-LanguageDirection = "ltr" 
 LanguageName = "CN"
