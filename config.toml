@@ -4,19 +4,38 @@ title = "Website of kaili"
 theme = "anatole"
 
 [params]
-
-
 title = "Kai Li (李锴)"
 author = "Kai Li"
-description = """PhD candidate in Environmental Sciences at Leiden University
+description = """PhD candidate Environmental Sciences at Leiden University
 k.li@cml.leidenuniv.nl
 """
 favicon = "favicons/"
 profilePicture = "images/Kai_profile2.png"
 keywords = ""
-
 contentratio = 0.7
 readMore = true
+
+## Social links
+# use 'fab' when brand icons, use 'fas' when standard solid icons.
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/lxndrblz/anatole/"
+
+[[socialIcons]]
+icon = "fab fa-instagram"
+title = "instagram"
+url = "https://www.instagram.com/"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mail@example.com"
 
 [Languages]
   [Languages.en]
@@ -49,6 +68,3 @@ readMore = true
   weight = 300
   identifier = "about"
   url = "/about/"
-
-
-
