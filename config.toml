@@ -5,9 +5,14 @@ theme = "anatole"
 
 [params]
 
-[[socialIcons]]
- icon = "fab fa-linkedin"
- title = "Linkedin"
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://de.linkedin.com/"
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:mail@example.com"
 
 title = "Kai Li (李锴)"
 author = "Kai Li"
