@@ -8,7 +8,7 @@ tags:
 categories:
 - themes
 - syntax
-thumbnail: https://chi01pap002files.storage.live.com/y4mEneJaDZPSUbm01spsuyu0kwD-U8_12umJQKJBZMPwzbNMCJ28Jon0zI6hWM2rJW5IqRqFPyTIO_hWHVwvEscbmcd9tvhM9jW1vm0vp79I3HDm2d6QiWeXauiP8Q9aKXxdUPvCh66GbCOWdKNVgYcyFRvEZyweWHM7c4xLYmX_2eKUd7BT3nHMgPwqXmtMaGu?width=660&height=411&cropmode=none
+thumbnail: https://document360.com/wp-content/uploads/2020/02/Introductory-Guide-to-Markdown-for-Documentation-Writers-01.jpg
 
 ---
 
