@@ -119,7 +119,7 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 **Input:**
 ````
 ```
-html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
+html{linenos=table,hl_lines=[2,"5-8",10],linenostart=1}
 <!doctype html>
 <html lang="en">
 <head>
@@ -150,7 +150,6 @@ Options:
 * `hl_lines`: lists a set of line numbers or line number ranges to be highlighted.
 * `linenostart=199`: starts the line number count from 199.
 #### Code block with Hugo's internal highlight shortcode
-
 ```
 {{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
 <!doctype html><br>
@@ -166,9 +165,8 @@ Options:
 {{< /highlight >}}
 ```
 Output:
-
-{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
-<!doctype html><br>
+{{< highlight html "linenos=table,hl_lines=2 5-8 10,linenostart=1">}}  
+<!doctype html>
 <html lang="en">
 <head>
   <meta charset="utf-8">
