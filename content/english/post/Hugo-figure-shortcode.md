@@ -1,6 +1,6 @@
 ---
 title: 'Hugo Figure Shortcode'
-date: 2021-03-13T21:47:41+00:00
+date: 2021-05-16
 tags: 
 - hugo
 - shortcode
