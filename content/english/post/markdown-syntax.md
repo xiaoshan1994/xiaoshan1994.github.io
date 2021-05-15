@@ -37,7 +37,7 @@ For compatibility, always put a space between the number signs and the heading n
 | # here's a heading | #here's a heading |
 
 
-{{< figure src="https://chi01pap002files.storage.live.com/y4mWqirlL8SJUVKoWq29ejBHwNmP7FKl0EFNvOeruTYJR4xyYf5cTeHccnbPOb1glvUw6BftubrjUbSJMQDjMay-EiGGNBXKUGEy8jsv5ME8nNWpazPhKw7Y37aQQzthLmUHgB80JaafzkKi-YbR19MfZdTPFGH85a7-L9Kn-jdmg5n9UWCQqcz93w_nJiJEpb-?width=3840&height=1080&cropmode=none" width="400" legth="228" title="Steve Francia" class="left">}}
+{{< figure src="https://chi01pap002files.storage.live.com/y4mWqirlL8SJUVKoWq29ejBHwNmP7FKl0EFNvOeruTYJR4xyYf5cTeHccnbPOb1glvUw6BftubrjUbSJMQDjMay-EiGGNBXKUGEy8jsv5ME8nNWpazPhKw7Y37aQQzthLmUHgB80JaafzkKi-YbR19MfZdTPFGH85a7-L9Kn-jdmg5n9UWCQqcz93w_nJiJEpb-?width=3840&height=1080&cropmode=none" width="400" legth="228" caption="Steve Francia" class="left">}}
 ## Paragraph
 Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.
 
