@@ -8,7 +8,7 @@ tags:
 categories:
 - themes
 - syntax
-thumbnail: images/2021-03-23_094720.png
+thumbnail: ![image](https://user-images.githubusercontent.com/65668613/118376954-52f97200-b5cb-11eb-88ec-c282b24c8757.png)
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
