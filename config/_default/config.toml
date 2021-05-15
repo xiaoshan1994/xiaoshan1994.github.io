@@ -16,7 +16,3 @@ googleAnalytics = "UA-123-45"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
-
-[ markup.goldmark ]
-[ markup.goldmark.extensions]
-    table = true
