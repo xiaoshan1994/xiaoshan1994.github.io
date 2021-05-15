@@ -8,7 +8,7 @@ tags:
 categories:
 - themes
 - syntax
-thumbnail: https://user-images.githubusercontent.com/65668613/118377243-6953fd80-b5cc-11eb-90e8-9e992a15f8d0.png
+thumbnail: https://chi01pap002files.storage.live.com/y4mEneJaDZPSUbm01spsuyu0kwD-U8_12umJQKJBZMPwzbNMCJ28Jon0zI6hWM2rJW5IqRqFPyTIO_hWHVwvEscbmcd9tvhM9jW1vm0vp79I3HDm2d6QiWeXauiP8Q9aKXxdUPvCh66GbCOWdKNVgYcyFRvEZyweWHM7c4xLYmX_2eKUd7BT3nHMgPwqXmtMaGu?width=1001&height=624&cropmode=none
 
 ---
 
