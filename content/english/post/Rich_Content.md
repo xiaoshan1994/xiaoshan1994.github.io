@@ -21,12 +21,13 @@ Emmm... BBC learning English also begin making us look bad.🙁
 
 ## Twitter Simple Shortcode
 
-{{< twitter 1393680840052387840 >}}
+{{< twitter_simple 1393680840052387840 >}}
 
 
 ---
 
 ## Twitter Shortcode
+{{< twitter 1393680840052387840 >}}
 
 ## Vimeo Simple Shortcode
 
