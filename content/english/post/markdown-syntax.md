@@ -1,5 +1,5 @@
 +++
-author = "Hugo Authors"
+author = "Kai Li"
 title = "Markdown Syntax Guide"
 date = "2020-05-15"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
@@ -30,6 +30,8 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 #### H4
 ##### H5
 ###### H6
+For compatibility, always put a space between the number signs and the heading name.
+👍
 
 ## Paragraph
 
