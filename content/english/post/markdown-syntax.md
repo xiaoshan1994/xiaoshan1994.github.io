@@ -151,7 +151,7 @@ Options:
 * `linenostart=199`: starts the line number count from 199.
 #### Code block with Hugo's internal highlight shortcode
 ```
-{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
+{{< /* highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1"/* >}}  
 <!doctype html><br>
 <html lang="en">
 <head>
@@ -162,7 +162,7 @@ Options:
   <p>Test</p>
 </body>
 </html>
-{{< /highlight >}}
+{{< /* /highlight /* >}}
 ```
 Output:
 {{< highlight html "linenos=table,hl_lines=2 5-8 10,linenostart=1">}}  
@@ -177,30 +177,6 @@ Output:
 </body>
 </html>
 {{< /highlight >}}
-
-## List Types
-
-#### Ordered List
-
-1. First item
-2. Second item
-3. Third item
-
-#### Unordered List
-
-* List item
-* Another item
-* And another item
-
-#### Nested list
-
-* Fruit
-  * Apple
-  * Orange
-  * Banana
-* Dairy
-  * Milk
-  * Cheese
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
