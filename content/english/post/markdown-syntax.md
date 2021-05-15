@@ -149,34 +149,6 @@ Options:
 * `linenos`: configure line numbers. Valid values are `true`, `false`, `table`, or `inline`.`table` will give copy-and-paste friendly code blocks.
 * `hl_lines`: lists a set of line numbers or line number ranges to be highlighted.
 * `linenostart=199`: starts the line number count from 199.
-#### Code block with Hugo's internal highlight shortcode
-```
-{{< /* highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1"*/ >}}  
-<!doctype html><br>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /* /highlight */ >}}
-```
-Output:
-{{< highlight html "linenos=table,hl_lines=2 5-8 10,linenostart=1">}}  
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Example HTML5 Document</title>
-</head>
-<body>
-  <p>Test</p>
-</body>
-</html>
-{{< /highlight >}}
 
 ## Other Elements — abbr, sub, sup, kbd, mark
 
