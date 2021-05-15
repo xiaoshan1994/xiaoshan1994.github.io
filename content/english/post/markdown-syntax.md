@@ -117,7 +117,7 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 
 #### Code block with backticks
 
-```html
+```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 <!doctype html>
 <html lang="en">
 <head>
@@ -129,19 +129,6 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 </body>
 </html>
 ```
-
-#### Code block indented with four spaces
-
-    <!doctype html>
-    <html lang="en">
-    <head>
-      <meta charset="utf-8">
-      <title>Example HTML5 Document</title>
-    </head>
-    <body>
-      <p>Test</p>
-    </body>
-    </html>
 
 #### Code block with Hugo's internal highlight shortcode
 {{< highlight html >}}
