@@ -147,7 +147,8 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 
 #### Code block with Hugo's internal highlight shortcode
 
-\{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=121" >}}<br>
+\{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=121" >}}  
+
 \<!doctype html><br>
 \<html lang="en"><br>
 \<head><br>
