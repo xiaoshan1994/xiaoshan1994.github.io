@@ -258,7 +258,7 @@ a:active {
 }
 
 .sidebar {
-    width: 30%;
+    width: 40%;
     -webkit-background-size: cover;
     background-size: cover;
     background-color: var(--bg-color);
