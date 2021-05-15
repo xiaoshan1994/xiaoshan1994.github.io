@@ -2,13 +2,14 @@
 title: 'Markdown Syntax Guide'
 date : 2020-05-15
 tags:
-    - markdown
-    - css
-    - html
+- markdown
+- css
+- html
 categories:
-    - themes
-    - syntax
-thumbnail: images/2021-03-23_094720.png
+- themes
+- syntax
+thumbnail: 
+- images/2021-03-23_094720.png
 ---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
