@@ -115,7 +115,8 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 
 ## Code Blocks
 
-#### Code block with backticks(code fences) and Hugo's <br>internal highlight shortcode
+#### Code block with backticks(code fences) and Hugo's
+internal highlight shortcode
 
 **Input:**
 ````
