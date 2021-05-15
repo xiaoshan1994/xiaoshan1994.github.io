@@ -165,7 +165,7 @@ Options:
 {{< /highlight >}}
 ```
 Output:
-{{< highlight html "linenos=table,hl_lines=2 5-8 10,linenostart=0">}}  
+{{< highlight html "linenos=table,hl_lines=2 5-8 10,linenostart=1">}}  
 <!doctype html>
 <html lang="en">
 <head>
