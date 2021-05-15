@@ -118,7 +118,7 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 #### Code block with backticks and Hugo's internal highlight shortcode
 
 **Input:**
-```bash
+```
 html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 <!doctype html>
 <html lang="en">
@@ -132,7 +132,7 @@ html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 </html>
 ```
 **Rendered output:**<br>
-```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=90}
+```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=1}
 <!doctype html>
 <html lang="en">
 <head>
@@ -147,7 +147,7 @@ html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 
 #### Code block with Hugo's internal highlight shortcode
 
-\{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=121">}}  
+\{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
 \<!doctype html><br>
 \<html lang="en"><br>
 \<head><br>
