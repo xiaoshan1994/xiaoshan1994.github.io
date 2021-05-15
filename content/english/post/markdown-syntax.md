@@ -130,6 +130,19 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 \</body><br>
 \</html><br>
 
+```bash
+html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Test</p>
+</body>
+</html>
+```
 **Rendered output:**<br>
 ```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 <!doctype html>
