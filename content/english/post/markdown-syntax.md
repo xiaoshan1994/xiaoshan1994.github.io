@@ -59,9 +59,41 @@ You can organize items into ordered and unordered lists.
 
 #### Ordered List
 
-To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but **the list should start with the number one**.
 
 ![image](https://user-images.githubusercontent.com/65668613/118365355-b7510d00-b59c-11eb-8c3a-3d8a4deb0fd4.png)
+1. xxx
+     1. df
+     2. df
+3. xxx
+4. xxx
+
+#### Unordered List
+
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items. Indent one or more items to create a nested list.
+- kjk
+- kjl
+- nkd
+
+![image](https://user-images.githubusercontent.com/65668613/118365952-08fa9700-b59f-11eb-9f72-a8a253f54a78.png)
+
+### Adding Elements in Lists
+
+To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
+
+- jdfkjdk
+- dfdfdf
+    djfkdjfk
+- kdjfkdjf
+
+    jdkfjdkjf
+- dfdf
+    
+### Starting Unordered List Items With Numbers
+
+If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.
+
+![image](https://user-images.githubusercontent.com/65668613/118366223-22e8a980-b5a0-11eb-8fa0-45968012c50d.png)
 
 
 ## Tables
