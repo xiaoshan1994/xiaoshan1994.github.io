@@ -35,6 +35,7 @@ For compatibility, always put a ** space** between the number signs and the head
 To create paragraphs, use a **blank line** to separate one or more lines of text.
 
 Unless the paragraph is in a list, don’t indent paragraphs with **spaces or tabs**.
+![image](https://user-images.githubusercontent.com/65668613/118364834-6b9d6400-b59a-11eb-92f5-73bc13876798.png)
 
 ## Blockquotes
 
