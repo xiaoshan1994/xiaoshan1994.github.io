@@ -3,9 +3,7 @@ author = "Hugo Authors"
 title = "Guide to Thumbnails in Hugo"
 date = "2019-03-04"
 description = "Guide to Thumbnails in Hugo"
-tags = [
-    "thumbnail",
-]
+tags = ["thumbnail"]
 thumbnail= "images/2021-03-23_094720.png"
 +++
 Thumbnails can be enabled easily by setting the `thumbnail` parameter in the frontmatter to an image such as `"images/landscape.jpg"`. 
