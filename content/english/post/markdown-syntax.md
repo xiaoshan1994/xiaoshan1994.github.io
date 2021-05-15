@@ -77,23 +77,25 @@ To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in
 
 ![image](https://user-images.githubusercontent.com/65668613/118365952-08fa9700-b59f-11eb-9f72-a8a253f54a78.png)
 
-### Adding Elements in Lists
-
-To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab, as shown in the following examples.
-
-- jdfkjdk
-- dfdfdf
-    djfkdjfk
-- kdjfkdjf
-
-    jdkfjdkjf
-- dfdf
-    
 ### Starting Unordered List Items With Numbers
 
 If you need to start an unordered list item with a number followed by a period, you can use a backslash (\) to escape the period.
 
 ![image](https://user-images.githubusercontent.com/65668613/118366223-22e8a980-b5a0-11eb-8fa0-45968012c50d.png)
+
+### Adding Elements in Lists
+
+To add another element in a list while preserving the continuity of the list, blank a line and indent the element four spaces or one tab, as shown in the following examples.
+
+- jdfkjdk
+- dfdfdf
+    
+    djfkdjfk
+- kdjfkdjf
+
+    jdkfjdkjf
+- dfdf
+
 
 
 ## Tables
