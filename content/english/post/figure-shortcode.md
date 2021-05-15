@@ -4,8 +4,8 @@ date: 2021-03-13T21:47:41+00:00
 draft: false
 tags: 
 - hugo
-- shortcode: https://webse.nl/wp-content/uploads/2017/11/shortcode.jpg
-thumbnail: 
+- shortcode
+thumbnail: https://webse.nl/wp-content/uploads/2017/11/shortcode.jpg
 ---
 
 Hugo has `figure` shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:
