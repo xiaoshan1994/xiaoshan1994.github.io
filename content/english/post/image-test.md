@@ -6,7 +6,7 @@ description = "Guide to Thumbnails in Hugo"
 tags = [
     "thumbnail",
 ]
-thumbnail= "{{< figure src="static/images/2021-03-23_094720.png" >}}"
+thumbnail= "{{< figure src="images/2021-03-23_094720.png" >}}"
 +++
 Thumbnails can be enabled easily by setting the `thumbnail` parameter in the frontmatter to an image such as `"images/landscape.jpg"`. 
 
