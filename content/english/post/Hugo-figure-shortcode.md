@@ -1,7 +1,6 @@
 ---
-title: 'The Figure Shortcode'
+title: 'Hugo Figure Shortcode'
 date: 2021-03-13T21:47:41+00:00
-draft: false
 tags: 
 - hugo
 - shortcode
@@ -12,7 +11,7 @@ Hugo has `figure` shortcode built-in, so you can easily add figure captions or h
 
 https://gohugo.io/content-management/shortcodes/#figure
 
-This theme has 3 CSS classes made for figure elements:
+This theme has **3 CSS classes** made for figure elements:
 
 * `big`: images will break the width limit of main content area.
 * `left`: images will float to the left.
@@ -22,9 +21,12 @@ If a figure has no class set, the image will behave just like a normal markdown 
 
 Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
 
-Here are some examples; please be aware that these styles only take effect when the page width is over 1300px.
-
-
+```md
+Input:
+{{< figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-normal (without any classes)" >}}
+```
+Output:
+{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="1600" height="800" caption="Leiden bike (without any classes)" >}}
 
 {{< youtube w7Ft2ymGmfc >}}<br/>
 There is a new par
