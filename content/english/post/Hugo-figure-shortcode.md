@@ -26,7 +26,7 @@ Input:
 {{</* figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-normal (without any classes)" */>}}
 ```
 Output:
-{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="1500" height="900" caption="Leiden bike (1600×800，without any classes)" >}}
+{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="900" height="1500" caption="Leiden bike (1600×800，without any classes)" >}}
 
 {{< youtube w7Ft2ymGmfc >}}<br/>
 There is a new par
