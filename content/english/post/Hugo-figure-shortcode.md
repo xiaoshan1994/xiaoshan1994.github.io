@@ -23,17 +23,12 @@ Here are some examples; please be aware that these styles only take effect when 
 
 Input:
 ```md
-{{</* figure src="https://via.placeholder.com/1600x800" alt="image" caption="figure-normal (without any classes)" */>}}
+{{</* figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" caption="Leiden bike (800×500，without any classes)" */>}}
 ```
 Output:
-{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" caption="Leiden bike (1600×800，without any classes)" >}}
+{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" caption="Leiden bike (800×500，without any classes)" >}}
 
-{{< youtube w7Ft2ymGmfc >}}<br/>
-There is a new par
-
-{{< youtube id="w7Ft2ymGmfc" title="A New Hugo Site in Under Two Minutes" >}}
-
-There is a new par
+{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" class= "big" caption="Leiden bike (800×500，class is big)" >}}
 
 {{< figure src="/images/2021-03-23_094720.png" title="Steve Francia" >}}
 
