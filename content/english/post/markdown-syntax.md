@@ -1,23 +1,18 @@
-+++
-author = "Kai Li"
-title = "Markdown Syntax Guide"
-date = "2020-05-15"
-description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
-tags = [
-    "markdown",
-    "css",
-    "html",
-]
-categories = [
-    "themes",
-    "syntax",
-]
-
-+++
+---
+title: 'Markdown Syntax Guide'
+date : 2020-05-15
+tags:
+    -markdown
+    -css
+    -html
+categories:
+    -themes
+    -syntax
+---
 
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
----
+
 ## Headings
 
 To create a heading, add number signs(#) in front of a word or phrase. The 
