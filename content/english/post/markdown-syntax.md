@@ -11,7 +11,15 @@ categories:
 thumbnail: https://document360.com/wp-content/uploads/2020/02/Introductory-Guide-to-Markdown-for-Documentation-Writers-01.jpg
 
 ---
-
+* [headings](#heading)
+* [Paragraph](#Paragraph)
+* [Line Break Best Practices](#heading-2)
+     * [Sub-heading](#sub-heading-2)
+          * [Sub-sub-heading](#sub-sub-heading-2)
+* [Blockquotes](#heading-3)
+     * [Blockquote without attribution](#sub-heading-2)
+          * [Sub-sub-heading](#sub-sub-heading-2)
+  
 This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.
 <!--more-->
 
