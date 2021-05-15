@@ -26,6 +26,6 @@ DJing is spreading out🤷
 
 ---
 
-## Vimeo Simple Shortcode
+## Vimeo Shortcode
 
-{{< vimeo_simple 48912912 >}}
+{{< vimeo 547868060>}}
