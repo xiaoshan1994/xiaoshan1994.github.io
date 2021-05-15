@@ -3,8 +3,6 @@ title: 'Markdown Syntax Guide'
 date : 2020-05-15
 tags:
 - markdown
-- css
-- html
 categories:
 - themes
 - syntax
