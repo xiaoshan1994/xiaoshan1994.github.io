@@ -32,6 +32,7 @@ The following HTML `<h1>`—`<h6>` elements represent six levels of section head
 ###### H6
 
 For compatibility, always put a space between the number signs and the heading name.
+
 | ✅  **Do this** | ⚠ **Don't do this** |
 | :--- | :--- |
 | # here's a heading | #here's a heading |
