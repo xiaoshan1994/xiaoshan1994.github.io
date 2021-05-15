@@ -115,9 +115,10 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 
 ## Code Blocks
 
-#### Code block with backticks and Hugo's internal highlight shortcode
+#### Code block with backticks(code fences) and Hugo's <br>internal highlight shortcode
 
 **Input:**
+````
 ```
 html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 <!doctype html>
@@ -131,6 +132,7 @@ html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 </body>
 </html>
 ```
+````
 **Rendered output:**<br>
 ```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=1}
 <!doctype html>
