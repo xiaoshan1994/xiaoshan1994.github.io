@@ -23,19 +23,20 @@ This article offers a sample of basic Markdown syntax that can be used in Hugo c
 To create a heading, add number signs(#) in front of a word or phrase. The 
 The following HTML `<h1>`—`<h6>` elements represent six levels of section headings. `<h1>` is the highest section level while `<h6>` is the lowest.
 
-# H1
-## H2
-### H3
-#### H4
-##### H5
-###### H6
+![image](https://user-images.githubusercontent.com/65668613/118364986-20378580-b59b-11eb-8272-58d91d2a36d9.png)
+
 For compatibility, always put a ** space** between the number signs and the heading name.
 
 ## Paragraph
-To create paragraphs, use a **blank line** to separate one or more lines of text.
 
+To create paragraphs, use a **blank line** to separate one or more lines of text.<br>
 Unless the paragraph is in a list, don’t indent paragraphs with **spaces or tabs**.
-![image](https://user-images.githubusercontent.com/65668613/118364834-6b9d6400-b59a-11eb-92f5-73bc13876798.png)
+
+### Line Break Best Practices
+
+Fortunately, there is another option supported by nearly every Markdown application: the <br> HTML tag.
+
+![image](https://user-images.githubusercontent.com/65668613/118365242-2bd77c00-b59c-11eb-854f-8529f3ca8704.png)
 
 ## Blockquotes
 
@@ -50,8 +51,18 @@ To create a blockquote, add a > in front of a paragraph.
 
 > Don't communicate by sharing memory, share memory by communicating.<br>
 > — <cite>Rob Pike[^1]</cite>
-
 [^1]: The above quote is excerpted from Rob Pike's [talk](https://www.youtube.com/watch?v=PAAkCSZUG1c) during Gopherfest, November 18, 2015.
+
+## List Types
+
+You can organize items into ordered and unordered lists.
+
+#### Ordered List
+
+To create an ordered list, add line items with numbers followed by periods. The numbers don’t have to be in numerical order, but the list should start with the number one.
+
+![image](https://user-images.githubusercontent.com/65668613/118365355-b7510d00-b59c-11eb-8c3a-3d8a4deb0fd4.png)
+
 
 ## Tables
 
