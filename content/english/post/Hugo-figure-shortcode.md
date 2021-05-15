@@ -28,10 +28,8 @@ Input:
 Output:
 {{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" caption="Leiden bike (800×500，without any classes)" >}}
 
-{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" class= "big" caption="Leiden bike (800×500，class is big)" >}}
 
-{{< figure src="/images/2021-03-23_094720.png" title="Steve Francia" >}}
-
+{{< figure src="https://images.unsplash.com/photo-1543169964-aee4453d2140?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80" width="800" height="500" class= "left" caption="Leiden bike (800×500，class is left)" >}}
 
 Pellentesque posuere sem nec nunc varius, id hendrerit arcu consequat. Maecenas commodo, sapien ut gravida porttitor, dolor risus facilisis enim, eget pharetra nibh nisl porttitor sapien. Proin finibus elementum ligula sit amet hendrerit. Praesent et erat sodales ante accumsan pharetra non eu nulla. Sed vehicula consequat lorem, a fermentum ante faucibus quis. Aliquam erat volutpat. In vitae tincidunt dui. Proin sit amet ligula sodales, elementum tortor et, venenatis sem. Maecenas non nisl erat. Curabitur nec velit eros. Ut cursus lacus nisi, non pretium libero euismod et. Fusce luctus in nisi quis sollicitudin. Aenean nec blandit ligula. Duis ac felis lorem. Proin tellus tellus, dictum nec tempus sit amet, venenatis ac felis. Sed in pharetra nulla, non mollis sem.
 
