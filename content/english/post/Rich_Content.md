@@ -15,6 +15,8 @@ Hugo ships with several [Built-in Shortcodes](https://gohugo.io/content-manageme
 
 {{< youtube pnJTi82umYY >}}
 
+Emmm... BBC learning English also begin making us look bad.🙁
+
 ---
 
 ## Twitter Simple Shortcode
