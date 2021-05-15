@@ -115,9 +115,7 @@ Tables aren't part of the core Markdown syntax, but Hugo supports them out-of-th
 
 ## Code Blocks
 
-#### Code block with backticks(code fences) and Hugo's
-internal highlight shortcode
-
+#### Code block with backticks(code fences) and Hugo highlight shortcode 
 **Input:**
 ````
 ```
@@ -134,7 +132,7 @@ html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 </html>
 ```
 ````
-**Rendered output:**<br>
+**Rendered output:**
 ```html{linenos=table,hl_lines=[2,"5-8",10],linenostart=1}
 <!doctype html>
 <html lang="en">
@@ -147,24 +145,30 @@ html{linenos=table,hl_lines=[2,"5-8",10],linenostart=121}
 </body>
 </html>
 ```
-
+Options:
+* `linenos`: configure line numbers. Valid values are `true`, `false`, `table`, or `inline`.`table` will give copy-and-paste friendly code blocks.
+* `hl_lines`: lists a set of line numbers or line number ranges to be highlighted.
+* `linenostart=199`: starts the line number count from 199.
 #### Code block with Hugo's internal highlight shortcode
 
-\{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
-\<!doctype html><br>
-\<html lang="en"><br>
-\<head><br>
-  \<meta charset="utf-8"><br>
-  \<title>Example HTML5 Document</title><br>
-\</head><br>
-\<body><br>
-  \<p>Test\</p><br>
-\</body><br>
-\</html><br>
-\{{< /highlight >}}
+```
+{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
+<!doctype html><br>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Example HTML5 Document</title>
+</head>
+<body>
+  <p>Test</p>
+</body>
+</html>
+{{< /highlight >}}
+```
+Output:
 
-{{< highlight html >}}
-<!doctype html>
+{{< highlight html "linenos=table,hl_lines=[2,"5-8",10],linenostart=1">}}  
+<!doctype html><br>
 <html lang="en">
 <head>
   <meta charset="utf-8">
