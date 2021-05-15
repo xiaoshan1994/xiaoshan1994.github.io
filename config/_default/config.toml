@@ -16,3 +16,6 @@ googleAnalytics = "UA-123-45"
 pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
+
+[markup.goldmark.renderer]
+  hardWraps = true
