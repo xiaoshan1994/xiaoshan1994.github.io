@@ -19,17 +19,12 @@ Emmm... BBC learning English also begin making us look bad.🙁
 
 ---
 
-## Twitter Simple Shortcode
-
-{{< twitter_simple 1393680840052387840 >}}
-
-
----
-
 ## Twitter Shortcode
 {{< twitter 1393680840052387840 >}}
 
 DJing is spreading out🤷
+
+---
 
 ## Vimeo Simple Shortcode
 
