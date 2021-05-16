@@ -2,21 +2,8 @@
 title = "关于我"
 
 +++
+---
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+2021年春节还没过完，告别家人来到荷兰开启自己的读博生涯。我对吃比较执着但也随意。不忙时喜欢做面食（问题就是读博大部分时间都很忙），老面发酵派，在莱顿尝试过各种黑暗面包料理（甜面酱夹心、辣椒夹心、黑白胡椒夹心、椰子油夹心)，发现香草味甜面酱老面发酵面包是我的最爱。体重常年游走在正常与偏胖的边缘，被迫养成了长跑的好习惯。平时喜欢看电子书，听歌，刷youtube和netflix，偶尔也看下学术大佬的twitter（经常是“我们又有新文章发表了”。。。）。网站搭建和Python的入门学员。一枚投入产出（IOA)、物质流分析（MFA)和生命周期评价（LCA)的工具人，希望用开源数据和平台分析环境与能源问题。欢迎同行同好者交流🙋🙋，不限门派、男女、老少、肤色。
+学习经历
 
-Hugo makes use of a variety of open source projects including:
-
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
-
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
