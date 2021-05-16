@@ -2,7 +2,9 @@
 title = "About me"
 +++
 
-Chinese Profile
+Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce...), I will dive into my kitchen and make pasta. 
+
+## Chinese Profile
 ## 自白
 2020年硕士毕业拿到留基委（CSC）资助，2021年2月开始在荷兰莱顿大学环境科学学院（CML）产业生态系读博。
 
