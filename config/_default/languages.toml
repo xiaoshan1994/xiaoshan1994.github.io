@@ -5,7 +5,7 @@ LanguageName = "EN"
 contentDir = "content/english"
 
 [cn]
-title = "我的博客"
+title = "Kai的博客"
 description = "莱顿大学环境科学在读博士"
 contentDir = "content/chinese" 
 weight = 2
