@@ -1,19 +1,14 @@
 
 author = "Kai Li"
 title = "Kai Li"
-#copyright = "2020-2021"
+copyright = "2020-2021"
 description = """
 Kai Li (李锴)
 PhD candidate of Environmental Sciences
 Leiden University
 """
 profilePicture = "images/profile.png"
-keywords = ""
 favicon = "favicons/"
-# example ["css/custom.css"]
-customCss = []
-# example ["js/custom.js"]
-customJs = [] 
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
