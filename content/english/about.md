@@ -1,25 +1,23 @@
 +++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+title = "自白"
 +++
+2020年硕士毕业拿到留基委（CSC）资助，2021年2月开始在荷兰莱顿大学环境科学学院（CML）产业生态系读博。
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+不算吃货但喜欢做菜，不忙时喜欢做面食（问题就是读博大部分时间都很忙），老面发酵派，在莱顿尝试过各种黑暗面包料理（甜面酱夹心、辣椒夹心、黑白胡椒夹心、椰子油夹心)，发现香草味甜面酱老面发酵面包是我的最爱。喜欢ground beef和鲱鱼，经常牛肉、鱼肉和鸡蛋一起烧荤菜（菜色不敢恭维但味道还行），喜欢紫甘蓝和生菜（好处理）。
 
-Hugo makes use of a variety of open source projects including:
+体重常年游走在正常与偏胖的边缘，被迫养成了长跑的好习惯。平时喜欢看电子书，听歌，刷youtube和netflix，偶尔也看下学术大佬的twitter（经常是“我们又有新文章发表了”。。。）。网站搭建和Python的入门学员。一枚投入产出（IOA)、物质流分析（MFA)和生命周期评价（LCA)的工具人，希望用开源数据和平台分析环境与能源问题。欢迎同行同好者交流🙋🙋，不限门派、男女、老少、肤色。
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+### 学习经历
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+* *2021-至今*     
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremelly fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+  莱顿大学在读博士 
+* *2017-2020*     
+  
+  重庆大学管理科学与房地产学院管理科学与工程专业 
+* *2013-2017*     
+  
+  武汉理工大学土木工程与建筑学院工程管理专业  
+* *2010-2013*     
+  
+  邯郸市第一中学 
