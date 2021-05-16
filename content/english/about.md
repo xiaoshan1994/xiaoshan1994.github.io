@@ -4,6 +4,8 @@ title = "About me"
 I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around the world. After a long holiday for me, I began my [work](https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1) in industrial ecology at Leiden University in February 2021. 
 
 {{<figure src="https://chi01pap002files.storage.live.com/y4m9I-mue-Tm6FHkbXceQPXtvyCCANDd1ucBIcFM4wTzNggk_Z9tRvxrGIoJmO_elwpukStnRJ5ZXDy2h7B1vhklP7p959n1bKT4526ukBuTqUv7w0pbSQRo8c2EZHsjwHUpeFf5y89PiYhKW1oYHsiETGSmSwllhDF28Aml6uSe8BGMycmXuL77-1QuyLgG4ZJ?width=1928&height=1163&cropmode=none" caption="My family traveling in Sanya, China">}}
+  
+  {{<figure src="https://www.behance.net/gallery/114684709/Ghost-in-the-Shell/modules/654799071ne" caption="My family traveling in Sanya, China">}}
 
 Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce), I will dive into my kitchen and make pasta. I have tried to make all sorts of dark cooking about bread, like filling in sweet sauce (chinese"甜面酱")，chili and black pepper powder, coconut oil, etc. My favourtie one is the sourdough bread filled with sweet sauce and has a vanilla flavour. Ground beef and herring usually appear on my tables, served with red cabbage and lettuce which are my favourite vegatables (as they are quite easy to prepare). 
 
