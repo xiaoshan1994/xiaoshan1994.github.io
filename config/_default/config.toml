@@ -1,5 +1,6 @@
 baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
+DefaultContentLanguage = "en"
 title = "Website of kaili"
 theme = "anatole"
 summarylength = 10
@@ -17,5 +18,4 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-[markup.goldmark.renderer]
-  hardWraps = true
+
