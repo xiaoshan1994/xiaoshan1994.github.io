@@ -3,8 +3,14 @@ title = "About me"
 +++
 I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around world. After a long holiday for me, I began my study in industrial ecology at Leiden University in February 2021. 
 
-Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce...), I will dive into my kitchen and make pasta. I've tried to make all sorts of dark cooking about bread, like filling in sweet sauce (chinese"甜面酱")，chili and black pepper powder, coconut oil...). My favourtie one is the sourdough bread filled with sweet sauce and has a vanilla flavour. Groud beef and herring usually appear on my tables, served with red cabbage and lettuce which are my favourite vegatables (as they are quite easy to prepare). Talking too much on food....
+![](https://ekghlg.ch.files.1drv.com/y4pIM8PiLHTDYdgQ9E-8-DbphVrjq0Ie4uwMPSeYYqXlVpeuyzbJeewRbCOvtTvXXP5kwwJ-2rDHEfvogo4S5Y9dF_31Pm1zz16RBhLWzf-QuAHHREPTlhinMm3tKRJ0clJijAZmwqcUB6hMqW5ypI6wh-NlwMr6LcpfENudiVSx9m_EOZYlQAcjgnmGD8z8b5jcv4end9tfELRtyKILMzyXDWv6_2BaIyUwZjyn2a-Pbw/IMG20210412154300.jpg?psid=1)
 
+Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce...), I will dive into my kitchen and make pasta. I havve tried to make all sorts of dark cooking about bread, like filling in sweet sauce (chinese"甜面酱")，chili and black pepper powder, coconut oil...). My favourtie one is the sourdough bread filled with sweet sauce and has a vanilla flavour. Groud beef and herring usually appear on my tables, served with red cabbage and lettuce which are my favourite vegatables (as they are quite easy to prepare). Talking too much on food....
+
+As my weight is always walking 
+
+
+---
 ## Chinese Profile
 ## 自白
 2020年硕士毕业拿到留基委（CSC）资助，2021年2月开始在荷兰莱顿大学环境科学学院（CML）产业生态系读博。
