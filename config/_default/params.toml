@@ -2,11 +2,9 @@
 author = "Kai Li"
 Title = "Kai Li"
 copyright = "2020-2021"
-description = """
-Kai Li (李锴)
+description = """Kai Li (李锴)
 PhD candidate of Environmental Sciences
-Leiden University
-"""
+Leiden University"""
 profilePicture = "images/profile.png"
 favicon = "favicons/"
 mainSections = ["post"]
