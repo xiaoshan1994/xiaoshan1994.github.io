@@ -3,8 +3,7 @@ title = "About me"
 +++
 I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around world. After a long holiday for me, I began my study in industrial ecology at Leiden University in February 2021. 
 
-![Office in Van Steenis, Einsteinweg 22333 CC Leiden]
-(https://ekghlg.ch.files.1drv.com/y4pIM8PiLHTDYdgQ9E-8-DbphVrjq0Ie4uwMPSeYYqXlVpeuyzbJeewRbCOvtTvXXP5kwwJ2rDHEfvogo4S5Y9dF_31Pm1zz16RBhLWzf-QuAHHREPTlhinMm3tKRJ0clJijAZmwqcUB6hMqW5ypI6wh-NlwMr6LcpfENudiVSx9m_EOZYlQAcjgnmGD8z8b5jcv4end9tfELRtyKILMzyXDWv6_2BaIyUwZjyn2a-Pbw/IMG20210412154300.jpg?psid=1)
+![Office in Einsteinweg 2]https://www.universiteitleiden.nl/binaries/content/gallery/ul2/locations/gebouwen/van-steenis-gebouw.jpg/van-steenis-gebouw.jpg/d885x325
 
 Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce...), I will dive into my kitchen and make pasta. I havve tried to make all sorts of dark cooking about bread, like filling in sweet sauce (chinese"甜面酱")，chili and black pepper powder, coconut oil...). My favourtie one is the sourdough bread filled with sweet sauce and has a vanilla flavour. Groud beef and herring usually appear on my tables, served with red cabbage and lettuce which are my favourite vegatables (as they are quite easy to prepare). Talking too much on food....
 
