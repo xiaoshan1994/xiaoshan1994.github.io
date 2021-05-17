@@ -1,6 +1,6 @@
 ---
 data: 2021-05-17
-tile: 'EIOA Class: Integrated Group Assignment(IGA)'
+title: 'EIOA Class: Integrated Group Assignment(IGA)'
 tags:
 - EIOA Class
 - Python
