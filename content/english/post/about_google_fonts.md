@@ -42,7 +42,7 @@ You can customize the shortcode name which should be the same with the file name
 
 Here are some examples I hope to deploy in this blog site:
 
-For posts of the daily life (`Pattaya`and `Courgette`):
+For posts of **daily life** (`Pattaya`and `Courgette`):
 
 ```md
 {{</* gfont font="Pattaya" size="30px" */>}}
@@ -64,6 +64,7 @@ For **English learning posts** (`Pattaya` and `Courgette`):
  ```md
  {{</* gfont font="Pattaya" size="30px" */>}}
  Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
+
  {{</* /gfont */>}}
  {{</* gfont font="Courgette" size="15px" */>}}
  Courgette works well in smaller sizes and even in text.
@@ -79,7 +80,25 @@ Pattaya is a city in Thailand
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
 
-For types of literature or technology(`Roboto`)
+For types of literature or technology(`Playfair Display`and `Roboto`)
+
+ ```md
+{{</* gfont font="Playfair Display" size="30px" */>}}
+Playfair is a transitional design.
+{{</* /gfont */>}}
+
+{{</* gfont font="Roboto" size="15px" */>}}
+Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.
+{{</* /Roboto */>}}
+```
+
+{{< gfont font="Playfair Display" size="30px" >}}
+Playfair is a transitional design.
+{{< /gfont >}}
+
+{{< gfont font="Roboto" size="15px" >}}
+Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.
+{{< /Roboto >}}
 
 
 For tedious literature🙈()
