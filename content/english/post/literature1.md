@@ -13,6 +13,16 @@ Identify climate change problems where existing gaps can be filled by machine le
 https://arxiv.org/pdf/1906.05433v2.pdf
 ### Highlights
 #### Industry
-ML demonstrates considerable potential for reducing industrial GHG emissions under the following circumstances.
-* when there is enough accessible, high-quality data around specific processes or transport routes.
-* 
+* ML demonstrates considerable potential for reducing industrial GHG emissions under the following circumstances.
+
+  * when there is enough accessible, high-quality data around specific processes or transport routes.
+  * when firms have an incentive to share their proprietary data and/or algorithms with researchers and other firms.
+  * When aspects of production or shipping can be readily fine-tuned or adjusted, and there are clear objective functions.
+  * When firm's incentives align with reducing emissions(for example, through efficiency gains, regulatory compliance, or high GHG prices).
+
+* Optimizing supply chains
+
+ML may help reduce emissions in supply chains by intelligently predicting supply and demand, identifying lower-carbon products, and optimizing shipping routes.
+
+* Reducing overproduction
+By 
