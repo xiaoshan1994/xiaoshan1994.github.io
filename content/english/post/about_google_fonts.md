@@ -52,8 +52,7 @@ You're even better!
 ```
 
 {{< gfont font="Pattaya" size="18px" >}}
-You are awesome.
-You're even better!
+You are awesome.<br>You're even better!
 {{< /gfont >}}
 
  Text for catching people's eyes:
