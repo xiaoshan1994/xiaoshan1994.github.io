@@ -48,7 +48,7 @@ For quotations or references:
 > {{< gfont font="monoton" size="10px" weight="bold" style="italic" >}}
 > You are awesome.
 > You're even better!
-> {{< /* /gfont */ >}}
+> {{ /* gfont */ }}
 ```
 
 > {{< gfont font="monoton" size="10px" weight="bold" style="italic" >}}
