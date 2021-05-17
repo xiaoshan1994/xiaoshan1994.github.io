@@ -36,7 +36,7 @@ How to use it
 ```md
 {{< gfont font="font-family" size="36px" weight="bold" >}}
 You are awesome. You're even better!
-{{< /gfont >%}}
+{{< /gfont >}}
 ```
 You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `{{< /gfont >%}}`.
 
