@@ -9,7 +9,7 @@ Categories:
 - EIOA
 thumbnail: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 ---
-{{< gfont font="Courgette" size="15px">}}
+{{< gfont font="Kalam" size="15px">}}
 Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans
 in a post COVID-19 world.
 {{< /gfont >}}
