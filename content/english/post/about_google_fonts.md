@@ -42,19 +42,25 @@ You can customize the shortcode name which should be the same with the file name
 
 Here are some examples I hope to deploy in this blog site:
 
-For posts of the daily life (`Pattaya`):
+For posts of the daily life (`Pattaya`and `Courgette`):
 
 ```md
-{{</* gfont font="Pattaya" size="30px" weight="bold" style="italic" */>}}
+{{</* gfont font="Pattaya" size="30px" */>}}
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{/* gfont */}}
+{{</* /gfont */>}}
+{{</* gfont font="Courgette" size="15px" */>}}
+Courgette works well in smaller sizes and even in text.
+{{</* /Courgette */>}}
 ```
-
 {{< gfont font="Pattaya" size="30px" >}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
+Pattaya is a city in Thailand
 {{< /gfont >}}
 
-For English learning posts (`Architects Daughter` and `Courgette`):
+{{< gfont font="Courgette" size="15px" >}}
+Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
+{{< /gfont >}}
+
+For **English learning posts** (`Pattaya` and `Courgette`):
  ```md
  {{</* gfont font="Pattaya" size="30px" */>}}
  Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
@@ -72,5 +78,8 @@ Pattaya is a city in Thailand
 {{< gfont font="Courgette" size="15px" >}}
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
+
+For types of literature or technology(`Roboto`)
+
 
 For tedious literature🙈()
