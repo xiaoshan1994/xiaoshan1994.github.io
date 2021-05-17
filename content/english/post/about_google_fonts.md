@@ -46,8 +46,7 @@ For quotations or references:
 
 ```md
 {{</* gfont font="Pattaya" size="18px" weight="bold" style="italic" */>}}
-You are awesome.
-You're even better!
+You are awesome.<br>You're even better!
 {{/* gfont */}}
 ```
 
