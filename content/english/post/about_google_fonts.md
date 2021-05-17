@@ -38,4 +38,19 @@ How to use it
 You are awesome. You're even better!
 {{< /gfont >%}}
 ```
-You can customize the shortcode name which should be the same with the file name (with extension).  
+You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `{{< /gfont >%}}`.
+
+Here are some examples I hope to deploy in this blog site:
+
+For quotations or references:
+```md
+> {{< typography font="monoton" size="10px" weight="bold",style="italic" >}}
+You are awesome.
+You're even better!
+{{< /typography >%}}
+```
+> {{< typography font="monoton" size="10px" weight="bold",style="italic" >}}
+> You're even better!
+> {{< /typography >%}}
+
+ Text for catching people's eyes:
