@@ -54,4 +54,15 @@ Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{< /gfont >}}
 
- Text for catching people's eyes:
+For English learning posts (`Architects Daughter`):
+ ```md
+ {{</* gfont font="Architects Daughter" size="30px" */>}}
+ Inspired by the writing of the daughter of an architect.
+ {{/* gfont */}}
+ ```
+
+ {{< gfont font="Architects Daughter" size="30px" >}}
+ Inspired by the writing of the daughter of an architect.
+ {{ gfont }}
+
+ 
