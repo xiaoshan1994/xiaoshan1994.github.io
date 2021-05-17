@@ -46,12 +46,12 @@ For quotations or references:
 
 ```md
 {{</* gfont font="Pattaya" size="18px" weight="bold" style="italic" */>}}
-You are awesome.<br>You're even better!
+Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{/* gfont */}}
 ```
 
 {{< gfont font="Pattaya" size="18px" >}}
-You are awesome.<br>You're even better!
+Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{< /gfont >}}
 
  Text for catching people's eyes:
