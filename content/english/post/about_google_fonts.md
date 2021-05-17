@@ -58,11 +58,11 @@ For English learning posts (`Architects Daughter`):
  ```md
  {{</* gfont font="Architects Daughter" size="30px" */>}}
  Inspired by the writing of the daughter of an architect.
- {{/* gfont */}}
+ {{</* gfont */>}}
  ```
 
- {{< gfont font="Architects Daughter" size="30px" >}}
- Inspired by the **writing** of the daughter of an architect.
-
+{{< gfont font="Architects Daughter" size="30px" >}}
+Inspired by the writing of the daughter of an architect.
+{{< /gfont >}}
 
  For tedious literature🙈()
