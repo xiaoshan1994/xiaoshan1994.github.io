@@ -44,13 +44,13 @@ Here are some examples I hope to deploy in this blog site:
 
 For quotations or references:
 ```md
-> {{< typography font="monoton" size="10px" weight="bold",style="italic" >}}
+> {{< gfont font="monoton" size="10px" weight="bold",style="italic" >}}
 You are awesome.
 You're even better!
-{{< /typography >%}}
+{{< /gfont >%}}
 ```
-> {{< typography font="monoton" size="10px" weight="bold",style="italic" >}}
+> {{< gfont font="monoton" size="10px" weight="bold",style="italic" >}}
 > You're even better!
-> {{< /typography >%}}
+> {{< /gfont >%}}
 
  Text for catching people's eyes:
