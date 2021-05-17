@@ -50,6 +50,6 @@ You're even better!
 ```
 > {{< gfont font="monoton" size="10px" weight="bold",style="italic" >}}
 You're even better!
-{{< /gfont >%}}
+{{< /gfont >}}
 
  Text for catching people's eyes:
