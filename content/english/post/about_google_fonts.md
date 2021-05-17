@@ -56,19 +56,20 @@ Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 
 For English learning posts (`Architects Daughter` and `Courgette`):
  ```md
- {{</* gfont font="Architects Daughter" size="30px" */>}}
- Inspired by the writing of the daughter of an architect.
+ {{</* gfont font="Pattaya" size="30px" */>}}
+ Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
  {{</* /gfont */>}}
  {{</* gfont font="Courgette" size="15px" */>}}
  Courgette works well in smaller sizes and even in text.
  {{</* /Courgette */>}}
  ```
 
-{{< gfont font="Architects Daughter" size="30px" >}}
-Inspired by the writing of the daughter of an architect.
+{{< gfont font="Pattaya" size="30px" >}}
+Pattaya is a city in Thailand
 {{< /gfont >}}
+
 {{< gfont font="Courgette" size="15px" >}}
-Courgette works well in smaller sizes and even in text.
+Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
 
 For tedious literature🙈()
