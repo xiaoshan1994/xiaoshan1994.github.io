@@ -38,8 +38,8 @@ How to use it
 You are awesome. You're even better!
 {{< /gfont >}}
 ```
-You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `{{< /* gfont */ >}}`.
-
+You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part
+`{{%/* shortcodename parameters */%}}`
 Here are some examples I hope to deploy in this blog site:
 
 For quotations or references:
