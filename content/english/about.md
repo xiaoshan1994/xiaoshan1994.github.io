@@ -1,8 +1,7 @@
 +++
 title = "About me"
 +++
-{{< gfont font="Roboto" size="15px">}}
-I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around the world. After a long holiday for me, I began my {{< /gfont >}}[work](https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1) {{< gfont font="Roboto" size="15px">}}in industrial ecology at Leiden University in February 2021.
+I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around the world. After a long holiday for me, I began my [work](https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1) in industrial ecology at Leiden University in February 2021.
 
 {{<figure src="https://chi01pap002files.storage.live.com/y4m9I-mue-Tm6FHkbXceQPXtvyCCANDd1ucBIcFM4wTzNggk_Z9tRvxrGIoJmO_elwpukStnRJ5ZXDy2h7B1vhklP7p959n1bKT4526ukBuTqUv7w0pbSQRo8c2EZHsjwHUpeFf5y89PiYhKW1oYHsiETGSmSwllhDF28Aml6uSe8BGMycmXuL77-1QuyLgG4ZJ?width=1928&height=1163&cropmode=none" caption="My family traveling in Sanya, China">}}
 
@@ -12,7 +11,7 @@ As my weight is always on the edge of nomal and overweight, I am forced to devel
 tweets in case I missed other big names' moment of glory (Today our team's work on XXX has been published. Oh, when is it my turn?).
 
 I am also a newcomer to the website construction and some basic programming tasks. In CML, we use input-output analysis(IOA), material flow analysis(MFA) and life cycle analysis(LCA) for the environmental impact assessment. I am eager to compile and analyse large data sets to understand the environmental consquences of economic activity. Welcome to having a chat!
-{{< /gfont >}}
+
 ---
 ## Chinese Profile
 ## 自白
