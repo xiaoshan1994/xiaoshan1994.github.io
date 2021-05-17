@@ -84,7 +84,7 @@ For types of **literature or technology**(`Playfair Display`and `Roboto`)
 
  ```md
 {{</* gfont font="Playfair Display" size="30px" */>}}
-Playfair is a transitional design.
+Anton is a reworking of a traditional advertising sans serif typeface.
 {{</* /gfont */>}}
 
 {{</* gfont font="Roboto" size="15px" */>}}
@@ -92,8 +92,8 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 {{</* /Roboto */>}}
 ```
 
-{{< gfont font="Playfair Display" size="30px" >}}
-Playfair is a transitional design.
+{{< gfont font="Anton" size="30px" >}}
+Anton is a reworking of a traditional advertising sans serif typeface.
 {{< /gfont >}}
 
 {{< gfont font="Roboto" size="15px" >}}
