@@ -89,7 +89,7 @@ Oswald is a reworking of a traditional advertising sans serif typeface.
 
 {{</* gfont font="Roboto" size="15px" */>}}
 Raleway is an elegant sans-serif typeface family. Initially designed by Matt McInerney as a single thin weight, it was expanded into a 9 weight family by Pablo Impallari and Rodrigo Fuenzalida in 2012 and iKerned by Igino Marini. A thorough review and italic was added in 2016.
-{{</* /Roboto */>}}
+{{</* /gfont */>}}
 ```
 
 {{< gfont font="Oswald" size="30px" >}}
