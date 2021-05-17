@@ -34,9 +34,9 @@ and save it in your `layouts/shortcodes` file.
 ```
 How to use it
 ```md
-{{< gfont font="font-family" size="36px" weight="bold" >}}
+{{</* gfont font="font-family" size="36px" weight="bold" */>}}
 You are awesome. You're even better!
-{{< /gfont >}}
+{{</* /gfont */>}}
 ```
 You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `{{ /* gfont */ }}`.
 
@@ -45,7 +45,7 @@ Here are some examples I hope to deploy in this blog site:
 For quotations or references:
 
 ```md
-> {{< gfont font="monoton" size="10px" weight="bold" style="italic" >}}
+> {{</* gfont font="monoton" size="10px" weight="bold" style="italic" */>}}
 > You are awesome.
 > You're even better!
 > {{ /* gfont */ }}
