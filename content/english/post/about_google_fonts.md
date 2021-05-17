@@ -45,13 +45,13 @@ Here are some examples I hope to deploy in this blog site:
 For quotations or references:
 
 ```md
-{{</* gfont font="Pattaya" size="15px" weight="bold" style="italic" */>}}
+{{</* gfont font="Pattaya" size="18px" weight="bold" style="italic" */>}}
 You are awesome.
 You're even better!
 {{/* gfont */}}
 ```
 
-{{< gfont font="Pattaya" size="15px" >}}
+{{< gfont font="Pattaya" size="18px" >}}
 You are awesome.
 You're even better!
 {{< /gfont >}}
