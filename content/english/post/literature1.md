@@ -6,7 +6,7 @@ tags:
 - climate change
 Categories:
 - Literature
-thumbnail: https://user-images.githubusercontent.com/65668613/118460678-378e8400-b6fd-11eb-9965-491cb0706140.png
+thumbnail: https://user-images.githubusercontent.com/65668613/118470042-99072080-b706-11eb-959d-87f346f50459.png
 ---
 Identify climate change problems where existing gaps can be filled by machine learning.
 
@@ -25,4 +25,10 @@ https://arxiv.org/pdf/1906.05433v2.pdf
 ML may help reduce emissions in supply chains by intelligently predicting supply and demand, identifying lower-carbon products, and optimizing shipping routes.
 
 * Reducing overproduction
-By 
+By improving demand forecasting.
+
+* Recommender systems
+Helping identify climate-friendly options for consumers and purchasing firms.
+
+* Reducing food waste
+Optimizing delivery routes and improving demand forecasting at the point of sale.
