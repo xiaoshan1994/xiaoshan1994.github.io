@@ -58,14 +58,16 @@ For English learning posts (`Architects Daughter` and `Courgette`):
  ```md
  {{</* gfont font="Architects Daughter" size="30px" */>}}
  Inspired by the writing of the daughter of an architect.
- {{</* gfont */>}}
+ {{</* /gfont */>}}
  {{</* gfont font="Courgette" size="15px" */>}}
  Courgette works well in smaller sizes and even in text.
- {{</* Courgette */>}}
+ {{</* /Courgette */>}}
  ```
 
 {{< gfont font="Architects Daughter" size="30px" >}}
 Inspired by the writing of the daughter of an architect.
 {{< /gfont >}}
-d
+{{< gfont font="Courgette" size="15px" >}}
+Courgette works well in smaller sizes and even in text.
+{{< /Courgette >}}
  For tedious literature🙈()
