@@ -6,6 +6,7 @@ tags:
 - fonts
 Categories:
 - Website
+thumbnails: https://www.lifewire.com/thmb/PBDyu2zoMIy3mya-QIgbxF587xs=/2201x1362/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157679986-5b2ed453a474be0036cf7d58.jpg
 ---
 
 Thanks to [Damien](https://damien.co/blog/2020-06-20-use-custom-fonts-typography-hugo-shortcode/).
