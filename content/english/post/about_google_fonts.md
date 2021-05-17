@@ -42,7 +42,7 @@ You can customize the shortcode name which should be the same with the file name
 
 Here are some examples I hope to deploy in this blog site:
 
-For quotations or references:
+For quotations or references (`Pattaya`):
 
 ```md
 {{</* gfont font="Pattaya" size="18px" weight="bold" style="italic" */>}}
