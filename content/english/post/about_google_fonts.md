@@ -51,7 +51,7 @@ You're even better!
 {{/* gfont */}}
 ```
 
-{{< gfont font="monoton" size="20px" weight="bold" style="italic" >}}
+{{< gfont font="monoton" size="15px" weight="bold" style="italic" >}}
 You are awesome.
 You're even better!
 {{< /gfont >}}
