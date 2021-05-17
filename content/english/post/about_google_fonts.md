@@ -38,7 +38,7 @@ How to use it
 You are awesome. You're even better!
 {{< /gfont >}}
 ```
-You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `{{< /gfont >%}}`.
+You can customize the shortcode name which should be the same with the file name (without extension). Pay attention to the the closing part `\{{< /gfont >}}`.
 
 Here are some examples I hope to deploy in this blog site:
 
@@ -47,10 +47,10 @@ For quotations or references:
 > {{< gfont font="monoton" size="10px" weight="bold",style="italic" >}}
 You are awesome.
 You're even better!
-{{< /gfont >%}}
+> {{< /gfont >%}}
 ```
 > {{< gfont font="monoton" size="10px" weight="bold",style="italic" >}}
-> You're even better!
-> {{< /gfont >%}}
+You're even better!
+{{< /gfont >%}}
 
  Text for catching people's eyes:
