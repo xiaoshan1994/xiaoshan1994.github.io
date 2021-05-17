@@ -8,6 +8,8 @@ tags:
 Categories:
 - EIOA
 ---
+> Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans
+in a post COVID-19 world.
 
 ### Tasks
   1. Load from pickle  
