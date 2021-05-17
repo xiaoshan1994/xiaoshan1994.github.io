@@ -62,7 +62,7 @@ For English learning posts (`Architects Daughter`):
  ```
 
  {{< gfont font="Architects Daughter" size="30px" >}}
- Inspired by the writing of the daughter of an architect.
+ Inspired by the **writing** of the daughter of an architect.
 
 
  For tedious literature🙈()
