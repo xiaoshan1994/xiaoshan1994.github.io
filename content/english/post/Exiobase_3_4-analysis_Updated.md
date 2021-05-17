@@ -20,7 +20,7 @@ in a post COVID-19 world.
 6. Identify top-5 countries where the specific country displaced its emissions to
 
 June 11 at 17:00 (deadline):Code and report(.pdf) in Brightspace/Assignments.
-{{< gfont font="monoton" size="30px" style="italic" >}}
+{{< gfont font="Poppins" size="30px" weight="bold" >}}
 You are awesome.
 You're even better!
 What else ...
