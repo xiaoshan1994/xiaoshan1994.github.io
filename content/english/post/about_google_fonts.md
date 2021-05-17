@@ -68,6 +68,7 @@ For English learning posts (`Architects Daughter` and `Courgette`):
 Pattaya is a city in Thailand
 {{< /gfont >}}
 
+
 {{< gfont font="Courgette" size="15px" >}}
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
