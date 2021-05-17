@@ -60,24 +60,23 @@ Pattaya is a city in Thailand
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
 
-For **English learning posts** (`Pattaya` and `Courgette`):
+For **English learning posts** (`Bangers` and `Kalam`):
  ```md
- {{</* gfont font="Pattaya" size="30px" */>}}
- Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-
+ {{</* gfont font="Bangers" size="30px" */>}}
+ Bangers is a comicbook style
  {{</* /gfont */>}}
- {{</* gfont font="Courgette" size="15px" */>}}
- Courgette works well in smaller sizes and even in text.
- {{</* /Courgette */>}}
+
+ {{</* gfont font="Kalam" size="15px" */>}}
+ Kalam is a handwriting font family that supports the Devanagari and Latin writing systems. Even though Kalam's letterforms derive from handwriting, the fonts have each been optimized for text usage on screen. All in all, the typeface is a design that feels very personal. Like many informal handwriting-style fonts, it appears rather fresh and new when seen on screen or printed on the page.
+ {{</* /gfont */>}}
  ```
 
-{{< gfont font="Pattaya" size="30px" >}}
-Pattaya is a city in Thailand
+{{< gfont font="Bangers" size="30px" >}}
+Bangers is a comicbook style
 {{< /gfont >}}
 
-
-{{< gfont font="Courgette" size="15px" >}}
-Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
+{{< gfont font="Kalam" size="15px" >}}
+Kalam is a handwriting font family that supports the Devanagari and Latin writing systems. Even though Kalam's letterforms derive from handwriting, the fonts have each been optimized for text usage on screen. All in all, the typeface is a design that feels very personal. Like many informal handwriting-style fonts, it appears rather fresh and new when seen on screen or printed on the page.
 {{< /gfont >}}
 
 For types of **literature or technology**(`Oswald`and `Roboto`)
