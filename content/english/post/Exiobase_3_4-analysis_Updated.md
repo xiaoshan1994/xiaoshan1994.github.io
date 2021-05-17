@@ -12,12 +12,15 @@ Categories:
 in a post COVID-19 world.
 
 ### Tasks
-  1. Load from pickle  
-  2. Calculate for a specific country territorial CO2 emissions
-  3. Calculate for a specific country consumption-based CO2 emissions    
-  4. Identify top-5 sectors that contribute to territorial emissions of a specific country
-  5. Identify top-5 final demand expenditure on products that contribute to consumption-based emissions of a specific country
-  6. Identify top-5 countries where the specific country displaced its emissions to
+1. Load from pickle  
+2. Calculate for a specific country territorial CO2 emissions
+3. Calculate for a specific country consumption-based CO2 emissions    
+4. Identify top-5 sectors that contribute to territorial emissions of a specific country
+5. Identify top-5 final demand expenditure on products that contribute to consumption-based emissions of a specific country
+6. Identify top-5 countries where the specific country displaced its emissions to
+
+June 11 at 17:00 (deadline):Code and report(.pdf) in Brightspace/Assignments.
+
 
 
 import numpy as np
