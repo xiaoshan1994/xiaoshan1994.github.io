@@ -42,15 +42,15 @@ You can customize the shortcode name which should be the same with the file name
 
 Here are some examples I hope to deploy in this blog site:
 
-For quotations or references (`Pattaya`):
+For posts of the daily life (`Pattaya`):
 
 ```md
-{{</* gfont font="Pattaya" size="18px" weight="bold" style="italic" */>}}
+{{</* gfont font="Pattaya" size="30px" weight="bold" style="italic" */>}}
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{/* gfont */}}
 ```
 
-{{< gfont font="Pattaya" size="18px" >}}
+{{< gfont font="Pattaya" size="30px" >}}
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{< /gfont >}}
 
