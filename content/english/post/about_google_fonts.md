@@ -80,11 +80,11 @@ Pattaya is a city in Thailand
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
 
-For types of **literature or technology**(`Poppins`and `Roboto`)
+For types of **literature or technology**(`Oswald`and `Roboto`)
 
  ```md
-{{</* gfont font="Poppins" size="30px" */>}}
-Poppins is one of the new comers to this long tradition.
+{{</* gfont font="Oswald" size="30px" */>}}
+Oswald is one of the new comers to this long tradition.
 {{</* /gfont */>}}
 
 {{</* gfont font="Roboto" size="15px" */>}}
@@ -92,8 +92,8 @@ Roboto has a dual nature. It has a mechanical skeleton and the forms are largely
 {{</* /gfont */>}}
 ```
 
-{{< gfont font="Poppins" size="30px" >}}
-Poppins is one of the new comers to this long tradition.
+{{< gfont font="Oswald" size="30px" >}}
+Oswald is one of the new comers to this long tradition.
 {{< /gfont >}}
 
 {{< gfont font="Roboto" size="15px" >}}
