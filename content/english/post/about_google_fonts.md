@@ -42,12 +42,15 @@ You can customize the shortcode name which should be the same with the file name
 Here are some examples I hope to deploy in this blog site:
 
 For quotations or references:
+
 ```md
 > {{< gfont font="monoton" size="10px" weight="bold" style="italic" >}}
 You are awesome.
 You're even better!
-> {{</* /gfont /*>}}
+{{</* /gfont /*>}}
+
 ```
+
 > {{< gfont font="monoton" size="10px" weight="bold" style="italic" >}}
 You're even better!
 {{< /gfont >}}
