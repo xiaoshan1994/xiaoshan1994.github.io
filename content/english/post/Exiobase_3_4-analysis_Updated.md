@@ -7,10 +7,13 @@ tags:
 - IGA work
 Categories:
 - EIOA
+thumbnail: https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DU0zOqSRzR-s&psig=AOvVaw0a179Kmlv3fUjYVow2YPvf&ust=1621379470348000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMD2q7Hr0fACFQAAAAAdAAAAABAD
 ---
-> Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans
+{{< gfont font="Courgette" size="15px">}}
+Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans
 in a post COVID-19 world.
-
+{{< /gfont >}}
+<!--more-->
 ### Tasks
 1. Load from pickle  
 2. Calculate for a specific country territorial CO2 emissions
