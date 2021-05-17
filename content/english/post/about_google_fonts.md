@@ -69,5 +69,6 @@ Inspired by the writing of the daughter of an architect.
 {{< /gfont >}}
 {{< gfont font="Courgette" size="15px" >}}
 Courgette works well in smaller sizes and even in text.
-{{< /Courgette >}}
- For tedious literature🙈()
+{{< /gfont >}}
+
+For tedious literature🙈()
