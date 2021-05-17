@@ -1,5 +1,5 @@
 ---
-data: 2021-05-17
+date: 2021-05-17
 title: 'EIOA Class: Integrated Group Assignment(IGA)'
 tags:
 - EIOA Class
