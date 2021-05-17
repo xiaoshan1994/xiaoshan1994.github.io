@@ -80,7 +80,7 @@ Pattaya is a city in Thailand
 Courgette is a medium-contrast, brushy, italic-script typeface. The genre is traditionally used at large sizes but Courgette was carefully made for the web, with low stroke contrast that works well in smaller sizes and even in text.
 {{< /gfont >}}
 
-For types of literature or technology(`Playfair Display`and `Roboto`)
+For types of **literature or technology**(`Playfair Display`and `Roboto`)
 
  ```md
 {{</* gfont font="Playfair Display" size="30px" */>}}
@@ -98,7 +98,4 @@ Playfair is a transitional design.
 
 {{< gfont font="Roboto" size="15px" >}}
 Roboto has a dual nature. It has a mechanical skeleton and the forms are largely geometric. At the same time, the font features friendly and open curves.
-{{< /Roboto >}}
-
-
-For tedious literature🙈()
+{{< /gfont >}}
