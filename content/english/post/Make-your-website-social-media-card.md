@@ -52,5 +52,12 @@ Once we open our head tag in our HTML structure, we can include all the meta tag
     <meta property="og:image" content="imageURL.cool" />
 </head>
 ```
-Since the meta tag in HTML is different bwtween twitter and other platforms, I inserted two hugo internal temmplates.
+Since the meta tag in HTML is different bwtween twitter and other platforms, I inserted two hugo internal temmplates. It looks like this:
+
 ```md
+<!-- Twitter Cards -->
+{{ template "_internal/twitter_cards.html" . }}
+
+<!-- Open Graph -->
+{{ template "_internal/opengraph.html" . }}
+```
