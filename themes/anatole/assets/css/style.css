@@ -53,7 +53,7 @@ body {
 p {
     line-height: 1.9em;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 a {
@@ -326,7 +326,7 @@ a:active {
 
 .sidebar .social-links li {
     display: inline;
-    padding: 0 4px;
+    padding: 4px 4px;
     line-height: 0;
 }
 
