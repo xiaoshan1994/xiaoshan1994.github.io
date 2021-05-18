@@ -70,16 +70,18 @@ swab. You'll use this for both throat and nose.
 surfaces with the fabric tip of the swab. If it touches anything
 else, it may spoil your sample.
 > Never touch the fabric strip with your hands.
-> Taking the sample may cause gagging and minor discomfort, but it
-should not hurt.
+> Taking the sample may cause gagging and minor discomfort, but > it should not hurt.
 
-* Holding the swab between your fingers,
-open your mouth wide and rub the fabric
-tip of the swab over both tonsils (or where they would have been). Do this with firm contact 4 times on each side (use a torch or a mirror to help you do this). Carefully remove the swab from the back of your throat.
+* Holding the swab between your fingers, open your mouth wide and rub the fabric tip of the swab over both tonsils (or where they would have been). Do this with firm contact 4 times on each side (use a torch or a mirror to help you do this).
+
+   Carefully remove the swab from the back of your throat.
 * Put the same swab gently into 1 nostril until you feel a slight resistance (about 2.5cm up
-your nose). Roll the swab firmly around the inside of the nostril, making 10 complete circles. This may feel uncomfortable. Do not insert the swab any deeper if you feel strong resistance or pain.
-* Pick up the extraction tube and place the fabric tip of the swab into the extraction tube so it is in
-the liquid. Press the tip against the edge of the extraction tube with force, while rotating it around the extraction tube for 15 seconds. This is to transfer your sample into the liquid.
+your nose).
+
+  Roll the swab firmly around the inside of the nostril, making 10 complete circles. This may feel uncomfortable. Do not insert the swab any deeper if you feel strong resistance or pain.
+* Pick up the extraction tube and place the fabric tip of the swab into the extraction tube so it is in the liquid. Press the tip against the edge of the extraction tube with force, while rotating it around the extraction tube for 15 seconds.
+
+  This is to transfer your sample into the liquid.
 * Pinch the extraction tube against the swab as you remove it. Make sure you remove all liquid from the soft tip of the swab. Place the swab in the plastic waste bag provided.
 * Press the cap tightly on to the extraction tube to avoid any leaks.
 * Gently squeeze the extraction tube to place 2 drops of the liquid onto the specimen well (S) on the test strip. Make sure that you are dropping liquid and not an air bubble.
@@ -89,6 +91,7 @@ your result.
 Waiting the full 30-minute development
 time before you read your result is
 very important.
-A positive result can appear at any time after 20 minutes, however you must wait for the full 30 minutes to record a negative result as the test
+
+  A positive result can appear at any time after 20 minutes, however you must wait for the full 30 minutes to record a negative result as the test
 line (T) may take this long to appear.
 Find out how to read and report your result on the next page.
