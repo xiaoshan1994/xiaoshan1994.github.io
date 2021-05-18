@@ -1,5 +1,5 @@
 ---
-date: {{ time "2021-05-18" }} 
+date: 2021-05-18
 title: 'Step-by-step guide for COVID-19 self-testing'
 description: 'A guide about the covid-19-self-test by UK government'
 tags:
