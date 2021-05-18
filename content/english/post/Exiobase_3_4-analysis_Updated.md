@@ -9,7 +9,7 @@ tags:
 Categories:
 - EIOA
 images:
-- site-feature-image.jpg
+- https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 thumbnail: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 
 ---
