@@ -2,8 +2,6 @@
 author: Kai Li
 title: About me
 date: 2021-05-18
-description: Contact Page
-contact: true
 ---
 
 {{<gfont font="Kalam" size="15px">}}
