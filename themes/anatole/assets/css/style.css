@@ -280,6 +280,7 @@ a:active {
 }
 
 .sidebar .logo-title .description {
+    font-family: 'Oswald', sans-serif;
     font-size: 14px;
     margin: 0 1em;
 }
@@ -304,7 +305,6 @@ a:active {
 }
 
 .sidebar .logo-title .title a {
-    font-family: 'Oswald', sans-serif;
     text-decoration: none;
     color: var(--heading-color);
     font-size: 2rem;
