@@ -2,6 +2,8 @@
 date: 2021-05-17
 title: Changing Fonts in hugo website
 description: Thanks to Damien. I got new hugo shortcodes for the fonts update in this website.
+images:
+- site-feature-image.jpg
 tags:
 - hugo shortcodes
 - fonts
