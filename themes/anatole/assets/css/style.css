@@ -527,7 +527,7 @@ a:active {
 
 .post .post-thumbnail {
     width: 100%;
-    padding:8px 8px 8px 6px;
+    padding:10px;
     box-shadow: black;
     border-radius: 0.5em;
     overflow: hidden;
