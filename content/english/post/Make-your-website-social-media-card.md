@@ -30,12 +30,16 @@ They are also not only available for Facebook, they are widely used and are avai
 
 In order to build our cards, we have to pass our desired data through meta tags. We have lots of meta tags and you can find them all [HERE](https://ogp.me/), but if we're going to talk about the basic meta tags that are capable of making our card look good, then we have to mention the following 4 required tags:
 * `og:title`
+
   Your title of choice
 * `og:type`
+
   Whether it is a website or a video or an audio, ...etc. See Hugo font matter configuration [HERE](https://gohugo.io/templates/internal/). They call it "internal templates".
 * `og:image`
+
   The image you would like to display on your card and we're going to talk later about its [dimensions and best practices](https://dev.to/ranaemad/make-your-website-social-media-card-able-on-twitter-facebook-and-more-35la#card-image-best-practices) for different socail media.
 * `og:url`
+
   The URL you want displayed in the card.
 
 ![](https://res.cloudinary.com/practicaldev/image/fetch/s--Pix_2neS--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn.hashnode.com/res/hashnode/image/upload/v1594392173761/CsZCJnrG0.png)
