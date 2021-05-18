@@ -13,7 +13,7 @@ thumbnail: https://www.lifewire.com/thmb/PBDyu2zoMIy3mya-QIgbxF587xs=/2201x1362/
 ---
 Thanks to Damien. I got new hugo shortcodes for the fonts update in this website.
 <!--more-->
-Google Fonts is a great library of free fonts that you can use
+Google Font is a great library of free fonts that you can use
 on your sites.
 
 Normally, you have to edit a bunch of
