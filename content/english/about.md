@@ -1,6 +1,6 @@
-+++
+---
 title = "About me"
-+++
+---
 
 {{<gfont font="Kalam" size="15px">}}
 I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around the world. After a long holiday for me, I began my work in industrial ecology at Leiden University in February 2021.
@@ -15,11 +15,11 @@ Seriously I am not a foodie(eat simple while working) but I Do like food and coo
 {{<gfont font="Kalam" size="15px">}}
 As my weight is always on the edge of nomal and overweight, I am forced to develop the good habit of running regularly. Besides, I am keen on reading e-books, listening music and watching streaming vedios and TV series (Sherlock is my favourite). I also keep an eye on
 tweets in case I missed other big names' moment of glory (Today our team's work on XXX has been published. Oh, when is it my turn?).
-{{< /gfont >}} <br>
+{{< /gfont >}}
 
 {{<gfont font="Kalam" size="15px">}}
 I am also a newcomer to the website construction and some basic programming tasks. In CML, we use input-output analysis(IOA), material flow analysis(MFA) and life cycle analysis(LCA) for the environmental impact assessment. I am eager to compile and analyse large data sets to understand the environmental consquences of economic activity. Welcome to having a chat!
-{{< /gfont >}} <br>
+{{< /gfont >}}
 
 ---
 
