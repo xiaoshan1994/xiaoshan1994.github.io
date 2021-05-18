@@ -8,7 +8,8 @@ tags:
 - IGA work
 Categories:
 - EIOA
-image: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
+image:
+- https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 thumbnail: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 
 ---
