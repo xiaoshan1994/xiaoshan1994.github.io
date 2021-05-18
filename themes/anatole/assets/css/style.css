@@ -725,6 +725,7 @@ a:active {
 
 /* about */
 .about {
+    font-family: 'Kalam', cursive;
     margin: 30px;
 }
 
