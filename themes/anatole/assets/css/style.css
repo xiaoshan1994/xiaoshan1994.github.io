@@ -295,7 +295,7 @@ a:active {
 
 .sidebar .logo-title .title h3 {
     font-family: 'Abril Fatface', cursive;
-    text-transform: uppercase;
+    text-transform: capitalize;
     font-size: 2rem;
     font-weight: bold;
     letter-spacing: 1px;
