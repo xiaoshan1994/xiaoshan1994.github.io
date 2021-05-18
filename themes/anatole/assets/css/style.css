@@ -823,7 +823,6 @@ a.btn {
 }
 
 [role="back"] {
-    font-family: 'Pattaya', sans-serif;
     padding: 0.5em 1.25em;
     line-height: 1.666em;
 }
@@ -844,6 +843,7 @@ a.btn {
 
 /* Menu */
 .menu {
+    font-family: 'Pattaya', sans-serif;
     float: right;
     padding-top: 30px;
 }
