@@ -778,11 +778,13 @@ a:active {
 
 /* Buttons */
 a.btn {
+    font-family: 'Pattaya', sans-serif;
     color: #868686;
     font-weight: 400;
 }
 
 .btn {
+    font-family: 'Pattaya', sans-serif;
     display: inline-block;
     position: relative;
     outline: 0;
