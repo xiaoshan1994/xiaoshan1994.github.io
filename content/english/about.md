@@ -1,5 +1,9 @@
 ---
-title = 'About me'
+author: Hugo Authors
+title: About me
+date: 2019-03-08
+description: Contact Page
+contact: true
 ---
 
 {{<gfont font="Kalam" size="15px">}}
