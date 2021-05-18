@@ -3,22 +3,22 @@ title = "About me"
 +++
 {{<gfont font="Kalam" size="15px">}}
 I received my PhD scholarship from China in July 2020 when the covid epidemic is spreading around the world. After a long holiday for me, I began my work in industrial ecology at Leiden University in February 2021.
-{{< /gfont >}}
+{{< /gfont >}} <br>
 
 {{<figure src="https://chi01pap002files.storage.live.com/y4m9I-mue-Tm6FHkbXceQPXtvyCCANDd1ucBIcFM4wTzNggk_Z9tRvxrGIoJmO_elwpukStnRJ5ZXDy2h7B1vhklP7p959n1bKT4526ukBuTqUv7w0pbSQRo8c2EZHsjwHUpeFf5y89PiYhKW1oYHsiETGSmSwllhDF28Aml6uSe8BGMycmXuL77-1QuyLgG4ZJ?width=1928&height=1163&cropmode=none" caption="My family traveling in Sanya, China">}}
 
 {{<gfont font="Kalam" size="15px">}}
 Seriously I am not a foodie(eat simple while working) but I Do like food and cooking. In my spare time (really scarce), I will dive into my kitchen and make pasta. I have tried to make all sorts of dark cooking about bread, like filling in sweet sauce，chili and black pepper powder, coconut oil, etc. My favourtie one is the sourdough bread filled with sweet sauce and has a vanilla flavour. Ground beef and herring usually appear on my tables, served with red cabbage and lettuce which are my favourite vegatables (as they are quite easy to prepare).
-{{< /gfont >}}
+{{< /gfont >}} <br>
 
 {{<gfont font="Kalam" size="15px">}}
 As my weight is always on the edge of nomal and overweight, I am forced to develop the good habit of running regularly. Besides, I am keen on reading e-books, listening music and watching streaming vedios and TV series (Sherlock is my favourite). I also keep an eye on
 tweets in case I missed other big names' moment of glory (Today our team's work on XXX has been published. Oh, when is it my turn?).
-{{< /gfont >}}
+{{< /gfont >}} <br>
 
 {{<gfont font="Kalam" size="15px">}}
 I am also a newcomer to the website construction and some basic programming tasks. In CML, we use input-output analysis(IOA), material flow analysis(MFA) and life cycle analysis(LCA) for the environmental impact assessment. I am eager to compile and analyse large data sets to understand the environmental consquences of economic activity. Welcome to having a chat!
-{{< /gfont >}}
+{{< /gfont >}} <br>
 ---
 ## Chinese Profile
 ## 自白
