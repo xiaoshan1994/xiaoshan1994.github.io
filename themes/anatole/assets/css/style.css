@@ -532,12 +532,10 @@ a:active {
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
-
 }
 
 .post .post-thumbnail img {
     width: 100%;
-    padding:12px 12px 8px 6px;
     height: var(--thumbnail-height);
     object-fit: cover;
     border: 1px solid var(--border-color);
