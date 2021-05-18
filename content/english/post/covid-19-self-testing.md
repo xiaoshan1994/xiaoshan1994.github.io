@@ -92,6 +92,5 @@ Waiting the full 30-minute development
 time before you read your result is
 very important.
 
-  A positive result can appear at any time after 20 minutes, however you must wait for the full 30 minutes to record a negative result as the test
-line (T) may take this long to appear.
+  A positive result can appear at any time after 20 minutes, however you must wait for the full 30 minutes to record a negative result as the test line (T) may take this long to appear.
 Find out how to read and report your result on the next page.
