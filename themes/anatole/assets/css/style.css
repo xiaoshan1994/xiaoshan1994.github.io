@@ -322,13 +322,12 @@ a:active {
 
 .sidebar .social-links i {
     margin-right: 3px;
-
 }
 
 .sidebar .social-links li {
     display: inline;
-    padding: 0 4px;
-    line-height: 200%;
+    padding: 8px 4px;
+    line-height: 0;
 }
 
 .sidebar .social-links a {
