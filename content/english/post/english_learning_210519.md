@@ -1,0 +1,26 @@
+---
+title: "Daily English (1)"
+date: 2021-05-19T22:44:08+02:00
+description: 'Daily English (1)'
+videos: [https://youtu.be/tnSAGgcxjK8&t=1329s]
+thumbnail: https://umsu.unimelb.edu.au/wp-content/uploads/2017/08/Lets-Talk-Logo-good-quality.jpg
+tags:
+- conversation
+Categories:
+-English Learning
+---
+
+prepared fonts:
+Bangers Pattaya Kalam
+Oswald  Roboto
+
+{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
+
+{{</* gfont font="" size="px" */>}}
+Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
+{{</* /gfont */>}} <br>
+
+{{< instagram BWNjjyYFxVx >}}
+{{< twitter 1393680840052387840 >}}
+{{< youtube pnJTi82umYY >}}
+{{< vimeo 547868060>}}
