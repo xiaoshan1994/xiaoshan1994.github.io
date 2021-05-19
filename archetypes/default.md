@@ -4,7 +4,7 @@ date: {{ .Date }}
 description: ''
 images:
 -
-videos: []
+videos: [https://youtu.be/]
 thumbnail:
 tags:
 -
