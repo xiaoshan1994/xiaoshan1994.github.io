@@ -2,14 +2,15 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 description: ''
+images:
+-
+videos: []
+thumbnail:
 tags:
 -
 -
 Categories:
 -
-images:
--
-thumbnail:
 ---
 prepared fonts:
 Bangers Pattaya Kalam
