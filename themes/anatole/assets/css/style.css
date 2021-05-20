@@ -43,7 +43,7 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'PingHei', 'PingFang SC', Helvetica Neue, 'Work Sans', 'Hiragino Sans GB', 'Microsoft YaHei', SimSun, sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 15px;
     width: 100%;
     margin: 0 auto 30px auto;
@@ -53,7 +53,7 @@ body {
 p {
     line-height: 1.9em;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 15px;
 }
 
 a {
@@ -62,6 +62,7 @@ a {
 }
 
 blockquote {
+    font-family: 'Kalam', cursive;
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
@@ -280,6 +281,7 @@ a:active {
 }
 
 .sidebar .logo-title .description {
+    font-family: 'Newsreader', serif;
     font-size: 14px;
     margin: 0 1em;
 }
@@ -294,7 +296,8 @@ a:active {
 }
 
 .sidebar .logo-title .title h3 {
-    text-transform: uppercase;
+    font-family: 'Rock Salt', cursive;
+    text-transform: capitalize;
     font-size: 2rem;
     font-weight: bold;
     letter-spacing: 1px;
@@ -341,14 +344,16 @@ a:active {
 }
 
 .post .post-title h1 {
-    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
     font-size: 30px;
     letter-spacing: 5px;
     line-height: 1;
 }
 
 .post .post-title h2 {
-    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
     letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
@@ -357,13 +362,14 @@ a:active {
 }
 
 .post .post-title h3 {
-    text-transform: uppercase;
+    font-family: 'Oswald', sans-serif;
+    text-transform: capitalize;
     letter-spacing: 1px;
     line-height: 1;
     font-weight: 600;
     /* color: #464646; */
     color: var(--heading-color);
-    font-size: 22px;
+    font-size: 25px;
     margin: 0;
 }
 
@@ -390,11 +396,13 @@ a:active {
 }
 
 .post .post-content h3 {
+    font-family: 'Ubuntu', sans-serif;
     font-size: 22px;
     font-weight: 600;
 }
 
 .post .post-content h4 {
+    font-family: 'Roboto', sans-serif;
     /* color: var(--heading-color); */
     font-size: 16px;
 }
@@ -404,12 +412,14 @@ a:active {
 }
 
 .post .post-content ul {
+    font-family: 'Ubuntu', sans-serif;
     line-height: 1.9em;
     font-weight: 400;
     font-size: 14px;
 }
 
 .post .post-content ol {
+    font-family: 'Ubuntu', sans-serif;
     line-height: 1.9em;
     font-weight: 400;
     font-size: 14px;
@@ -517,12 +527,11 @@ a:active {
 
 .post .post-thumbnail {
     width: 100%;
-    padding-bottom: 1em;
+    padding:12px 12px 10px 1px;
     box-shadow: black;
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
-    
 }
 
 .post .post-thumbnail img {
@@ -720,10 +729,17 @@ a:active {
 
 /* about */
 .about {
+    font-family: 'Kalam', cursive;
     margin: 30px;
 }
 
 .about h3 {
+    font-family: 'Kalam', cursive;
+    font-size: 22px;
+}
+
+.about h4 {
+    font-family: 'Kalam', cursive;
     font-size: 22px;
 }
 
@@ -771,11 +787,13 @@ a:active {
 
 /* Buttons */
 a.btn {
+    font-family: 'Pattaya', sans-serif;
     color: #868686;
     font-weight: 400;
 }
 
 .btn {
+    font-family: 'Pattaya', sans-serif;
     display: inline-block;
     position: relative;
     outline: 0;
@@ -820,21 +838,25 @@ a.btn {
 }
 
 [role="navigation"] {
+    font-family: 'Pattaya', sans-serif;
     padding: 0.5em 1.25em;
     line-height: 1.666em;
 }
 
 [role="tags"] {
+    font-family: 'Pattaya', sans-serif;
     padding: 6px 12px;
 }
 
 /* Menu */
 .menu {
+    font-family: 'Pattaya', sans-serif;
     float: right;
     padding-top: 30px;
 }
 
 .menu .btn-down {
+    font-family: 'Pattaya', sans-serif;
     margin: 0px;
 }
 
@@ -937,13 +959,13 @@ print {
         max-width: 100%;
         margin: 0;
     }
-    
+
     .post figure.left {
         float: unset;
         max-width: 100%;
         margin: 0;
     }
-    
+
 
     .footer {
         display: none;
@@ -1024,7 +1046,7 @@ print {
     .list-with-title .listing .listing-post .post-time {
         max-width: 20%;
     }
-    
+
     .list-with-title .listing .listing-post a {
         width: 80%;
     }
@@ -1111,9 +1133,9 @@ print {
     min-height: 35px;
 }
 .form-style ul li .field-style {
-    box-sizing: border-box; 
+    box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box; 
+    -moz-box-sizing: border-box;
     font-size: 14px;
     padding: 8px;
     outline: none;
@@ -1144,7 +1166,7 @@ print {
     width: 100%;
     height: auto;
 }
-.form-style ul li input[type="button"], 
+.form-style ul li input[type="button"],
 .form-style ul li input[type="submit"] {
     background-color: var(--bg-color);
     border: 1px solid var(--form-border-color);
@@ -1154,7 +1176,7 @@ print {
     text-decoration: none;
     width: 100%;
 }
-.form-style ul li input[type="button"]:hover, 
+.form-style ul li input[type="button"]:hover,
 .form-style ul li input[type="submit"]:hover {
     background-color: var(--bg-color);
     border: 1px solid var(--form-button-hover-border-color);
