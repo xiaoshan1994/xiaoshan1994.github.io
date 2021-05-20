@@ -1,7 +1,7 @@
 ---
-title: "Group_assignment"
+title: "GIA work -- Literature review of Brexit and IOA"
 date: 2021-05-20T10:16:53+02:00
-description: ''
+description: 'Literature review of Brexit and IOA'
 images:
 -
 videos: []
@@ -11,6 +11,7 @@ tags:
 -
 Categories:
 -
+draft: true
 ---
 prepared fonts:
 Bangers Pattaya Kalam
