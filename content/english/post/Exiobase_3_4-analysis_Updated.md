@@ -1,16 +1,20 @@
 ---
 date: 2021-05-17
 title: 'EIOA Class: Integrated Group Assignment(IGA)'
+description: 'Each group is expected to perform a research question about two real world issues: BREXIT and national stimulus plans.'
 tags:
 - EIOA Class
 - Python
 - IGA work
 Categories:
 - EIOA
+images:
+- https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
+thumbnail: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 ---
-> Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans
+Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans.
 in a post COVID-19 world.
-
+<!--more-->
 ### Tasks
 1. Load from pickle  
 2. Calculate for a specific country territorial CO2 emissions
@@ -20,7 +24,11 @@ in a post COVID-19 world.
 6. Identify top-5 countries where the specific country displaced its emissions to
 
 June 11 at 17:00 (deadline):Code and report(.pdf) in Brightspace/Assignments.
-
+{{< gfont font="Poppins" size="30px" weight="bold" >}}
+You are awesome.
+You're even better!
+What else ...
+{{< /gfont >}}
 
 
 import numpy as np
