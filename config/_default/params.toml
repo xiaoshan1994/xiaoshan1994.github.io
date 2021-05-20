@@ -1,5 +1,4 @@
-Title = "Kai Li"
-title = "Kai Li"
+title = "My cool site"
 author = "Kai Li"
 copyright = "2020-2021"
 description = """Kai Li (李锴)
@@ -49,6 +48,16 @@ url = "https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN"
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/xiaoshan1994"
+
+[[socialIcons]]
+icon = "fab fa-twitter-square"
+title = "twitter"
+url = "https://twitter.com/xiaoshan1994"
+
+[[socialIcons]]
+icon = "fab fa-facebook-square"
+title = "facebook"
+url = "https://www.facebook.com/profile.php?id=100063897362757"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
