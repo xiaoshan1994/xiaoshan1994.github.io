@@ -18,4 +18,5 @@ pygmentsUseClasses = true
 pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
-
+[taxonomies]
+  series = "series"
