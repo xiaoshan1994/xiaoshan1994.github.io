@@ -68,7 +68,7 @@ git submodule update --remote --merge
 title = "I'm Jane Doe"
 author = "Jane Doe"
 description = "Call me Jane"
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.png"
 ```
 
 Please note that the slogan can be multi-lined (note the three quotes at the beginning and end):
@@ -235,12 +235,12 @@ url = "/de/about/"
 
 Anatole currently ships with support for some basic languages. Contributions for other language translations are welcome.
 
-### RTL suppourt 
+### RTL suppourt
 
 Anatole support RTL langauges and flip the whole theme for that. To enable the RTL mode for specific langauge it's enough to write the following code in the language params.
 
 ```toml
-LanguageDirection = "rtl" 
+LanguageDirection = "rtl"
 ```
 
 
@@ -266,11 +266,11 @@ No comment section is shown on the `single.html` unless a `repo` is specified in
 repo = "githubuser/reponame"
 issueTerm = "pathname"
 theme= "preferred-color-scheme"
-# label = 
+# label =
 ```
 
 Two notes on the security of Utteranc.es
-- If you are using a strict CSP, you'll have to add the domain to it. 
+- If you are using a strict CSP, you'll have to add the domain to it.
 - The script currently has no built-in integrity check, due to limitations of [Utterances](https://github.com/utterance/utterances/issues/40).
 
 ### Comments powered by Commento
