@@ -11,6 +11,7 @@ tags:
 -
 Categories:
 -
+draft: true
 ---
 prepared fonts:
 Bangers Pattaya Kalam
