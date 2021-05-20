@@ -4,7 +4,7 @@ date: {{ .Date }}
 description: ''
 images:
 -
-videos: [https://youtu.be/]
+videos: []
 thumbnail:
 tags:
 -
@@ -12,8 +12,6 @@ tags:
 Categories:
 -
 ---
-<<<<<<< HEAD
-=======
 prepared fonts:
 Bangers Pattaya Kalam
 Oswald  Roboto
@@ -28,4 +26,3 @@ Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{< twitter 1393680840052387840 >}}
 {{< youtube pnJTi82umYY >}}
 {{< vimeo 547868060>}}
->>>>>>> a995c5656c20618d1e5e0a2629f55eac7494e5f4
