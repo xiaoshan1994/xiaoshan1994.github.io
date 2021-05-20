@@ -1,5 +1,31 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-draft: true
+description: ''
+images:
+-
+videos: [https://youtu.be/]
+thumbnail:
+tags:
+-
+-
+Categories:
+-
 ---
+<<<<<<< HEAD
+=======
+prepared fonts:
+Bangers Pattaya Kalam
+Oswald  Roboto
+
+{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
+
+{{</* gfont font="" size="px" */>}}
+Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
+{{</* /gfont */>}} <br>
+
+{{< instagram BWNjjyYFxVx >}}
+{{< twitter 1393680840052387840 >}}
+{{< youtube pnJTi82umYY >}}
+{{< vimeo 547868060>}}
+>>>>>>> a995c5656c20618d1e5e0a2629f55eac7494e5f4
