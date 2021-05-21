@@ -27,3 +27,5 @@ Here we present a high-resolution approach for tracking material flows and energ
 products and product lifetime extension, and sufficiency-related measures including more efficient use of cars via car-sharing and ride-sharing, and more efficient use of dwelling space resulting in less floor space per person).
 * Three socioeconomic scenarios: a low energy demand (LED) scenario 28 and two of the shared socioeconomic pathways, SSP1 and SSP2 (each of them has a with or without 2°C scenario).
 * An expert consensus approach was used to estimate the future service level (passenger-km delivered by cars, residential floor area utilised).
+
+## Results
