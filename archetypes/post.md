@@ -4,14 +4,13 @@ date: {{ .Date }}
 description: ''
 images:
 -
-videos: []
+videos: [https://youtu.be/]
 thumbnail:
 tags:
 -
 -
 Categories:
 -
-draft: true
 ---
 prepared fonts:
 Bangers Pattaya Kalam
