@@ -22,10 +22,6 @@ Oswald  Roboto
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{</* /gfont */>}} <br>
 
-{{< instagram BWNjjyYFxVx >}}
-{{< twitter 1393680840052387840 >}}
-{{< youtube pnJTi82umYY >}}
-{{< vimeo 547868060>}}
 
 UK companies can and should see the current high-uncertainty environment as a spur to rethink their supply chain strategies and make them more resilient.
 https://www.mckinsey.com/featured-insights/europe/brexit-the-bigger-picture-rethinking-supply-chains-in-a-time-of-uncertainty
