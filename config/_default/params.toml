@@ -4,7 +4,7 @@ copyright = "2020-2021"
 description = """Kai Li (李锴)
 Leiden University
 PhD candidate of Environmental Sciences"""
-images = ["images/eng_collocations.png"]
+images = ["images/site_image.png"]
 profilePicture = "images/profile.png"
 favicon = "favicons/"
 mainSections = ["post"]
