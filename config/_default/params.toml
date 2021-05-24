@@ -2,12 +2,12 @@ title = "My cool site"
 author = "Kai Li"
 copyright = "2020-2021"
 description = """Kai Li (李锴)
-PhD candidate of Environmental Sciences
-Leiden University"""
+Leiden University
+PhD candidate of Environmental Sciences"""
+images = ["images/site_image.png"]
 profilePicture = "images/profile.png"
 favicon = "favicons/"
 mainSections = ["post"]
-images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
