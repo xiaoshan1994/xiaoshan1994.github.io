@@ -11,18 +11,7 @@ tags:
 Categories:
 - academic skills
 ---
-
-
 {{<figure src="https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg" >}}
-
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
-
-{{< instagram BWNjjyYFxVx >}}
-{{< twitter 1393680840052387840 >}}
-{{< youtube pnJTi82umYY >}}
-{{< vimeo 547868060>}}
 
 ## Your supervisor
 
