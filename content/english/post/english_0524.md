@@ -1,16 +1,16 @@
 ---
-title: "English_0524"
+title: "8 Everyday verbs 2"
 date: 2021-05-24T20:24:10+02:00
 description: ''
 images:
--
+- images/eng_collocations.png
 videos: [https://youtu.be/]
-thumbnail:
+thumbnail: images/eng_collocations.png
 tags:
--
--
+- daily english
+- english collocations
 Categories:
--
+- English
 ---
 prepared fonts:
 Bangers Pattaya Kalam
@@ -21,8 +21,3 @@ Oswald  Roboto
 {{</* gfont font="" size="px" */>}}
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{</* /gfont */>}} <br>
-
-{{< instagram BWNjjyYFxVx >}}
-{{< twitter 1393680840052387840 >}}
-{{< youtube pnJTi82umYY >}}
-{{< vimeo 547868060>}}
