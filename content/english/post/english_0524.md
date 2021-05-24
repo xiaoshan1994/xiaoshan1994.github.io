@@ -1,7 +1,8 @@
 ---
 title: "8 Everyday verbs 2"
 date: 2021-05-24T20:24:10+02:00
-description: ''
+description: 'Get is a very common verb in English, but it is not always appropriate for talking about changes. Note
+also alternatives to get which can improve your style.'
 images:
 - images/eng_collocations.png
 videos: [https://youtu.be/]
@@ -12,15 +13,10 @@ tags:
 Categories:
 - English
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
 
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
+Get is a very common verb in English, but it is not always appropriate for talking about changes. Note
+also alternatives to get which can improve your style.
 
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
 ## Go, not get
 
 * *People go mad/bald/grey/blind/deaf*.
