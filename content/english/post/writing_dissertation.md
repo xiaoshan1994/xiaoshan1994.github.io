@@ -10,7 +10,7 @@ tags:
 - supervisor
 Categories:
 - academic skills
-
+---
 [Source](https://blogs.bath.ac.uk/academic-and-employability-skills/2020/07/03/writing-your-dissertation-working-with-your-supervisor/)
 
 ## Your supervisor
