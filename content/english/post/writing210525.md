@@ -9,7 +9,6 @@ tags:
 - PhD skills
 ---
 
-<br>
 {{< gfont font="Bangers" size="15" >}}
 Sometimes it's difficult for PhD students to identify what skills they have since the academic experience is not necessarily focused on articulating skill sets. We also often find that PhD students struggle, understandably, to present the transferability of their academic experiences to non-academic contexts. Here are examples of PhD skill sets and ways to describe them.
 {{< /gfont >}}
