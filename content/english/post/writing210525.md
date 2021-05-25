@@ -25,7 +25,6 @@ Sometimes it's difficult for PhD students to identify what skills they have sinc
 ## Interpersonal & Leadership Skills
 
 * Facilitate group discussions or conduct meetings
-* Facilitate group discussions or conduct meetings
 * Motivate others to complete projects (group or individual)
 * Respond appropriately to positive or negative feedback
 * Effectively mentor subordinates and/or peers
