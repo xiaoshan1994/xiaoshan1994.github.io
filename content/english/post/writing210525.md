@@ -1,7 +1,7 @@
 ---
 title: "PhD transferable skills"
 date: 2021-05-25T09:09:10+02:00
-description: ' Here are examples of PhD skill sets and ways to describe them by University of Michigan'
+description: 'Here are examples of PhD skill sets and ways to describe them by University of Michigan'
 tags:
 - PhD skills
 ---
