@@ -2,10 +2,13 @@
 title: "PhD transferable skills"
 date: 2021-05-25T09:09:10+02:00
 description: 'Here are examples of PhD skill sets and ways to describe them by University of Michigan'
+images:
+- https://cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
+thumbnail: https://cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
 tags:
 - PhD skills
 ---
-
+<br>
 {{< gfont font="Bangers" size="15" >}}
 Sometimes it's difficult for PhD students to identify what skills they have since the academic experience is not necessarily focused on articulating skill sets. We also often find that PhD students struggle, understandably, to present the transferability of their academic experiences to non-academic contexts. Here are examples of PhD skill sets and ways to describe them.
 {{< /gfont >}}
