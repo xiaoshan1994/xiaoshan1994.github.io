@@ -55,3 +55,5 @@ Sometimes it's difficult for PhD students to identify what skills they have sinc
 * Use logical argument to persuade others
 * Explain complex or difficult concepts in basic terms and language
 * Write effective grant proposals
+
+PS: collocations including can, ability to do, be capable of doing sth., have competence in/of.
