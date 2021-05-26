@@ -6,9 +6,6 @@ tags:
 Categories:
 - Research
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
 
 ## Measuring in Arc-Seconds
 [The source link](https://www.esri.com/news/arcuser/0400/wdside.html)
