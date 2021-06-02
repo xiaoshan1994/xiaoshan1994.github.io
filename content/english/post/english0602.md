@@ -25,7 +25,7 @@ Categories:
 
 ![](https://thumbor.thedailymeal.com/epsdQkItviwDv6Wt3Ti2oEYCDY4=//https://www.thedailymeal.com/sites/default/files/story/2018/dreamstime_m_59125618.jpg)
 
-This is probably the most famous and recognizable form of head lettuce. Iceberg lettuce is also sometimes referred to as crisphead, and it is a pale green leafy vegetable that forms into a tight cabbage style head.
+This is probably the most famous and recognizable form of head lettuce. Iceberg lettuce is also sometimes referred to as crisphead, and it is a **pale green leafy vegetable** that forms into a tight cabbage style head.
 
 Iceberg lettuce is typically defined by its **mild flavor and crisp texture**. It gets a bad reputation in the nutrition industry for not being as nutritious as, say, romaine. But that doesn’t mean iceberg is without its benefits. With just two cups of iceberg lettuce you can consume more than 10% of your daily Vitamin B.
 
@@ -42,7 +42,7 @@ The coloring of butterhead lettuce is typically the same green as that of grass.
 
 Butterhead lettuces are more expensive than most other varieties and come **with their roots still attached and submerged in water**. They make up for their expense with a long shelf life, with some varieties remaining fresh for up to a month or more as long as their roots remain wet.
 
-There are two different types of butterhead lettuce: Boston and Bibb. The Boston variety has small, round, and loosely formed heads with soft, **supple** leaves that **bruise** easily. It's larger and fluffier than Bibb, but both types of lettuce make perfect cups for cooked ground chicken or shrimp.
+There are two different types of butterhead lettuce: Boston and Bibb. The Boston variety has small, round, and **loosely formed** heads with soft, **supple** leaves that **bruise** easily. It's larger and **fluffier** than Bibb, but both types of lettuce make perfect cups for cooked ground chicken or shrimp.
 
 ### ROMAINE LETTUCE
 
@@ -64,10 +64,10 @@ When you’re looking for lettuce you have three great choices in head lettuce. 
 
 ![](https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/red-leaf-and-green-leaf-lettuce-arrangement-royalty-free-image-477845260-1548273963.jpg?crop=0.447xw:1.00xh;0.265xw,0&resize=980:*)
 
-There are three types of leaf lettuce: red, green, and oak. Don't look for a "head" on them because the leaves branch from a single stalk. For this reason, leaf lettuce is generally more **perishable** than head varieties. You'll often see it in "baby lettuce," mesclun, and spring mixes because of its tenderness. Red leaf has a burgundy tint and mild flavor, similar to that of green leaf, while oak leaf is spicier and nuttier. To avoid instant wilting, postpone dressing leaf lettuce until just before serving.
+There are three types of leaf lettuce: red, green, and oak. Don't look for a "head" on them because the leaves branch from a single stalk. For this reason, leaf lettuce is generally more **perishable** than head varieties. You'll often see it in "baby lettuce," mesclun, and spring mixes because of its tenderness. Red leaf has a burgundy tint and mild flavor, similar to that of green leaf, while oak leaf is spicier and nuttier. To avoid instant **wilting**, postpone dressing leaf lettuce until just before serving.
 
 ### Kale
 
 ![](https://eatingrules.com/wp-content/uploads/2012/10/red-russian-kale-lacinato-kale-redbor-kale-green-scotch-kale.jpg)
 
-It's not technically "lettuce," but a cup of this contains an entire day's worth of vitamin A and C, plus all-important calcium and iron. And if you're not a fan of the somewhat bitter taste, roasting the leaves with a little olive oil might be the way to go. (Homemade kale chips, anyone?)
+It's not technically "lettuce," but a cup of this contains an **entire day's worth** of vitamin A and C, plus all-important **calcium and iron**. And if you're not a fan of the somewhat bitter taste, roasting the leaves with a little olive oil might be the way to go. (Homemade kale chips, anyone?)
