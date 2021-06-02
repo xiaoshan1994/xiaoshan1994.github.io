@@ -534,6 +534,7 @@ a:active {
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
+    z-index: 9;
 }
 
 .post .post-thumbnail img {
