@@ -22,7 +22,7 @@ Oswald  Roboto
 Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{</* /gfont */>}} <br>
 
-{{< instagram BWNjjyYFxVx >}}
-{{< twitter 1393680840052387840 >}}
-{{< youtube pnJTi82umYY >}}
-{{< vimeo 547868060>}}
+{{</* instagram BWNjjyYFxVx */>}}
+{{<*/ twitter 1393680840052387840 */>}}
+{{<*/ youtube pnJTi82umYY */>}}
+{{<*/ vimeo 547868060 */>}}
