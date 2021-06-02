@@ -51,7 +51,7 @@ body {
 }
 
 p {
-    line-height: 1.9em;
+    line-height: 1.6;
     font-weight: 400;
     font-size: 18px;
 }
@@ -323,6 +323,7 @@ a:active {
 .sidebar .social-links i {
     margin-right: 3px;
     margin-bottom: 20px;
+
 }
 
 .sidebar .social-links li {
