@@ -362,7 +362,7 @@ a:active {
 }
 
 .post .post-title h3 {
-    font-family: 'Newsreader', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
     line-height: 1;
@@ -396,7 +396,7 @@ a:active {
 }
 
 .post .post-content h3 {
-    font-family: 'Newsreader', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     font-size: 22px;
     font-weight: 600;
 }
