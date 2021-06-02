@@ -647,6 +647,7 @@ a:active {
 }
 
 .list-with-title .listing .listing-post {
+    font-size: 18px
     padding-bottom: 5px;
 }
 
