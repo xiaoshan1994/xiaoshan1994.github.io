@@ -48,3 +48,11 @@ Iceberg lettuce is typically defined by its **mild flavor and crisp texture**. I
 {{< figure src="https://saladswithanastasia.com/wp-content/uploads/2020/04/BOSTON-BIBB-LETTUCE.png"  caption="Boston lettuce and bibb lettuce" >}}
 
 As the name implies, butterhead lettuce is a head lettuce. Boston lettuce and Bibb lettuce make up this variety. They form heads, but they are more loose than iceberg. Boston lettuce is often described as looking a lot like a rose when it is flowering, whereas Bibb lettuce is smaller and more cup shaped.
+
+The coloring of butterhead lettuce is typically the same green as that of grass. The texture is **soft and buttery**, which is where this lettuce gets its name.
+
+Butterhead lettuces are more expensive than most other varieties and come **with their roots still attached and submerged in water**. They make up for their expense with a long shelf life, with some varieties remaining fresh for up to a month or more as long as their roots remain wet.
+
+### ROMAINE LETTUCE
+
+![](https://s.cornershopapp.com/product-images/2765108.jpg?versionId=AvHhNIH9OMqiboTFktCMp6k3wUxhIADu)
