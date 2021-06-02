@@ -281,7 +281,7 @@ a:active {
 }
 
 .sidebar .logo-title .description {
-    font-family: 'Newsreader', serif;
+    font-family: 'Suez One', serif;
     font-size: 14px;
     margin: 0 1em;
 }
@@ -344,7 +344,7 @@ a:active {
 }
 
 .post .post-title h1 {
-    font-family: 'Newsreader', sans-serif;
+    font-family: 'Suez One', serif;
     text-transform: capitalize;
     font-size: 30px;
     letter-spacing: 1px;
@@ -352,7 +352,7 @@ a:active {
 }
 
 .post .post-title h2 {
-    font-family: 'Newsreader', sans-serif;
+    font-family: 'Oswald', sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
     font-size: 28px;
@@ -396,7 +396,7 @@ a:active {
 }
 
 .post .post-content h3 {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-size: 22px;
     font-weight: 600;
 }
@@ -412,14 +412,14 @@ a:active {
 }
 
 .post .post-content ul {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Patrick Hand', cursive;
     line-height: 1.9em;
     font-weight: 400;
     font-size: 18px;
 }
 
 .post .post-content ol {
-    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Patrick Hand', cursive;
     line-height: 1.9em;
     font-weight: 400;
     font-size: 18px;
