@@ -1,5 +1,5 @@
 ---
-title: "English0602"
+title: "What Types of Lettuce are Head Lettuce?"
 date: 2021-06-02T18:46:44+02:00
 description: 'Leaf lettuce, head lettuce, green lettuce, red lettuce….who knew there were so many kinds of lettuce? This is your handy guide to knowing what kind of lettuce is known as head lettuce.'
 images:
