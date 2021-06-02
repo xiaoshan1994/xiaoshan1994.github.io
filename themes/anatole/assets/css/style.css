@@ -271,7 +271,7 @@ a:active {
     border-right: 1px solid var(--border-color);
     display: flex;
     flex-direction: column;
-    min-height: 100%;
+    min-height: 80%;
 }
 
 .sidebar .logo-title {
