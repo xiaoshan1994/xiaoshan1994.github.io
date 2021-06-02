@@ -534,7 +534,7 @@ a:active {
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
-    z-index: 9;
+
 }
 
 .post .post-thumbnail img {
@@ -543,7 +543,7 @@ a:active {
     object-fit: cover;
     border: 1px solid var(--border-color);
     border-bottom: 0px;
-    z-index: 9;
+    
 }
 
 .pagination {
