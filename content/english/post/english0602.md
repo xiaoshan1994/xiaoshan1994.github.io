@@ -13,14 +13,14 @@ Categories:
 - Life
 ---
 
-## Types of Lettuce
+### Types of Lettuce
+
 * Iceberg
 * Butterhead
-* Loose Leaf
-* Stem
 * Romaine
+* Leaf
+* Kale
 
-Of these five types of lettuce, which can be considered head lettuce?
 ### ICEBERG LETTUCE
 
 ![](https://thumbor.thedailymeal.com/epsdQkItviwDv6Wt3Ti2oEYCDY4=//https://www.thedailymeal.com/sites/default/files/story/2018/dreamstime_m_59125618.jpg)
