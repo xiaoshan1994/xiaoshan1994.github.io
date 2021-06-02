@@ -13,19 +13,6 @@ Categories:
 - English
 - Life
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
-
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
-
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
-
-{{< gfont font="Pattaya" size="15px" >}}
-So which varieties of lettuce are head lettuce? To understand that you first have to determine how many varieties of lettuce exist in the world.
-{{< /gfont >}} <br>
 
 ## Types of Lettuce
 * Iceberg
@@ -56,3 +43,13 @@ Butterhead lettuces are more expensive than most other varieties and come **with
 ### ROMAINE LETTUCE
 
 ![](https://s.cornershopapp.com/product-images/2765108.jpg?versionId=AvHhNIH9OMqiboTFktCMp6k3wUxhIADu)
+
+Romaine can also be considered a head lettuce, but its head is long and in the shape of a loaf. Variations of romaine vary with some having an open head and others a more closed appearance.
+
+Romaine is very nutritious and is most commonly used in **Caesar salads** or our favorite Caesar Salad Summer Rolls over on our sister site Cook the Story. The taste of romaine lettuce is strong, but it doesn’t **overpower**. The texture of this lettuce is very crisp and it is one of the most nutritious lettuces in existence.
+
+You can receive 7% of your daily fiber intake from one serving of romaine lettuce. It also contains quite a bit of folate, iron, manganese and potassium. As for vitamins, you can get 34% of your daily recommended value of Vitamin C from one serving of romaine, 109% of Vitamin K and a whopping 148% of your Vitamin A intake.
+
+### HEAD LETTUCE IS BOUNTIFUL
+
+When you’re looking for lettuce you have three great choices in head lettuce. Each has its own unique benefits and mixing them together can sometimes create a varied salad with interesting flavors.
