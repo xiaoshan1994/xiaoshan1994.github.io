@@ -1,11 +1,10 @@
 ---
 title: "All about the lettuce"
 date: 2021-06-02T18:46:44+02:00
-description: 'Leaf lettuce, head lettuce, green lettuce, red lettuce….who knew there were so many kinds of lettuce? This is your handy guide to knowing what kind of lettuce is known as head lettuce.'
+description: 'Leaf lettuce, head lettuce, green lettuce, red lettuce….who knew there were so many kinds of lettuce? This is your handy guide to knowing what kind of lettuce your are eating with.'
 images:
-- https://thecookful.com/wp-content/uploads/2019/04/HEAD-LETTUCE.jpg
-videos: [https://youtu.be/]
-thumbnail: https://thecookful.com/wp-content/uploads/2019/04/HEAD-LETTUCE.jpg
+- https://i.pinimg.com/originals/fc/d7/ea/fcd7ea6cb953478fba8812bfd4bb871c.jpg
+thumbnail: https://i.pinimg.com/originals/fc/d7/ea/fcd7ea6cb953478fba8812bfd4bb871c.jpg
 tags:
 - vegetables
 - cooking
