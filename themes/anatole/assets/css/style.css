@@ -542,6 +542,7 @@ a:active {
     object-fit: cover;
     border: 1px solid var(--border-color);
     border-bottom: 0px;
+      z-index: 9;
 }
 
 .pagination {
