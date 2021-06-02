@@ -43,7 +43,7 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'Patrick Hand', cursive;
+    font-family: 'Roboto', sans-serif;
     font-size: 18px;
     width: 100%;
     margin: 0 auto 30px auto;
