@@ -533,7 +533,6 @@ a:active {
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
-    margin-top: 10px
 }
 
 .post .post-thumbnail img {
