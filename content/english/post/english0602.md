@@ -13,6 +13,8 @@ Categories:
 - Life
 ---
 
+'Leaf lettuce, head lettuce, green lettuce, red lettuce….who knew there were so many kinds of lettuce? This is your handy guide to knowing what kind of lettuce your are eating with.'
+
 ### Types of Lettuce
 
 * Iceberg
