@@ -329,6 +329,7 @@ a:active {
     display: inline;
     padding: 0 4px 15px;
     line-height: 0;
+    margin-bottom: 25px
 }
 
 .sidebar .social-links a {
