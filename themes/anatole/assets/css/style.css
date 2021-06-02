@@ -285,6 +285,7 @@ a:active {
     font-family: 'Oswald', sans-serif;
     font-size: 14px;
     margin: 0 1em;
+    text-align: center;
 }
 
 .sidebar .logo-title .logo {
