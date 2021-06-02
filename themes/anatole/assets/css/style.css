@@ -326,7 +326,7 @@ a:active {
 
 .sidebar .social-links li {
     display: inline;
-    padding: 0 ;
+    padding: 0 4px 15px;
     line-height: 0;
 }
 
