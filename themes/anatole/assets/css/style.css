@@ -54,6 +54,7 @@ p {
     line-height: 1.6;
     font-weight: 400;
     font-size: 18px;
+    text-align: justify;
 }
 
 a {
