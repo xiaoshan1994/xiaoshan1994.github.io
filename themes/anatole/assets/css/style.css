@@ -343,6 +343,10 @@ a:active {
     color: #2660ab;
 }
 
+.sidebar .twitter {
+    text-align: center;
+}
+
 .post {
     background-color: var(--bg-color);
     margin: 30px;
