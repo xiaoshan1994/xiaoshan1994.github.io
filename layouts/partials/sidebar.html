@@ -15,11 +15,11 @@
                     <i class="{{ $item.icon }} fa-2x" aria-hidden="true"></i>
                 </a>
             </li>
-            <div class="tw">
-              <a class="twitter-timeline" data-lang="en" data-width="400" data-height="400" href="https://twitter.com/xiaoshan1994?ref_src=twsrc%5Etfw">Tweets by xiaoshan1994</a>
-              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </div>
         {{ end }}
+        <div class="tw">
+          <a class="twitter-timeline" data-lang="en" data-width="400" data-height="400" href="https://twitter.com/xiaoshan1994?ref_src=twsrc%5Etfw">Tweets by xiaoshan1994</a>
+          <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
     </ul>
     <div class="footer">
         <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ if isset .Site.Params "copyright" }} {{ .Site.Params.copyright }} {{ else }} {{ now.Format "2006"}} {{end}}
