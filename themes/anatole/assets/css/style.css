@@ -345,7 +345,7 @@ a:active {
 
 .sidebar .twitter {
   width: 100%;
-  padding: 100px 4px 800px 0px;
+  padding: 0px 4px 800px 100px;
 }
 
 .post {
