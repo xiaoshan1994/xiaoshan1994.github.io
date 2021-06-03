@@ -344,7 +344,7 @@ a:active {
 }
 
 .sidebar .twitter {
-    text-align: center;
+  padding: 10px 10px 50px 50px;
 }
 
 .post {
