@@ -1,7 +1,7 @@
 baseURL = "https://xiaoshan1994.github.io/"
 languageCode = "en-us"
 DefaultContentLanguage = "en"
-title = "Blog of Kai"
+Title = "Blog of Kai"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
