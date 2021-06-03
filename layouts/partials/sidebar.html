@@ -8,6 +8,14 @@
             </div>
         </div>
     </div>
+    <div class="twitter">
+      <a class="twitter-timeline"
+        href="https://twitter.com/TwitterDev"
+        data-width="220"
+        data-height="220">
+        Tweets by @TwitterDev
+      </a>
+    </div>
     <ul class="social-links">
         {{ range $item := .Site.Params.socialIcons }}
             <li>
@@ -17,14 +25,6 @@
             </li>
         {{ end }}
     </ul>
-    <div class="twitter">
-      <a class="twitter-timeline"
-        href="https://twitter.com/TwitterDev"
-        data-width="220"
-        data-height="220">
-        Tweets by @TwitterDev
-      </a>
-    </div>
     <div class="footer">
         <div class="by_farbox">&copy; {{ .Site.Params.author }} {{ if isset .Site.Params "copyright" }} {{ .Site.Params.copyright }} {{ else }} {{ now.Format "2006"}} {{end}}</div>
     </div>
