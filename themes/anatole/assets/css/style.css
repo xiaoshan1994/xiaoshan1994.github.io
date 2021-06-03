@@ -229,12 +229,12 @@ a:active {
 .theme-switch-item {
     float: right;
     font-size: 2em;
-    margin-top: -5px;
+    margin-top: -3px;
 }
 
 .page-top .information {
     float: right;
-    padding-top: 8px;
+    padding-top: 12px;
     padding-right: 20px;
 }
 
