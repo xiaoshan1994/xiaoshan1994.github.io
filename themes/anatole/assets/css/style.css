@@ -95,7 +95,7 @@ blockquote {
   font-size: 15px;
   text-transform: capitalize;
   line-height: 1;
-  padding: 4px 10px;
+  margin-right: 6px
 }
 
 .category {
