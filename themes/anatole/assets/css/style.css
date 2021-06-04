@@ -361,13 +361,13 @@ a:active {
     color: #2660ab;
 }
 
-.sidebar .tw {
+.sidebar .tw a{
  display: inline-block;
  width: 400px;
  height: 450px;
  padding: 5px;
  border: 1px solid blue;
- background-color: yellow; 
+ background-color: yellow;
 }
 
 .post {
