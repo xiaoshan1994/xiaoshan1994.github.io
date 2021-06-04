@@ -422,14 +422,14 @@ a:active {
 
 .post .post-content ul {
     font-family: 'Roboto', sans-serif;
-    line-height: 1.6em;
+    line-height: 1.8em;
     font-weight: 400;
     font-size: 16px;
 }
 
 .post .post-content ol {
     font-family: 'Roboto', sans-serif;
-    line-height: 1.6em;
+    line-height: 1.8em;
     font-weight: 400;
     font-size: 16px;
 }
@@ -658,7 +658,7 @@ a:active {
 }
 
 .list-with-title .listing .listing-post {
-    font-size: 16px
+    font-size: 1px
     padding-bottom: 5px;
 }
 
