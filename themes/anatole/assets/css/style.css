@@ -365,17 +365,19 @@ a:active {
 }
 
 .post .post-title h2 {
-    font-family: 'Oswald', sans-serif;
     text-transform: capitalize;
     letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
     font-weight: 600;
     color: var(--heading-color);
+    font-family: bely-display, sans-serif;
+    font-style: normal;
 }
 
 .post .post-title h3 {
-    font-family: 'Oswald', sans-serif;
+    font-family: bely-display, sans-serif;
+    font-style: normal;
     text-transform: capitalize;
     letter-spacing: 1px;
     line-height: 1;
