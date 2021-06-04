@@ -365,7 +365,6 @@ a:active {
 
 .post .post-title h2 {
     text-transform: capitalize;
-    letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
     font-weight: 500;
