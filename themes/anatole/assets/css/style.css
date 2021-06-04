@@ -572,7 +572,7 @@ a:active {
     margin: 0;
     padding: 0;
     height: 13px;
-
+    font-size: 16px;
 }
 
 .pagination ul li {
@@ -584,7 +584,7 @@ a:active {
 .pagination ul li a {
     text-decoration: none;
     color: var(--body-color);
-  
+
 }
 
 .pagination .pre {
