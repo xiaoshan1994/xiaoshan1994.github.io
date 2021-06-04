@@ -357,7 +357,6 @@ a:active {
 .post .post-title h1 {
     text-transform: capitalize;
     font-size: 30px;
-    letter-spacing: 1px;
     font-family: oswald, sans-serif;
     font-style: normal;
     font-weight: 500;
@@ -564,7 +563,6 @@ a:active {
     margin: 30px;
     padding: 0px 0 56px 0;
     text-align: center;
-    font-size: 16px;
 }
 
 .pagination ul {
@@ -572,14 +570,12 @@ a:active {
     margin: 0;
     padding: 0;
     height: 13px;
-    font-size: 16px;
 }
 
 .pagination ul li {
     margin: 0 2px 0 2px;
     display: inline;
     line-height: 1;
-    font-size: 16px;
 }
 
 .pagination ul li a {
