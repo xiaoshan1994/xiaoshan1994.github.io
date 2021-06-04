@@ -72,6 +72,9 @@ blockquote {
 }
 
 .category {
+    font-family: louvette-display,serif;
+    font-weight: 500;
+    font-style: normal;
     padding: 4px 6px;
     border-radius: 3px;
     color: var(--tag-color) !important;
