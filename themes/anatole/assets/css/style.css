@@ -75,6 +75,7 @@ blockquote {
     font-family: louvette-display,serif;
     font-weight: 500;
     font-style: normal;
+    text-transform: capitalize;
     padding: 4px 6px;
     border-radius: 3px;
     color: var(--tag-color) !important;
@@ -92,6 +93,7 @@ blockquote {
   font-weight: 500;
   font-style: normal;
   font-size: 15px;
+  text-transform: capitalize;
 }
 
 .category {
