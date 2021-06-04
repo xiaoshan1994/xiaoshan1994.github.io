@@ -98,7 +98,6 @@ blockquote {
 }
 
 .category {
-    display: inline-block;
     font-size: 15px;
     line-height: 1;
     margin: 5px 8px 5px 0;
