@@ -47,9 +47,9 @@ body {
     width: 100%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
-    font-family: garamond-atf-micro, serif;
-    font-weight: 400;
     font-style: normal;
+    font-family: bely, serif;
+    font-weight: 400;
 }
 
 p {
@@ -355,11 +355,13 @@ a:active {
 }
 
 .post .post-title h1 {
-    font-family: 'Oswald', sans-serif;
     text-transform: capitalize;
     font-size: 30px;
     letter-spacing: 1px;
     line-height: 1;
+    font-family: bely-display, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
 
 .post .post-title h2 {
