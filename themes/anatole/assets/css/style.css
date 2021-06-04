@@ -474,6 +474,9 @@ a:active {
     margin-right: 10px;
     margin-left: 5px;
     font-size: 15px;
+    font-family: oswald, sans-serif;
+    font-style: normal;
+  
 }
 
 .post figure {
