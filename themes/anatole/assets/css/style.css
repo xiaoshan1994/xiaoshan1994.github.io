@@ -355,7 +355,6 @@ a:active {
 }
 
 .post .post-title h1 {
-    text-transform: capitalize;
     font-size: 30px;
     font-family: oswald, sans-serif;
     font-style: normal;
