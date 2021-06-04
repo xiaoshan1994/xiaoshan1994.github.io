@@ -579,6 +579,7 @@ a:active {
     margin: 0 2px 0 2px;
     display: inline;
     line-height: 1;
+    font-size: 16px;
 }
 
 .pagination ul li a {
