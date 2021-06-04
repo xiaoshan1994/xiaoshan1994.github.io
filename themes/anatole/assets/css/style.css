@@ -362,8 +362,8 @@ a:active {
 }
 
 .sidebar .tw {
- display: block;
- 
+ display: inline-block;
+
 }
 
 .post {
