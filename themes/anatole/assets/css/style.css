@@ -94,6 +94,7 @@ blockquote {
   font-weight: 600;
   font-style: normal;
   font-size: 15px;
+   padding-right: 10px;
   text-transform: capitalize;
   line-height: 1.2;
 }
