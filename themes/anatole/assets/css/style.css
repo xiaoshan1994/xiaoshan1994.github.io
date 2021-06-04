@@ -87,7 +87,12 @@ blockquote {
     opacity: .5;
 }
 
-.tag,
+.tag {
+  font-family: louvette-display,serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
 .category {
     display: inline-block;
     font-size: 15px;
