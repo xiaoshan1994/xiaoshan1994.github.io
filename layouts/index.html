@@ -44,7 +44,7 @@
                                                  {{ .Date.Format .Site.Params.indexDateFormat }}
                                              {{ else }} {{.Date.Format "Mon, Jan 2, 2006"}}
                                              {{ end }}</span>
-                        <i class="fas fa-tags"></i>
+                        
                         {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
                         {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
                     </div>
