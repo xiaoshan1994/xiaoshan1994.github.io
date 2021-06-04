@@ -509,10 +509,8 @@ a:active {
 
 .post .post-footer .tags {
     padding-bottom: 15px;
-    font-size: 13px;
-    font-family: louvette-display,serif;
-    font-weight: 600;
-    font-style: normal;
+    font-size: 16px;
+
 }
 
 .post .post-footer .tags ul {
@@ -520,9 +518,7 @@ a:active {
     display: inline;
     margin: 0;
     padding: 0;
-    font-family: louvette-display,serif;
-    font-weight: 600;
-    font-style: normal;
+
 }
 
 .post .post-footer .tags ul li {
@@ -530,18 +526,14 @@ a:active {
     margin: 0;
     padding-right: 5px;
     display: inline;
-    font-family: louvette-display,serif;
-    font-weight: 600;
-    font-style: normal;
+
 }
 
 .post .post-footer .tags a {
     text-decoration: none;
     color: var(--post-color);
     font-weight: 400;
-    font-family: louvette-display,serif;
-    font-weight: 600;
-    font-style: normal;
+
 }
 
 .post .post-footer .tags a:hover {
