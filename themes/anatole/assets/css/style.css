@@ -510,6 +510,9 @@ a:active {
 .post .post-footer .tags {
     padding-bottom: 15px;
     font-size: 13px;
+    font-family: louvette-display,serif;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .post .post-footer .tags ul {
