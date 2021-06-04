@@ -361,7 +361,7 @@ a:active {
     line-height: 1;
     font-family: oswald, sans-serif;
     font-style: normal;
-    font-weight: 600;
+    font-weight: 500;
     font-style: normal;
 }
 
@@ -370,7 +370,7 @@ a:active {
     letter-spacing: 1px;
     font-size: 28px;
     line-height: 1;
-    font-weight: 600;
+    font-weight: 500;
     color: var(--heading-color);
     font-family: oswald, sans-serif;
     font-style: normal;
@@ -382,7 +382,7 @@ a:active {
     text-transform: capitalize;
     letter-spacing: 1px;
     line-height: 1;
-    font-weight: 600;
+    font-weight: 500;
     /* color: #464646; */
     color: var(--heading-color);
     font-size: 25px;
