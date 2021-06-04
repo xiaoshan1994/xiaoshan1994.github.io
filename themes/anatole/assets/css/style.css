@@ -86,6 +86,7 @@ blockquote {
 .tag::before {
   font-family: "Font Awesome 5 Free";
   content: "\f02c";
+  font-size: 16px
 }
 
 .tag {
