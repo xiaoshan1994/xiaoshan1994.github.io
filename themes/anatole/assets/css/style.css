@@ -379,7 +379,7 @@ a:active {
     font-family: oswald, sans-serif;
     font-style: normal;
     text-transform: capitalize;
-    line-height: 1;
+    line-height: 1.4;
     font-weight: 500;
     /* color: #464646; */
     color: var(--heading-color);
