@@ -284,7 +284,8 @@ a:active {
 }
 
 .sidebar .logo-title .description {
-    font-family: 'Roboto', sans-serif;
+    font-family: oswald, sans-serif;
+    font-style: normal;
     margin: 0 1em;
     text-align: center;
     line-height: 1.6;
