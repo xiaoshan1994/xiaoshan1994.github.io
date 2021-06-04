@@ -363,7 +363,8 @@ a:active {
 
 .sidebar .tw {
  display: inline-block;
-
+ width: 400px;
+ height: 450px;
 }
 
 .post {
