@@ -363,7 +363,6 @@ a:active {
 }
 
 .post .post-title h2 {
-    text-transform: capitalize;
     font-size: 28px;
     line-height: 1;
     font-weight: 500;
@@ -375,7 +374,6 @@ a:active {
 .post .post-title h3 {
     font-family: oswald, sans-serif;
     font-style: normal;
-    text-transform: capitalize;
     line-height: 1.4;
     font-weight: 500;
     /* color: #464646; */
