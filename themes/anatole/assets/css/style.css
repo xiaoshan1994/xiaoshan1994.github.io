@@ -427,18 +427,19 @@ a:active {
 }
 
 .post .post-content ul {
-    font-family: 'Roboto', sans-serif;
     line-height: 1.8em;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
+    font-family: bely, serif;
+    font-style: normal;
 }
 
 .post .post-content ol {
-    font-family: 'Roboto', sans-serif;
     line-height: 1.8em;
-    font-weight: 400;
+    font-weight: 500;
     font-size: 16px;
-
+    font-family: bely, serif;
+    font-style: normal;
 }
 
 .post .post-footer {
