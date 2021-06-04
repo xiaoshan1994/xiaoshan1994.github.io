@@ -87,6 +87,7 @@ blockquote {
   font-family: "Font Awesome 5 Free";
   content: "\f02c";
   font-size: 10px;
+  opacity: 0.8;
 }
 
 .tag {
@@ -97,6 +98,8 @@ blockquote {
   text-transform: capitalize;
   line-height: 1.2;
   padding-right: 10px;
+  opacity: 0.8;
+
 }
 
 .category {
