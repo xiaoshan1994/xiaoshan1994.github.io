@@ -363,11 +363,10 @@ a:active {
 
 .sidebar .tw a{
  display: inline-block;
- width: 400px;
- height: 450px;
+ width: 380px;
+ height: 420px;
  padding: 5px;
  border: 1px solid blue;
- background-color: yellow;
 }
 
 .post {
