@@ -367,6 +367,10 @@ a:active {
  height: 500;
 }
 
+.sidebar .tw .by_farbox{
+  font-size:16px 
+}
+
 .post {
     background-color: var(--bg-color);
     margin: 30px;
