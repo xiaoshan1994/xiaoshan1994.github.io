@@ -86,7 +86,8 @@ blockquote {
 .tag::before {
   font-family: "Font Awesome 5 Free";
   content: "\f02c";
-  font-size: 10px
+  font-size: 10px;
+  padding-right: 10px;
 }
 
 .tag {
@@ -94,7 +95,6 @@ blockquote {
   font-weight: 600;
   font-style: normal;
   font-size: 15px;
-   padding-right: 10px;
   text-transform: capitalize;
   line-height: 1.2;
 }
