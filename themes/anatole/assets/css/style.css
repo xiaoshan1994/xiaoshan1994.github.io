@@ -472,7 +472,8 @@ a:active {
 
 .post .post-footer .meta .info .date {
     margin-right: 10px;
-    margin-left: 5px
+    margin-left: 5px;
+    font-size: 15px;
 }
 
 .post figure {
