@@ -85,7 +85,7 @@ blockquote {
 
 .tag::before {
     content: "#";
-    opacity: .8;
+    opacity: .7;
 }
 
 .tag {
