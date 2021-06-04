@@ -94,8 +94,8 @@ blockquote {
   font-style: normal;
   font-size: 15px;
   text-transform: capitalize;
-  line-height: 1;
-  margin-right: 6px
+  line-height: 1.2;
+  margin-right: 10px
 }
 
 .category {
