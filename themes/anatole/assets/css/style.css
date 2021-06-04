@@ -73,7 +73,7 @@ blockquote {
 
 .category {
     font-family: kings-caslon, sans-serif;
-    font-weight: 600;
+    font-weight: 500;
     font-style: normal;
     text-transform: capitalize;
     padding: 4px 6px;
@@ -90,7 +90,7 @@ blockquote {
 
 .tag {
   font-family: kings-caslon, sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   font-style: normal;
   font-size: 15px;
   text-transform: capitalize;
