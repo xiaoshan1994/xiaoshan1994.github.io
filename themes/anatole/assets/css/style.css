@@ -66,8 +66,6 @@ a {
 
 blockquote {
     font-family: 'Kalam', cursive;
-    font-size: 5px;
-    line-height: 1;
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
