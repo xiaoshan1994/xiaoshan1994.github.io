@@ -26,3 +26,5 @@ Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
 {{</* twitter 1393680840052387840 */>}}
 {{</* youtube pnJTi82umYY */>}}
 {{</* vimeo 547868060 */>}}
+
+The first sentence shown in index list with a full stop.
