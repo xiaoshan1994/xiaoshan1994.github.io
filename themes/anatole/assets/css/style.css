@@ -455,6 +455,10 @@ a:active {
     font-style: normal;
 }
 
+.post .post-content .p_part p{
+  font-style: italic;
+}
+
 .post .post-footer {
     padding: 0 0 10px 0;
     border-bottom: 1px solid var(--border-color);
