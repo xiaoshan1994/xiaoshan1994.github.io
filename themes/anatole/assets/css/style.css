@@ -39,14 +39,14 @@ html[data-theme='dark'] {
 html {
     background-color: var(--bg-color);
     -webkit-font-smoothing: antialiased;
-      width: 100%;
+
 }
 
 body {
     color: var(--body-color);
     font-size: 16px;
     width: 100%;
-    margin: 0 ;
+    margin: 0;
     background-color: var(--bg-color);
     font-style: normal;
     font-family: bely, serif;
