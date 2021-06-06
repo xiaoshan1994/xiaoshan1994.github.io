@@ -979,7 +979,7 @@ print {
     }
 
     .sidebar .logo-title {
-        padding-top: 120px;
+        padding-top: 100px;
     }
 
     .sidebar .logo-title .title img {
@@ -1164,6 +1164,8 @@ print {
         width: 25%;
     }
 }
+
+
 
 /* (CONTACT) FORM */
 
