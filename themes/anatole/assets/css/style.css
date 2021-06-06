@@ -979,7 +979,7 @@ print {
     }
 
     .sidebar .logo-title {
-        padding-top: 100px;
+        padding-top: 120px;
     }
 
     .sidebar .logo-title .title img {
@@ -999,7 +999,7 @@ print {
     }
 
     .content {
-        margin-top: 1000px;
+        margin-top: 900px;
         width: 100%;
         z-index: 2;
         position: absolute;
