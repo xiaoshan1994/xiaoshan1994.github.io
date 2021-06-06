@@ -24,6 +24,13 @@ Keywords: primary crops; animal husbandry; spatially explicit; Multi-Regional In
 ## Story line
 
 1. Food security is challenged by increasing global food demand driven by population growth and animal-based diets.
-2. More agricultural production requires increasing areas of land and fresh water, causing associated environmental impacts[^1].
+2. More crop production requires increasing areas of land and fresh water, causing associated environmental impacts[^1].
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
-3. 
+3. Also livestock should be a focus as their feed contains harmful ingredients[^2] which will released to our environment finally.
+[^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
+4. To preserve nature, high-income nations transfer this **environmental burden** to agriculture producing countries through **international trade**.
+5. Two classical examples of shifting environmental burdens through international trade are the export of Brazilian soy and Indonesian palm oil, acting as case studies in this paper.
+6. As no comprehensive assessment of crops and livestock embodied in trade **at a high spatial resolution** since, this work has been done, expecting to guide sustainable practices and healthier diets [^3] as well as facilitate global cooperation between production- and consumption-oriented countries [^4].
+7. This work also facilitates a more accurate assessment of agricultural environment impacts in EXIOBASE.
+[^3]: By identifying **spatial heterogeneity of different consumption patterns** and setting **a safe target** for primary crops and livestock consumption.
+[^4]: With consumption-based accounting of primary crops and livestock.
