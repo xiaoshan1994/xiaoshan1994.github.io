@@ -39,6 +39,7 @@ html[data-theme='dark'] {
 html {
     background-color: var(--bg-color);
     -webkit-font-smoothing: antialiased;
+      width: 100%;
 }
 
 body {
