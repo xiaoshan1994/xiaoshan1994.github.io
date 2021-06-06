@@ -1165,7 +1165,7 @@ print {
     }
 }
 
-@media screen and (max-width: 1352px) {
+@media screen and (max-width: 1280px) {
   .sidebar.tw a{
     float: none;
     width: 100%;
