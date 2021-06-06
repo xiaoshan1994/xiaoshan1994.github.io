@@ -452,14 +452,19 @@ a:active {
     margin: 1.8em 0;
 }
 
+.post .post-content ul li{
+    margin: 1.8em 0;
+
 .post .post-content ol {
     line-height: 1.2em;
     font-weight: 500;
-    font-size: 16px;
+    font-size: 17px;
     font-family: bely, serif;
     font-style: normal;
-    margin: 3em 0;
 }
+
+.post .post-content ol li{
+    margin: 1.8em 0;
 
 .post .post-content .p_part p{
   font-style: italic;
