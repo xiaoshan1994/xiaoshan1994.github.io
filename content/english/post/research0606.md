@@ -12,7 +12,7 @@ Categories:
 - Research
 ---
 
-Identifying production hotspots for global crop and livestock consumption by a Spatially Explicit Multi-Reginal Input-Output model( *[Zhongxiao's work]*(https://www.sciencedirect.com/science/article/pii/S2211912419300276) on *Global Food Security*).
+Identifying production hotspots for global crop and livestock consumption by a Spatially Explicit Multi-Reginal Input-Output model( *[Zhongxiao's work](https://www.sciencedirect.com/science/article/pii/S2211912419300276)* on *Global Food Security*).
 
 Keywords: primary crops; animal husbandry; spatially explicit; Multi-Regional Input-Output(MRIO) analysis.
 
