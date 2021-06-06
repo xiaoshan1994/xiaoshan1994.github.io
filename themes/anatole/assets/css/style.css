@@ -45,7 +45,7 @@ body {
     color: var(--body-color);
     font-size: 16px;
     width: 100%;
-    margin: 0 auto 30px auto;
+    margin: 0 ;
     background-color: var(--bg-color);
     font-style: normal;
     font-family: bely, serif;
