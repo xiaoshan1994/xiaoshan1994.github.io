@@ -1153,17 +1153,17 @@ print {
 	}
 }
 
+
 @media (min-width: 1921px){
     .content {
         padding-right: 25%;
-        width: 45%;
+        width: 35%;
     }
     .sidebar {
         padding-left: 15%;
-        width: 35%;
+        width: 25%;
     }
 }
-
 
 /* (CONTACT) FORM */
 
