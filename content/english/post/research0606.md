@@ -3,14 +3,13 @@ title: "Linking Global Crop and Livestock Consumption to Local Production Hotspo
 date: 2021-06-06T09:42:03+02:00
 description: 'Identifying production hotspots for global crop and livestock consumption by a Spatially Explicit Multi-Reginal Input-Output model'
 images:
--
-videos: [https://youtu.be/]
-thumbnail:
+- https://ars.els-cdn.com/content/image/X22119124.jpg
+thumbnail: https://ars.els-cdn.com/content/image/X22119124.jpg
 tags:
--
--
+- SMRIO
+- Agriculture and food
 Categories:
--
+- Research
 ---
 
 Identifying production hotspots for global crop and livestock consumption by a Spatially Explicit Multi-Reginal Input-Output model([Zhongxiao's work](https://www.sciencedirect.com/science/article/pii/S2211912419300276) on Global Food Security).
