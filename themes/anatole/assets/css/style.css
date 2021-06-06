@@ -969,7 +969,7 @@ a.btn {
     display: none;
 }
 
-@media screen and (max-width: 960px),
+@media screen and (max-width: 1280px),
 print {
     .sidebar {
         width: 100%;
@@ -1165,12 +1165,7 @@ print {
     }
 }
 
-@media screen and (max-width: 1280px) {
-  .sidebar.tw a{
-    float: none;
-    width: 100%;
-  }
-}
+
 
 /* (CONTACT) FORM */
 
