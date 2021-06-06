@@ -1165,6 +1165,12 @@ print {
     }
 }
 
+@media screen and (max-width: 1152px) {
+  .sidebar.tw a{
+    float: none;
+    width: 100%;
+  }
+}
 
 /* (CONTACT) FORM */
 
