@@ -6,7 +6,7 @@ description: A brief guide to setup KaTeX
 math: true
 tags:
 - Hugo
-- code
+- coder
 categories:
 - Skill
 ---

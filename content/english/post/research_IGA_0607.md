@@ -7,7 +7,8 @@ images:
 thumbnail: https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
 tags:
 - EIOA
-- course
+- Ranran
+- IGA
 Categories:
 - Research
 ---

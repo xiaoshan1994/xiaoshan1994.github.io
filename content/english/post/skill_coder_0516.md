@@ -3,7 +3,7 @@ author = "Hugo Authors"
 title = "Rich Content -- Bult-in Shortcode"
 date = "2021-05-16"
 description = "A brief description of Hugo Shortcodes"
-tags = ["hugo","code"]
+tags = ["hugo","coder"]
 Categories = ["skill"]
 thumbnail = "https://codeit.suntprogramator.dev/theme-documentation-built-in-shortcodes/featured-image.png"
 +++
