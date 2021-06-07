@@ -1,6 +1,6 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
+title:
+date: 2021-06-07T22:09:09+02:00
 description: ''
 images:
 -
