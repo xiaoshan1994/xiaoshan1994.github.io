@@ -9,7 +9,6 @@ tags:
 - vegetables
 - cooking
 Categories:
-- English
 - Life
 ---
 

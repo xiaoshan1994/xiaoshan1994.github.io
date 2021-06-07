@@ -1,7 +1,7 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title:
 date: {{ .Date }}
-description: ''
+description:
 images:
 -
 videos: [https://youtu.be/]
