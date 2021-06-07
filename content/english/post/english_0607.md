@@ -1,5 +1,5 @@
 ---
-title: "Feel struggling to response 'How are you?'"
+title: "Feel struggling to response How are you?"
 date: 2021-06-07T20:40:07+02:00
 description: 'Since I'm here I couldn't count that how many times people asking me 'how are you' and I actually don't know how to response this due to the difference of the greeting ways.'
 images:
