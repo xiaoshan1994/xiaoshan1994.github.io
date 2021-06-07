@@ -6,10 +6,9 @@ images:
 - https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg
 thumbnail: https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg
 tags:
-- communications
-- supervisor
+- research skill
 Categories:
-- academic skills
+- skill
 ---
 [Source](https://blogs.bath.ac.uk/academic-and-employability-skills/2020/07/03/writing-your-dissertation-working-with-your-supervisor/)
 

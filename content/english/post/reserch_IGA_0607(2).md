@@ -1,13 +1,14 @@
 ---
 title: "GIA in the EIOA class: exploring the impact of Brexit (2)"
-date: 2021-06-07T15:34:00+02:00
+date: 2021-06-07T15:35:00+02:00
 description: 'UK companies can and should see the current high-uncertainty environment as a spur to rethink their supply chain strategies and make them more resilient.'
 images:
 - https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
 thumbnail: https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
 tags:
 - EIOA
-- course
+- Ranran
+- IGA
 Categories:
 - Research
 ---

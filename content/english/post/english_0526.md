@@ -7,10 +7,9 @@ images:
 videos: [https://youtu.be/]
 thumbnail: images/eng_collocations.png
 tags:
-- daily english
-- english collocations
+- collocations
 Categories:
-- English
+- daily English
 ---
 ## Have
 

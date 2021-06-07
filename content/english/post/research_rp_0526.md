@@ -2,7 +2,7 @@
 title: "RP Project"
 date: 2021-05-26T10:10:16+02:00
 tags:
-- rp
+- research proposal
 Categories:
 - Research
 ---

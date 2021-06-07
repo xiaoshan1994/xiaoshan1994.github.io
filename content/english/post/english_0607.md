@@ -9,7 +9,7 @@ tags:
 - daily use
 - Lucy
 Categories:
-- English
+- daily English
 ---
 
 *Since I'm here I couldn't count that how many times people asking me 'how are you' and I actually don't know how to response this due to the difference of the greeting ways.*

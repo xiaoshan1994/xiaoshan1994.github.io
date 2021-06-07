@@ -6,10 +6,10 @@ images:
 - https://i.pinimg.com/originals/fc/d7/ea/fcd7ea6cb953478fba8812bfd4bb871c.jpg
 thumbnail: https://i.pinimg.com/originals/fc/d7/ea/fcd7ea6cb953478fba8812bfd4bb871c.jpg
 tags:
-- vegetables
 - cooking
 Categories:
 - Life
+- daily English
 ---
 
 'Leaf lettuce, head lettuce, green lettuce, red lettuce….who knew there were so many kinds of lettuce? This is your handy guide to knowing what kind of lettuce your are eating with.'

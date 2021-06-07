@@ -8,10 +8,9 @@ images:
 videos: [https://youtu.be/]
 thumbnail: images/eng_collocations.png
 tags:
-- daily english
-- english collocations
+- collocations
 Categories:
-- English
+- daily English
 ---
 
 Get is a very common verb in English, but it is not always appropriate for talking about changes. Note
