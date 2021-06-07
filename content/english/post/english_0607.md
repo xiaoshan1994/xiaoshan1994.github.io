@@ -1,30 +1,18 @@
 ---
-title: "English_0607"
+title: "Feel struggling to response "How are you?""
 date: 2021-06-07T20:40:07+02:00
-description: ''
+description: 'Since I'm here I couldn't count that how many times people asking me 'how are you' and I actually don't know how to response this due to the difference of the greeting ways.'
 images:
--
-videos: [https://youtu.be/]
-thumbnail:
+- https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/06/how-are-you-doing.jpg
+thumbnail: https://contenthub-static.grammarly.com/blog/wp-content/uploads/2018/06/how-are-you-doing.jpg
 tags:
--
--
+- daily use
+- Lucy
 Categories:
--
+- English
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
+*Since I'm here I couldn't count that how many times people asking me 'how are you' and I actually don't know how to response this due to the difference of the greeting ways.*
 
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
+Today I came across Grace in the corridor of our apartment building. Again I was asking 'How are you?' It could be simple as a normal greeting way here but I just not be adapted to it. At the hometown we just say people's name if he/she is an acquaintance. Or maybe just one word meaning "good morning" could be enough. So just to avoid awkwardness, I have to do some work here.
 
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
-
-{{</* instagram BWNjjyYFxVx */>}}
-{{</* twitter 1393680840052387840 */>}}
-{{</* youtube pnJTi82umYY */>}}
-{{</* vimeo 547868060 */>}}
-
-The first sentence as a summary showing in the index list needs a full stop.
+{{< youtube AJPku4G29Mc&t=195s >}}
