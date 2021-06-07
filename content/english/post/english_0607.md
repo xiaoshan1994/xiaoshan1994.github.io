@@ -16,8 +16,7 @@ Categories:
 
 Today I came across Grace in the corridor of our apartment building. Again I was asking 'How are you?' It could be simple as a normal greeting way here but I just not be adapted to it. At the hometown we just say people's name if he/she is an acquaintance. Or maybe just one word meaning "good morning" could be enough. So just to avoid awkwardness, I have to do some work here.
 
-{{< youtube AJPku4G29Mc&t >}}
-
+{{< youtube AJPku4G29Mc >}}
 
 * Easy responses
 I'm fairly/really well.
