@@ -3,10 +3,11 @@ date: 2021-05-17
 title: 'Changing Fonts in hugo website'
 description: 'Thanks to Damien. I got new hugo shortcodes for the fonts update in this website.'
 tags:
-- hugo shortcodes
+- hugo
 - fonts
+- coder
 Categories:
-- Website
+- skill
 images:
 - https://www.lifewire.com/thmb/PBDyu2zoMIy3mya-QIgbxF587xs=/2201x1362/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157679986-5b2ed453a474be0036cf7d58.jpg
 thumbnail: https://www.lifewire.com/thmb/PBDyu2zoMIy3mya-QIgbxF587xs=/2201x1362/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157679986-5b2ed453a474be0036cf7d58.jpg

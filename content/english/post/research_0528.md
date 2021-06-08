@@ -7,7 +7,6 @@ thumbnail: https://www.oxfordmartin.ox.ac.uk/images/Logos/_1200x630_crop_center-
 tags:
 - EIOA
 - IGA
-- production function
 - economics
 Categories:
 - Research

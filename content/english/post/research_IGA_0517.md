@@ -3,11 +3,11 @@ date: 2021-05-17
 title: 'EIOA Class: Integrated Group Assignment(IGA)'
 description: 'Each group is expected to perform a research question about two real world issues: BREXIT and national stimulus plans.'
 tags:
-- EIOA Class
-- Python
-- IGA work
-Categories:
 - EIOA
+- Ranran
+- IGA
+Categories:
+- Research
 images:
 - https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 thumbnail: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg

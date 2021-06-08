@@ -7,7 +7,7 @@ images:
 thumbnail: https://i.ytimg.com/vi/Bye-XjYGOzM/maxresdefault.jpg
 tags:
 - SMRIO
-- Agriculture and food
+- agriculture and food
 Categories:
 - Research
 ---

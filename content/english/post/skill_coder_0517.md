@@ -3,11 +3,10 @@ date: 2021-05-17
 title: 'Make Your Website Social Media Card'
 description: 'This blog is transported from Rana Emad on DEV about the social card making'
 tags:
-- social card
-- open graph
-- metadata
-Categories:
-- Website
+- Hugo
+- coder
+categories:
+- skill
 images:
 - https://res.cloudinary.com/practicaldev/image/fetch/s--3yJkrb96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y44m89pi90bi8p6g50lc.png
 thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--3yJkrb96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y44m89pi90bi8p6g50lc.png

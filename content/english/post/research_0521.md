@@ -8,12 +8,11 @@ videos: [https://youtu.be/]
 thumbnail: https://www.aje.com/dist/img/arc/preprint_post_thumbnail.png
 tags:
 - MFA
-- material efficiency
-- buildings
-- vehicles
+- building
+- vehicle
 - LCA
 Categories:
-- material efficiency
+- research
 ---
 
 ## Abstract

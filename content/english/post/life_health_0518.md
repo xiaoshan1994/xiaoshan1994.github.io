@@ -3,7 +3,7 @@ title: "Covid 19 Self Testing"
 date: 2021-05-18T22:07:22+02:00
 description: 'a guide'
 tags:
-- guide
+- manual
 - health
 Categories:
 - Life
