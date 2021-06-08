@@ -13,17 +13,6 @@ Categories:
 - Research
 ---
 
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
-
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
-
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
-
-
 The Brexit topic from the BBC News.
 
 ([The Brexit topic link](https://www.bbc.com/news/politics/uk_leaves_the_eu)/[Group drive](https://drive.google.com/drive/folders/1c3FiGpHL-5JZ4spzu9MGWnfZgCBD_5Lv))
@@ -33,8 +22,8 @@ Scenario analysis source: [Assessing energy and economic impacts of large-scale 
 ## Research background from the latest Brexit News
 
 ### *[Farmers should not fear Australia trade deal, UK minister says](https://www.bbc.com/news/business-57271929)*
-
-Keywords: free trade deal with Au; competition of UK farmers; gateway to CPTPP.
+27/05/2021
+Keywords: free trade deal with Au; competition of UK farmers; gateway to TPP.
 
 Farmers have warned they could struggle to compete if **Australia was given tariff-free access to UK markets**.
 
@@ -50,10 +39,20 @@ Mr Hands (Trade Minister of UK):
 Ms Thornberry (Shadow international trade secretary):
 >"We cannot support a deal on agricultural tariffs that will cost jobs in our farming communities, uncut our food standards, **increase our carbon off-shoring** and open the door to the destruction of our farming industry through further lop sided trade deals."
 
-## *UK begins process to join Asia-Pacific trade bloc*
+## *[UK begins process to join Asia-Pacific trade bloc](https://www.bbc.com/news/business-57327372)*
+03/06/2021
 
+The 11-member Trans-Pacific Partnership trade bloc has agreed to open accession talks with the UK.
 
-https://www.bbc.com/news/business-57327372
+>"Membership was a huge opportunity in a post-Brexit world". <br>
+--- British government
+
+>"It will help shift our economic centre of gravity away from Europe towards faster-growing parts of the world, and deepen our access to massive consumer markets in the Asia Pacific". <br>
+--- International trade secretary Liz Truss
+
+The TPP's current members(11) are **Japan, Malaysia, Vietnam, Singapore, Brunei, Australia, New Zealand, Canada, Mexico, Chile and Peru**.
+
+China, South Korea and Thailand have also expressed interest in joining the TPP, which covers a market of nearly 500 million people.
 
 ##　*Farmers' opposition to UK-Australia trade deal grows*
 
