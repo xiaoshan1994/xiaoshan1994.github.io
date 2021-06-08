@@ -32,24 +32,23 @@ Scenario analysis source: [Assessing energy and economic impacts of large-scale 
 
 ## Research background from the latest Brexit News
 
-### *Farmers should not fear Australia trade deal, UK minister says*
+### *[Farmers should not fear Australia trade deal, UK minister says](https://www.bbc.com/news/business-57271929)*
 
-https://www.bbc.com/news/business-57271929
-
-Keywords: free trade deal with Au; competition of UK farmers; gateway to CPTPP
+Keywords: free trade deal with Au; competition of UK farmers; gateway to CPTPP.
 
 Farmers have warned they could struggle to compete if **Australia was given tariff-free access to UK markets**.
-
-Ms Thornberry (Shadow international trade secretary) added: "We cannot support a deal on agricultural tariffs that will cost jobs in our farming communities, uncut our food standards, **increase our carbon off-shoring** and open the door to the destruction of our farming industry through further lop sided trade deals."
 
 Mr Hands (Trade Minister of UK):
 > "There will be no compromise on our **standards of animal welfare, food safety and the environment**. That is in our manifesto commitment."
 
-> Mr Hands said farmers should see an agreement with Australia as opening new markets overseas for their own produce.
+>Mr Hands said farmers should see an agreement with Australia as opening new markets overseas for their own produce.
 
-> "**The agreement is a gateway into the massive CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) free trade area in Asia and Pacific**"
+>"**The agreement is a gateway into the massive CPTPP (Comprehensive and Progressive Agreement for Trans-Pacific Partnership) free trade area in Asia and Pacific**"
 
-> open "doors for our farmers into some of the biggest economics of now and the future".
+>open "doors for our farmers into some of the biggest economics of now and the future".
+
+Ms Thornberry (Shadow international trade secretary):
+>"We cannot support a deal on agricultural tariffs that will cost jobs in our farming communities, uncut our food standards, **increase our carbon off-shoring** and open the door to the destruction of our farming industry through further lop sided trade deals."
 
 ## *UK begins process to join Asia-Pacific trade bloc*
 
