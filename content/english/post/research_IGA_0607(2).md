@@ -39,8 +39,6 @@ Mr Hands (Trade Minister of UK):
 Ms Thornberry (Shadow international trade secretary):
 >"We cannot support a deal on agricultural tariffs that will cost jobs in our farming communities, uncut our food standards, **increase our carbon off-shoring** and open the door to the destruction of our farming industry through further lop sided trade deals."
 
-02/06/2021
-
 ## *[UK begins process to join Asia-Pacific trade bloc](https://www.bbc.com/news/business-57327372)*
 03/06/2021
 
@@ -54,15 +52,15 @@ The 11-member Trans-Pacific Partnership trade bloc has agreed to open accession 
 
 The TPP's current members(11) are **Japan, Malaysia, Vietnam, Singapore, Brunei, Australia, New Zealand, Canada, Mexico, Chile and Peru**.
 
-China, South Korea and Thailand have also expressed interests in joining the TPP, which covers a market of nearly 500 million people.
+China, South Korea and Thailand have also expressed interest in joining the TPP, which covers a market of nearly 500 million people.
 
 ##　*Farmers' opposition to UK-Australia trade deal grows*
 
 https://www.bbc.com/news/science-environment-57268681
 
 ## research route
-* Data: EXIOBASE of 2020.
-* Four research areas: UK, Australia, the rest of EU(RoEU), and the rest of the world(RoW)
-* Indicators for environment footprints: water used and co2 emissions.
-2. Scenario 1: normal trade (normal beef trade in EXIOBASE 2020)
-See water used and co2 emissions of UK's beef 
+1. business as usual
+
+
+scenaro 2:
+All the beef imported from Australia. RoEU
