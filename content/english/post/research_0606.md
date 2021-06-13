@@ -39,7 +39,7 @@ foundation for analysing the distribution of crops driven by consumption.
 | 2	| Wheat	| p01.b	| C_WHEA|
 | 3	| Cereal grains nec	| p01.c	| C_OCER|
 | 4	| Vegetables, fruit, nuts	| p01.d	| C_FVEG|
-| 5	| Oil seeds	| p01.e	C_OILS|
+| 5	| Oil seeds	| p01.e	|C_OILS|
 | 6	| Sugar cane, sugar beet	| p01.f	| C_SUGB|
 | 7	| Plant-based fibers	| p01.g	| C_FIBR|
 | 8	| Crops nec	| p01.h	| C_OTCR|
