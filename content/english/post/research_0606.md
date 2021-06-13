@@ -47,8 +47,8 @@ foundation for analysing the distribution of crops driven by consumption.
 
 163 types of domestic extraction used for primary crops:
 
-e.g.:<br />
-Domestic Extraction Used - Primary Crops - Abaca	kt<br />
+e.g.:<br>
+Domestic Extraction Used - Primary Crops - Abaca	kt<br>
 ...
 
 We select related data from FAOSTAT to create **6 livestock satellite accounts** to match with EXIOBASE, including cattle, pig, chicken, duck, goat, and sheep (Table S 8.11).
