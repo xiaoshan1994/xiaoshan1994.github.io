@@ -45,7 +45,7 @@ foundation for analysing the distribution of crops driven by consumption.
 | 6	| Sugar cane, sugar beet	| p01.f	| C_SUGB|
 | 7	| Plant-based fibers	| p01.g	| C_FIBR|
 | 8	| Crops nec	| p01.h	| C_OTCR|
-{{< / bootstrap-table >}}
+{{< /bootstrap-table >}}
 
 163 types of domestic extraction used for primary crops:
 
