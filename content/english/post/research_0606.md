@@ -60,6 +60,8 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 |45 |Products of meat poultry| Meat indigenous, chicken; Meat indigenous, duck|
 |46 |Meat products nec |Meat indigenous, goat; Skins, goat, fresh; Meat indigenous, sheep; Skins, sheep, fresh|
 
+**Aquaculture** is not considered in this research due to a lack of spatially explicit data.
+
 
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
