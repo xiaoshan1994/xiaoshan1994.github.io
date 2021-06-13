@@ -1,5 +1,5 @@
 ---
-title: "Linking Global Crop and Livestock Consumption to Local Production Hotspots"
+title: Linking Global Crop and Livestock Consumption to Local Production Hotspots
 date: 2021-06-06T09:42:03+02:00
 description: Identifying production hotspots for global crop and livestock consumption by a Spatially Explicit Multi-Reginal Input-Output model
 images:
