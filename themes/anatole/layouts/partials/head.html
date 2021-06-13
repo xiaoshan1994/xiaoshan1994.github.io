@@ -11,7 +11,7 @@
     {{- end -}}
 
     <!-- CSS -->
-    
+
     {{ if eq .Site.Language.LanguageDirection "rtl"}}
     {{ $style := resources.Get "css/style.rtl.css" | resources.Minify | resources.Fingerprint }}
     <link rel="stylesheet"
@@ -42,10 +42,13 @@
         crossorigin="anonymous"
         media="screen" />
     {{ end }}
-    <link rel="stylesheet" 
-    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" 
-    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" 
+    <link rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
     crossorigin="anonymous" />
+
+    <link rel="stylesheet" href="{{ "css/bst.css" | absURL }}">
+    
 
     <!-- Favicons -->
     <link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}favicon.ico" type="image/x-icon">
