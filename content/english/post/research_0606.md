@@ -25,6 +25,26 @@ Keywords: primary crops; animal husbandry; spatially explicit; Multi-Regional In
 5. Two classical examples of shifting environmental burdens through international trade are the export of Brazilian soy and Indonesian palm oil, acting as case studies in this paper.
 6. As no comprehensive assessment of crops and livestock embodied in trade **at a high spatial resolution** since, this work has been done, expecting to guide sustainable practices and healthier diets [^3] as well as facilitate global cooperation between production- and consumption-oriented countries [^4].
 7. This work also facilitates a more accurate assessment of agricultural environment impacts in EXIOBASE.
+
+## Materials and Methods
+
+Using MRIO model with EXIOBASE, which is linked to crop and livestock data derived from FAOSTAT.
+
+The database includes **8 crop sectors** linking **163 types of crop** derived from **FAOSTAT** (domestic extraction of primary crops, cereals are based on the weight of dry grain, vegetable and fruits are based on the weight of fresh fruit of human consumption, treenuts are based on the weight of nut for sale) with input-output accounts (Table S 8.10). This forms the
+foundation for analyzing the distribution of crops driven by consumption.
+
+| Number	| Name	| CodeNr	| CodeTxt
+| --- |--- |--- |--- |
+| 1	| Paddy rice	| p01.a	| C_PARI|
+| 2	| Wheat	| p01.b	| C_WHEA|
+| 3	| Cereal grains nec	| p01.c	| C_OCER|
+| 4	| Vegetables, fruit, nuts	| p01.d	| C_FVEG|
+| 5	| Oil seeds	| p01.e	C_OILS|
+| 6	| Sugar cane, sugar beet	| p01.f	| C_SUGB|
+| 7	| Plant-based fibers	| p01.g	| C_FIBR|
+| 8	| Crops nec	| p01.h	| C_OTCR|
+
+
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
 [^3]: By identifying **spatial heterogeneity of different consumption patterns** and setting **a safe target** for primary crops and livestock consumption.

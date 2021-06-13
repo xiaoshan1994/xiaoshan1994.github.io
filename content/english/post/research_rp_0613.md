@@ -1,14 +1,14 @@
 ---
-title:
+title: Linking Global Crop and Livestock
+Consumption to Local Production Hotspots
 date: 2021-06-13T11:26:04+02:00
 description:
 images:
 -
-videos: [https://youtu.be/]
 thumbnail:
 tags:
 - research proposal
-- mrio
+- MRIO
 - agriculture and food
 Categories:
 - research
