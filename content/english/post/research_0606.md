@@ -47,9 +47,8 @@ foundation for analysing the distribution of crops driven by consumption.
 
 163 types of domestic extraction used for primary crops:
 
-e.g.:
-Domestic Extraction Used - Primary Crops - Abaca	kt
-
+e.g.:<br/>
+Domestic Extraction Used - Primary Crops - Abaca	kt<br/>
 ...
 
 We select related data from FAOSTAT to create **6 livestock satellite accounts** to match with EXIOBASE, including cattle, pig, chicken, duck, goat, and sheep (Table S 8.11).
@@ -65,7 +64,7 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 
 **Aquaculture** is not considered in this research due to a lack of spatially explicit data.
 
-
+The spatial distribution of crops and livestock
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
