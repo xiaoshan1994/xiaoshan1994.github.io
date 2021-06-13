@@ -44,9 +44,9 @@ Ms Thornberry (Shadow international trade secretary):
 
 The 11-member Trans-Pacific Partnership trade bloc has agreed to open accession talks with the UK.
 
->"Membership was a huge opportunity in a post-Brexit world".<br>---British government
+>"Membership was a huge opportunity in a post-Brexit world". <br>---British government
 
->"It will help shift our economic centre of gravity away from Europe towards faster-growing parts of the world, and deepen our access to massive consumer markets in the Asia Pacific".<br>---International trade secretary Liz Truss
+>"It will help shift our economic centre of gravity away from Europe towards faster-growing parts of the world, and deepen our access to massive consumer markets in the Asia Pacific". <br>---International trade secretary Liz Truss
 
 The TPP's current members(11) are **Japan, Malaysia, Vietnam, Singapore, Brunei, Australia, New Zealand, Canada, Mexico, Chile and Peru**.
 
