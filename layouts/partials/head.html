@@ -1,5 +1,7 @@
 <head>
-    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }}
+      <link rel="stylesheet" href="{{ "css/bootstrap-table.css" | absURL }}">
+     </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -56,8 +58,6 @@
 
     <link rel="canonical" href="{{ .RelPermalink }}">
 
-    <link rel="stylesheet" href="{{ "css/bootstrap-table.css" | absURL }}">
-    <title>
 
 
     <!-- RSS -->
