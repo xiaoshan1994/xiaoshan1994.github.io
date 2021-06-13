@@ -34,7 +34,7 @@ The database includes **8 crop sectors** linking **163 types of crop** derived f
 foundation for analysing the distribution of crops driven by consumption.
 8 crop sectors in EXIOBASE:
 
-{{<  bootstrap-table table_class="table table-striped table-hover" thead_class="table-dark" >}}
+{{< bootstrap-table table_class="table table-striped table-hover" thead_class="table-dark" >}}
 | Number | Name	| CodeNr	| CodeTxt |
 | --- | --- | --- | --- |
 | 1	| Paddy rice	| p01.a	| C_PARI|
@@ -55,7 +55,7 @@ Domestic Extraction Used - Primary Crops - Abaca	kt
 
 We select related data from FAOSTAT to create **6 livestock satellite accounts** to match with EXIOBASE, including cattle, pig, chicken, duck, goat, and sheep (Table S 8.11).
 
-{{<  bootstrap-table  >}}
+{{< bootstrap-table >}}
 |EXIOBASE sector number| EXIOBASE name| FAOSTAT product names|
 | --- | --- | --- |
 |11 |Poultry |Eggs, hen, in shell|
@@ -64,7 +64,7 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 |44 |Products of meat pigs| Meat indigenous, pig|
 |45 |Products of meat poultry| Meat indigenous, chicken; Meat indigenous, duck|
 |46 |Meat products nec |Meat indigenous, goat; Skins, goat, fresh; Meat indigenous, sheep; Skins, sheep, fresh|
-{{< / bootstrap-table >}}
+{{< /bootstrap-table >}}
 
 
 **Aquaculture** is not considered in this research due to a lack of spatially explicit data.
