@@ -55,6 +55,9 @@
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | relURL }}favicon-16x16.png">
 
     <link rel="canonical" href="{{ .RelPermalink }}">
+
+    <link rel="stylesheet" href="{{ "css/bst.css" | absURL }}">
+    
     <!-- RSS -->
     {{ with .OutputFormats.Get "rss" -}}
         {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .RelPermalink $.Site.Title | safeHTML }}
@@ -107,6 +110,6 @@
 
     <!-- Open Graph -->
     {{ template "_internal/opengraph.html" . }}
-    
+
 
 </head>
