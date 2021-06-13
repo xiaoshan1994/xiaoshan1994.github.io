@@ -44,9 +44,11 @@ foundation for analysing the distribution of crops driven by consumption.
 | 7	| Plant-based fibers	| p01.g	| C_FIBR|
 | 8	| Crops nec	| p01.h	| C_OTCR|
 
-163 types of domestic extraction used for primary crops:<br>
+163 types of domestic extraction used for primary crops:
+
 e.g.:
-Domestic Extraction Used - Primary Crops - Abaca	kt<br>
+Domestic Extraction Used - Primary Crops - Abaca	kt
+
 ...
 
 We select related data from FAOSTAT to create **6 livestock satellite accounts** to match with EXIOBASE, including cattle, pig, chicken, duck, goat, and sheep (Table S 8.11).
