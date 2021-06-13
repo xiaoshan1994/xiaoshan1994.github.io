@@ -34,7 +34,7 @@ The database includes **8 crop sectors** linking **163 types of crop** derived f
 foundation for analysing the distribution of crops driven by consumption.
 8 crop sectors in EXIOBASE:
 
-{{< table "table table-striped table-bordered" >}}
+{{< tb "table table-striped table-bordered" >}}
 | Number | Name	| CodeNr	| CodeTxt |
 | --- | --- | --- | --- |
 | 1	| Paddy rice	| p01.a	| C_PARI|
@@ -45,7 +45,7 @@ foundation for analysing the distribution of crops driven by consumption.
 | 6	| Sugar cane, sugar beet	| p01.f	| C_SUGB|
 | 7	| Plant-based fibers	| p01.g	| C_FIBR|
 | 8	| Crops nec	| p01.h	| C_OTCR|
-{{< /table >}}
+{{< /tb >}}
 
 163 types of domestic extraction used for primary crops:
 
