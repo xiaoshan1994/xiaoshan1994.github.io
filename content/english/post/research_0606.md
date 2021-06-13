@@ -31,10 +31,10 @@ Keywords: primary crops; animal husbandry; spatially explicit; Multi-Regional In
 Using MRIO model with EXIOBASE, which is linked to crop and livestock data derived from FAOSTAT.
 
 The database includes **8 crop sectors** linking **163 types of crop** derived from **FAOSTAT** (domestic extraction of primary crops, cereals are based on the weight of dry grain, vegetable and fruits are based on the weight of fresh fruit of human consumption, treenuts are based on the weight of nut for sale) with input-output accounts (Table S 8.10). This forms the
-foundation for analyzing the distribution of crops driven by consumption.
-
-| Number	| Name	| CodeNr	| CodeTxt
-| --- |--- |--- |--- |
+foundation for analysing the distribution of crops driven by consumption.
+8 crop sectors in EXIOBASE:
+| Number | Name	| CodeNr	| CodeTxt |
+| --- | --- | --- | --- |
 | 1	| Paddy rice	| p01.a	| C_PARI|
 | 2	| Wheat	| p01.b	| C_WHEA|
 | 3	| Cereal grains nec	| p01.c	| C_OCER|
@@ -43,6 +43,23 @@ foundation for analyzing the distribution of crops driven by consumption.
 | 6	| Sugar cane, sugar beet	| p01.f	| C_SUGB|
 | 7	| Plant-based fibers	| p01.g	| C_FIBR|
 | 8	| Crops nec	| p01.h	| C_OTCR|
+
+163 types of domestic extraction used for primary crops:
+e.g.:
+Domestic Extraction Used - Primary Crops - Abaca	kt
+...
+
+We select related data from FAOSTAT to create **6 livestock satellite accounts** to match with EXIOBASE, including cattle, pig, chicken, duck, goat, and sheep (Table S 8.11).
+
+|EXIOBASE sector number| EXIOBASE name| FAOSTAT product names|
+| --- | --- | --- |
+|11 |Poultry |Eggs, hen, in shell|
+|14 |Raw milk |Milk, whole fresh cow; Milk, whole fresh goat; Milk, whole fresh sheep|
+|43 |Products of meat cattle |Hides, cattle, fresh; Meat indigenous, cattle|
+|44 |Products of meat pigs| Meat indigenous, pig|
+|45 |Products of meat poultry| Meat indigenous, chicken; Meat indigenous, duck|
+|46 |Meat products nec |Meat indigenous, goat; Skins, goat, fresh; Meat indigenous, sheep; Skins, sheep, fresh|
+
 
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
