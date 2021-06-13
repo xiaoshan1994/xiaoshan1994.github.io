@@ -34,7 +34,7 @@ The database includes **8 crop sectors** linking **163 types of crop** derived f
 foundation for analysing the distribution of crops driven by consumption.
 8 crop sectors in EXIOBASE:
 
-{{< tb "table table-striped table-bordered" >}}
+{{< tb "someclassname" >}}
 | Number | Name	| CodeNr	| CodeTxt |
 | --- | --- | --- | --- |
 | 1	| Paddy rice	| p01.a	| C_PARI|
