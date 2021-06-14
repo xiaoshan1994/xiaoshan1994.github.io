@@ -76,6 +76,7 @@ New assumption: Agricultural products have better access to markets if there are
 Methods: Allocating the spatial distribution of primary crops and livestock for export by **road density (RD)** from **Global Roads Inventory Project (GRIP)** (where a region is prior for production export if RD is higher than 100m/km2, while the rest as the first priority for domestic consumption).
 *(Canada is a special case. See appendices.)*
 
+###
 **4 types of Spatial data** employed in this paper:
 | Data	| Source	| Resolution |
 | --- | --- | --- |
