@@ -67,6 +67,15 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 
 ### The spatial distribution of crops and livestock
 
+### Global Roads Inventory Project (GRIP)
+
+Problem: The current approaches couldn't distinguish food production for local use (subsistence farming) or export use (industrial production) within a region.
+
+New assumption: Agricultural products have better access to markets if there are better transportation services.
+
+Methods: Allocating the spatial distribution of primary crops and livestock for export by **road density (RD)** from **Global Roads Inventory Project (GRIP)** (where a region is prior for production export if RD is higher than 100m/km2, while the rest as the first priority for domestic consumption).
+*(Canada is a special case. See appendices.)*
+
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
