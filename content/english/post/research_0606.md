@@ -76,6 +76,13 @@ New assumption: Agricultural products have better access to markets if there are
 Methods: Allocating the spatial distribution of primary crops and livestock for export by **road density (RD)** from **Global Roads Inventory Project (GRIP)** (where a region is prior for production export if RD is higher than 100m/km2, while the rest as the first priority for domestic consumption).
 *(Canada is a special case. See appendices.)*
 
+**4 types of Spatial data** employed in this paper:
+| Data	| Source	| Resolution |
+| --- | --- | --- |
+| Global distribution of livestock 244 | http://www.livestock.geo-wiki.org | 30 arc
+seconds|
+| Global administrative areas | https://gadm.org/data.html, Version 3.6 | vector data|
+| Global Roads Inventory Project (GRIP) 161 | http://www.globio.info/download-grip-dataset | 5 arc minutes|
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
