@@ -14,6 +14,8 @@ Categories:
 
 ## Industrial Ecology
 
+https://studiegids.universiteitleiden.nl/en/studies/8393/industrial-ecology#tab-1
+
 ### 1st year
 
 ![image](https://user-images.githubusercontent.com/65668613/122533011-614f0980-d021-11eb-8cac-65bdf4bcd2ed.png)
