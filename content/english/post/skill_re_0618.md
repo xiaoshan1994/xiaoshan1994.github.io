@@ -14,9 +14,15 @@ Categories:
 
 ## Industrial Ecology
 
-https://studiegids.universiteitleiden.nl/en/studies/8393/industrial-ecology#tab-1
+
+
+The MSc Industrial Ecology (joint degree Leiden University and TU Delft) is an interdisciplinary and international programme, which focuses on the analysis of sustainability problems and the design and implementation of solutions for these problems; all from a socio-technical system perspective. The aim of the programme is to educate students to become researchers or practitioners who can contribute to the development of solutions for persistent sustainability problems, such as related to resource depletion and climate change. The programme has been designed to transfer knowledge from natural science, engineering and social science, and enable students to integrate that knowledge to analyse sustainability problems and design science based solutions.
 
 ### 1st year
+
+The first year consists of 30 study credit (EC) in core courses, a 10 EC project course and room for 20 EC in elective courses.
+
+> One study credit (EC) is equivalent to 28 hours of work and includes lectures/tutorials, reading, preparing for tests, exams, the writing and assessment of papers, etc.
 
 ![image](https://user-images.githubusercontent.com/65668613/122533011-614f0980-d021-11eb-8cac-65bdf4bcd2ed.png)
 
