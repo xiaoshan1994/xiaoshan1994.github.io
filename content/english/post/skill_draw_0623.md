@@ -12,6 +12,8 @@ Categories:
 - Skill
 ---
 
+You can change your nudge increments distance in the Preferences Panel(Keyboard increments).
+
 ## Setting nudge distance/keyboard increment
 
 {{< youtube qG46R-U0Hhs >}}
