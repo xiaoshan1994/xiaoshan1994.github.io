@@ -67,6 +67,7 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 
 ### The spatial distribution of crops and livestock
 
+<<<<<<< HEAD
 For crops:
 **Spatial crop production data** is derived from the **Spatial Production Allocation Model (SPAM) version 3.2**.
 SPAM depicts the spatial distribution of **42 types of crop**, including variables on production, yield, physical area, and harvest area (using average value of statistical data from 2004 to 2006).
@@ -77,6 +78,25 @@ A high-resolution livestock density dataset at 30 Ã— 30 seconds for 2006 ( **5 Ã
 ### 
 
 
+=======
+### Global Roads Inventory Project (GRIP)
+
+Problem: The current approaches couldn't distinguish food production for local use (subsistence farming) or export use (industrial production) within a region.
+
+New assumption: Agricultural products have better access to markets if there are better transportation services.
+
+Methods: Allocating the spatial distribution of primary crops and livestock for export by **road density (RD)** from **Global Roads Inventory Project (GRIP)** (where a region is prior for production export if RD is higher than 100m/km2, while the rest as the first priority for domestic consumption).
+*(Canada is a special case. See appendices.)*
+
+###
+**4 types of Spatial data** employed in this paper:
+| Data	| Source	| Resolution |
+| --- | --- | --- |
+| Global distribution of livestock 244 | http://www.livestock.geo-wiki.org | 30 arc
+seconds|
+| Global administrative areas | https://gadm.org/data.html, Version 3.6 | vector data|
+| Global Roads Inventory Project (GRIP) 161 | http://www.globio.info/download-grip-dataset | 5 arc minutes|
+>>>>>>> 3633e3f119048e9b7a8af9023970ac962a519800
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
