@@ -67,18 +67,6 @@ We select related data from FAOSTAT to create **6 livestock satellite accounts**
 
 ### The spatial distribution of crops and livestock
 
-<<<<<<< HEAD
-For crops:
-**Spatial crop production data** is derived from the **Spatial Production Allocation Model (SPAM) version 3.2**.
-SPAM depicts the spatial distribution of **42 types of crop**, including variables on production, yield, physical area, and harvest area (using average value of statistical data from 2004 to 2006).
-
-For Livestock:
-A high-resolution livestock density dataset at 30 × 30 seconds for 2006 ( **5 × 5 minutes** actually to match with road density data), including cattle, goat, sheep, pig, chicken, and part of duck.
-
-### 
-
-
-=======
 ### Global Roads Inventory Project (GRIP)
 
 Problem: The current approaches couldn't distinguish food production for local use (subsistence farming) or export use (industrial production) within a region.
@@ -96,7 +84,6 @@ Methods: Allocating the spatial distribution of primary crops and livestock for 
 seconds|
 | Global administrative areas | https://gadm.org/data.html, Version 3.6 | vector data|
 | Global Roads Inventory Project (GRIP) 161 | http://www.globio.info/download-grip-dataset | 5 arc minutes|
->>>>>>> 3633e3f119048e9b7a8af9023970ac962a519800
 
 [^1]: e.g. Eutrophication, soil acidification, ecotoxicity, greenhouse gas emissions, and biodiversity loss.
 [^2]: Livestock feed potentially contains additives, antibiotics and antimicrobials, leading eutrophication, soil contamination and the spread of drug-resistant pathogens.
