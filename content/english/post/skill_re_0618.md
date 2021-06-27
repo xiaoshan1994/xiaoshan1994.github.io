@@ -1,5 +1,5 @@
 ---
-title:
+title: MSc Industrial Ecology programme
 date: 2021-06-18T10:37:22+02:00
 description:
 images:
@@ -13,8 +13,6 @@ Categories:
 ---
 
 ## Industrial Ecology
-
-
 
 The MSc Industrial Ecology (joint degree Leiden University and TU Delft) is an interdisciplinary and international programme, which focuses on the analysis of sustainability problems and the design and implementation of solutions for these problems; all from a socio-technical system perspective. The aim of the programme is to educate students to become researchers or practitioners who can contribute to the development of solutions for persistent sustainability problems, such as related to resource depletion and climate change. The programme has been designed to transfer knowledge from natural science, engineering and social science, and enable students to integrate that knowledge to analyse sustainability problems and design science based solutions.
 
