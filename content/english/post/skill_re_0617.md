@@ -3,9 +3,8 @@ title: Why Was My Paper Rejected without Review?
 date: 2021-06-17T09:54:35+02:00
 description: A guidance highlighting why your paper was rejected by Environmental Science & Technology and what basic characteristics your paper should possess so it can move forward.
 images:
-- http://depts.washington.edu/prgweb/wp-content/uploads/2015/03/Screen-Shot-2015-03-17-at-9.16.26-AM.png
-videos: [https://youtu.be/]
-thumbnail: http://depts.washington.edu/prgweb/wp-content/uploads/2015/03/Screen-Shot-2015-03-17-at-9.16.26-AM.png
+- https://www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
+thumbnail: https://www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
 tags:
 - writing
 - research
