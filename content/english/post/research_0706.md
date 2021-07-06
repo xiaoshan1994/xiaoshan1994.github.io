@@ -1,0 +1,39 @@
+---
+title: Spatially-explicit footprints of agricultural commodities: Mapping carbon emissions embodied in Brazil's soy exports
+date: 2021-07-06T17:08:59+02:00
+description: Quantifying the carbon footprint of Brazilian soy exports over the period 2010–2015 based on individual traded flows.
+images:
+- https://ars.els-cdn.com/content/image/1-s2.0-S0959378019308623-gr1.jpg
+thumbnail: https://ars.els-cdn.com/content/image/1-s2.0-S0959378019308623-gr1.jpg
+tags:
+- agriculture   
+- LCA
+- supply chain
+- deforestation
+Categories:
+- Research
+---
+### Abstract
+
+* LCA faces limitations when it comes to addressing spatial and temporal variability in production, transportation and manufacturing systems.
+* By the integration of LCA principles with enhanced physical trade flow analysis.
+* Estimating the carbon footprint[^1] of Brazilian soy exports over the period 2010–2015 based on over 90000 individual traded flows of beans, oil and protein cake from the municipality of origin through international markets.
+* A large spatial variability in co2 across sourcing areas, importers and sub-stages has been detected.
+* Total GHG emissions from Brazilian soy exports in 2010–2015 are estimated at 223.46 Mt, of which half were imported by China.
+
+### Introduction
+
+* A comparison of EE-MRIO and LCA: 
+  * Resource and emission footprints can be estimated at the sectoral or national level by using Environmentally-Extended EE-MRIO [^2]) models, at different levels of product detail.
+  * LCA is a suitable methodology to quantify environmental impacts of products or processes from 'cradle to grave'.
+  * The level of detail in the underlying resource and emission inventories however restricts the scope of application to a limited umber of scenarios, which represents steady-state "average" conditions. This is why LCA results are usually context-dependent and have a low spatial and temporal resolution.
+
+
+
+
+
+
+
+
+[^1]: Tones of carbon dioxide equivalents per tonne of product.
+[^2]: EE-MRIO: Environmentally-Extended Multi-Regional Input-Output models.
