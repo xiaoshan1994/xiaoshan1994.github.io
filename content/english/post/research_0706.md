@@ -1,5 +1,5 @@
 ---
-title: 'Spatially-explicit footprints of agricultural commodities: Mapping carbon emissions embodied in Brazil's soy exports'
+title: Spatially-explicit footprints of agricultural commodities Mapping carbon emissions embodied in Brazil's soy exports
 date: 2021-07-06T17:08:59+02:00
 description: Quantifying the carbon footprint of Brazilian soy exports over the period 2010–2015 based on individual traded flows.
 images:
