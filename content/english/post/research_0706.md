@@ -13,6 +13,7 @@ tags:
 Categories:
 - Research
 ---
+
 ### Abstract
 
 * LCA faces limitations when it comes to addressing spatial and temporal variability in production, transportation and manufacturing systems.
@@ -23,7 +24,7 @@ Categories:
 
 ### Introduction
 
-* A comparison of EE-MRIO and LCA: 
+* A comparison of EE-MRIO and LCA:
   * Resource and emission footprints can be estimated at the sectoral or national level by using Environmentally-Extended EE-MRIO [^2]) models, at different levels of product detail.
   * LCA is a suitable methodology to quantify environmental impacts of products or processes from 'cradle to grave'.
   * The level of detail in the underlying resource and emission inventories however restricts the scope of application to a limited umber of scenarios, which represents steady-state "average" conditions. This is why LCA results are usually context-dependent and have a low spatial and temporal resolution.
