@@ -5,7 +5,7 @@ tags:
 - machine learning
 - climate change
 Categories:
-- Literature
+- Research
 thumbnail: https://user-images.githubusercontent.com/65668613/118470042-99072080-b706-11eb-959d-87f346f50459.png
 ---
 Identify climate change problems where existing gaps can be filled by machine learning.

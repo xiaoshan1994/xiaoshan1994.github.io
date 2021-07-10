@@ -7,7 +7,7 @@ images:
 thumbnail: https://i.ytimg.com/vi/Bye-XjYGOzM/maxresdefault.jpg
 tags:
 - MRIO
-- agriculture and food
+- agriculture 
 Categories:
 - Research
 ---
