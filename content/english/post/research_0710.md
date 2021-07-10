@@ -1,26 +1,13 @@
 ---
-title:
+title: From Satellite to Supply Chain: New Approaches Connect Earth Observation to Economic Decisions
 date: 2021-07-10T10:10:29+02:00
 description:
 images:
 -
-videos: [https://youtu.be/]
 thumbnail:
 tags:
--
--
+- MRIO
+- Daniel
 Categories:
--
+- Research
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
-
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
-
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
-
-
-The first sentence as a summary showing in the index list needs a full stop.
