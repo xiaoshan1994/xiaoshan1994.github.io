@@ -44,6 +44,14 @@ Examples for this approach:
 * Europe's raw-material footprint and related global impacts [^3];
 * Industrial Ecology Virtual Lab [^4].
 
+> **Industrial-specific initiatives** for supply-chain transparency *at the producer end* (such as the Extractive Industry Transparency Initiative or the Roundtable on Sustainable Palm Oil) are valuable.
+
+> *At the consumption end* of supply chains, a growing share of many countries’ environmental and social impacts occurs abroad.
+
+> *Individual consumers* too are increasingly asking for the locations and magnitude of the impacts associated with their choices.
+
+
+
 
 
 
