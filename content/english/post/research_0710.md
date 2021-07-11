@@ -25,3 +25,20 @@ Latest **satellite sensor technologies** and **hyperspectral image-processing ap
 * urban and road expansion
 * seasonal availability of surface water
 * deforestation and biodiversity loss
+
+A game changer when integrating spatially explicit supply-chain information into financial dashboards:
+
+* Assess **impact hot-spots** within complete supply-chain footprints
+* Choose **cost-effective interventions** to decrease environmental-impact profile
+* Evaluate **investment risk**
+
+Information theory combining multiple layers of spatially explicit model:
+
+* Maximum-entropy models
+* Bayesian methods
+
+Examples for this approach:
+* Linking supply chains to global biodiversity hotspots [^1]
+* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail (https://trase.earth/)
+
+[^1]: http://refhub.elsevier.com/S2590-3322(20)30296-7/sref10
