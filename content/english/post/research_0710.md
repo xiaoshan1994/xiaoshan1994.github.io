@@ -1,5 +1,5 @@
 ---
-title: From Satellite to Supply Chain: New Approaches Connect Earth Observation to Economic Decisions
+title: 'From Satellite to Supply Chain: New Approaches Connect Earth Observation to Economic Decisions'
 date: 2021-07-10T10:10:29+02:00
 description: To help businesses and governments realize more sustainable
 supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools.
