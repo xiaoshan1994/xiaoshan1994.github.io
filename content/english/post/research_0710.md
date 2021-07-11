@@ -13,6 +13,8 @@ Categories:
 - Research
 ---
 
+To help businesses and governments realize more sustainable supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools[^1].
+
 Businesses, consumers, and shareholders demand robust data on climate, biodiversity, and resource footprints to inform their economic decisions:
 
 * Microsoft’s carbon-negative pledge;
@@ -39,24 +41,26 @@ Information theory combining multiple layers of spatially explicit model:
 
 Examples for this approach:
 
-* Linking supply chains to global biodiversity hotspots [^1];
-* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail [^2];
-* Europe's raw-material footprint and related global impacts [^3];
-* Industrial Ecology Virtual Lab [^4].
+* Linking supply chains to global biodiversity hotspots [^2];
+* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail [^3];
+* Europe's raw-material footprint and related global impacts [^4];
+* Industrial Ecology Virtual Lab [^5].
 
-> **Industrial-specific initiatives** for supply-chain transparency *at the producer end* (such as the Extractive Industry Transparency Initiative or the Roundtable on Sustainable Palm Oil) are valuable.
+**Industrial-specific initiatives** for supply-chain transparency *at the producer end* (such as the Extractive Industry Transparency Initiative or the Roundtable on Sustainable Palm Oil) are valuable.
 
-> *At the consumption end* of supply chains, a growing share of many countries’ environmental and social impacts occurs abroad.
+*At the consumption end* of supply chains, a growing share of many countries’ environmental and social impacts occurs abroad.
 
-> *Individual consumers* too are increasingly asking for the locations and magnitude of the impacts associated with their choices.
+*Individual consumers* too are increasingly asking for the locations and magnitude of the impacts associated with their choices.
 
-
-
-
+Better supply-chain transparency can enable an accountability framework that triggers the adoption of higher environmental and social standards in producing regions.
 
 
 
-[^1]: https://www.nature.com/articles/s41559-016-0023
-[^2]: https://trase.earth/
-[^3]: https://www.fineprint.global/
-[^4]: https://ielab.info/
+
+
+
+[^1]: https://www.sciencedirect.com/science/article/pii/S2590332220302967?via%3Dihub
+[^2]: https://www.nature.com/articles/s41559-016-0023
+[^3]: https://trase.earth/
+[^4]: https://www.fineprint.global/
+[^5]: https://ielab.info/
