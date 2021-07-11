@@ -1,8 +1,8 @@
 ---
-title: "GIA in the EIOA class: exploring the impact of Brexit (2)"
+title: "From Satellite to Supply Chain: New Approaches Connect Earth Observation to Economic Decisions"
 date: 2021-07-10T10:10:29+02:00
-description: To help businesses and governments realize more sustainable
-supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools.
+description: "To help businesses and governments realize more sustainable
+supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools."
 images:
 - https://pbs.twimg.com/profile_images/1220401796725854208/-cuJ-hzz_400x400.jpg
 thumbnail: https://pbs.twimg.com/profile_images/1220401796725854208/-cuJ-hzz_400x400.jpg
