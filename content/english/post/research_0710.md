@@ -39,6 +39,8 @@ Information theory combining multiple layers of spatially explicit model:
 
 Examples for this approach:
 * Linking supply chains to global biodiversity hotspots [^1]
-* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail (https://trase.earth/)
+* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail [^2]
 
-[^1]: http://refhub.elsevier.com/S2590-3322(20)30296-7/sref10
+
+[^1]: https://www.nature.com/articles/s41559-016-0023
+[^2]: https://trase.earth/
