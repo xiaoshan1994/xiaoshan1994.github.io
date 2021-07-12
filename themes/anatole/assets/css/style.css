@@ -65,9 +65,9 @@ a {
 }
 
 blockquote {
-    font-family: kings-caslon, sans-serif;
-    font-wight: 500;
-    font-style: italic;
+    font-family: le-havre-rounded, sans-serif;
+    font-wight: 400;
+    font-style: Regular Italic;
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
@@ -76,8 +76,8 @@ blockquote {
 }
 
 blockquote p {
-  font-size: 14px;
-  line-height: 1.5
+  font-size: 15px;
+  line-height: 1.6
 }
 
 .category {
