@@ -67,12 +67,11 @@ a {
 blockquote {
     font-family: 'Kalam', cursive;
     padding: 0 1em;
-    border-left: solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
 }
 
 blockquote p {
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.2
 }
 
