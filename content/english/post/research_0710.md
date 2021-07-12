@@ -9,9 +9,19 @@ thumbnail: https://i.ytimg.com/vi/QQYgCxu988s/maxresdefault.jpg
 tags:
 - MRIO
 - Daniel
+- supply chains
 Categories:
 - Research
 ---
+{{< gfont font="Kalam" size="20" >}}
+Kai:
+why we need  more transparent supply chains?
+* A growing share of countries that goods and commodities are mostly produced overseas;
+* Businesses and shareholders need to identify and evaluate the potential environmental impacts and biodiversity loss of their foreign producers;
+* Contributing to more industry-specific initiatives for supply-chain transparency.
+* Individual consumers increasingly ask for the locations and magnitude of the impacts associated with their choices.
+* Contributing to an accountability framework that triggers higher environmental standards in producing countries.
+{{< /gfont >}}
 
 To help businesses and governments realize more sustainable supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools[^1].
 
