@@ -41,10 +41,10 @@ Information theory combining multiple layers of spatially explicit model:
 
 Examples for this approach:
 
-* Linking supply chains to global biodiversity hotspots [^2];
-* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail [^3];
-* Europe's raw-material footprint and related global impacts [^4];
-* Industrial Ecology Virtual Lab [^5].
+* Linking supply chains to global biodiversity hotspots[^2];
+* Mapping supply chains of tropical-forest risk commodities and their embedded deforestation with company-level detail[^3];
+* Europe's raw-material footprint and related global impacts[^4];
+* Industrial Ecology Virtual Lab[^5].
 
 **Industrial-specific initiatives** for supply-chain transparency *at the producer end* (such as the Extractive Industry Transparency Initiative or the Roundtable on Sustainable Palm Oil) are valuable.
 
