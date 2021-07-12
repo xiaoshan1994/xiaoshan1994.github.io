@@ -69,7 +69,7 @@ blockquote {
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
-    margin:0
+    margin:0;
     background-color: #f0f0f0
 }
 
