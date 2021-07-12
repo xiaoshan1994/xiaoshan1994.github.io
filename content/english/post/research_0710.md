@@ -55,10 +55,6 @@ Examples for this approach:
 Better supply-chain transparency can enable an accountability framework that triggers the adoption of higher environmental and social standards in producing regions.
 
 
-
-
-
-
 [^1]: https://www.sciencedirect.com/science/article/pii/S2590332220302967?via%3Dihub
 [^2]: https://www.nature.com/articles/s41559-016-0023
 [^3]: https://trase.earth/
