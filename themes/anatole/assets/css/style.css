@@ -70,12 +70,12 @@ blockquote {
     border-left: .25em solid var(--blockquote-border-color);
     color: var(--blockquote-text-color);
     margin:0;
-    background-color: #f0f0f0
+    background-color:#f0f0f0
 }
 
 blockquote p {
   font-size: 14px;
-  line-height: 1.2
+  line-height: 1.2;
 }
 
 .category {
