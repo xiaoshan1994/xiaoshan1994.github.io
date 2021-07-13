@@ -56,8 +56,9 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 * Energy system: mining for fossil fuels and renewables, refinement[^1], transmission[^2] and power plants (varying resolutions for the energy system).
 
 Related datasets:
-1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability),published on 15 January 2020;
-2. A global-scale data set of **mining areas**
+1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability). OpenStreetMap, published on 15 January 2020;
+2. [A global-scale data set of **mining areas**](https://www.nature.com/articles/s41597-020-00624-w). Vienna (Wu), satellite images, including open cuts, tailings dams, waste rock dumps, water ponds, and processing infrastructure, 21,060 polygons that add up to 57,277 km2, published on 08 September 2020;
+
 
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
