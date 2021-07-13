@@ -55,7 +55,7 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 * Food system: 5-arc-minutes biomass maps: crop, animal and forestry databases (e.g. cropland for fodder, human consumption and biofuels).
 * Energy system: mining for fossil fuels and renewables, refinement[^1], transmission[^2] and power plants (varying resolutions for the energy system).
 
-Related datasets: Harmonised global datasets of "[**wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability)"
+Related datasets: Harmonised global datasets of [**wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability).
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
 >[regions of high inequality](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637951/EPRS_BRI(2019)637951_EN.pdf): regions where the people have a relatively lower income than other regions.
