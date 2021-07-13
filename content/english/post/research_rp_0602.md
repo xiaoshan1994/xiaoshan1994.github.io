@@ -66,3 +66,9 @@ The need for a high spatial resolution and supply-chain integrated model to full
 
 About "[closing the yield gaps](https://wad.jrc.ec.europa.eu/yieldsgaps)" given by European Commission.
 Currently, a coarse resolution at ~25acrmin. ---> we want to build a 5arcmin one.
+
+### Summary
+
+1. To integrate production maps with environmental and social pressures. (eg. co2, natural carbon storage, inequality and land grabbig)
+output: a production-based footprint of food and energy systems.
+2. then we 
