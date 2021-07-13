@@ -62,6 +62,7 @@ Related datasets:
 (3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
 
 
+
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
 >[regions of high inequality](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637951/EPRS_BRI(2019)637951_EN.pdf): regions where the people have a relatively lower income than other regions.
 
