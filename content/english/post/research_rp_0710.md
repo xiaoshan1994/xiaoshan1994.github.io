@@ -24,7 +24,8 @@ environmental impacts and biodiversity loss of their foreign producers;
 
 ### Main perspectives
 
-To help businesses and governments realize more sustainable supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools[^1].
+To help businesses and governments realize more sustainable supply chains, new approaches are using spatial data and machine-learning techniques to connect Earth observation data to conventional economic tools[^tools].
+[^tools]: https://www.sciencedirect.com/science/article/pii/S2590332220302967?via%3Dihub
 
 Businesses, consumers, and shareholders demand robust data on climate, biodiversity, and resource footprints to inform their economic decisions:
 
@@ -66,7 +67,6 @@ Examples for this approach:
 Better supply-chain transparency can enable an accountability framework that triggers the adoption of higher environmental and social standards in producing regions.
 
 
-[^1]: https://www.sciencedirect.com/science/article/pii/S2590332220302967?via%3Dihub
 [^2]: https://www.nature.com/articles/s41559-016-0023
 [^3]: https://trase.earth/
 [^4]: https://www.fineprint.global/
