@@ -46,14 +46,15 @@ Categories:
 
 ## Working packages
 
-WP1：Assessing spatially explicit **production-based footprints** (land use actually) of food and energy systems.
+### WP1：Assessing spatially explicit production-based footprints (land use actually) of food and energy systems.
+
 * A set of globally consistent geographical information databases.
 * Food system: 5-arc-minutes biomass maps: crop, animal and forestry databases (e.g. cropland for fodder, human consumption and biofuels).
 * Energy system: mining for fossil fuels and renewables, refinement[^re], transmission[^tr] and power plants (varying resolutions for the energy system).
 [^re]: Refining: A petroleum refinery is a processing plant that converts crude oil into a mix of different finished petroleum products.
 [^tr]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
 
-Related datasets:
+### Related land-use footprint datasets
 
 1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8). OpenStreetMap, published on 15 January 2020;
 
@@ -64,25 +65,21 @@ Related datasets:
 
 4. [Global Power Plant Database v1.3.0](https://datasets.wri.org/dataset/globalpowerplantdatabase), World Resources Institute, June 2021, csv, 35000 power plants over 167 countries, including thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar).
 
-5. [EDGAR V6.0 Global GHG Emissions per sector and country](https://edgar.jrc.ec.europa.eu/dataset_ghg60), 1970–2018, 0.1degree x 0.1degree;
+### Related environmental pressures datasets:
+
+1. [EDGAR V6.0 Global GHG Emissions per sector and country](https://edgar.jrc.ec.europa.eu/dataset_ghg60), 1970–2018, 0.1degree x 0.1degree;
+
 
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
 >[regions of high inequality](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637951/EPRS_BRI(2019)637951_EN.pdf): regions where the people have a relatively lower income than other regions.
 
 
-About "[closing the yield gaps](https://wad.jrc.ec.europa.eu/yieldsgaps)" given by European Commission.
-Currently, a coarse resolution at ~25acrmin. ---> we want to build a 5arcmin one.
 
 
-EDGAR V6.0 Global GHG Emissions per sector and country (1970–2018, 0.1degree x 0.1degree)[^1].
-Global wildfire dataset
 
 
-[^1]:https://edgar.jrc.ec.europa.eu/dataset_ghg60
-
-
-### Summary
+## Summary
 
 1. To integrate production maps with environmental and social pressures. (eg. co2, natural carbon storage, inequality and land grabbig)
 Output: a globally production-based footprint (land use) of food and energy systems.
