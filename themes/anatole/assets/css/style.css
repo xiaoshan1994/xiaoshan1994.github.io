@@ -1161,12 +1161,10 @@ print {
 
 @media (min-width: 1921px){
     .content {
-        padding-right: 10%;
-        width: 60%;
+        width: 70%;
     }
     .sidebar {
-        padding-left: 5%;
-        width: 25%;
+        width: 30%;
     }
 }
 
