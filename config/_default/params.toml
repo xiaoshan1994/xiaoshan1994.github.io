@@ -10,7 +10,7 @@ profilePicture = "images/profile.png"
 favicon = "favicons/"
 mainSections = ["post"]
 doNotLoadAnimations = false
-contentratio = 0.9
+contentratio = 0.8
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
 # Google Site Verify
