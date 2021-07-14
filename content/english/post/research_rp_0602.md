@@ -29,11 +29,11 @@ Categories:
 3. Local conditions are key to identifying net-zero trade-offs and opportunities
   * large changes in land use like land sparing/sharing, biodiversity preservation and synergistic renewable energy development aligned with other net-zero targets
   * Natural climate solutions and carbon sequestration opportunities in the sparing land. Land and mining requirements for renewable energy.)
-  Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+  Here's a simple footnote,[^fi] and here's a longer one.[^bi]
 
-[^1]: This is the first footnote.
+[^fi]: This is the first footnote.
 
-[^bignote]: Here's one with multiple paragraphs and code.
+[^bi]: Here's one with multiple paragraphs and code.
 4. Therefore we need a high-spatial resolution and a supply-chain integrated model to fully assess EU net-zero strategies and pathways.
   * Disadvantages of current land-use models:  
     a coarse resolution at ~25arcmin (45km);
@@ -53,7 +53,7 @@ Categories:
 WP1：Assessing spatially explicit **production-based footprints** (land use actually) of food and energy systems.
 * A set of globally consistent geographical information databases.
 * Food system: 5-arc-minutes biomass maps: crop, animal and forestry databases (e.g. cropland for fodder, human consumption and biofuels).
-* Energy system: mining for fossil fuels and renewables, refinement[^1], transmission[^2] and power plants (varying resolutions for the energy system).
+* Energy system: mining for fossil fuels and renewables, refinement[^re], transmission[^tr] and power plants (varying resolutions for the energy system).
 
 Related datasets:
 1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability). OpenStreetMap, published on 15 January 2020;
@@ -62,9 +62,6 @@ Related datasets:
 >(3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
 
 4. [Global Power Plant Database v1.3.0](https://datasets.wri.org/dataset/globalpowerplantdatabase), World Resources Institute, June 2021, csv, 35000 power plants over 167 countries, including thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar).
-
-
-
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
 >[regions of high inequality](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637951/EPRS_BRI(2019)637951_EN.pdf): regions where the people have a relatively lower income than other regions.
