@@ -21,8 +21,8 @@ Categories:
 
 ## Cause and effect
 
-1. To avoid environmental damage, the food and energy systems urgently need transition. EU net-zero strategies(including but not limited to): consumption shifts(transition to nationally recommended diets, plant-based diets, reduced consumer waste, and closing yield gaps) and co2 removal.
-> About "[closing the yield gaps](https://wad.jrc.ec.europa.eu/yieldsgaps)" given by European Commission.
+1. To avoid environmental damage, the food and energy systems urgently need transition. EU net-zero strategies(including but not limited to): consumption shifts(transition to nationally recommended diets, plant-based diets, reduced consumer waste, and closing yield gaps[^cyp]) and co2 removal.
+[^cyp]: About "[closing the yield gaps](https://wad.jrc.ec.europa.eu/yieldsgaps)" given by European Commission.
 
 2. Proposed net-zero strategies will have enormous impacts across nations and continents as EU engages in larger net-imports of resources and emissions than any other continents.
 
