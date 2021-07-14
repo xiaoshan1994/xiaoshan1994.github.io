@@ -977,7 +977,7 @@ a.btn {
 @media screen and (max-width: 1281px),
 print {
     .sidebar {
-        width: 30%;
+        width: 100%;
         position: absolute;
         border-right: none;
         z-index: 1;
@@ -1161,11 +1161,11 @@ print {
 
 @media (min-width: 1921px){
     .content {
-        padding-right: 25%;
-        width: 35%;
+        padding-right: 10%;
+        width: 60%;
     }
     .sidebar {
-        padding-left: 15%;
+        padding-left: 5%;
         width: 25%;
     }
 }
