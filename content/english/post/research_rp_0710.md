@@ -16,11 +16,11 @@ Categories:
 
 ### why we need  more transparent supply chains?
 
-* A growing share of countries that goods and commodities are mostly produced overseas;
-* Businesses and shareholders need to identify and evaluate the potential environmental impacts and biodiversity loss of their foreign producers;
-* Contributing to more industry-specific initiatives for supply-chain transparency.
-* Individual consumers increasingly ask for the locations and magnitude of the impacts associated with their choices.
-* Contributing to an accountability framework that triggers higher environmental standards in producing countries.
+* A growing share of countries’ environmental and social impacts occurs abroad;
+* Businesses and shareholders need to identify and evaluate the potential
+environmental impacts and biodiversity loss of their foreign producers;
+* Individual consumers increasingly ask for the locations and magnitude of the impacts associated with their choices;
+* Contributing to an accountability framework that would trigger higher environmental standards in the specific industry of producing countries.
 
 ### Main perspectives
 
