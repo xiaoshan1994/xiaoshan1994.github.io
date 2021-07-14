@@ -65,7 +65,7 @@ Categories:
 
 4. [Global Power Plant Database v1.3.0](https://datasets.wri.org/dataset/globalpowerplantdatabase), World Resources Institute, June 2021, csv, 35000 power plants over 167 countries, including thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar).
 
-### Related environmental pressures datasets:
+### Related environmental pressures datasets
 
 1. [EDGAR V6.0 Global GHG Emissions per sector and country](https://edgar.jrc.ec.europa.eu/dataset_ghg60), 1970–2018, 0.1degree x 0.1degree;
 
