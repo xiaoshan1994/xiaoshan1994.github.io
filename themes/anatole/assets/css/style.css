@@ -587,7 +587,7 @@ a:active {
 }
 
 .post .post-thumbnail img {
-    width: 100%;
+    width: 80%;
     height: var(--thumbnail-height);
     object-fit: cover;
     border: 1px solid var(--border-color);
