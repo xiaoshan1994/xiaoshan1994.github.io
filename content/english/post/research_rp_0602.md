@@ -50,6 +50,8 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 * A set of globally consistent geographical information databases.
 * Food system: 5-arc-minutes biomass maps: crop, animal and forestry databases (e.g. cropland for fodder, human consumption and biofuels).
 * Energy system: mining for fossil fuels and renewables, refinement[^re], transmission[^tr] and power plants (varying resolutions for the energy system).
+[^re]: Refining: A petroleum refinery is a processing plant that converts crude oil into a mix of different finished petroleum products.
+[^tr]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
 
 Related datasets:
 1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability). OpenStreetMap, published on 15 January 2020;
@@ -71,8 +73,6 @@ Currently, a coarse resolution at ~25acrmin. ---> we want to build a 5arcmin one
 EDGAR V6.0 Global GHG Emissions per sector and country (1970–2018, 0.1degree x 0.1degree)[^1].
 Global wildfire dataset
 
-[^re]: Refining: A petroleum refinery is a processing plant that converts crude oil into a mix of different finished petroleum products.
-[^tr]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
 [^3]: https://www.nature.com/articles/s41597-020-0469-8#code-availability
 [^1]:https://edgar.jrc.ec.europa.eu/dataset_ghg60
 
