@@ -215,7 +215,7 @@ a:active {
 
 .page-top {
     width: 70%;
-    position: fixed;
+    position: relative;
     right: 0;
     z-index: 3;
     background-color: var(--bg-color);
