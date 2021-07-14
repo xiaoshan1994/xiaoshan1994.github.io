@@ -74,8 +74,8 @@ Currently, a coarse resolution at ~25acrmin. ---> we want to build a 5arcmin one
 EDGAR V6.0 Global GHG Emissions per sector and country (1970–2018, 0.1degree x 0.1degree)[^1].
 Global wildfire dataset
 
-[^1]: Refining: A petroleum refinery is a processing plant that converts crude oil into a mix of different finished petroleum products.
-[^2]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
+[^re]: Refining: A petroleum refinery is a processing plant that converts crude oil into a mix of different finished petroleum products.
+[^tr]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
 [^3]: https://www.nature.com/articles/s41597-020-0469-8#code-availability
 [^1]:https://edgar.jrc.ec.europa.eu/dataset_ghg60
 
