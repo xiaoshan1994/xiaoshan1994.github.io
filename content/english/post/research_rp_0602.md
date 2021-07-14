@@ -54,7 +54,10 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 [^tr]: Energy transmission is the most basic function of **global energy interconnection**. Electric energy transmission is an important mode of **energy transport**, with the flow of electricity generated from coal as well as hydro, nuclear, wind, and solar energy all transmitted through power grids.
 
 Related datasets:
+
 1. [Harmonised global datasets of **wind and solar farm locations and power**[^wind and solar]](https://www.nature.com/articles/s41597-020-0469-8#code-availability). OpenStreetMap, published on 15 January 2020;
+[^wind and solar]: https://www.nature.com/articles/s41597-020-0469-8#code-availability
+
 2. [A global-scale data set of **mining areas**](https://www.nature.com/articles/s41597-020-00624-w). Vienna (Wu), satellite images, including open cuts, tailings dams, waste rock dumps, water ponds, and processing infrastructure, 21,060 polygons that add up to 57,277 km2, published on 08 September 2020;
 3. [**Global mining areas** targeting materials critical for renewable energy production and other materials](https://figshare.com/articles/dataset/Global_mining_areas_targeting_materials_critical_for_renewable_energy_production_and_other_materials/12630092), from paper [*Renewable energy production will exacerbate mining threats to biodiversity*](https://www.nature.com/articles/s41467-020-17928-5), Nature Communications, published on 01 September 2020;
 >(3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
@@ -73,7 +76,7 @@ Currently, a coarse resolution at ~25acrmin. ---> we want to build a 5arcmin one
 EDGAR V6.0 Global GHG Emissions per sector and country (1970–2018, 0.1degree x 0.1degree)[^1].
 Global wildfire dataset
 
-[^wind and solar]: https://www.nature.com/articles/s41597-020-0469-8#code-availability
+
 [^1]:https://edgar.jrc.ec.europa.eu/dataset_ghg60
 
 
