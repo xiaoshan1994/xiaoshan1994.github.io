@@ -28,12 +28,8 @@ Categories:
 
 3. Local conditions are key to identifying net-zero trade-offs and opportunities
   * large changes in land use like land sparing/sharing, biodiversity preservation and synergistic renewable energy development aligned with other net-zero targets
-  * Natural climate solutions and carbon sequestration opportunities in the sparing land. Land and mining requirements for renewable energy.)
-  Here's a simple footnote,[^fi] and here's a longer one.[^bi]
+  * Natural climate solutions and carbon sequestration opportunities in the sparing land. Land and mining requirements for renewable energy.
 
-[^fi]: This is the first footnote.
-
-[^bi]: Here's one with multiple paragraphs and code.
 4. Therefore we need a high-spatial resolution and a supply-chain integrated model to fully assess EU net-zero strategies and pathways.
   * Disadvantages of current land-use models:  
     a coarse resolution at ~25arcmin (45km);
