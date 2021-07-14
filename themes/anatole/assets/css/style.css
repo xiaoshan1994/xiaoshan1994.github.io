@@ -224,7 +224,7 @@ a:active {
 }
 
 .page-top .nav {
-    position: relative;
+    position: fixed;
     list-style: none;
     padding: 7px 30px;
     float: left;
@@ -297,7 +297,7 @@ a:active {
     position: relative;
     z-index: 10;
     border-right: 1px solid var(--border-color);
-    display: flex;
+    display:flex;
     flex-direction: column;
     min-height: 100%;
 }
