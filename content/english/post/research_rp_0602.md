@@ -55,8 +55,7 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 
 Related datasets:
 
-1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability)[^wind and solar]. OpenStreetMap, published on 15 January 2020;
-[^wind and solar]: https://www.nature.com/articles/s41597-020-0469-8#code-availability
+1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8). OpenStreetMap, published on 15 January 2020;
 
 2. [A global-scale data set of **mining areas**](https://www.nature.com/articles/s41597-020-00624-w). Vienna (Wu), satellite images, including open cuts, tailings dams, waste rock dumps, water ponds, and processing infrastructure, 21,060 polygons that add up to 57,277 km2, published on 08 September 2020;
 
@@ -64,6 +63,8 @@ Related datasets:
 >An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
 
 4. [Global Power Plant Database v1.3.0](https://datasets.wri.org/dataset/globalpowerplantdatabase), World Resources Institute, June 2021, csv, 35000 power plants over 167 countries, including thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar).
+
+5. [EDGAR V6.0 Global GHG Emissions per sector and country](https://edgar.jrc.ec.europa.eu/dataset_ghg60), 1970–2018, 0.1degree x 0.1degree;
 
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
