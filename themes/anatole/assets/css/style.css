@@ -977,7 +977,7 @@ a.btn {
 @media screen and (max-width: 1281px),
 print {
     .sidebar {
-        width: 100%;
+        width: 30%;
         position: absolute;
         border-right: none;
         z-index: 1;
