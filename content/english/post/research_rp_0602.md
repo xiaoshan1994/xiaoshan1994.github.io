@@ -41,6 +41,7 @@ Categories:
   [^sw]: Papers: [Brazilian soy and SEI-PCS model](https://www.sciencedirect.com/science/article/pii/S0921800915000427#!);
   [The Construction of the Food and Agriculture Biomass Input–Output Model](https://pubs.acs.org/doi/10.1021/acs.est.9b03554);
   [Building global physical input-output tables in a virtual laboratory](https://epub.wu.ac.at/7949/1/WP_36.pdf).
+
 5. Finally we will go beyond this by building a spatially explicit, trade-linked global toolbox and use it to assess environmental and social footprints of EU net-zero strategies to 2050.
 
 ## Working packages
@@ -57,6 +58,7 @@ Related datasets:
 >(3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
 
 4. [Global Power Plant Database v1.3.0](https://datasets.wri.org/dataset/globalpowerplantdatabase), World Resources Institute, June 2021, csv, 35000 power plants over 167 countries, including thermal plants (e.g. coal, gas, oil, nuclear, biomass, waste, geothermal) and renewables (e.g. hydro, wind, solar).
+
 
 The need for a high spatial resolution and supply-chain integrated model to fully assess EU net-zero strategies and pathways.
 >[regions of high inequality](https://www.europarl.europa.eu/RegData/etudes/BRIE/2019/637951/EPRS_BRI(2019)637951_EN.pdf): regions where the people have a relatively lower income than other regions.
