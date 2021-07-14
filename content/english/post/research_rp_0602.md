@@ -58,8 +58,10 @@ WP1：Assessing spatially explicit **production-based footprints** (land use act
 Related datasets:
 1. [Harmonised global datasets of **wind and solar farm locations and power**](https://www.nature.com/articles/s41597-020-0469-8#code-availability). OpenStreetMap, published on 15 January 2020;
 2. [A global-scale data set of **mining areas**](https://www.nature.com/articles/s41597-020-00624-w). Vienna (Wu), satellite images, including open cuts, tailings dams, waste rock dumps, water ponds, and processing infrastructure, 21,060 polygons that add up to 57,277 km2, published on 08 September 2020;
-3. [**Global mining areas** targeting materials critical for renewable energy production and other materials](https://figshare.com/articles/dataset/Global_mining_areas_targeting_materials_critical_for_renewable_energy_production_and_other_materials/12630092), from paper [*Renewable energy production will exacerbate mining threats to biodiversity*](https://www.nature.com/articles/s41467-020-17928-5), Nature Communications, published on 01 September 2020.
-(3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
+3. [**Global mining areas** targeting materials critical for renewable energy production and other materials](https://figshare.com/articles/dataset/Global_mining_areas_targeting_materials_critical_for_renewable_energy_production_and_other_materials/12630092), from paper [*Renewable energy production will exacerbate mining threats to biodiversity*](https://www.nature.com/articles/s41467-020-17928-5), Nature Communications, published on 01 September 2020;
+>(3): An associated paid dataset from [S&P Global Market Intelligence](https://www.spglobal.com/marketintelligence/en/campaigns/metals-mining), with [its coverage](https://www.spglobal.com/marketintelligence/en/documents/001_spgmi011_metals-mining-cv-flyer-sales-slick_us_418.pdf).
+
+4. [Global Power Plant Database](https://datasets.wri.org/dataset/globalpowerplantdatabase),
 
 
 
