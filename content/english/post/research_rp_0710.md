@@ -10,6 +10,7 @@ tags:
 - MRIO
 - Daniel
 - supply chains
+- research proposal
 Categories:
 - Research
 ---
