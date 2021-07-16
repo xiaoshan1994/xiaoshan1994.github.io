@@ -224,6 +224,7 @@ a:active {
 }
 
 .page-top .nav {
+    position: fixed;
     list-style: none;
     padding: 7px 30px;
     float: left;
@@ -296,7 +297,7 @@ a:active {
     position: fixed;
     z-index: 10;
     border-right: 1px solid var(--border-color);
-    display: flex;
+    display:flex;
     flex-direction: column;
     min-height: 100%;
 }
@@ -1160,12 +1161,10 @@ print {
 
 @media (min-width: 1921px){
     .content {
-        padding-right: 25%;
-        width: 35%;
+        width: 70%;
     }
     .sidebar {
-        padding-left: 15%;
-        width: 25%;
+        width: 30%;
     }
 }
 
