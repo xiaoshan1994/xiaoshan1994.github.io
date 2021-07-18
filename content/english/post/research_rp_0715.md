@@ -27,3 +27,5 @@ Thoughts: Exported products. Or maybe mineral products regarding the energy tran
 3. How to make sure it is the production or the resource extraction for export rather than other factors that cause the potential change of the local people’s income?
 
 Thoughts: There are a lot of factors can affect local people's income. It seems not reasonable if we directly map production to inequality.
+
+4. (same to the question above) In work package 1 where production-based footprints and environmental and social presssures are measured by maps, how to make sure the changes of CO2(just one example indicator) are due to the changes in energy and food production? rather than the maps not inlcluded, eg.tranpsort?
