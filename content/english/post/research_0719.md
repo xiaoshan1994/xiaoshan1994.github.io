@@ -19,14 +19,14 @@ A global multi-regional input−output database (EXIOBASE) with a focus on envir
 
 Compared to other databases, EXIOBASE has a clear environmental and resource focus with high levels of detail in primary production.
 
-Harmonizing and detailing supply and use tables (SUT):
+#### Harmonizing and detailing supply and use tables (SUT):
 
 * **Gathering SUT from the relevant statistical offices**. In the specific case of EXIOBASE, data is gathered from the EU27 via Eurostat, and other SUT and IO tables from 16 other countries. Together, these cover 90% of the global gross domestic product (GDP). (See supporting
 information for further details.)
 * **Harmonizing SUT to allow for consistency in pricing layers** (treatment of margins and taxes), and for the consistent treatment of purchases by residents whilst abroad.
 * **Detailing SUT to give a consistent classification** or, at a minimum, a link between classified imports and exports of different countries. This is either done through basic assumptions or, in the case of EXIOBASE, by using **auxiliary data** from **FAO and European AgroSAM for agriculture**, the **International Energy Agency (IEA) database for energy carriers[^ca] and electricity**, various resource databases for resources, etc.
 
-Harmonizing and estimating environmental and social extensions:
+#### Harmonizing and estimating environmental and social extensions:
 
 The objective of EXIOBASE is to integrate a larger amount of data from environmental accounts, covering both resource inputs (energy, materials, water and land), as well as outputs of waste and emissions to air and water.
 * Collecting and allocating available labour, material, land and water extraction data (e.g., the
