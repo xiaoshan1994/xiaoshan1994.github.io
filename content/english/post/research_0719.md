@@ -12,7 +12,10 @@ Categories:
 - Research
 ---
 
-https://www.mdpi.com/2071-1050/7/1/138/htm
+A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.[^fo]
 
 ## Introduction
 ### 1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) Harmonization
+
+
+[^fo]: https://www.mdpi.com/2071-1050/7/1/138/htm
