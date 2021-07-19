@@ -15,22 +15,16 @@ Categories:
 A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints[^fo].
 
 ## Introduction
-### 1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) ***Harmonization***
+### 1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) Harmonization
 
-* Compared to other databases, EXIOBASE has a clear environmental and resource focus with high levels of detail in primary production.
+Compared to other databases, EXIOBASE has a clear environmental and resource focus with high levels of detail in primary production.
 
 Harmonizing and detailing supply and use tables (SUT):
-* Gathering SUT from the relevant statistical offices. In the specific case of EXIOBASE, data is
-gathered from the EU27 via Eurostat, and other SUT and IO tables from 16 other countries.
-Together, these cover 90% of the global gross domestic product (GDP). (See supporting
+* ***Gathering SUT from the relevant statistical offices***. In the specific case of EXIOBASE, data is gathered from the EU27 via Eurostat, and other SUT and IO tables from 16 other countries. Together, these cover 90% of the global gross domestic product (GDP). (See supporting
 information for further details.)
-* Harmonizing SUT to allow for consistency in pricing layers (treatment of margins and taxes),
-and for the consistent treatment of purchases by residents whilst abroad.
-* Detailing SUT to give a consistent classification or, at a minimum, a link between classified
-imports and exports of different countries. This is either done through basic assumptions or, in
-the case of EXIOBASE, by using auxiliary data from FAO and European AgroSAM for
-agriculture, the International Energy Agency (IEA) database for energy carriers[^ca] and electricity,
-various resource databases for resources, etc.
+* Harmonizing SUT to allow for consistency in pricing layers (treatment of margins and taxes), and for the consistent treatment of purchases by residents whilst abroad.
+* Detailing SUT to give a consistent classification or, at a minimum, a link between classified imports and exports of different countries. This is either done through basic assumptions or, in the case of EXIOBASE, by using auxiliary data from FAO and European AgroSAM for
+agriculture, the International Energy Agency (IEA) database for energy carriers[^ca] and electricity, various resource databases for resources, etc.
 
 Harmonizing and estimating environmental and social extensions:
 The objective of EXIOBASE is to integrate a larger amount of data from environmental accounts,
@@ -49,8 +43,7 @@ be made on **converting multiple output industries into single output activities
 
 ### 1.2. EXIOBASE Advances
 
-The second version of EXIOBASE (EXIOBASE2—for the base year 2007) follows on from the first
-development of EXIOBASE (v1—for the year 2000 within the EXIOPOL project) [15], see Table 1.
+The second version of EXIOBASE (EXIOBASE2—for the base year 2007) follows on from the first development of EXIOBASE (v1—for the year 2000 within the EXIOPOL project) [15], see Table 1.
 EXIOBASE2 sought to make advances compared to existing MRIO databases in a number of areas. Due
 to **aggregation errors** inherent to IO modeling [27], **a focus was placed on increasing the product and industry detail of the model**. To harmonize with the material balances of waste accounts derived elsewhere in the CREEA project, additional detail was put into both the product and industry classifications, resulting in 200 products and 163 industries (see supporting information) for enabling the **tracing of waste and recycling flows**. In addition to the sector detail, EXIOBASE2 estimated five additional **“rest of world” regions** for countries not explicitly covered in EXIOBASE v1. These changes make EXIOBASE2 the most detailed MRIO currently available. Adopted alongside the increased detail was rectangular instead of square SUT. This detail has been suggested to be essential for resource accounting [20]. This adoption provides the ability to represent a single technology that produces multiple co-products, such as an oil refinery.
 
@@ -83,9 +76,25 @@ between the thematic areas covered by the databases whilst also facilitating int
 ### 2.1. National Account (SUT) Data
 
 The statistical **national accounts in the form of SUT** for the 43 countries and in the form of national account aggregates for the “rest of world” regions are used as the main building blocks. SUT form the basis of GDP calculations [41], ensuring consistency through the integrated database to national account aggregates. However, some adjustments are necessary. The first stage in using the SUT requires assembling the inventory and validation of original aggregate SUT data. Inventorying implies gathering:
+
 * For EU27: ESA95 tables discerning 59 sectors and products
 * For the 16 non-EU countries: SUT and/or IO table in different kinds of classifications
 
+SUT data are not always consistent across countries and therefore need adjustment for the MRIO
+context. Tables occasionally report **negative supply or negative sales** when all values should be gross,
+and published tables are **not always balanced**. Hence, as a first stage of the data harmonization,
+concordances of classification are prepared and cursory data validation performed. **Through a programmed interface**, the data consistency is checked and errors in original tables are corrected.
+Harmonization across different accounting conventions is done in this step. Key aspects include **the treatment of financial intermediation services indirectly measured (FISIM)[^FISIM], the handling of purchases by residents abroad and of purchases on domestic territory by non-residents, the conversion or estimation of data to enable the estimation of basic price tables (price harmonization), the preliminary balancing of tables, and the re-basing of tables to a common base year**. This automated approach creates datasets for
+multiple years and facilitates future data updates.
+
+### 2.2. Trade
+
+The main trade data used in EXIOBASE2 originates from the UN Comtrade database [42] and the
+UN services trade database [43]. The UN Comtrade data, although of reasonably high quality, is not
+symmetrical; bilateral exports are not consistent with the mirror country’s bilateral imports. The BACI
+database [44] is based on UN Comtrade, but is reconciled such that for a single year, every trade
+flow is recorded as a single bilateral trade flow in both physical units and in free-on-board (f.o.b.)
+monetary valuation.
 
 
 
@@ -99,3 +108,4 @@ The statistical **national accounts in the form of SUT** for the 43 countries an
 
 [^fo]: https://www.mdpi.com/2071-1050/7/1/138/htm
 [^ca]: Energy carriers include electricity and heat as well as solid, liquid and gaseous fuels. They occupy intermediate steps in the energy-supply chain between primary sources and end-use applications. An energy carrier is thus a transmitter of energy.
+[^FISIM]: In the System of National Accounts it is an estimate of the value of the services provided by financial intermediaries, such as banks, for which no explicit charges are made; instead these services are paid for as part of the margin between rates applied to savers and borrowers. The supposition is that savers would receive a lower interest rate and borrowers pay a higher interest rate if all financial services had explicit charges.
