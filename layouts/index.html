@@ -22,8 +22,8 @@
             </div>
             {{ end }}
             <div class="post-title">
-                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </h3>
+                <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h2>
             </div>
             <div class="post-content">
                 <div class="p_part">
@@ -44,7 +44,7 @@
                                                  {{ .Date.Format .Site.Params.indexDateFormat }}
                                              {{ else }} {{.Date.Format "Mon, Jan 2, 2006"}}
                                              {{ end }}</span>
-                        
+
                         {{ with .Page.Params.Categories }}{{ partial "taxonomy/categories.html" . }}{{ end }}
                         {{ with .Page.Params.Tags }}{{ partial "taxonomy/tags.html" . }}{{ end }}
                     </div>
