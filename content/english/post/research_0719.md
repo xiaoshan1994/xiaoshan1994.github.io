@@ -14,7 +14,7 @@ Categories:
 
 A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints[^fo].
 
-## Introduction
+## 1. Introduction
 ### 1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) Harmonization
 
 Compared to other databases, EXIOBASE has a clear environmental and resource focus with high levels of detail in primary production.
@@ -53,7 +53,7 @@ EXIOBASE2 seeks to integrate economy-wide material and energy flow accounting wi
 
 Life cycle assessment approaches are integrated through the use of life cycle inventory data to link the **direct physical and monetary inputs** required for the production of one unit of output in each industry sector, and by including characterization of environmental flows. At the basic level, the coefficients of the individual country IO tables were first estimated in both physical and monetary terms, linked by price estimates of the product groups and industry sectors. Hence, in this work, by using a consistent mathematical structure, all types of analysis from product life-cycle assessments to environmental footprints and economy-wide flow accounting can be performed.
 
-## Data Sources
+## 2. Data Sources
 
 A number of disparate databases were integrated in EXIOBASE 2, thereby establishing consistency between the thematic areas covered by the databases whilst also facilitating inter-disciplinary modelling.
 
@@ -83,8 +83,131 @@ A set of social accounting matrices (SAM) for the EU27 was developed as part of 
 
 The Food and Agriculture Organization of the United Nations (FAO) database, FAOSTAT [46], provided in 2007 dollars, was used to estimate agricultural sector production values. These output data were coupled with the AgroSAM-derived coefficients for EU countries and the coefficient data for non-EU countries. Some adjustments were made to FAOSTAT data where there was a discrepancy between physical and monetary reported values.
 
-Data for manufacturing product output for European countries are obtained from the PRODCOM
-database [47], and industry turnover from the Structural Business Statistics [48].
+Data for manufacturing product output for European countries are obtained from the PRODCOM database [47], and industry turnover from the Structural Business Statistics [48].
+
+### 2.5. International Energy Agency Energy Balances
+
+The International Energy Agency (IEA) Energy Balances database was used as the source of disaggregation for the energy flows [49,50]. The IEA database is converted from the territory to the
+residence principle based on the accounting rules provided by the United Nations Department of
+Economic and Social Affairs [51] and Eurostat [52] by applying auxiliary datasets [53]. The most
+important of these transformations occurs in the transport sector, where a transformation is needed from
+the place where fuels are sold (basis for the territory principle) to the use by residents of a country.
+A secondary step tailors energy supply and use and emission factors to the EXIOBASE2 industry and
+product classifications, i.e., translates IEA flow and product to existing EXIOBASE2 categories. Several
+auxiliary datasets were used to perform this transformation [53]. In addition, for use of the energy
+accounts in detailing monetary SUT, derived prices were applied.
+
+### 2.6. Emission Accounts
+
+Combustion-related air emission accounts are calculated directly on the basis of the energy accounts
+described above, providing implicit internal consistency between the energy and emission accounts [53].
+To do so, the energy flows related to combustion are identified and combined with emission factors
+following the so-called energy-first approach described in Eurostat [54]. These emission factors for
+greenhouse gases and air pollutants are available from the guidance for estimating emissions of
+greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate
+Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring
+and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air
+pollutants provide the methodologies for emission estimation. This set of methodologies also forms the
+basis on which countries estimate their annual emissions under the United Nations Framework
+Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air
+Pollution (CLRTAP) international conventions.
+For each country and sector, a suitable methodology has been selected based on the importance of the
+source (a more important emission source requires a more detailed method) but also on data availability.
+The methods are applied to each sector and each country at the global level, resulting in a global
+emissions dataset. This dataset is compared to the official emissions to identify outliers and possible
+errors, which are corrected where needed. A one-to-one comparison is not possible because of the
+territory principle applied in the official country inventories.
+For the non-combustion air emission accounts, emissions are calculated in a similar way by
+combining various activity statistics (e.g., industrial production, use of products) with the methodologies
+from the guidelines described above. The activity statistics have been collected from various data
+sources, including the material use database described earlier. Emission factors are taken from the
+guidance documents and applied to selected activity data for each sector. Similar to the combustion
+emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP
+emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the
+different basis (territory vs. residency principle).
+
+### 2.7. Labor Accounts
+
+Available labor statistics show the global distribution of work conditions from the point of view of
+where it occurs, both regionally and in main economic activities. Primary sources for labor inputs were
+national labor force surveys, gathered from the International Labour Organization’s (ILO) LABORSTA
+database [57], and a combination of labor force and industrial surveys in national accounts, obtained
+from the Organisation for Economic Co-operation and Development’s (OECD) STAN database [58].
+Labor data from LABORSTA consist of 39 economic sectors, whereas STAN covers up to 60 industries
+and thereby provides better resolution compared to the MRIO sectors. Labor data were collected for
+labor according to skill level and gender, which allows for the calculation of further quality of labor
+indicators such as forced labor, child labor, vulnerable employment and damage-related indicators of
+labor through occupational health damage see Simas et al. [18,19].
+
+### 2.8. Water Accounts
+
+EXIOBASE is a comprehensive database with a high level of sector disaggregation. In contrast, the
+available data on water use and consumption collected by national statistical agencies, for example,
+are not of sufficient coverage or quality to fit the requirements of EXIOBASE—or simply altogether
+non-existent. As a consequence, modeled data covering the following categories were used. In the
+following, we describe the sectors for which data were used with regard to the type of water (blue/green)
+and the type of water flow (use/consumption). “Blue water” refers to water abstracted from surface water
+and groundwater bodies, whereas “green water” refers to water from precipitation, which infiltrates into
+the soil and is taken up by plants. “Water use” is the amount of water abstracted from water sources,
+whereas “water consumption” in the hydrological sense is the difference between the water abstracted
+and the water returned to the same watershed/ecosystem. In hydrological accounting terms, water
+consumption is defined as water evapotranspiration plus water incorporated into products [59].
+ Agricultural water consumption (blue/green)
+ Industrial water use and consumption (blue)
+ Domestic water use and consumption (blue)
+ Agricultural nitrogen and phosphorous emissions to water
+ Thermal pollution of (heat emissions to) water from energy production
+This last item addressing thermal discharges to water is a new quality aspect thus far unaddressed by
+the SEEA.
+This data allows coverage of both water quality issues and emissions to water, thus permitting water
+use to be linked to actual environmental impacts [59]. Collection, classification and disaggregation of
+the water data were required before use. These steps were of special relevance in the case of industrial
+water use/consumption, wherein data from the WaterGAP model were used [60]. In contrast to the data
+on agricultural water appropriation, these data are not available in the full product detail, but for only
+five manufacturing sectors, two energy-producing sectors of different types of cooling systems
+(once-through vs. tower cooling), as well as for different types of livestock breeding. Hence, these data
+had to be allocated to the different product (and industry) groups used in EXIOBASE2. While this was a
+relatively straightforward task in the case of the livestock data, the data on water appropriation in the
+manufacturing sector had to be allocated to the more detailed EXIOBASE2 product classes using
+physical production quantity data for the different products. In the case of energy production, the data
+were allocated to the energy types that use cooling water in their production systems. Next, the data
+were allocated to the specific EXIOBASE2 sectors via the monetary data from the SUTs on sectorial
+activities [59].
+
+### 2.9. Material Accounts
+
+Data for the material extensions were retrieved from the Sustainable Europe Research Institute
+(SERI) Global Material Flow database [61]. The Global Material Flow Database is the only database
+with global coverage that comprises comprehensive resource extraction data for all material categories
+in annual time series. The database is organized according to the standards of economy-wide material
+flow accounting (MFA) as provided by Eurostat and the OECD [62,63].
+The data in the Global Material Flow Database are mainly based on four data sources: the British
+Geological Survey (BGS) and the US Geological Survey (USGS) for metal and mineral data;
+the International Energy Agency (IEA) for the data on fossil fuels; and the Food and Agriculture
+Organization of the United Nations (FAO) for the data on biomass extraction.
+
+### 2.10. Land Accounts
+
+Cropland data are collected on the individual crop basis (primary crop classification in FAOSTAT),
+and supplemented by categories not commonly reported in statistics such as fallow land, forestry
+plantations on arable land and land for other agricultural purposes (see [64] for full details on land use
+data). In addition to the FAO online database, data and information were taken from a multitude of
+single, specific sources as documented in the detailed report found in the supporting information for this
+study. Also, Eurostat data for the aggregate categories “forage plants” and “fallow land” were taken
+from the agricultural database to fill data gaps or replace FAO data.
+FAO data for primary crops inherit specific properties, including the double or multiple counts of
+land use in the case of multiple cropping in the span of one year. Such cropping practices are only
+counted once in the EXIOBASE2 extensions.
+
+In addition to cropland, permanent meadows and pastures constitute the remainder of utilized
+agricultural land, and FAO reports permanent meadows and pastures as a single number. Forest area is a
+single number in FAO statistics comprising both natural forests as well as managed forests and
+plantations. Only the total area is reported; the statistics do not distinguish between the forest categories.
+Built-up and related land encompasses all developed land, including transport corridors and human
+settlements. The base data for the category are the 2011 Annex 1 Party Greenhouse Gas (GHG)
+Inventory Submissions under the UNFCCC. Since these data do not cover all EXIOBASE2 countries
+and are not complete for some regions, we used additional single-country sources or international data
+such as from the European Corine Land Cover project.
 
 
 
