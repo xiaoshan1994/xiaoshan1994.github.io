@@ -79,7 +79,12 @@ monetary valuation.
 
 A set of social accounting matrices (SAM) for the EU27 was developed as part of the AgroSAM project at the Institute for Prospective Technological Studies [45]. These tables follow the standard Eurostat format for SUT in purchaser prices, but are extended to include feedbacks of primary inputs into final demand, although this feature is not used in this project. In addition, the project provided disaggregated agricultural data for 30 primary agricultural sectors and 11 food processing sectors. Such detail allowed the direct mapping of the AgroSAM database to the EXIOBASE2 classification for all sectors with the exception of fish product processing, which was aggregated with “food products nec”. As the AgroSAM data are only from 2000, the relative values (structure) of inputs and sales were taken for the agricultural and food sectors, and applied as coefficients for the disaggregation of the 2007 tables.
 
+### 2.4. FAOSTAT and Other Sector Outputs
 
+The Food and Agriculture Organization of the United Nations (FAO) database, FAOSTAT [46], provided in 2007 dollars, was used to estimate agricultural sector production values. These output data were coupled with the AgroSAM-derived coefficients for EU countries and the coefficient data for non-EU countries. Some adjustments were made to FAOSTAT data where there was a discrepancy between physical and monetary reported values.
+
+Data for manufacturing product output for European countries are obtained from the PRODCOM
+database [47], and industry turnover from the Structural Business Statistics [48].
 
 
 
