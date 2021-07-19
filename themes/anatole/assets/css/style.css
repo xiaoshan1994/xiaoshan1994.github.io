@@ -49,12 +49,12 @@ body {
     background-color: var(--bg-color);
     font-style: normal;
     font-family: bely, serif;
-    font-weight: 550;
+    font-weight: 450;
 }
 
 p {
     line-height: 1.6;
-    font-weight: 550;
+    font-weight: 400;
     font-size: 16px;
     text-align: justify;
 }
@@ -66,7 +66,7 @@ a {
 
 blockquote {
   font-family: Bely, serif;
-font-weight: 550;
+font-weight: 400;
 font-style: italic;
     padding: 0 1em;
     border-left: .25em solid var(--blockquote-border-color);
@@ -449,16 +449,16 @@ a:active {
 }
 
 .post .post-content ul {
-    line-height: 1.6em;
-    font-weight: 550;
+    line-height: 1.8em;
+    font-weight: 500;
     font-size: 17px;
     font-family: bely, serif;
     font-style: normal;
 }
 
 .post .post-content ol {
-    line-height: 1.6em;
-    font-weight: 550;
+    line-height: 1.8em;
+    font-weight: 500;
     font-size: 17px;
     font-family: bely, serif;
     font-style: normal;
