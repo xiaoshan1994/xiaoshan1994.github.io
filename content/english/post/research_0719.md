@@ -55,31 +55,29 @@ Life cycle assessment approaches are integrated through the use of life cycle in
 
 ## Data Sources
 
-A number of disparate databases were integrated in EXIOBASE 2, thereby establishing consistency
-between the thematic areas covered by the databases whilst also facilitating inter-disciplinary modeling.
+A number of disparate databases were integrated in EXIOBASE 2, thereby establishing consistency between the thematic areas covered by the databases whilst also facilitating inter-disciplinary modelling.
 
 ### 2.1. National Account (SUT) Data
 
 The statistical **national accounts in the form of SUT** for the 43 countries and in the form of national account aggregates for the “rest of world” regions are used as the main building blocks. SUT form the basis of GDP calculations [41], ensuring consistency through the integrated database to national account aggregates. However, some adjustments are necessary. The first stage in using the SUT requires assembling the inventory and validation of original aggregate SUT data. Inventorying implies gathering:
 
-* For EU27: ESA95 tables discerning 59 sectors and products
+* For EU27: **ESA95 tables** discerning 59 sectors and products
 * For the 16 non-EU countries: SUT and/or IO table in different kinds of classifications
 
-SUT data are not always consistent across countries and therefore need adjustment for the MRIO
-context. Tables occasionally report **negative supply or negative sales** when all values should be gross,
-and published tables are **not always balanced**. Hence, as a first stage of the data harmonization,
-concordances of classification are prepared and cursory data validation performed. **Through a programmed interface**, the data consistency is checked and errors in original tables are corrected.
-Harmonization across different accounting conventions is done in this step. Key aspects include **the treatment of financial intermediation services indirectly measured (FISIM)[^FISIM], the handling of purchases by residents abroad and of purchases on domestic territory by non-residents, the conversion or estimation of data to enable the estimation of basic price tables (price harmonization), the preliminary balancing of tables, and the re-basing of tables to a common base year**. This automated approach creates datasets for
-multiple years and facilitates future data updates.
+SUT data are not always consistent across countries and therefore need adjustment for the MRIO context. Tables occasionally report **negative supply or negative sales** when all values should be gross, and published tables are **not always balanced**. Hence, as a first stage of the data harmonization, concordances of classification are prepared and cursory data validation performed. **Through a programmed interface**, the data consistency is checked and errors in original tables are corrected. Harmonization across different accounting conventions is done in this step. Key aspects include **the treatment of financial intermediation services indirectly measured (FISIM)[^FISIM], the handling of purchases by residents abroad and of purchases on domestic territory by non-residents, the conversion or estimation of data to enable the estimation of basic price tables (price harmonization), the preliminary balancing of tables, and the re-basing of tables to a common base year**. This automated approach creates datasets for multiple years and facilitates future data updates.
 
 ### 2.2. Trade
 
-The main trade data used in EXIOBASE2 originates from the UN Comtrade database [42] and the
-UN services trade database [43]. The UN Comtrade data, although of reasonably high quality, is not
+The main trade data used in EXIOBASE 2 originates from the **UN Comtrade database** [42] and the
+**UN services trade database** [43]. The UN Comtrade data, although of reasonably high quality, is not
 symmetrical; bilateral exports are not consistent with the mirror country’s bilateral imports. The BACI
 database [44] is based on UN Comtrade, but is reconciled such that for a single year, every trade
 flow is recorded as a single bilateral trade flow in both physical units and in free-on-board (f.o.b.)
 monetary valuation.
+
+### 2.3. Agriculture Social Accounting Matrices for European Countries (AgroSAM)
+
+A set of social accounting matrices (SAM) for the EU27 was developed as part of the AgroSAM project at the Institute for Prospective Technological Studies [45]. These tables follow the standard Eurostat format for SUT in purchaser prices, but are extended to include feedbacks of primary inputs into final demand, although this feature is not used in this project. In addition, the project provided disaggregated agricultural data for 30 primary agricultural sectors and 11 food processing sectors. Such detail allowed the direct mapping of the AgroSAM database to the EXIOBASE2 classification for all sectors with the exception of fish product processing, which was aggregated with “food products nec”. As the AgroSAM data are only from 2000, the relative values (structure) of inputs and sales were taken for the agricultural and food sectors, and applied as coefficients for the disaggregation of the 2007 tables.
 
 
 
