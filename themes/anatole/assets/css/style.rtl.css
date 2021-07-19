@@ -57,6 +57,8 @@ p {
 }
 
 a {
+  font-family: 'Verdana', sans-serif;
+  font-size: 15px;
     text-decoration: none;
 }
 
@@ -522,7 +524,7 @@ a:active {
     border-radius: 0.5em;
     overflow: hidden;
     transition: box-shadow .3s ease;
-    
+
 }
 
 .post .post-thumbnail img {
@@ -937,13 +939,13 @@ print {
         max-width: 100%;
         margin: 0;
     }
-    
+
     .post figure.left {
         float: unset;
         max-width: 100%;
         margin: 0;
     }
-    
+
 
     .footer {
         display: none;
@@ -1024,7 +1026,7 @@ print {
     .list-with-title .listing .listing-post .post-time {
         max-width: 20%;
     }
-    
+
     .list-with-title .listing .listing-post a {
         width: 80%;
     }
@@ -1111,9 +1113,9 @@ print {
     min-height: 35px;
 }
 .form-style ul li .field-style {
-    box-sizing: border-box; 
+    box-sizing: border-box;
     -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box; 
+    -moz-box-sizing: border-box;
     font-size: 14px;
     padding: 8px;
     outline: none;
@@ -1144,7 +1146,7 @@ print {
     width: 100%;
     height: auto;
 }
-.form-style ul li input[type="button"], 
+.form-style ul li input[type="button"],
 .form-style ul li input[type="submit"] {
     background-color: var(--bg-color);
     border: 1px solid var(--form-border-color);
@@ -1154,7 +1156,7 @@ print {
     text-decoration: none;
     width: 100%;
 }
-.form-style ul li input[type="button"]:hover, 
+.form-style ul li input[type="button"]:hover,
 .form-style ul li input[type="submit"]:hover {
     background-color: var(--bg-color);
     border: 1px solid var(--form-button-hover-border-color);
