@@ -13,3 +13,6 @@ Categories:
 ---
 
 https://www.mdpi.com/2071-1050/7/1/138/htm
+
+## Introduction
+### 1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) Harmonization
