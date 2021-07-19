@@ -435,6 +435,10 @@ a:active {
     color: #2F69B3;
 }
 
+.post .post-content a:visited {
+    color: #737373;
+}
+
 .post .post-content h2 {
   font-style: normal;
   font-family: bely, serif;
