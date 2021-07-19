@@ -102,7 +102,7 @@ pre {
 a:link,
 a:visited {
   font-family: 'Verdana', sans-serif;
-  font-size: 15px;
+  font-size: 29px;
     opacity: 1;
     color: var(--tag-color);
 }
