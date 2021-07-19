@@ -55,7 +55,7 @@ Life cycle assessment approaches are integrated through the use of life cycle in
 
 ## Data Sources
 
-A number of disparate databases were integrated in EXIOBASE2, thereby establishing consistency
+A number of disparate databases were integrated in EXIOBASE 2, thereby establishing consistency
 between the thematic areas covered by the databases whilst also facilitating inter-disciplinary modeling.
 
 ### 2.1. National Account (SUT) Data
