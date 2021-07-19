@@ -60,7 +60,6 @@ p {
 }
 
 a {
-
     text-decoration:none;
     color: var(--link-color);
 }
