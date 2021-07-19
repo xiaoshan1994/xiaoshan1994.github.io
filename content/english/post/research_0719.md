@@ -52,12 +52,8 @@ be made on **converting multiple output industries into single output activities
 The second version of EXIOBASE (EXIOBASE2—for the base year 2007) follows on from the first
 development of EXIOBASE (v1—for the year 2000 within the EXIOPOL project) [15], see Table 1.
 EXIOBASE2 sought to make advances compared to existing MRIO databases in a number of areas. Due
-to aggregation errors inherent to IO modeling [27], a focus was placed on increasing the product and
-industry detail of the model. To harmonize with the material balances of waste accounts derived
-elsewhere in the CREEA project, additional detail was put into both the product and industry
-classifications, resulting in 200 products and 163 industries (see supporting information) for enabling the
-tracing of waste and recycling flows. In addition to the sector detail, EXIOBASE2 estimated five
-additional “rest of world” regions for countries not explicitly covered in EXIOBASE v1. These changes
+to **aggregation errors** inherent to IO modeling [27], **a focus was placed on increasing the product and industry detail of the model**. To harmonize with the material balances of waste accounts derived elsewhere in the CREEA project, additional detail was put into both the product and industry classifications, resulting in 200 products and 163 industries (see supporting information) for enabling the
+tracing of waste and recycling flows. In addition to the sector detail, EXIOBASE2 estimated five additional “rest of world” regions for countries not explicitly covered in EXIOBASE v1. These changes
 make EXIOBASE2 the most detailed MRIO currently available. Adopted alongside the increased detail
 was rectangular instead of square SUT. This detail has been suggested to be essential for resource
 accounting [20]. This adoption provides the ability to represent a single technology that produces
