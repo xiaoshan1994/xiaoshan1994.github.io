@@ -436,10 +436,11 @@ a:active {
     color: #2F69B3;
 }
 
-.post .post-content h3 {
+.post .post-content h4 {
   font-style: normal;
   font-family: bely, serif;
   font-size: 25px;
+  color:#1d91c0;
 }
 
 .post .post-content h4 {
