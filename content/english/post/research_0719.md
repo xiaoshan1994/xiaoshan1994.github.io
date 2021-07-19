@@ -210,13 +210,6 @@ and are not complete for some regions, we used additional single-country sources
 such as from the European Corine Land Cover project.
 
 
-
-
-
-
-
-
-
 [^fo]: https://www.mdpi.com/2071-1050/7/1/138/htm
 [^ca]: Energy carriers include electricity and heat as well as solid, liquid and gaseous fuels. They occupy intermediate steps in the energy-supply chain between primary sources and end-use applications. An energy carrier is thus a transmitter of energy.
 [^FISIM]: In the System of National Accounts it is an estimate of the value of the services provided by financial intermediaries, such as banks, for which no explicit charges are made; instead these services are paid for as part of the margin between rates applied to savers and borrowers. The supposition is that savers would receive a lower interest rate and borrowers pay a higher interest rate if all financial services had explicit charges.
