@@ -45,7 +45,7 @@ The second version of EXIOBASE (EXIOBASE2—for the base year 2007) follows on f
 
 The final main advancement of EXIOBASE2 was the expansion of monetary SUT to link to an additional physical SUT layer. The result is to express in the physical layer all product flows in mass (dry weight) or energy units, hence allowing for physical allocation. This implies that from a product perspective, the mass balance as well as the economic balance principle of “supply equals use” will hold, while also maintaining balances from an industry perspective (i.e., the supply of products by industry and outputs to nature are equal to the use of products and inputs from nature). ***The full physical layer was exploratory***, and a comprehensive description of the approach to physical layering, and the outcomes of the layering, is beyond the scope of this paper (see [34]). Estimates of the physical layer and pricing estimates are available upon request, but results presented in this work are not based on them.
 
-General Framework of Methods
+#### General Framework of Methods
 
 Within industrial ecology and sustainability assessment in general, various methods stand out for **the accounting of the social metabolism** [35]. The three most prominent of these are (economy-wide) **material and energy flow accounting, life cycle assessment, and IO analysis**. All three methods attempt to model the complexity of production and consumption systems in order to trace source impacts to a functional demand. All methods share a similar methodological background [36], and significant scope is available for the integration of both data and methods [37].
 
