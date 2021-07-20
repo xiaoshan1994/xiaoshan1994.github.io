@@ -87,44 +87,17 @@ Data for manufacturing product output for European countries are obtained from t
 
 ### 2.5. International Energy Agency Energy Balances
 
-The International Energy Agency (IEA) Energy Balances database was used as the source of disaggregation for the energy flows [49,50]. The IEA database is converted from the territory to the
-residence principle based on the accounting rules provided by the United Nations Department of
-Economic and Social Affairs [51] and Eurostat [52] by applying auxiliary datasets [53]. The most
-important of these transformations occurs in the transport sector, where a transformation is needed from
-the place where fuels are sold (basis for the territory principle) to the use by residents of a country.
-A secondary step tailors energy supply and use and emission factors to the EXIOBASE2 industry and
-product classifications, i.e., translates IEA flow and product to existing EXIOBASE2 categories. Several
-auxiliary datasets were used to perform this transformation [53]. In addition, for use of the energy
-accounts in detailing monetary SUT, derived prices were applied.
+The International Energy Agency (IEA) **Energy Balances database** was used as the source of disaggregation for the energy flows [49,50]. ***The IEA database is converted from the territory to the residence principle***[^trprin] based on the accounting rules provided by the United Nations Department of Economic and Social Affairs [51] and Eurostat [52] by applying auxiliary datasets [53]. The most important of these transformations occurs in the transport sector, where a transformation is needed from the place where fuels are sold (basis for the territory principle) to the use by residents of a country. A secondary step tailors energy supply and use and emission factors to the EXIOBASE2 industry and product classifications, i.e., translates IEA flow and product to existing EXIOBASE2 categories. Several auxiliary datasets were used to perform this transformation [53]. In addition, for use of the energy accounts in detailing monetary SUT, derived prices were applied.  Combustion-related air emission accounts are calculated directly on the basis of the energy accounts described above, providing implicit internal consistency between the energy and emission accounts [53]. To do so, the energy flows related to combustion are identified and combined with emission factors following the so-called energy-first approach described in Eurostat [54]. These emission factors for greenhouse gases and air pollutants are available from the guidance for estimating emissions of greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air pollutants provide the methodologies for emission estimation. This set of methodologies also forms the basis on which countries estimate their annual emissions under the United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air Pollution (CLRTAP) international conventions.
+For each country and sector, a suitable methodology has been selected based on the importance of the source (a more important emission source requires a more detailed method) but also on data availability. The methods are applied to each sector and each country at the global level, resulting in a global emissions dataset. This dataset is compared to the official emissions to identify outliers and possible errors, which are corrected where needed. A one-to-one comparison is not possible because of the territory principle applied in the official country inventories.
+For the non-combustion air emission accounts, emissions are calculated in a similar way by combining various activity statistics (e.g., industrial production, use of products) with the methodologies from the guidelines described above. The activity statistics have been collected from various data sources, including the material use database described earlier. Emission factors are taken from the guidance documents and applied to selected activity data for each sector. Similar to the combustion emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the different basis (territory vs. residency principle).
 
 ### 2.6. Emission Accounts
 
-Combustion-related air emission accounts are calculated directly on the basis of the energy accounts
-described above, providing implicit internal consistency between the energy and emission accounts [53].
-To do so, the energy flows related to combustion are identified and combined with emission factors
-following the so-called energy-first approach described in Eurostat [54]. These emission factors for
-greenhouse gases and air pollutants are available from the guidance for estimating emissions of
-greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate
-Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring
-and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air
-pollutants provide the methodologies for emission estimation. This set of methodologies also forms the
-basis on which countries estimate their annual emissions under the United Nations Framework
-Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air
-Pollution (CLRTAP) international conventions.
-For each country and sector, a suitable methodology has been selected based on the importance of the
-source (a more important emission source requires a more detailed method) but also on data availability.
-The methods are applied to each sector and each country at the global level, resulting in a global
-emissions dataset. This dataset is compared to the official emissions to identify outliers and possible
-errors, which are corrected where needed. A one-to-one comparison is not possible because of the
-territory principle applied in the official country inventories.
-For the non-combustion air emission accounts, emissions are calculated in a similar way by
-combining various activity statistics (e.g., industrial production, use of products) with the methodologies
-from the guidelines described above. The activity statistics have been collected from various data
-sources, including the material use database described earlier. Emission factors are taken from the
-guidance documents and applied to selected activity data for each sector. Similar to the combustion
-emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP
-emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the
-different basis (territory vs. residency principle).
+Combustion-related air emission accounts are calculated directly on the basis of the energy accounts described above, providing implicit internal consistency between the energy and emission accounts [53]. To do so, the energy flows related to combustion are identified and combined with emission factors following the so-called energy-first approach described in Eurostat [54]. These emission factors for greenhouse gases and air pollutants are available from the guidance for estimating emissions of greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air pollutants provide the methodologies for emission estimation. This set of methodologies also forms the basis on which countries estimate their annual emissions under the United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air Pollution (CLRTAP) international conventions.
+
+For each country and sector, a suitable methodology has been selected based on the importance of the source (a more important emission source requires a more detailed method) but also on data availability. The methods are applied to each sector and each country at the global level, resulting in a global emissions dataset. This dataset is compared to the official emissions to identify outliers and possible errors, which are corrected where needed. A one-to-one comparison is not possible because of the territory principle applied in the official country inventories.
+
+For the non-combustion air emission accounts, emissions are calculated in a similar way by combining various activity statistics (e.g., industrial production, use of products) with the methodologies from the guidelines described above. The activity statistics have been collected from various data sources, including the material use database described earlier. Emission factors are taken from the guidance documents and applied to selected activity data for each sector. Similar to the combustion emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the different basis (territory vs. residency principle).
 
 ### 2.7. Labor Accounts
 
@@ -213,3 +186,4 @@ such as from the European Corine Land Cover project.
 [^fo]: https://www.mdpi.com/2071-1050/7/1/138/htm
 [^ca]: Energy carriers include electricity and heat as well as solid, liquid and gaseous fuels. They occupy intermediate steps in the energy-supply chain between primary sources and end-use applications. An energy carrier is thus a transmitter of energy.
 [^FISIM]: In the System of National Accounts it is an estimate of the value of the services provided by financial intermediaries, such as banks, for which no explicit charges are made; instead these services are paid for as part of the margin between rates applied to savers and borrowers. The supposition is that savers would receive a lower interest rate and borrowers pay a higher interest rate if all financial services had explicit charges.
+[^trprin]: Emission accounts follow the so-called residence principle – that is, address the activities undertaken by the residents of a country, independent from where these take place – while emission inventories (as those used in the context of the Kyoto Protocol) follow the territory principle – that is, address the activities taking place within the territory, independent from where the subject resides.
