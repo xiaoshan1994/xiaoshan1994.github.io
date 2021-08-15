@@ -1045,10 +1045,10 @@ print {
         transition: box-shadow .3s ease;
 
     }
-    
+
     .post .post-thumbnail img {
         width: 100%;
-        height: var(--thumbnail-height);
+        height: 10em;
         object-fit: cover;
         border: 1px solid var(--border-color);
         border-bottom: 0px;
