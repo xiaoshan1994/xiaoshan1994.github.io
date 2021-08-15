@@ -466,6 +466,7 @@ a:active {
     font-size: 18px;
     font-family: bely, serif;
     font-style: normal;
+    width:80%;
 }
 
 .post .post-content ol {
@@ -474,6 +475,7 @@ a:active {
     font-size: 18px;
     font-family: bely, serif;
     font-style: normal;
+    width:80%;
 }
 
 .post .post-content .p_part p{
