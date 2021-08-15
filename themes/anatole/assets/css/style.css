@@ -595,7 +595,6 @@ a:active {
 
 .post .post-thumbnail {
     width: 80%;
-
     box-shadow: black;
     border-radius: 0.5em;
     overflow: hidden;
@@ -604,8 +603,8 @@ a:active {
 }
 
 .post .post-thumbnail img {
-    width: 100%;
-    height: var(--thumbnail-height);
+    width: 80%;
+    height: 80%;
     object-fit: cover;
     border: 1px solid var(--border-color);
     border-bottom: 0px;
