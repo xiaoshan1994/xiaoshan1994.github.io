@@ -594,8 +594,7 @@ a:active {
 }
 
 .post .post-thumbnail {
-    width: 80%;
-    height: 80%;
+    width: 100%;
     box-shadow: black;
     border-radius: 0.5em;
     overflow: hidden;
