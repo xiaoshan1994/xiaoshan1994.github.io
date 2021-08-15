@@ -1037,6 +1037,24 @@ print {
         line-height: 1.6;
     }
 
+    .post .post-thumbnail {
+        width: 100%;
+        box-shadow: black;
+        border-radius: 0.5em;
+        overflow: hidden;
+        transition: box-shadow .3s ease;
+
+    }
+    
+    .post .post-thumbnail img {
+        width: 100%;
+        height: var(--thumbnail-height);
+        object-fit: cover;
+        border: 1px solid var(--border-color);
+        border-bottom: 0px;
+
+    }
+
     .content {
         margin-top: 1000px;
         width: 100%;
