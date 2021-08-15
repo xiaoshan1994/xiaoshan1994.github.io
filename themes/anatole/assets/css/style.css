@@ -44,7 +44,7 @@ html {
 body {
     color:#000000;
     font-size: 17px;
-    width: 80%;
+    width: 100%;
     margin: 0 auto 30px auto;
     background-color: var(--bg-color);
     font-style: normal;
@@ -381,6 +381,7 @@ a:active {
 .post {
     background-color: var(--bg-color);
     margin: 30px;
+    width:80%;
 }
 
 .post .post-title h1 {
