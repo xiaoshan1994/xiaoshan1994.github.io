@@ -372,8 +372,10 @@ a:active {
     color: #2660ab;
 }
 
-.sidebar .tw a{
- display: inline-block;
+.sidebar .tw {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
  width: 400;
  height: 500;
 }
