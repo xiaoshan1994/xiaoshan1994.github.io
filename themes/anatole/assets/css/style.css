@@ -57,6 +57,7 @@ p {
     font-weight: 400;
     font-size: 17px;
     text-align: justify;
+    width:80%;
 }
 
 a {
@@ -381,8 +382,6 @@ a:active {
 .post {
     background-color: var(--bg-color);
     margin: 30px;
-    width:80%;
-    text-align:center;
 }
 
 .post .post-title h1 {
