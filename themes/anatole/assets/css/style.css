@@ -605,7 +605,7 @@ a:active {
 .post .post-thumbnail img {
     width: 80%;
     height: var(--thumbnail-height);
-    object-fit: cover;
+    object-fit:scale-down;
     border: 1px solid var(--border-color);
     border-bottom: 0px;
 
