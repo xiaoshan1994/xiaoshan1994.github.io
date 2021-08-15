@@ -58,6 +58,7 @@ p {
     font-size: 17px;
     text-align: justify;
     width:80%;
+    margin-left: 60px
 }
 
 a {
@@ -213,7 +214,6 @@ a:active {
     float: right;
     width: 70%;
     margin-top: 60px;
-    margin-left: 120px;
 }
 
 .page-top {
