@@ -1016,8 +1016,16 @@ print {
         width: 100%;
     }
 
+    p {
+        line-height: 1.6;
+        font-weight: 400;
+        font-size: 17px;
+        text-align: justify;
+        width:100%;
+    }
+
     .post .post-content img {
-      
+
       display: block;
       margin-left: auto;
       margin-right: auto;
