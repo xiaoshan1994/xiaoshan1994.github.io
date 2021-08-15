@@ -372,7 +372,7 @@ a:active {
     color: #2660ab;
 }
 
-.sidebar .tw {
+.sidebar .tw a {
  display: block;
  width: 100%;
  height:100%;
