@@ -381,7 +381,7 @@ a:active {
 
 .post {
     background-color: var(--bg-color);
-    margin: 30px;
+    margin: 30px 30px 30px 30px;
 }
 
 .post .post-title h1 {
