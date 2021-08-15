@@ -212,7 +212,8 @@ a:active {
     height: auto;
     float: right;
     width: 70%;
-    margin-top: 60px;
+    margin: 60px 60px 60px 60px; 
+
 }
 
 .page-top {
@@ -381,7 +382,7 @@ a:active {
 
 .post {
     background-color: var(--bg-color);
-    margin: 30px 30px 30px 30px;
+    margin: 30px;
 }
 
 .post .post-title h1 {
