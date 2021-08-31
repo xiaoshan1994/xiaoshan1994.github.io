@@ -124,7 +124,7 @@ Tweets by xiaoshan1994</a>
 30/8/2021
 </span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>One-minute read</span>
+<span class=reading-time>2-minute read</span>
 </div>
 </div>
 <p>Create a figure and a set of subplots.</p>
@@ -151,9 +151,47 @@ y = np.sin(x ** 2)
 </code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
 ax.plot(x,y)
 ax.set_title(&#39;A single plot&#39;)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131475906-69dd85ff-bcbb-4288-a24e-cf2b9295dfce.png alt=image></p>
+<h1 id=stacking-subplots-in-one-direction>Stacking subplots in one direction</h1>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig,ax = plt.subplots(2)
+fig.subtitle(&#39;Vertically stacked subplots&#39;)
+axs[0].plot(x,y)
+axs[1].plot(x,-y)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131477410-d915bb0d-cc24-456a-8c72-bab48296ff5a.png alt=image></p>
+<p>If you are creating just a few Axes, it&rsquo;s handy to unpack them immediately to dedicated variables for each Axes. That way, we can use ax1 instead of the more verbose axs[0].</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1,ax2) = plt.subplots(2)
+fig.suptitle(&#39;Vertically stacked subplots&#39;)
+ax1.plot(x, y)
+ax2.plot(x, -y)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131477875-586ceb55-220a-49a8-8f81-4be319c12bad.png alt=image></p>
+<p>To obtain side-by-side subplots, pass parameters 1, 2 for one row and two columns.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1,ax2) = plt.subplots(1,2)
+fig.subtitle(&#39;Horizontally stacked subplots&#39;)
+ax1.plot(x,y)
+ax2.plot(x,-y)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131478295-c31e785f-e621-4c57-96c6-e9c478087212.png alt=image></p>
+<h1 id=stacking-subplots-in-two-directions>Stacking subplots in two directions</h1>
+<p>When stacking in two directions, the returned <code>axs</code> is a 2D NumPy array.<br>
+If you have to set parameters for each subplot it&rsquo;s handy to iterate over all subplots in a 2D grid using <code>for ax in axs.flat</code>:</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig,axs = plt.subplots(2,2)
+axs[0,0].plot(x,y)
+axs[0,0].set_title(&#39;Axis [0, 0]&#39;)
+axs[0,1].plot(x,y,&#39;tab:orange&#39;)
+axs[0,1].set_title(&#39;Axis [0, 1]&#39;)
+axs[1,0].plot(x, -y, &#39;tab:green&#39;)
+axs[1,0].set_title(&#39;Axis [1, 0]&#39;)
+axs[1,1].plot(x, -y, &#39;tab:red&#39;)
+axs[1,1].set_title(&#39;Axis [1, 1]&#39;)
 
-![image](https://user-images.githubusercontent.com/65668613/131475906-69dd85ff-bcbb-4288-a24e-cf2b9295dfce.png)
-</code></pre></div></div>
+for ax in axs.flat:
+ax.set(xlabel=&#39;x-label&#39;,ylabel=&#39;y-label&#39;)
+
+# Hide x labels and tick labels for top plots and y ticks for right plots.
+for ax in axs.flat:
+    ax.label_outer() # Only show &#34;outer&#34; labels and tick labels. x-labels are only kept for subplots on the last row; y-labels only for subplots on the first column.
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131483362-8726e2b9-631a-40cf-b78b-72dc71beca98.png alt=image></p>
+<p>You can use tuple-unpacking also in 2D to assign all subplots to dedicated variables:</p>
+</div>
 <div class=post-footer>
 <div class=info>
 <span class=separator><a class=category href=/categories/research/>Research</a></span>
