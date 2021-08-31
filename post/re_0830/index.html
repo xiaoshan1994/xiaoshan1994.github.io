@@ -135,6 +135,23 @@ ax: A single object of the axes. Axes object if there is only <strong>one plot</
 <p>Typical idioms for handling the return value are:</p>
 <h1 id=using-the-variable-ax-for-single-a-axes>using the variable ax for single a Axes</h1>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
+</code></pre></div><h1 id=using-the-variable-axs-for-multiple-axes>using the variable axs for multiple Axes</h1>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, axs = plt.subplots(2, 2)
+</code></pre></div><h1 id=using-tuple-unpacking-for-multiple-axes>using tuple unpacking for multiple Axes</h1>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(1, 2)
+fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
+</code></pre></div><h1 id=a-figure-with-just-one-subplot>A figure with just one subplot</h1>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>import matplotlib.pyplot as plt
+import numpy as np
+
+## Some example data to display
+x = np.linspace(0, 2 * np.pi, 400)
+y = np.sin(x ** 2)
+</code></pre></div><div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
+ax.plot(x,y)
+ax.set_title(&#39;A single plot&#39;)
+
+![image](https://user-images.githubusercontent.com/65668613/131475906-69dd85ff-bcbb-4288-a24e-cf2b9295dfce.png)
 </code></pre></div></div>
 <div class=post-footer>
 <div class=info>
