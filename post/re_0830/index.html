@@ -124,7 +124,7 @@ Tweets by xiaoshan1994</a>
 30/8/2021
 </span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>2-minute read</span>
+<span class=reading-time>3-minute read</span>
 </div>
 </div>
 <p>Create a figure and a set of subplots.</p>
@@ -193,8 +193,25 @@ for ax in axs.flat:
 <p>You can use tuple-unpacking also in 2D to assign all subplots to dedicated variables:</p>
 <blockquote>
 <p>In python tuples are used to store immutable objects. In packing, we put values into a new tuple while in unpacking we extract those values into a single variable.<br>
-Packing: a = (&ldquo;MNNIT Allahabad&rdquo;, 5000, &ldquo;Engineering&rdquo;), Unpacking: (college, student, type_ofcollege) = a.</p>
+Packing: a = (&ldquo;MNNIT Allahabad&rdquo;, 5000, &ldquo;Engineering&rdquo;),<br>
+Unpacking: (college, student, type_ofcollege) = a.</p>
 </blockquote>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig,((ax1,ax2),(ax3,ax4)) = plt.subplots(2,2)
+fig.suptitle(&#39;Sharing x per column, y per row&#39;)
+ax1.plot(x,y)
+ax2.plot(x,y**2,&#39;tab:orange&#39;)
+ax3.plot(x,-y,&#39;tab:green&#39;)
+ax4.plot(x, -y**2, &#39;tab:red&#39;)
+for ax in fig.get_axes():
+ax.label_outer()
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131642513-eff75765-a38b-4435-9e2f-7f19af2c0fa2.png alt=image></p>
+<h1 id=sharing-axes>Sharing axes</h1>
+<p>By default, each Axes is scaled individually. Thus, if the ranges are different the tick values of the subplots do not align.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(2)
+fig.suptitle(&#39;Axes values are scaled individually by default&#39;)
+ax1.plot(x, y)
+ax2.plot(x + 1, -y)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131642676-3e522888-5227-4a90-a7ce-1899f01020c4.png alt=image></p>
 </div>
 <div class=post-footer>
 <div class=info>
