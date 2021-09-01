@@ -126,10 +126,10 @@ Tweets by xiaoshan1994</a>
 <p>pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure.<br>
 <a href=https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html>https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html</a></p>
 <p><a href=https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html#matplotlib.pyplot.subplots>matplotlib.pyplot.subplots</a><br>
-matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)[source]</p>
+matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)</p>
 <p>Returns:<br>
-fig: The matplotlib.pyplot.figure object to be used as a <strong>container</strong> for all the subplots.<br>
-ax: A single object of the axes. Axes object if there is only <strong>one plot</strong>, or <strong>an array of axes</strong>. Axes objects if there are multiple plots, as specified by the nrows and ncols.</p>
+<code>fig</code>: The matplotlib.pyplot.figure object to be used as a <strong>container</strong> for all the subplots.<br>
+<code>ax</code>: A single object of the axes. Axes object if there is only <strong>one plot</strong>, or <strong>an array of axes</strong>. Axes objects if there are multiple plots, as specified by the nrows and ncols.</p>
 <p>Typical idioms for handling the return value are:<br>
 Using the variable ax for single a Axes</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
