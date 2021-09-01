@@ -22,13 +22,9 @@ PhD candidate of Environmental Sciences">
 <meta name=twitter:card content="summary_large_image">
 <meta name=twitter:image content="https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg">
 <meta name=twitter:title content="Creating multiple subplots using plt.subplots">
-<meta name=twitter:description content="Create a figure and a set of subplots.
-matplotlib.pyplot.subplots
-matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)[source]">
+<meta name=twitter:description content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created.">
 <meta property="og:title" content="Creating multiple subplots using plt.subplots">
-<meta property="og:description" content="Create a figure and a set of subplots.
-matplotlib.pyplot.subplots
-matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)[source]">
+<meta property="og:description" content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created.">
 <meta property="og:type" content="article">
 <meta property="og:url" content="https://xiaoshan1994.github.io/post/re_0830/"><meta property="og:image" content="https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg"><meta property="article:section" content="post">
 <meta property="article:published_time" content="2021-08-30T11:31:15+02:00">
@@ -124,21 +120,22 @@ Tweets by xiaoshan1994</a>
 30/8/2021
 </span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>4-minute read</span>
+<span class=reading-time>5-minute read</span>
 </div>
 </div>
-<p>Create a figure and a set of subplots.</p>
+<p>pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure.<br>
+<a href=https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html>https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html</a></p>
 <p><a href=https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html#matplotlib.pyplot.subplots>matplotlib.pyplot.subplots</a><br>
 matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)[source]</p>
 <p>Returns:<br>
 fig: The matplotlib.pyplot.figure object to be used as a <strong>container</strong> for all the subplots.<br>
 ax: A single object of the axes. Axes object if there is only <strong>one plot</strong>, or <strong>an array of axes</strong>. Axes objects if there are multiple plots, as specified by the nrows and ncols.</p>
-<p>Typical idioms for handling the return value are:</p>
-<h3 id=using-the-variable-ax-for-single-a-axes>using the variable ax for single a Axes</h3>
+<p>Typical idioms for handling the return value are:<br>
+Using the variable ax for single a Axes</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
-</code></pre></div><h3 id=using-the-variable-axs-for-multiple-axes>using the variable axs for multiple Axes</h3>
+</code></pre></div><p>Using the variable axs for multiple Axes</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, axs = plt.subplots(2, 2)
-</code></pre></div><h3 id=using-tuple-unpacking-for-multiple-axes>using tuple unpacking for multiple Axes</h3>
+</code></pre></div><p>Using tuple unpacking for multiple Axes</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(1, 2)
 fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
 </code></pre></div><h3 id=a-figure-with-just-one-subplot>A figure with just one subplot</h3>
