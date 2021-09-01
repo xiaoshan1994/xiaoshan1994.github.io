@@ -20,7 +20,7 @@ PhD candidate of Environmental Sciences">
 <script type=text/javascript src=/js/anatole-header.min.0c05c0a90d28c968a1cad4fb31abd0b8e1264e788ccefed022ae1d3b6f627514.js integrity="sha256-DAXAqQ0oyWihytT7MavQuOEmTniMzv7QIq4dO29idRQ=" crossorigin=anonymous></script>
 <script type=text/javascript src=/js/anatole-theme-switcher.min.7fd87181cdd7e8413aa64b6867bb32f3a8dc242e684fc7d5bbb9f600dbc2b6eb.js integrity="sha256-f9hxgc3X6EE6pktoZ7sy86jcJC5oT8fVu7n2ANvCtus=" crossorigin=anonymous></script>
 <meta name=twitter:card content="summary_large_image">
-<meta name=twitter:image content="https://user-images.githubusercontent.com/65668613/131476121-cf140e1a-4efe-4cd3-aed2-7eb5e9976fbf.png">
+<meta name=twitter:image content="https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg">
 <meta name=twitter:title content="Creating multiple subplots using plt.subplots">
 <meta name=twitter:description content="Create a figure and a set of subplots.
 matplotlib.pyplot.subplots
@@ -30,7 +30,7 @@ matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, sque
 matplotlib.pyplot.subplots
 matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)[source]">
 <meta property="og:type" content="article">
-<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_0830/"><meta property="og:image" content="https://user-images.githubusercontent.com/65668613/131476121-cf140e1a-4efe-4cd3-aed2-7eb5e9976fbf.png"><meta property="article:section" content="post">
+<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_0830/"><meta property="og:image" content="https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg"><meta property="article:section" content="post">
 <meta property="article:published_time" content="2021-08-30T11:31:15+02:00">
 <meta property="article:modified_time" content="2021-08-30T11:31:15+02:00"><meta property="og:site_name" content="Blog of Kai">
 </head>
@@ -115,7 +115,7 @@ Tweets by xiaoshan1994</a>
 <div class=content>
 <div class="post animated fadeInDown">
 <div class=post-content>
-<img class=post-thumbnail src=https://user-images.githubusercontent.com/65668613/131476121-cf140e1a-4efe-4cd3-aed2-7eb5e9976fbf.png alt="Thumbnail image">
+<img class=post-thumbnail src=https://cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg alt="Thumbnail image">
 <div class=post-title>
 <h1>Creating multiple subplots using plt.subplots</h1>
 <div class=info>
@@ -124,7 +124,7 @@ Tweets by xiaoshan1994</a>
 30/8/2021
 </span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>3-minute read</span>
+<span class=reading-time>4-minute read</span>
 </div>
 </div>
 <p>Create a figure and a set of subplots.</p>
@@ -134,14 +134,14 @@ matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, sque
 fig: The matplotlib.pyplot.figure object to be used as a <strong>container</strong> for all the subplots.<br>
 ax: A single object of the axes. Axes object if there is only <strong>one plot</strong>, or <strong>an array of axes</strong>. Axes objects if there are multiple plots, as specified by the nrows and ncols.</p>
 <p>Typical idioms for handling the return value are:</p>
-<h1 id=using-the-variable-ax-for-single-a-axes>using the variable ax for single a Axes</h1>
+<h3 id=using-the-variable-ax-for-single-a-axes>using the variable ax for single a Axes</h3>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, ax = plt.subplots()
-</code></pre></div><h1 id=using-the-variable-axs-for-multiple-axes>using the variable axs for multiple Axes</h1>
+</code></pre></div><h3 id=using-the-variable-axs-for-multiple-axes>using the variable axs for multiple Axes</h3>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, axs = plt.subplots(2, 2)
-</code></pre></div><h1 id=using-tuple-unpacking-for-multiple-axes>using tuple unpacking for multiple Axes</h1>
+</code></pre></div><h3 id=using-tuple-unpacking-for-multiple-axes>using tuple unpacking for multiple Axes</h3>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(1, 2)
 fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
-</code></pre></div><h1 id=a-figure-with-just-one-subplot>A figure with just one subplot</h1>
+</code></pre></div><h3 id=a-figure-with-just-one-subplot>A figure with just one subplot</h3>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>import matplotlib.pyplot as plt
 import numpy as np
 
@@ -152,7 +152,7 @@ y = np.sin(x ** 2)
 ax.plot(x,y)
 ax.set_title(&#39;A single plot&#39;)
 </code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131475906-69dd85ff-bcbb-4288-a24e-cf2b9295dfce.png alt=image></p>
-<h1 id=stacking-subplots-in-one-direction>Stacking subplots in one direction</h1>
+<h3 id=stacking-subplots-in-one-direction>Stacking subplots in one direction</h3>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig,ax = plt.subplots(2)
 fig.subtitle(&#39;Vertically stacked subplots&#39;)
 axs[0].plot(x,y)
@@ -170,7 +170,7 @@ fig.subtitle(&#39;Horizontally stacked subplots&#39;)
 ax1.plot(x,y)
 ax2.plot(x,-y)
 </code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131478295-c31e785f-e621-4c57-96c6-e9c478087212.png alt=image></p>
-<h1 id=stacking-subplots-in-two-directions>Stacking subplots in two directions</h1>
+<h3 id=stacking-subplots-in-two-directions>Stacking subplots in two directions</h3>
 <p>When stacking in two directions, the returned <code>axs</code> is a 2D NumPy array.<br>
 If you have to set parameters for each subplot it&rsquo;s handy to iterate over all subplots in a 2D grid using <code>for ax in axs.flat</code>:</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig,axs = plt.subplots(2,2)
@@ -205,14 +205,80 @@ ax4.plot(x, -y**2, &#39;tab:red&#39;)
 for ax in fig.get_axes():
 ax.label_outer()
 </code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131642513-eff75765-a38b-4435-9e2f-7f19af2c0fa2.png alt=image></p>
-<h1 id=sharing-axes>Sharing axes</h1>
+<h3 id=sharing-axes>Sharing axes</h3>
 <p>By default, each Axes is scaled individually. Thus, if the ranges are different the tick values of the subplots do not align.</p>
 <div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(2)
 fig.suptitle(&#39;Axes values are scaled individually by default&#39;)
 ax1.plot(x, y)
 ax2.plot(x + 1, -y)
-</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131642676-3e522888-5227-4a90-a7ce-1899f01020c4.png alt=image></p>
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131644381-699d2759-d34d-4f97-806d-5f0aae2653b5.png alt=image></p>
+<p>You can use sharex or sharey to align the horizontal or vertical axis.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, (ax1, ax2) = plt.subplots(2, sharex=True)
+fig.suptitle(&#39;Aligning x-axis using sharex&#39;)
+ax1.plot(x, y)
+ax2.plot(x + 1, -y)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131644328-ebcdf740-902e-4989-b819-9a9e4f1b3fe5.png alt=image></p>
+<p>Setting sharex or sharey to <code>True</code> enables global sharing across the whole grid, i.e. also the y-axes of vertically stacked subplots have the same scale when using sharey = <code>True</code>.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig, axs = plt.subplots(3, sharex= True, sharey= True)
+fig.suptitle(&#39;Sharing both axes&#39;)
+axs[0].plot(x, y ** 2)
+axs[1].plot(x, 0.3 * y, &#39;o&#39;)
+axs[2].plot(x, y, &#39;+&#39;)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131645322-d62a6c81-fdff-40d4-963e-f8ec8b173588.png alt=image></p>
+<p>For subplots that are sharing axes one set of tick labels is enough. Tick labels of inner Axes are automatically removed by sharex and sharey. Still there remains an unused empty space between the subplots.</p>
+<p>To precisely control the positioning of the subplots, one can explicitly create a <code>GridSpec</code> with <code>Figure.add_gridspec</code>, and then call its <code>subplots</code> method. For example, we can reduce the height between vertical subplots using <code>add_gridspec(hspace=0)</code>.</p>
+<p><code>label_outer</code> is a handy method to remove labels and ticks from subplots that are not at the edge of the grid.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig = plt.figure()
+gs = fig.add_gridspec(3, hspace=0)
+axs = gs.subplots(sharex= True, sharey = True)
+fig.suptitle(&#39;Sharing both axes&#39;)
+fig.suptitle(&#39;Sharing both axes&#39;)
+axs[0].plot(x, y ** 2)
+axs[1].plot(x, 0.3 * y, &#39;o&#39;)
+axs[2].plot(x, y, &#39;+&#39;)
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131649016-9975c4c0-402a-449c-8f8c-0e76b46baa9f.png alt=image></p>
+<p>Apart from <code>True</code> and <code>False</code>, both <code>sharex</code> and <code>sharey</code> accept the values &lsquo;row&rsquo; and &lsquo;col&rsquo; to share the values only per row or column.</p>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-fallback data-lang=fallback>fig = plt.figure()
+gs = fig.add_gridspec(2,2,hspace=0,wspace=0)
+(ax1,ax2),(ax3,ax4) = gs.subplots(sharex=&#39;col&#39;, sharey = &#39;row&#39;)
+fig.suptitle(&#39;Sharing x per column, y per row&#39;)
+ax1.plot(x, y)
+ax2.plot(x, y**2, &#39;tab:orange&#39;)
+ax3.plot(x + 1, -y, &#39;tab:green&#39;)
+ax4.plot(x + 2, -y**2, &#39;tab:red&#39;)
+for ax in axs.flat:
+ax.label_outer()
+</code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131649828-b7ab90f6-7a7b-444a-abd1-69dc97ba93c6.png alt=image></p>
+<p>If you want a more complex sharing structure, you can first create the grid of axes with no sharing, and then call <code>axes.Axes.sharex</code> or <code>axes.Axes.sharey</code> to add sharing info a posteriori.</p>
+<div class=highlight><div class=chroma>
+<table class=lntable><tr><td class=lntd>
+<pre tabindex=0 class=chroma><code><span class=lnt>183
+</span><span class=lnt>184
+</span><span class=lnt>185
+</span><span class=lnt>186
+</span><span class=lnt>187
+</span><span class=lnt>188
+</span><span class=lnt>189
+</span><span class=lnt>190
+</span><span class=lnt>191
+</span><span class=lnt>192
+</span><span class=lnt>193
+</span></code></pre></td>
+<td class=lntd>
+<pre tabindex=0 class=chroma><code class=language-go data-lang=go><span class=nx>fig</span><span class=p>,</span> <span class=nx>axs</span> <span class=p>=</span> <span class=nx>plt</span><span class=p>.</span><span class=nf>subplots</span><span class=p>(</span><span class=mi>2</span><span class=p>,</span> <span class=mi>2</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span><span class=p>,</span> <span class=nx>y</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;main&#34;</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span><span class=p>,</span> <span class=nx>y</span><span class=o>**</span><span class=mi>2</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;shares x with main&#34;</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>sharex</span><span class=p>(</span><span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>0</span><span class=p>])</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span> <span class=o>+</span> <span class=mi>1</span><span class=p>,</span> <span class=nx>y</span> <span class=o>+</span> <span class=mi>1</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;unrelated&#34;</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span> <span class=o>+</span> <span class=mi>2</span><span class=p>,</span> <span class=nx>y</span> <span class=o>+</span> <span class=mi>2</span><span class=p>)</span>
+<span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;also unrelated&#34;</span><span class=p>)</span>
+<span class=nx>fig</span><span class=p>.</span><span class=nf>tight_layout</span><span class=p>()</span>
+</code></pre></td></tr></table>
 </div>
+</div></div>
 <div class=post-footer>
 <div class=info>
 <span class=separator><a class=category href=/categories/research/>Research</a></span>
