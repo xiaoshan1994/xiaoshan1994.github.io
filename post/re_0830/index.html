@@ -250,22 +250,7 @@ for ax in axs.flat:
 ax.label_outer()
 </code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131649828-b7ab90f6-7a7b-444a-abd1-69dc97ba93c6.png alt=image></p>
 <p>If you want a more complex sharing structure, you can first create the grid of axes with no sharing, and then call <code>axes.Axes.sharex</code> or <code>axes.Axes.sharey</code> to add sharing info a posteriori.</p>
-<div class=highlight><div class=chroma>
-<table class=lntable><tr><td class=lntd>
-<pre tabindex=0 class=chroma><code><span class=lnt>183
-</span><span class=lnt>184
-</span><span class=lnt>185
-</span><span class=lnt>186
-</span><span class=lnt>187
-</span><span class=lnt>188
-</span><span class=lnt>189
-</span><span class=lnt>190
-</span><span class=lnt>191
-</span><span class=lnt>192
-</span><span class=lnt>193
-</span></code></pre></td>
-<td class=lntd>
-<pre tabindex=0 class=chroma><code class=language-go data-lang=go><span class=nx>fig</span><span class=p>,</span> <span class=nx>axs</span> <span class=p>=</span> <span class=nx>plt</span><span class=p>.</span><span class=nf>subplots</span><span class=p>(</span><span class=mi>2</span><span class=p>,</span> <span class=mi>2</span><span class=p>)</span>
+<div class=highlight><pre tabindex=0 class=chroma><code class=language-go data-lang=go><span class=nx>fig</span><span class=p>,</span> <span class=nx>axs</span> <span class=p>=</span> <span class=nx>plt</span><span class=p>.</span><span class=nf>subplots</span><span class=p>(</span><span class=mi>2</span><span class=p>,</span> <span class=mi>2</span><span class=p>)</span>
 <span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span><span class=p>,</span> <span class=nx>y</span><span class=p>)</span>
 <span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;main&#34;</span><span class=p>)</span>
 <span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>0</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span><span class=p>,</span> <span class=nx>y</span><span class=o>**</span><span class=mi>2</span><span class=p>)</span>
@@ -275,10 +260,8 @@ ax.label_outer()
 <span class=nx>axs</span><span class=p>[</span><span class=mi>0</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;unrelated&#34;</span><span class=p>)</span>
 <span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>plot</span><span class=p>(</span><span class=nx>x</span> <span class=o>+</span> <span class=mi>2</span><span class=p>,</span> <span class=nx>y</span> <span class=o>+</span> <span class=mi>2</span><span class=p>)</span>
 <span class=nx>axs</span><span class=p>[</span><span class=mi>1</span><span class=p>,</span> <span class=mi>1</span><span class=p>].</span><span class=nf>set_title</span><span class=p>(</span><span class=s>&#34;also unrelated&#34;</span><span class=p>)</span>
-<span class=nx>fig</span><span class=p>.</span><span class=nf>tight_layout</span><span class=p>()</span>
-</code></pre></td></tr></table>
-</div>
-</div></div>
+<span class=nx>fig</span><span class=p>.</span><span class=nf>tight_layout</span><span class=p>()</span> <span class=err>#</span> <span class=nx>narrowing</span> <span class=nx>the</span> <span class=nx>padding</span> <span class=nx>between</span> <span class=nx>figure</span> <span class=nx>edge</span> <span class=nx>and</span> <span class=nx>edges</span> <span class=nx>of</span> <span class=nx>the</span> <span class=nx>subplots</span>
+</code></pre></div></div>
 <div class=post-footer>
 <div class=info>
 <span class=separator><a class=category href=/categories/research/>Research</a></span>
