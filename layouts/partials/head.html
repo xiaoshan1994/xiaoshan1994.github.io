@@ -106,8 +106,11 @@
             integrity="{{ $secureJS.Data.Integrity }}"
             crossorigin="anonymous"></script>
     {{- end -}}
+
     <!-- LaTeX Support -->
-     {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
+    {{ if .Params.katex}}
+       {{ partial "katex.html" . }}
+    {{ end }}
 
     <!-- Twitter Cards -->
     {{ template "_internal/twitter_cards.html" . }}
