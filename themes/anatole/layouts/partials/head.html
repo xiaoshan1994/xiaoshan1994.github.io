@@ -108,7 +108,7 @@
     {{ template "_internal/twitter_cards.html" . }}
 
    <!-- LaTeX Support -->
-    {{ partial "hook_head_end.html" . }}
+    {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
 
     <!-- Open Graph -->
     {{- if isset .Site.Taxonomies "series" }}
