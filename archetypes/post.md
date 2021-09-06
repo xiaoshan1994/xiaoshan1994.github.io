@@ -10,6 +10,7 @@ tags:
 -
 Categories:
 -
+katex: true
 ---
 prepared fonts:
 Bangers Pattaya Kalam
