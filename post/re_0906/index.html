@@ -120,7 +120,7 @@ Tweets by xiaoshan1994</a>
 6/9/2021
 </span>
 <em class="fas fa-stopwatch"></em>
-<span class=reading-time>4-minute read</span>
+<span class=reading-time>5-minute read</span>
 </div>
 </div>
 <p>Pages Posted: 24 Jul 2021 Last revised: 30 Aug 2021<br>
@@ -137,6 +137,7 @@ Renmin University of China - School of Applied Economics<br>
 on competitiveness induced by unilateral climate policies.</p>
 <p>Such an outcome would violate the United Nations Framework Convention on Climate Change’s (UNFCCC) principle of <strong>Common but Differentiated Responsibilities (CBDR)</strong>.</p>
 <h2 id=data-and-model>Data and model</h2>
+<h3 id=21-data>2.1 Data</h3>
 <p>International Supply Use Tables (SUTs) from the World Input-Output Database (<strong>WIOD</strong>);<br>
 Chinese multi-regional input-output（CMRIO）tables;<br>
 China&rsquo;s customs data;<br>
@@ -159,6 +160,16 @@ The derived product-by-product WIOT contains <strong>43 countries</strong> and a
 <p>Finally, we borrow the <strong>commodity-level substitution elasticities</strong> between domestic and imported commodities and among imports from different sources from the <strong>GTAP Database</strong> (Aguiar et al., 2019).</p>
 <p>The GTAP provides substitution elasticities for <strong>59 GTAP commodities</strong>, which we aggregate to obtain elasticities for the 23 sectors consistent with the sector classification in the CMRIO-WIOT.</p>
 <p>The aggregation follows <strong>Horridge (2018)</strong>, which is argued to produce <strong>a smaller aggregation bias</strong> than the prevailing treatment of the <strong>weighted average</strong> of the substitution elasticities.</p>
+<h3 id=22-accounting-for-carbon-content>2.2 Accounting for carbon content</h3>
+<p>Without loss of generality, we assume that the <em><strong>CBAM uses actual emissions data to determine the country-sector-specific benchmarks for non-EU products</strong></em>. Specifically, we calculate the <strong>emissions intensity for each commodity sector of each country</strong>. (Alternatively, one may opt for a domestic (EU) benchmark, such as the EU average emissions intensity or best-available technology. But it will reduce enthusiasm for foreign producers)</p>
+<p>Next, we assume that <strong>the EU CBAM covers all goods sectors</strong> as well as <strong>the energy and transportation sectors</strong>. Although the EU’s 2020 proposal indicates only starting with one or two relevant sectors in the initial phase, the CBAM will likely expand to other sectors in the following stages.</p>
+<p>Also, to comply with WTO rules, the EU CBAM must not charge imports more than the domestic carbon price. Therefore, we assume throughout this paper that <strong>the EU CBAM covers Scope 1 and 2 emissions only</strong>.</p>
+<p>Sectoral direct emissions coefficient: fis,D=a/b, where 𝑠 ∈ 𝑆 is the country index, 𝑖 ∈ 𝑁 is the industry index and 𝐷 stands for direct emissions. 𝐹𝑖<br>
+𝑠<br>
+and 𝑋𝑖<br>
+𝑠<br>
+are the total direct emissions and the total output<br>
+of sector 𝑖 in country 𝑠.</p>
 </div>
 <div class=post-footer>
 <div class=info>
