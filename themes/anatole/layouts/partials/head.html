@@ -109,7 +109,9 @@
 
    <!-- LaTeX Support -->
     {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
-
+    {{ if or .Params.math .Site.Params.math }}
+    {{ partial "math.html" . }}
+    {{ end }}
     <!-- Open Graph -->
     {{- if isset .Site.Taxonomies "series" }}
     {{- if not (eq (len .Site.Taxonomies.series) 0) -}}
