@@ -112,6 +112,10 @@
         {{ partial "katex.html" . }}
     {{ end }}
 
+    {{ if or .Params.math .Site.Params.math }}
+    {{ partial "math.html" . }}
+    {{ end }}
+
     <!-- Twitter Cards -->
     {{ template "_internal/twitter_cards.html" . }}
 
