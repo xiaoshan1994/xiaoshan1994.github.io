@@ -107,11 +107,7 @@
     <!-- Twitter Cards -->
     {{ template "_internal/twitter_cards.html" . }}
 
-   <!-- LaTeX Support -->
-    {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
-    {{ if or .Params.math .Site.Params.math }}
-    {{ partial "math.html" . }}
-    {{ end }}
+   <!-- math Support -->
 
     {{ if or .Params.math .Site.Params.math }}
     {{ partial "math.html" . }}
