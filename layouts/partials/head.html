@@ -107,11 +107,7 @@
             crossorigin="anonymous"></script>
     {{- end -}}
 
-    <!-- LaTeX Support -->
-    {{ if .Params.katex}}
-        {{ partial "katex.html" . }}
-    {{ end }}
-
+    <!-- math Support -->
     {{ if or .Params.math .Site.Params.math }}
     {{ partial "math.html" . }}
     {{ end }}
