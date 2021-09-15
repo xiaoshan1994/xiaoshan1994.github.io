@@ -10,7 +10,7 @@ tags:
 -
 Categories:
 -
-math: true
+math: false
 ---
 prepared fonts:
 Bangers Pattaya Kalam
