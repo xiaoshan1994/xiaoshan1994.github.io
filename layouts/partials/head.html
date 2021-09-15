@@ -108,7 +108,7 @@
     {{- end -}}
 
     <!-- math Support -->
-    {{ if or .Params.math .Site.Params.math }}
+    {{ if .Params.math }}
     {{ partial "math.html" . }}
     {{ end }}
 
