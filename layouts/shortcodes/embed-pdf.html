@@ -109,7 +109,7 @@ function renderPage(num) {
     renderTask.promise.then(function() {
       pageRendering = false;
       showContent();
-
+      
       if (pageNumPending !== null) {
         // New page rendering is pending
         renderPage(pageNumPending);
@@ -190,7 +190,7 @@ pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
   pdfDoc = pdfDoc_;
   var numPages = pdfDoc.numPages;
   document.getElementById('page_count').textContent = numPages;
-
+  
   // If the user passed in a number that is out of range, render the last page.
   if(pageNum > numPages) {
     pageNum = numPages
