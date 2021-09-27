@@ -3,8 +3,8 @@ title: How to shoot in Low Light (at night)
 date: 2021-09-26T10:40:39+02:00
 description:
 images:
--
-thumbnail:
+- https://i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
+thumbnail: https://i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
 tags:
 - DSLR
 - night
