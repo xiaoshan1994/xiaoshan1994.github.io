@@ -202,8 +202,8 @@ PhD candidate of Environmental Sciences"""
   sidebarBehavior = 1
 
   # Customize link of author avatar in sidebar
-  #  [params.sidebar.profile]
-  #    url = "/#about"
+  [params.sidebar.profile]
+    url = "https://xiaoshan1994.github.io/english/post/re_1012/"
 
   # -------------------
   # Media configuration
