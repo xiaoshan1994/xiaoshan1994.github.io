@@ -1,5 +1,7 @@
 <head>
-    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }} </title>
+    <title> {{.Site.Params.author}}{{ with .Title }} | {{ . }}{{ end }}
+      <link rel="stylesheet" href="{{ "css/bootstrap-table.css" | absURL }}">
+     </title>
 
     <!-- Meta -->
     <meta charset="utf-8">
@@ -46,16 +48,17 @@
     href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
     integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA=="
     crossorigin="anonymous" />
-
-
-
-    <!-- Favicons -->
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Kalam&family=Newsreader:wght@600&family=Pattaya&family=Roboto&family=Rock+Salt&family=Patrick+Hand&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.typekit.net/btn7hea.css">
     <link rel="shortcut icon" href="{{ .Site.Params.favicon | relURL }}favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ .Site.Params.favicon | relURL }}apple-touch-icon.png">
     <link rel="icon" type="image/png" sizes="32x32" href="{{ .Site.Params.favicon | relURL }}favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="{{ .Site.Params.favicon | relURL }}favicon-16x16.png">
 
     <link rel="canonical" href="{{ .RelPermalink }}">
+
+
 
     <!-- RSS -->
     {{ with .OutputFormats.Get "rss" -}}
@@ -104,20 +107,16 @@
             crossorigin="anonymous"></script>
     {{- end -}}
 
-    <!-- Twitter Cards -->
-    {{ template "_internal/twitter_cards.html" . }}
-
-   <!-- math Support -->
-
-    {{ if or .Params.math .Site.Params.math }}
+    <!-- math Support -->
+    {{ if .Params.math }}
     {{ partial "math.html" . }}
     {{ end }}
 
+    <!-- Twitter Cards -->
+    {{ template "_internal/twitter_cards.html" . }}
+
     <!-- Open Graph -->
-    {{- if isset .Site.Taxonomies "series" }}
-    {{- if not (eq (len .Site.Taxonomies.series) 0) -}}
     {{ template "_internal/opengraph.html" . }}
-    {{- end -}}
-    {{- end }}
+
 
 </head>
