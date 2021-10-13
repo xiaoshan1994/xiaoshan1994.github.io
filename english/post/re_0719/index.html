@@ -1,0 +1,473 @@
+<!doctype html><html lang=en-us>
+<head>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/example.org\/","author":{"@type":"Person","name":"Kai Li","image":"https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137"},"name":"Blogs of Kai","description":"A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.","url":"https:\/\/example.org\/english\/post\/re_0719\/","keywords":"[]"}</script>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=author content="Kai Li">
+<meta name=keywords content>
+<meta name=description content="A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.">
+<meta property="og:description" content="A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis">
+<meta name=twitter:title content="Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis">
+<meta property="og:url" content="https://example.org/english/post/re_0719/">
+<meta property="twitter:url" content="https://example.org/english/post/re_0719/">
+<meta property="og:site_name" content="Blogs of Kai">
+<meta property="og:description" content="A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.">
+<meta name=twitter:description content="A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints.">
+<meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2021-07-19T09:57:38">
+<meta property="article:modified_time" content="2021-07-19T09:57:38">
+<meta property="article:section" content="Research">
+<meta property="article:tag" content="MRIO">
+<meta property="article:tag" content="EIOA">
+<meta name=twitter:card content="summary">
+<meta name=twitter:site content="@xiaoshan1994">
+<meta name=twitter:creator content="@xiaoshan1994">
+<meta property="og:image" content="https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137?s=640">
+<meta property="twitter:image" content="https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137?s=640">
+<title>Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis</title>
+<link rel=icon href=https://example.org/favicon.png>
+<link rel=canonical href=https://example.org/english/post/re_0719/>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://example.org/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script>
+</head>
+<body>
+<div id=blog>
+<header id=header data-behavior=4>
+<i id=btn-open-sidebar class="fa fa-lg fa-bars"></i>
+<div class=header-title>
+<a class=header-title-link href=https://example.org/ aria-label="Go to homepage">Blogs of Kai</a>
+</div>
+<a class=header-right-picture href=https://example.org/#about aria-label="Open the link: /#about">
+<img class=header-picture src="https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137?s=90" alt="Author's picture">
+</a>
+</header>
+<nav id=sidebar data-behavior=4>
+<div class=sidebar-container>
+<div class=sidebar-profile>
+<a href=https://example.org/#about aria-label="Read more about the author">
+<img class=sidebar-profile-picture src="https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137?s=110" alt="Author's picture">
+</a>
+<h4 class=sidebar-profile-name>Kai Li</h4>
+<h5 class=sidebar-profile-bio>Kai Li (李锴)
+Leiden University
+PhD candidate of Environmental Sciences</h5>
+</div>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/ title=Home>
+<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden=true></i>
+<span class=sidebar-button-desc>Home</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/categories title=Categories>
+<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden=true></i>
+<span class=sidebar-button-desc>Categories</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/tags title=Tags>
+<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden=true></i>
+<span class=sidebar-button-desc>Tags</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/archives title=Archives>
+<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden=true></i>
+<span class=sidebar-button-desc>Archives</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/#about title=About>
+<i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden=true></i>
+<span class=sidebar-button-desc>About</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1 target=_blank rel=noopener title="staff page">
+<i class="sidebar-button-icon fas fa-lg fa-university" aria-hidden=true></i>
+<span class=sidebar-button-desc>staff page</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN" target=_blank rel=noopener title="Google Scholar">
+<i class="sidebar-button-icon fab fa-lg fa-google" aria-hidden=true></i>
+<span class=sidebar-button-desc>Google Scholar</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://github.com/xiaoshan1994 target=_blank rel=noopener title=GitHub>
+<i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden=true></i>
+<span class=sidebar-button-desc>GitHub</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://example.org/index.xml title=RSS>
+<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden=true></i>
+<span class=sidebar-button-desc>RSS</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div id=main data-behavior=4 class=hasCoverMetaIn>
+<article class=post id=top>
+<div class="post-header main-content-wrap text-left">
+<h1 class=post-title>
+Global Sustainability Accounting—Developing EXIOBASE for Multi-Regional Footprint Analysis
+</h1>
+<div class="postShorten-meta post-meta">
+<time datetime=2021-07-19T09:57:38+02:00>
+July 19, 2021
+</time>
+<span>in</span>
+<a class=category-link href=https://example.org/categories/research>Research</a>
+</div>
+</div>
+<div class="post-content markdown">
+<div class=main-content-wrap>
+<p>A global multi-regional input−output database (EXIOBASE) with a focus on environmentally relevant activities, allowing insights into the production-related impacts and consumption footprints<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup>.</p>
+<h2 id=1-introduction>1. Introduction</h2>
+<h3 id=11-developments-in-multi-regional-input-output-analysis-mrio-harmonization>1.1. Developments in Multi-Regional Input-Output Analysis (MRIO) Harmonization</h3>
+<p>Compared to other databases, EXIOBASE has a clear environmental and resource focus with high levels of detail in primary production.</p>
+<p>Harmonizing and detailing supply and use tables (SUT):</p>
+<ul>
+<li><strong>Gathering SUT from the relevant statistical offices</strong>. In the specific case of EXIOBASE, data is gathered from the EU27 via Eurostat, and other SUT and IO tables from 16 other countries. Together, these cover 90% of the global gross domestic product (GDP). (See supporting
+information for further details.)</li>
+<li><strong>Harmonizing SUT to allow for consistency in pricing layers</strong> (treatment of margins and taxes), and for the consistent treatment of purchases by residents whilst abroad.</li>
+<li><strong>Detailing SUT to give a consistent classification</strong> or, at a minimum, a link between classified imports and exports of different countries. This is either done through basic assumptions or, in the case of EXIOBASE, by using <strong>auxiliary data</strong> from <strong>FAO and European AgroSAM for agriculture</strong>, the <strong>International Energy Agency (IEA) database for energy carriers<sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup> and electricity</strong>, various resource databases for resources, etc.</li>
+</ul>
+<p>Harmonizing and estimating environmental and social extensions:</p>
+<p>The objective of EXIOBASE is to integrate a larger amount of data from <strong>environmental accounts</strong>, covering both <strong>resource inputs</strong> (energy, materials, water and land), as well as <strong>outputs of waste and emissions</strong> to air and water.</p>
+<ul>
+<li>
+<p>Collecting and allocating available labour, material, land and water extraction data (e.g., the statistical databases of the Food and Agriculture Organization of the United Nations (<strong>FAOSTAT</strong>, <strong>Aquastat</strong>) and of the International Labour Organization (<strong>LABORSTA</strong>)) to product groups and industry sectors.</p>
+</li>
+<li>
+<p>Estimating energy and emissions data in EXIOBASE, this involved transforming the energy data of the IEA database for 63 energy carriers from <strong>territory to residence principle</strong> and allocating the energy supply and use to sectors and final use categories. <em><strong>Emissions are estimated consistently for all countries on the basis of energy and other activity data and TNO’s bottom-up TEAM model [25]</strong></em>.</p>
+</li>
+</ul>
+<p>Creation of MRIO tables and footprint analysis：
+In addition to the MRSUT, EXIOBASE also contains symmetric MRIO tables under various assumptions (in order for footprints or consumption-based accounts to be calculated, assumptions must be made on <strong>converting multiple output industries into single output activities</strong>, and further on <strong>linear demand-supply relationships</strong>[26]).</p>
+<h3 id=12-exiobase-advances>1.2. EXIOBASE Advances</h3>
+<p>The second version of EXIOBASE (EXIOBASE2—for the base year 2007) follows on from the first development of EXIOBASE (v1—for the year 2000 within the EXIOPOL project) [15], see Table 1. EXIOBASE2 sought to make advances compared to existing MRIO databases in a number of areas. Due to <strong>aggregation errors</strong> inherent to IO modeling [27], <strong>a focus was placed on increasing the product and industry detail of the model</strong>. To harmonize with the material balances of waste accounts derived elsewhere in the CREEA project, additional detail was put into both the product and industry classifications, resulting in 200 products and 163 industries (see supporting information) for enabling the <strong>tracing of waste and recycling flows</strong>. In addition to the sector detail, EXIOBASE2 estimated five additional <strong>“rest of world” regions</strong> for countries not explicitly covered in EXIOBASE v1. These changes make EXIOBASE2 the most detailed MRIO currently available. Adopted alongside the increased detail was rectangular instead of square SUT. This detail has been suggested to be essential for resource accounting [20]. This adoption provides the ability to represent a single technology that produces multiple co-products, such as an oil refinery.</p>
+<p><img src=https://user-images.githubusercontent.com/65668613/126135268-e9224927-dbdd-4670-9e1c-51e1a638a166.png alt=image></p>
+<p>The final main advancement of EXIOBASE2 was the expansion of monetary SUT to link to an additional physical SUT layer. The result is to express in the physical layer all product flows in mass (dry weight) or energy units, hence allowing for physical allocation. This implies that from a product perspective, the mass balance as well as the economic balance principle of “supply equals use” will hold, while also maintaining balances from an industry perspective (i.e., the supply of products by industry and outputs to nature are equal to the use of products and inputs from nature). <em><strong>The full physical layer was exploratory</strong></em>, and a comprehensive description of the approach to physical layering, and the outcomes of the layering, is beyond the scope of this paper (see [34]). Estimates of the physical layer and pricing estimates are available upon request, but results presented in this work are not based on them.</p>
+<h4 id=general-framework-of-methods>General Framework of Methods</h4>
+<p>Within industrial ecology and sustainability assessment in general, various methods stand out for <strong>the accounting of the social metabolism</strong> [35]. The three most prominent of these are (economy-wide) <strong>material and energy flow accounting, life cycle assessment, and IO analysis</strong>. All three methods attempt to model the complexity of production and consumption systems in order to trace source impacts to a functional demand. All methods share a similar methodological background [36], and significant scope is available for the integration of both data and methods [37].</p>
+<p>EXIOBASE2 seeks to integrate economy-wide material and energy flow accounting with MRIO modelling (see [38–40]). This integration allows for the calculation of the various material flow metrics by recording used and unused extraction in each domestic economy, physical imports and exports, and enabling the tracing of raw material equivalents of imports and exports through Leontief modelling.</p>
+<p>Life cycle assessment approaches are integrated through the use of life cycle inventory data to link the <strong>direct physical and monetary inputs</strong> required for the production of one unit of output in each industry sector, and by including characterization of environmental flows. At the basic level, the coefficients of the individual country IO tables were first estimated in both physical and monetary terms, linked by price estimates of the product groups and industry sectors. Hence, in this work, by using a consistent mathematical structure, all types of analysis from product life-cycle assessments to environmental footprints and economy-wide flow accounting can be performed.</p>
+<h2 id=2-data-sources>2. Data Sources</h2>
+<p>A number of disparate databases were integrated in EXIOBASE 2, thereby establishing consistency between the thematic areas covered by the databases whilst also facilitating inter-disciplinary modelling.</p>
+<h3 id=21-national-account-sut-data>2.1. National Account (SUT) Data</h3>
+<p>The statistical <strong>national accounts in the form of SUT</strong> for the 43 countries and in the form of national account aggregates for the “rest of world” regions are used as the main building blocks. SUT form the basis of GDP calculations [41], ensuring consistency through the integrated database to national account aggregates. However, some adjustments are necessary. The first stage in using the SUT requires assembling the inventory and validation of original aggregate SUT data. Inventorying implies gathering:</p>
+<ul>
+<li>For EU27: <strong>ESA95 tables</strong> discerning 59 sectors and products</li>
+<li>For the 16 non-EU countries: SUT and/or IO table in different kinds of classifications</li>
+</ul>
+<p>SUT data are not always consistent across countries and therefore need adjustment for the MRIO context. Tables occasionally report <strong>negative supply or negative sales</strong> when all values should be gross, and published tables are <strong>not always balanced</strong>. Hence, as a first stage of the data harmonization, concordances of classification are prepared and cursory data validation performed. <strong>Through a programmed interface</strong>, the data consistency is checked and errors in original tables are corrected. Harmonization across different accounting conventions is done in this step. Key aspects include <strong>the treatment of financial intermediation services indirectly measured (FISIM)<sup id=fnref:3><a href=#fn:3 class=footnote-ref role=doc-noteref>3</a></sup>, the handling of purchases by residents abroad and of purchases on domestic territory by non-residents, the conversion or estimation of data to enable the estimation of basic price tables (price harmonization), the preliminary balancing of tables, and the re-basing of tables to a common base year</strong>. This automated approach creates datasets for multiple years and facilitates future data updates.</p>
+<h3 id=22-trade>2.2. Trade</h3>
+<p>The main trade data used in EXIOBASE 2 originates from the <strong>UN Comtrade database</strong> [42] and the
+<strong>UN services trade database</strong> [43]. The UN Comtrade data, although of reasonably high quality, is not
+symmetrical; bilateral exports are not consistent with the mirror country’s bilateral imports. The BACI
+database [44] is based on UN Comtrade, but is reconciled such that for a single year, every trade
+flow is recorded as a single bilateral trade flow in both physical units and in free-on-board (f.o.b.)
+monetary valuation.</p>
+<h3 id=23-agriculture-social-accounting-matrices-for-european-countries-agrosam>2.3. Agriculture Social Accounting Matrices for European Countries (AgroSAM)</h3>
+<p>A set of social accounting matrices (SAM) for the EU27 was developed as part of the AgroSAM project at the Institute for Prospective Technological Studies [45]. These tables follow the standard Eurostat format for SUT in purchaser prices, but are extended to include feedbacks of primary inputs into final demand, although this feature is not used in this project. In addition, the project provided disaggregated agricultural data for 30 primary agricultural sectors and 11 food processing sectors. Such detail allowed the direct mapping of the AgroSAM database to the EXIOBASE2 classification for all sectors with the exception of fish product processing, which was aggregated with “food products nec”. As the AgroSAM data are only from 2000, the relative values (structure) of inputs and sales were taken for the agricultural and food sectors, and applied as coefficients for the disaggregation of the 2007 tables.</p>
+<h3 id=24-faostat-and-other-sector-outputs>2.4. FAOSTAT and Other Sector Outputs</h3>
+<p>The Food and Agriculture Organization of the United Nations (FAO) database, FAOSTAT [46], provided in 2007 dollars, was used to estimate agricultural sector production values. These output data were coupled with the AgroSAM-derived coefficients for EU countries and the coefficient data for non-EU countries. Some adjustments were made to FAOSTAT data where there was a discrepancy between physical and monetary reported values.</p>
+<p>Data for manufacturing product output for European countries are obtained from the PRODCOM database [47], and industry turnover from the Structural Business Statistics [48].</p>
+<h3 id=25-international-energy-agency-energy-balances>2.5. International Energy Agency Energy Balances</h3>
+<p>The International Energy Agency (IEA) <strong>Energy Balances database</strong> was used as the source of disaggregation for the energy flows [49,50]. <em><strong>The IEA database is converted from the territory to the residence principle</strong></em><sup id=fnref:4><a href=#fn:4 class=footnote-ref role=doc-noteref>4</a></sup> based on the accounting rules provided by the United Nations Department of Economic and Social Affairs [51] and Eurostat [52] by applying auxiliary datasets [53]. The most important of these transformations occurs in the transport sector, where a transformation is needed from the place where fuels are sold (basis for the territory principle) to the use by residents of a country. A secondary step tailors energy supply and use and emission factors to the EXIOBASE2 industry and product classifications, i.e., translates IEA flow and product to existing EXIOBASE2 categories. Several auxiliary datasets were used to perform this transformation [53]. In addition, for use of the energy accounts in detailing monetary SUT, derived prices were applied. Combustion-related air emission accounts are calculated directly on the basis of the energy accounts described above, providing implicit internal consistency between the energy and emission accounts [53]. To do so, the energy flows related to combustion are identified and combined with emission factors following the so-called energy-first approach described in Eurostat [54]. These emission factors for greenhouse gases and air pollutants are available from the guidance for estimating emissions of greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air pollutants provide the methodologies for emission estimation. This set of methodologies also forms the basis on which countries estimate their annual emissions under the United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air Pollution (CLRTAP) international conventions.
+For each country and sector, a suitable methodology has been selected based on the importance of the source (a more important emission source requires a more detailed method) but also on data availability. The methods are applied to each sector and each country at the global level, resulting in a global emissions dataset. This dataset is compared to the official emissions to identify outliers and possible errors, which are corrected where needed. A one-to-one comparison is not possible because of the territory principle applied in the official country inventories.
+For the non-combustion air emission accounts, emissions are calculated in a similar way by combining various activity statistics (e.g., industrial production, use of products) with the methodologies from the guidelines described above. The activity statistics have been collected from various data sources, including the material use database described earlier. Emission factors are taken from the guidance documents and applied to selected activity data for each sector. Similar to the combustion emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the different basis (territory vs. residency principle).</p>
+<h3 id=26-emission-accounts>2.6. Emission Accounts</h3>
+<p>Combustion-related air emission accounts are calculated directly on the basis of the energy accounts described above, providing implicit internal consistency between the energy and emission accounts [53]. To do so, the energy flows related to combustion are identified and combined with emission factors following the so-called energy-first approach described in Eurostat [54]. These emission factors for greenhouse gases and air pollutants are available from the guidance for estimating emissions of greenhouse gases and air pollutants at the national level. The Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas Inventories [55] and the European Monitoring and Evaluation Programme/European Environment Agency (EMEP/EEA) Guidebook [56] for air pollutants provide the methodologies for emission estimation. This set of methodologies also forms the basis on which countries estimate their annual emissions under the United Nations Framework Convention on Climate Change (UNFCCC) and Convention on Long-Range Transboundary Air Pollution (CLRTAP) international conventions.</p>
+<p>For each country and sector, a suitable methodology has been selected based on the importance of the source (a more important emission source requires a more detailed method) but also on data availability. The methods are applied to each sector and each country at the global level, resulting in a global emissions dataset. This dataset is compared to the official emissions to identify outliers and possible errors, which are corrected where needed. A one-to-one comparison is not possible because of the territory principle applied in the official country inventories.</p>
+<p>For the non-combustion air emission accounts, emissions are calculated in a similar way by combining various activity statistics (e.g., industrial production, use of products) with the methodologies from the guidelines described above. The activity statistics have been collected from various data sources, including the material use database described earlier. Emission factors are taken from the guidance documents and applied to selected activity data for each sector. Similar to the combustion emissions, the non-combustion emissions are also compared to official UNFCCC and CLRTAP emissions to identify possible outliers and errors, but a detailed comparison was not possible due to the different basis (territory vs. residency principle).&lsquo;atom-text-editor.vim-mode&rsquo;:</p>
+<h3 id=27-labor-accounts>2.7. Labor Accounts</h3>
+<p>Available labor statistics show the global distribution of work conditions from the point of view of
+where it occurs, both regionally and in main economic activities. Primary sources for labor inputs were
+national labor force surveys, gathered from the International Labour Organization’s (ILO) LABORSTA
+database [57], and a combination of labor force and industrial surveys in national accounts, obtained
+from the Organisation for Economic Co-operation and Development’s (OECD) STAN database [58].
+Labor data from LABORSTA consist of 39 economic sectors, whereas STAN covers up to 60 industries
+and thereby provides better resolution compared to the MRIO sectors. Labor data were collected for
+labor according to skill level and gender, which allows for the calculation of further quality of labor
+indicators such as forced labor, child labor, vulnerable employment and damage-related indicators of
+labor through occupational health damage see Simas et al. [18,19].</p>
+<h3 id=28-water-accounts>2.8. Water Accounts</h3>
+<p>EXIOBASE is a comprehensive database with a high level of sector disaggregation. In contrast, the
+available data on water use and consumption collected by national statistical agencies, for example,
+are not of sufficient coverage or quality to fit the requirements of EXIOBASE—or simply altogether
+non-existent. As a consequence, modeled data covering the following categories were used. In the
+following, we describe the sectors for which data were used with regard to the type of water (blue/green)
+and the type of water flow (use/consumption). “Blue water” refers to water abstracted from surface water
+and groundwater bodies, whereas “green water” refers to water from precipitation, which infiltrates into
+the soil and is taken up by plants. “Water use” is the amount of water abstracted from water sources,
+whereas “water consumption” in the hydrological sense is the difference between the water abstracted
+and the water returned to the same watershed/ecosystem. In hydrological accounting terms, water
+consumption is defined as water evapotranspiration plus water incorporated into products [59].
+ Agricultural water consumption (blue/green)
+ Industrial water use and consumption (blue)
+ Domestic water use and consumption (blue)
+ Agricultural nitrogen and phosphorous emissions to water
+ Thermal pollution of (heat emissions to) water from energy production
+This last item addressing thermal discharges to water is a new quality aspect thus far unaddressed by
+the SEEA.
+This data allows coverage of both water quality issues and emissions to water, thus permitting water
+use to be linked to actual environmental impacts [59]. Collection, classification and disaggregation of
+the water data were required before use. These steps were of special relevance in the case of industrial
+water use/consumption, wherein data from the WaterGAP model were used [60]. In contrast to the data
+on agricultural water appropriation, these data are not available in the full product detail, but for only
+five manufacturing sectors, two energy-producing sectors of different types of cooling systems
+(once-through vs. tower cooling), as well as for different types of livestock breeding. Hence, these data
+had to be allocated to the different product (and industry) groups used in EXIOBASE2. While this was a
+relatively straightforward task in the case of the livestock data, the data on water appropriation in the
+manufacturing sector had to be allocated to the more detailed EXIOBASE2 product classes using
+physical production quantity data for the different products. In the case of energy production, the data
+were allocated to the energy types that use cooling water in their production systems. Next, the data
+were allocated to the specific EXIOBASE2 sectors via the monetary data from the SUTs on sectorial
+activities [59].</p>
+<h3 id=29-material-accounts>2.9. Material Accounts</h3>
+<p>Data for the material extensions were retrieved from the Sustainable Europe Research Institute
+(SERI) Global Material Flow database [61]. The Global Material Flow Database is the only database
+with global coverage that comprises comprehensive resource extraction data for all material categories
+in annual time series. The database is organized according to the standards of economy-wide material
+flow accounting (MFA) as provided by Eurostat and the OECD [62,63].
+The data in the Global Material Flow Database are mainly based on four data sources: the British
+Geological Survey (BGS) and the US Geological Survey (USGS) for metal and mineral data;
+the International Energy Agency (IEA) for the data on fossil fuels; and the Food and Agriculture
+Organization of the United Nations (FAO) for the data on biomass extraction.</p>
+<h3 id=210-land-accounts>2.10. Land Accounts</h3>
+<p>Cropland data are collected on the individual crop basis (primary crop classification in FAOSTAT),
+and supplemented by categories not commonly reported in statistics such as fallow land, forestry
+plantations on arable land and land for other agricultural purposes (see [64] for full details on land use
+data). In addition to the FAO online database, data and information were taken from a multitude of
+single, specific sources as documented in the detailed report found in the supporting information for this
+study. Also, Eurostat data for the aggregate categories “forage plants” and “fallow land” were taken
+from the agricultural database to fill data gaps or replace FAO data.
+FAO data for primary crops inherit specific properties, including the double or multiple counts of
+land use in the case of multiple cropping in the span of one year. Such cropping practices are only
+counted once in the EXIOBASE2 extensions.</p>
+<p>In addition to cropland, permanent meadows and pastures constitute the remainder of utilized
+agricultural land, and FAO reports permanent meadows and pastures as a single number. Forest area is a
+single number in FAO statistics comprising both natural forests as well as managed forests and
+plantations. Only the total area is reported; the statistics do not distinguish between the forest categories.
+Built-up and related land encompasses all developed land, including transport corridors and human
+settlements. The base data for the category are the 2011 Annex 1 Party Greenhouse Gas (GHG)
+Inventory Submissions under the UNFCCC. Since these data do not cover all EXIOBASE2 countries
+and are not complete for some regions, we used additional single-country sources or international data
+such as from the European Corine Land Cover project.</p>
+<section class=footnotes role=doc-endnotes>
+<hr>
+<ol>
+<li id=fn:1 role=doc-endnote>
+<p><a href=https://www.mdpi.com/2071-1050/7/1/138/htm>https://www.mdpi.com/2071-1050/7/1/138/htm</a>&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:2 role=doc-endnote>
+<p>Energy carriers include electricity and heat as well as solid, liquid and gaseous fuels. They occupy intermediate steps in the energy-supply chain between primary sources and end-use applications. An energy carrier is thus a transmitter of energy.&#160;<a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:3 role=doc-endnote>
+<p>In the System of National Accounts it is an estimate of the value of the services provided by financial intermediaries, such as banks, for which no explicit charges are made; instead these services are paid for as part of the margin between rates applied to savers and borrowers. The supposition is that savers would receive a lower interest rate and borrowers pay a higher interest rate if all financial services had explicit charges.&#160;<a href=#fnref:3 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:4 role=doc-endnote>
+<p>Emission accounts follow the so-called residence principle – that is, address the activities undertaken by the residents of a country, independent from where these take place – while emission inventories (as those used in the context of the Kyoto Protocol) follow the territory principle – that is, address the activities taking place within the territory, independent from where the subject resides.&#160;<a href=#fnref:4 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+</div>
+</div>
+<div id=post-footer class="post-footer main-content-wrap">
+<div class=post-footer-tags>
+<span class="text-color-light text-small">TAGGED IN</span><br>
+<a class="tag tag--primary tag--small" href=https://example.org/tags/mrio/>MRIO</a>
+<a class="tag tag--primary tag--small" href=https://example.org/tags/eioa/>EIOA</a>
+</div>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://example.org/english/post/de_0721/ data-tooltip="30 Tough but Very Important Advanced Verbs for Daily Use" aria-label="NEXT: 30 Tough but Very Important Advanced Verbs for Daily Use">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://example.org/english/post/de_0718/ data-tooltip="Of Studies" aria-label="PREVIOUS: Of Studies">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://example.org/english/post/re_0719/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://example.org/english/post/re_0719/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://example.org/english/post/re_0719/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+<div id=disqus_thread>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+</div>
+<script type=text/javascript>var disqus_config=function(){this.page.url='https://example.org/english/post/re_0719/',this.page.identifier='/english/post/re_0719/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='hugo-tranquilpeak-theme',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
+</div>
+</article>
+<footer id=footer class=main-content-wrap>
+<span class=copyrights>
+&copy; 2021 Kai Li. All Rights Reserved
+</span>
+</footer>
+</div>
+<div id=bottom-bar class=post-bottom-bar data-behavior=4>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://example.org/english/post/de_0721/ data-tooltip="30 Tough but Very Important Advanced Verbs for Daily Use" aria-label="NEXT: 30 Tough but Very Important Advanced Verbs for Daily Use">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://example.org/english/post/de_0718/ data-tooltip="Of Studies" aria-label="PREVIOUS: Of Studies">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://example.org/english/post/re_0719/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://example.org/english/post/re_0719/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://example.org/english/post/re_0719/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id=share-options-bar class=share-options-bar data-behavior=4>
+<i id=btn-close-shareoptions class="fa fa-times"></i>
+<ul class=share-options>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fexample.org%2Fenglish%2Fpost%2Fre_0719%2F" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i><span>Share on Facebook</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fexample.org%2Fenglish%2Fpost%2Fre_0719%2F" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i><span>Share on Twitter</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fexample.org%2Fenglish%2Fpost%2Fre_0719%2F" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i><span>Share on Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+<div id=share-options-mask class=share-options-mask></div>
+</div>
+<div id=about>
+<div id=about-card>
+<div id=about-btn-close>
+<i class="fa fa-times"></i>
+</div>
+<img id=about-card-picture src="https://www.gravatar.com/avatar/421eef73cdb6c24adae42264a72e1137?s=110" alt="Author's picture">
+<h4 id=about-card-name>Kai Li</h4>
+<div id=about-card-bio>Kai Li (李锴)
+Leiden University
+PhD candidate of Environmental Sciences</div>
+<div id=about-card-job>
+<i class="fa fa-briefcase"></i>
+<br>
+Leiden University
+</div>
+<div id=about-card-location>
+<i class="fa fa-map-marker-alt"></i>
+<br>
+the Netherlands
+</div>
+</div>
+</div>
+<div id=cover style=background-image:url(https://example.org/images/cover.jpg)></div>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://example.org/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js></script>
+<script>$(document).ready(function(){hljs.configure({classPrefix:'',useBR:!1}),$('pre.code-highlight > code, pre > code').each(function(b,a){$(this).hasClass('codeblock')||$(this).addClass('codeblock'),hljs.highlightBlock(a)})})</script>
+</body>
+</html>
