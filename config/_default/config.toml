@@ -123,7 +123,7 @@ PhD candidate of Environmental Sciences"""
 [[menu.links]]
   weight = 5
   identifier = "facebook"
-  name = "facebook"
+  name = "Facebook"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\" aria-hidden=\"true\"></i>"
   url = "https://www.facebook.com/profile.php?id=100063897362757"
 
