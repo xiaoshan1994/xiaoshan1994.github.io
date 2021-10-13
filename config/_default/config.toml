@@ -121,7 +121,7 @@ PhD candidate of Environmental Sciences"""
   url = "https://twitter.com/xiaoshan1994"
 
 [[menu.links]]
-  weight = 4
+  weight = 5
   identifier = "facebook"
   name = "facebook"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\" aria-hidden=\"true\"></i>"
