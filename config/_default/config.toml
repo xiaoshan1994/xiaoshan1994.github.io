@@ -97,7 +97,7 @@ PhD candidate of Environmental Sciences"""
 [[menu.links]]
   weight = 1
   identifier = "university"
-  name = "staff page"
+  name = "Staff page"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-university\" aria-hidden=\"true\"></i>"
   url = "https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1"
 [[menu.links]]
@@ -112,6 +112,20 @@ PhD candidate of Environmental Sciences"""
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-github\" aria-hidden=\"true\"></i>"
   url = "https://github.com/xiaoshan1994"
+
+[[menu.links]]
+  weight = 4
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter-square\" aria-hidden=\"true\"></i>"
+  url = "https://twitter.com/xiaoshan1994"
+
+[[menu.links]]
+  weight = 4
+  identifier = "facebook"
+  name = "facebook"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\" aria-hidden=\"true\"></i>"
+  url = "https://www.facebook.com/profile.php?id=100063897362757"
 
 [[menu.misc]]
   weight = 1
