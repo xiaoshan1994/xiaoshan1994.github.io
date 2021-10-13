@@ -129,9 +129,9 @@ PhD candidate of Environmental Sciences"""
 
 [[menu.links]]
   weight = 6
-  identifier = "E-mail"
+  identifier = "Email"
   name = "E-mail"
-  pre = "<i class=\"sidebar-button-icon fab fa-xs fa-envelope\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope\" aria-hidden=\"true\"></i>"
   url = "mailto:k.li@cml.leidenuniv.nl"
 
 [[menu.misc]]
