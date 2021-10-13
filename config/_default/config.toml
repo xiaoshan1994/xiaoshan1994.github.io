@@ -117,14 +117,14 @@ PhD candidate of Environmental Sciences"""
   weight = 4
   identifier = "twitter"
   name = "Twitter"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter-square\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-twitter\" aria-hidden=\"true\"></i>"
   url = "https://twitter.com/xiaoshan1994"
 
 [[menu.links]]
   weight = 5
   identifier = "facebook"
   name = "Facebook"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook\" aria-hidden=\"true\"></i>"
   url = "https://www.facebook.com/profile.php?id=100063897362757"
 
 [[menu.links]]
