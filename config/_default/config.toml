@@ -127,6 +127,13 @@ PhD candidate of Environmental Sciences"""
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook-square\" aria-hidden=\"true\"></i>"
   url = "https://www.facebook.com/profile.php?id=100063897362757"
 
+[[menu.links]]
+    weight = 6
+    identifier = "e-mail"
+    name = "E-mail"
+    pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope\" aria-hidden=\"true\"></i>"
+    url = "mailto:k.li@cml.leidenuniv.nl"
+
 [[menu.misc]]
   weight = 1
   identifier = "rss"
