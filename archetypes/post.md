@@ -4,7 +4,8 @@ date: {{ .Date }}
 description:
 images:
 -
-thumbnailImage: 
+thumbnailImagePosition: left
+thumbnailImage:
 tags:
 -
 -

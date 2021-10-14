@@ -4,7 +4,8 @@ date: 2021-06-07T15:34:00+02:00
 description: 'UK companies can and should see the current high-uncertainty environment as a spur to rethink their supply chain strategies and make them more resilient.'
 images:
 - https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
-thumbnailImage:  https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
+thumbnailImagePosition: left
+thumbnailImage: https://cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
 tags:
 - EIOA
 - Ranran

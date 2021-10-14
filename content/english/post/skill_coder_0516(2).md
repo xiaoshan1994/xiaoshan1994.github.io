@@ -6,7 +6,8 @@ tags:
 - coder
 categories:
 - skill
-thumbnailImage:  https://webse.nl/wp-content/uploads/2017/11/shortcode.jpg
+thumbnailImagePosition: left
+thumbnailImage: https://webse.nl/wp-content/uploads/2017/11/shortcode.jpg
 ---
 
 Hugo has `figure` shortcode built-in, so you can easily add figure captions or hyperlink rel attributes to images. Documentations can be found here:

@@ -4,7 +4,8 @@ date: 2021-06-09T18:13:24+02:00
 description: I got my first Garmin running watch and just have a go~.
 images:
 - https://user-images.githubusercontent.com/65668613/121392047-4e687500-c94f-11eb-86b1-6876c78c29b1.png
-thumbnailImage:  https://user-images.githubusercontent.com/65668613/121392047-4e687500-c94f-11eb-86b1-6876c78c29b1.png
+thumbnailImagePosition: left
+thumbnailImage: https://user-images.githubusercontent.com/65668613/121392047-4e687500-c94f-11eb-86b1-6876c78c29b1.png
 tags:
 - running
 - manual

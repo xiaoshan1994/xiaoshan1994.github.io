@@ -4,7 +4,8 @@ date: 2021-06-14T17:59:34+02:00
 description:
 images:
 - https://blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
-thumbnailImage:  https://blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
+thumbnailImagePosition: left
+thumbnailImage: https://blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
 tags:
 - shortcuts
 Categories:
