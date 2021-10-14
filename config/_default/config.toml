@@ -44,10 +44,8 @@ canonifyurls = true
 # Author
 # ------
 [author]
-  name = "Kai Li"
-  bio = """Kai Li (李锴)
-Leiden University
-PhD candidate of Environmental Sciences"""
+  name = "Kai Li (李锴)"
+  bio = "PhD candidate of Environmental Sciences, Leiden University"
   job = "Leiden University"
   location = "the Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
