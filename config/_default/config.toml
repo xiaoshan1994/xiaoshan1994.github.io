@@ -214,7 +214,7 @@ PhD candidate of Environmental Sciences"""
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  coverImage = "https://images.homedepot-static.com/productImages/30960813-76f4-4279-936f-c667881d128c/svn/primed-jeld-wen-steel-doors-without-glass-thdjw166100278-64_1000.jpg"
+  coverImage = "https://mocah.org/uploads/posts/890407-Leiden-Netherlands-Evening-Houses-Canal-Street.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
