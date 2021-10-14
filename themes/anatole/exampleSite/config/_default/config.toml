@@ -8,7 +8,7 @@ enableEmoji = true
 enableRobotsTXT = true
 
 # Enable Disqus
-#disqusShortname = ""
+disqusShortname = "https-xiaoshan1994-github-io"
 
 # Google Analytics
 #googleAnalytics = "UA-123-45"
