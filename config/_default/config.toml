@@ -90,7 +90,7 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "https://xiaoshan1994.github.io/english/post/re_1012/"
+  url = "https://xiaoshan1994.github.io/post/about/"
 
 [[menu.links]]
   weight = 1
