@@ -200,8 +200,8 @@ canonifyurls = true
   sidebarBehavior = 1
 
   # Customize link of author avatar in sidebar
-  #[params.sidebar.profile]
-  #  url = "https://xiaoshan1994.github.io/english/post/re_1012/"
+  [params.sidebar.profile]
+    url = "https://xiaoshan1994.github.io/post/about/"
 
   # -------------------
   # Media configuration
