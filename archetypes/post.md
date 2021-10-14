@@ -11,7 +11,7 @@ keywords:
 - tech
 coverImage:
 coverSize: full
-thumbnailImagePosition: left
+thumbnailImagePosition: left/bottom
 #thumbnailImage: //example.com/image.jpg
 ---
 
