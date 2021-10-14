@@ -11,7 +11,7 @@ Categories:
 images:
 - https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
+thumbnailImage: //i.ytimg.com/vi/U0zOqSRzR-s/maxresdefault.jpg
 ---
 Each group is expected to perform a research question about  two real-world issues: BREXIT and national stimulus plans.
 in a post COVID-19 world.

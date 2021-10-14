@@ -5,7 +5,7 @@ description:
 images:
 - https://blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
+thumbnailImage: //blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts-Blog-Post-02.jpg
 tags:
 - shortcuts
 Categories:

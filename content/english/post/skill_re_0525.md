@@ -5,7 +5,7 @@ description: 'Here are examples of PhD skill sets and ways to describe them by U
 images:
 - https://cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
+thumbnailImage: //cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
 tags:
 - research skill
 Categories:

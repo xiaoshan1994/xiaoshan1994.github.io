@@ -5,7 +5,7 @@ description: It is possible to modify the existing EndNote styles to change how 
 images:
 - https://crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
+thumbnailImage: //crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
 tags:
 - research
 - EndNote

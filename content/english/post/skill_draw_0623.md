@@ -5,7 +5,7 @@ description:
 images:
 - https://i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
+thumbnailImage: //i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
 tags:
 - Illustrator
 - Drawing

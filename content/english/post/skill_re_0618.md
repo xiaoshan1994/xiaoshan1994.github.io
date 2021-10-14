@@ -5,7 +5,7 @@ description:
 images:
 - https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/cml/ul---institute-of-environmental-sciences---rgb.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/cml/ul---institute-of-environmental-sciences---rgb.jpg
+thumbnailImage: //www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/cml/ul---institute-of-environmental-sciences---rgb.jpg
 tags:
 - course
 - CML

@@ -5,7 +5,7 @@ description: A guidance highlighting why your paper was rejected by Environmenta
 images:
 - https://www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
+thumbnailImage: //www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
 tags:
 - writing
 - research

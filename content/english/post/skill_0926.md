@@ -5,7 +5,7 @@ description:
 images:
 - https://i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
 thumbnailImagePosition: left
-thumbnailImage: https://i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
+thumbnailImage: //i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
 tags:
 - DSLR
 - night

@@ -5,7 +5,7 @@ description:
 images:
 - https://pic1.zhimg.com/v2-70e1304d33ef7fa4530428af51d2c491_720w.jpg?source=172ae18b
 thumbnailImagePosition: left
-thumbnailImage: https://pic1.zhimg.com/v2-70e1304d33ef7fa4530428af51d2c491_720w.jpg?source=172ae18b
+thumbnailImage: //pic1.zhimg.com/v2-70e1304d33ef7fa4530428af51d2c491_720w.jpg?source=172ae18b
 tags:
 - love
 Categories:
