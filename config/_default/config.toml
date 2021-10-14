@@ -92,7 +92,7 @@ PhD candidate of Environmental Sciences"""
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/#about"
+  url = "https://xiaoshan1994.github.io/english/post/re_1012/"
 
 [[menu.links]]
   weight = 1
