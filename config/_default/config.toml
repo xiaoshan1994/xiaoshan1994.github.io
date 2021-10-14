@@ -129,7 +129,7 @@ canonifyurls = true
   weight = 6
   identifier = "Email"
   name = "E-mail"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope-open\" aria-hidden=\"true\"></i>"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook\" aria-hidden=\"true\"></i>"
   url = "mailto:k.li@cml.leidenuniv.nl"
 
 [[menu.misc]]
