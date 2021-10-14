@@ -51,7 +51,7 @@ PhD candidate of Environmental Sciences"""
   job = "Leiden University"
   location = "the Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "k.li@cml.leidenuniv.nl"
+  #gravatarEmail = "k.li@cml.leidenuniv.nl"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
