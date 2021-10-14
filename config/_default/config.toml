@@ -138,6 +138,12 @@ canonifyurls = true
   name = "RSS"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
+[[menu.misc]]
+weight = 1
+identifier = "e-mail"
+name = "E-mail"
+pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope-square\" aria-hidden=\"true\"></i>"
+url = "mailto:k.li@cml.leidenuniv.nl"
 
 # -------------
 # Customization
