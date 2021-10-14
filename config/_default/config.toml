@@ -319,15 +319,15 @@ canonifyurls = true
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  #[[params.sharingOptions]]
-    #  name = "Facebook"
-    #  icon = "fab fa-facebook-square"
-      #url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+  [[params.sharingOptions]]
+    name = "Facebook"
+    icon = "fab fa-facebook-square"
+    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
-  #[[params.sharingOptions]]
-    #  name = "Twitter"
-      #icon = "fab fa-twitter"
-      #url = "https://twitter.com/intent/tweet?text=%s"
+  [[params.sharingOptions]]
+    name = "Twitter"
+    icon = "fab fa-twitter"
+    url = "https://twitter.com/intent/tweet?text=%s"
 
 
 #  [[params.sharingOptions]]
