@@ -1,5 +1,5 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: ""
 date: {{ .Date }}
 categories:
 - category
@@ -9,5 +9,9 @@ tags:
 - tag2
 keywords:
 - tech
+coverImage:
+coverSize: full
 #thumbnailImage: //example.com/image.jpg
 ---
+
+<!--more-->
