@@ -1,24 +1,13 @@
 ---
-title:
+title: "{{ replace .TranslationBaseName "-" " " | title }}"
 date: {{ .Date }}
-description:
-images:
--
-thumbnailImagePosition: left
-thumbnailImage:
+categories:
+- category
+- subcategory
 tags:
--
--
-Categories:
--
-math: false
+- tag1
+- tag2
+keywords:
+- tech
+#thumbnailImage: //example.com/image.jpg
 ---
-prepared fonts:
-Bangers Pattaya Kalam
-Oswald  Roboto
-
-{{</* figure src="" width="" height="" class= "big/left/right/(空)" caption="Leiden bike (800×500，class is left)" */>}}
-
-{{</* gfont font="" size="px" */>}}
-Pattaya is a city in Thailand.<br>A beach resort popular with tourists.
-{{</* /gfont */>}} <br>
