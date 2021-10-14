@@ -1,0 +1,505 @@
+<!doctype html><html lang=en-us>
+<head>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure. https:\/\/matplotlib.org\/stable\/gallery\/subplots_axes_and_figures\/subplots_demo.html\nmatplotlib.pyplot.subplots matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)\nReturns: fig: The matplotlib.pyplot.figure object to be used as a container for all the subplots.","url":"https:\/\/xiaoshan1994.github.io\/post\/re_0830\/","keywords":"[, development, next-gen]"}</script>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=author content="Kai Li (李锴)">
+<meta name=keywords content=",development,next-gen">
+<meta name=description content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure. https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+matplotlib.pyplot.subplots matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)
+Returns: fig: The matplotlib.pyplot.figure object to be used as a container for all the subplots.">
+<meta property="og:description" content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure. https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+matplotlib.pyplot.subplots matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)
+Returns: fig: The matplotlib.pyplot.figure object to be used as a container for all the subplots.">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Creating multiple subplots using plt.subplots">
+<meta name=twitter:title content="Creating multiple subplots using plt.subplots">
+<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_0830/">
+<meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_0830/">
+<meta property="og:site_name" content="Blogs of Kai">
+<meta property="og:description" content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure. https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+matplotlib.pyplot.subplots matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)
+Returns: fig: The matplotlib.pyplot.figure object to be used as a container for all the subplots.">
+<meta name=twitter:description content="pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure. https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html
+matplotlib.pyplot.subplots matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)
+Returns: fig: The matplotlib.pyplot.figure object to be used as a container for all the subplots.">
+<meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2021-08-30T11:31:15">
+<meta property="article:modified_time" content="2021-08-30T11:31:15">
+<meta property="article:section" content="Research">
+<meta property="article:tag" content="python">
+<meta property="article:tag" content="matplotlib">
+<meta name=twitter:card content="summary">
+<meta name=twitter:site content="@xiaoshan1994">
+<meta name=twitter:creator content="@xiaoshan1994">
+<meta property="og:image" content="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=640">
+<meta property="twitter:image" content="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=640">
+<meta property="og:image" content="//cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg">
+<meta property="twitter:image" content="//cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg">
+<title>Creating multiple subplots using plt.subplots</title>
+<link rel=icon href=https://xiaoshan1994.github.io/favicons/favicon-16x16.png>
+<link rel=canonical href=https://xiaoshan1994.github.io/post/re_0830/>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://xiaoshan1994.github.io/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script>
+</head>
+<body>
+<div id=blog>
+<header id=header data-behavior=4>
+<i id=btn-open-sidebar class="fa fa-lg fa-bars"></i>
+<div class=header-title>
+<a class=header-title-link href=https://xiaoshan1994.github.io/ aria-label="Go to homepage">Blogs of Kai</a>
+</div>
+<a class="header-right-icon st-search-show-outputs" href=https://xiaoshan1994.github.io/#search aria-label="Open the link: /#search">
+<i class="fa fa-lg fa-search"></i>
+</a>
+</header>
+<nav id=sidebar data-behavior=4>
+<div class=sidebar-container>
+<div class=sidebar-profile>
+<a href=https://xiaoshan1994.github.io/#about aria-label="Read more about the author">
+<img class=sidebar-profile-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+</a>
+<h4 class=sidebar-profile-name>Kai Li (李锴)</h4>
+<h5 class=sidebar-profile-bio>PhD candidate of Environmental Sciences, Leiden University</h5>
+</div>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/ title=Home>
+<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden=true></i>
+<span class=sidebar-button-desc>Home</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/categories title=Categories>
+<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden=true></i>
+<span class=sidebar-button-desc>Categories</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/tags title=Tags>
+<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden=true></i>
+<span class=sidebar-button-desc>Tags</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/archives title=Archives>
+<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden=true></i>
+<span class=sidebar-button-desc>Archives</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/english/post/re_1012/ title=About>
+<i class="sidebar-button-icon fas fa-lg fa-question" aria-hidden=true></i>
+<span class=sidebar-button-desc>About</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1 target=_blank rel=noopener title="Staff page">
+<i class="sidebar-button-icon fas fa-lg fa-university" aria-hidden=true></i>
+<span class=sidebar-button-desc>Staff page</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN" target=_blank rel=noopener title="Google Scholar">
+<i class="sidebar-button-icon fab fa-lg fa-google" aria-hidden=true></i>
+<span class=sidebar-button-desc>Google Scholar</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://github.com/xiaoshan1994 target=_blank rel=noopener title=GitHub>
+<i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden=true></i>
+<span class=sidebar-button-desc>GitHub</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://twitter.com/xiaoshan1994 target=_blank rel=noopener title=Twitter>
+<i class="sidebar-button-icon fab fa-lg fa-twitter" aria-hidden=true></i>
+<span class=sidebar-button-desc>Twitter</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://www.facebook.com/profile.php?id=100063897362757" target=_blank rel=noopener title=Facebook>
+<i class="sidebar-button-icon fab fa-lg fa-facebook" aria-hidden=true></i>
+<span class=sidebar-button-desc>Facebook</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/index.xml title=RSS>
+<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden=true></i>
+<span class=sidebar-button-desc>RSS</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=mailto:k.li@cml.leidenuniv.nl target=_blank rel=noopener title=E-mail>
+<i class="sidebar-button-icon fas fa-lg fa-envelope" aria-hidden=true></i>
+<span class=sidebar-button-desc>E-mail</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div id=main data-behavior=4 class=hasCoverMetaIn>
+<article class=post id=top>
+<div class="post-header main-content-wrap text-left">
+<h1 class=post-title>
+Creating multiple subplots using plt.subplots
+</h1>
+<div class="postShorten-meta post-meta">
+<time datetime=2021-08-30T11:31:15+02:00>
+August 30, 2021
+</time>
+<span>in</span>
+<a class=category-link href=https://xiaoshan1994.github.io/categories/research>Research</a>
+</div>
+</div>
+<div class="post-content markdown">
+<div class=main-content-wrap>
+<p>pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure.
+<a href=https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html>https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html</a></p>
+<p><a href=https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.subplots.html#matplotlib.pyplot.subplots>matplotlib.pyplot.subplots</a>
+matplotlib.pyplot.subplots(nrows=1, ncols=1, *, sharex=False, sharey=False, squeeze=True, subplot_kw=None, gridspec_kw=None, **fig_kw)</p>
+<p>Returns:
+<code>fig</code>: The matplotlib.pyplot.figure object to be used as a <strong>container</strong> for all the subplots.
+<code>ax</code>: A single object of the axes. Axes object if there is only <strong>one plot</strong>, or <strong>an array of axes</strong>. Axes objects if there are multiple plots, as specified by the nrows and ncols.</p>
+<p>Typical idioms for handling the return value are:
+Using the variable ax for single a Axes</p>
+<pre tabindex=0><code>fig, ax = plt.subplots()
+</code></pre><p>Using the variable axs for multiple Axes</p>
+<pre tabindex=0><code>fig, axs = plt.subplots(2, 2)
+</code></pre><p>Using tuple unpacking for multiple Axes</p>
+<pre tabindex=0><code>fig, (ax1, ax2) = plt.subplots(1, 2)
+fig, ((ax1, ax2), (ax3, ax4)) = plt.subplots(2, 2)
+</code></pre><h3 id=a-figure-with-just-one-subplot>A figure with just one subplot</h3>
+<pre tabindex=0><code>import matplotlib.pyplot as plt
+import numpy as np
+
+## Some example data to display
+x = np.linspace(0, 2 * np.pi, 400)
+y = np.sin(x ** 2)
+</code></pre><pre tabindex=0><code>fig, ax = plt.subplots()
+ax.plot(x,y)
+ax.set_title('A single plot')
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131475906-69dd85ff-bcbb-4288-a24e-cf2b9295dfce.png alt=image></p>
+<h3 id=stacking-subplots-in-one-direction>Stacking subplots in one direction</h3>
+<pre tabindex=0><code>fig,ax = plt.subplots(2)
+fig.subtitle('Vertically stacked subplots')
+axs[0].plot(x,y)
+axs[1].plot(x,-y)
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131477410-d915bb0d-cc24-456a-8c72-bab48296ff5a.png alt=image></p>
+<p>If you are creating just a few Axes, it&rsquo;s handy to unpack them immediately to dedicated variables for each Axes. That way, we can use ax1 instead of the more verbose axs[0].</p>
+<pre tabindex=0><code>fig, (ax1,ax2) = plt.subplots(2)
+fig.suptitle('Vertically stacked subplots')
+ax1.plot(x, y)
+ax2.plot(x, -y)
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131477875-586ceb55-220a-49a8-8f81-4be319c12bad.png alt=image></p>
+<p>To obtain side-by-side subplots, pass parameters 1, 2 for one row and two columns.</p>
+<pre tabindex=0><code>fig, (ax1,ax2) = plt.subplots(1,2)
+fig.subtitle('Horizontally stacked subplots')
+ax1.plot(x,y)
+ax2.plot(x,-y)
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131478295-c31e785f-e621-4c57-96c6-e9c478087212.png alt=image></p>
+<h3 id=stacking-subplots-in-two-directions>Stacking subplots in two directions</h3>
+<p>When stacking in two directions, the returned <code>axs</code> is a 2D NumPy array.
+If you have to set parameters for each subplot it&rsquo;s handy to iterate over all subplots in a 2D grid using <code>for ax in axs.flat</code>:</p>
+<pre tabindex=0><code>fig,axs = plt.subplots(2,2)
+axs[0,0].plot(x,y)
+axs[0,0].set_title('Axis [0, 0]')
+axs[0,1].plot(x,y,'tab:orange')
+axs[0,1].set_title('Axis [0, 1]')
+axs[1,0].plot(x, -y, 'tab:green')
+axs[1,0].set_title('Axis [1, 0]')
+axs[1,1].plot(x, -y, 'tab:red')
+axs[1,1].set_title('Axis [1, 1]')
+
+for ax in axs.flat:
+ax.set(xlabel='x-label',ylabel='y-label')
+
+# Hide x labels and tick labels for top plots and y ticks for right plots.
+for ax in axs.flat:
+    ax.label_outer() # Only show &quot;outer&quot; labels and tick labels. x-labels are only kept for subplots on the last row; y-labels only for subplots on the first column.
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131483362-8726e2b9-631a-40cf-b78b-72dc71beca98.png alt=image></p>
+<p>You can use tuple-unpacking also in 2D to assign all subplots to dedicated variables:</p>
+<blockquote>
+<p>In python tuples are used to store immutable objects. In packing, we put values into a new tuple while in unpacking we extract those values into a single variable.
+Packing: a = (&ldquo;MNNIT Allahabad&rdquo;, 5000, &ldquo;Engineering&rdquo;),
+Unpacking: (college, student, type_ofcollege) = a.</p>
+</blockquote>
+<pre tabindex=0><code>fig,((ax1,ax2),(ax3,ax4)) = plt.subplots(2,2)
+fig.suptitle('Sharing x per column, y per row')
+ax1.plot(x,y)
+ax2.plot(x,y**2,'tab:orange')
+ax3.plot(x,-y,'tab:green')
+ax4.plot(x, -y**2, 'tab:red')
+for ax in fig.get_axes():
+ax.label_outer()
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131642513-eff75765-a38b-4435-9e2f-7f19af2c0fa2.png alt=image></p>
+<h3 id=sharing-axes>Sharing axes</h3>
+<p>By default, each Axes is scaled individually. Thus, if the ranges are different the tick values of the subplots do not align.</p>
+<pre tabindex=0><code>fig, (ax1, ax2) = plt.subplots(2)
+fig.suptitle('Axes values are scaled individually by default')
+ax1.plot(x, y)
+ax2.plot(x + 1, -y)
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131644381-699d2759-d34d-4f97-806d-5f0aae2653b5.png alt=image></p>
+<p>You can use sharex or sharey to align the horizontal or vertical axis.</p>
+<pre tabindex=0><code>fig, (ax1, ax2) = plt.subplots(2, sharex=True)
+fig.suptitle('Aligning x-axis using sharex')
+ax1.plot(x, y)
+ax2.plot(x + 1, -y)
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131644328-ebcdf740-902e-4989-b819-9a9e4f1b3fe5.png alt=image></p>
+<p>Setting sharex or sharey to <code>True</code> enables global sharing across the whole grid, i.e. also the y-axes of vertically stacked subplots have the same scale when using sharey = <code>True</code>.</p>
+<pre tabindex=0><code>fig, axs = plt.subplots(3, sharex= True, sharey= True)
+fig.suptitle('Sharing both axes')
+axs[0].plot(x, y ** 2)
+axs[1].plot(x, 0.3 * y, 'o')
+axs[2].plot(x, y, '+')
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131645322-d62a6c81-fdff-40d4-963e-f8ec8b173588.png alt=image></p>
+<p>For subplots that are sharing axes one set of tick labels is enough. Tick labels of inner Axes are automatically removed by sharex and sharey. Still there remains an unused empty space between the subplots.</p>
+<p>To precisely control the positioning of the subplots, one can explicitly create a <code>GridSpec</code> with <code>Figure.add_gridspec</code>, and then call its <code>subplots</code> method. For example, we can reduce the height between vertical subplots using <code>add_gridspec(hspace=0)</code>.</p>
+<p><code>label_outer</code> is a handy method to remove labels and ticks from subplots that are not at the edge of the grid.</p>
+<pre tabindex=0><code>fig = plt.figure()
+gs = fig.add_gridspec(3, hspace=0)
+axs = gs.subplots(sharex= True, sharey = True)
+fig.suptitle('Sharing both axes')
+fig.suptitle('Sharing both axes')
+axs[0].plot(x, y ** 2)
+axs[1].plot(x, 0.3 * y, 'o')
+axs[2].plot(x, y, '+')
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131649016-9975c4c0-402a-449c-8f8c-0e76b46baa9f.png alt=image></p>
+<p>Apart from <code>True</code> and <code>False</code>, both <code>sharex</code> and <code>sharey</code> accept the values &lsquo;row&rsquo; and &lsquo;col&rsquo; to share the values only per row or column.</p>
+<pre tabindex=0><code>fig = plt.figure()
+gs = fig.add_gridspec(2,2,hspace=0,wspace=0)
+(ax1,ax2),(ax3,ax4) = gs.subplots(sharex='col', sharey = 'row')
+fig.suptitle('Sharing x per column, y per row')
+ax1.plot(x, y)
+ax2.plot(x, y**2, 'tab:orange')
+ax3.plot(x + 1, -y, 'tab:green')
+ax4.plot(x + 2, -y**2, 'tab:red')
+for ax in axs.flat:
+ax.label_outer()
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131649828-b7ab90f6-7a7b-444a-abd1-69dc97ba93c6.png alt=image></p>
+<p>If you want a more complex sharing structure, you can first create the grid of axes with no sharing, and then call <code>axes.Axes.sharex</code> or <code>axes.Axes.sharey</code> to add sharing info a posteriori.</p>
+<div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-go data-lang=go><span style=color:#a6e22e>fig</span>, <span style=color:#a6e22e>axs</span> = <span style=color:#a6e22e>plt</span>.<span style=color:#a6e22e>subplots</span>(<span style=color:#ae81ff>2</span>, <span style=color:#ae81ff>2</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>0</span>].<span style=color:#a6e22e>plot</span>(<span style=color:#a6e22e>x</span>, <span style=color:#a6e22e>y</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>0</span>].<span style=color:#a6e22e>set_title</span>(<span style=color:#e6db74>&#34;main&#34;</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>1</span>, <span style=color:#ae81ff>0</span>].<span style=color:#a6e22e>plot</span>(<span style=color:#a6e22e>x</span>, <span style=color:#a6e22e>y</span><span style=color:#f92672>**</span><span style=color:#ae81ff>2</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>1</span>, <span style=color:#ae81ff>0</span>].<span style=color:#a6e22e>set_title</span>(<span style=color:#e6db74>&#34;shares x with main&#34;</span>)
+<span style=display:block;width:100%;background-color:#3c3d38><span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>1</span>, <span style=color:#ae81ff>0</span>].<span style=color:#a6e22e>sharex</span>(<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>0</span>])
+</span><span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>1</span>].<span style=color:#a6e22e>plot</span>(<span style=color:#a6e22e>x</span> <span style=color:#f92672>+</span> <span style=color:#ae81ff>1</span>, <span style=color:#a6e22e>y</span> <span style=color:#f92672>+</span> <span style=color:#ae81ff>1</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>0</span>, <span style=color:#ae81ff>1</span>].<span style=color:#a6e22e>set_title</span>(<span style=color:#e6db74>&#34;unrelated&#34;</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>1</span>, <span style=color:#ae81ff>1</span>].<span style=color:#a6e22e>plot</span>(<span style=color:#a6e22e>x</span> <span style=color:#f92672>+</span> <span style=color:#ae81ff>2</span>, <span style=color:#a6e22e>y</span> <span style=color:#f92672>+</span> <span style=color:#ae81ff>2</span>)
+<span style=color:#a6e22e>axs</span>[<span style=color:#ae81ff>1</span>, <span style=color:#ae81ff>1</span>].<span style=color:#a6e22e>set_title</span>(<span style=color:#e6db74>&#34;also unrelated&#34;</span>)
+<span style=color:#a6e22e>fig</span>.<span style=color:#a6e22e>tight_layout</span>() <span style=color:#75715e>// narrowing the padding between figure edge and edges of the subplots
+</span></code></pre></div><p><img src=https://user-images.githubusercontent.com/65668613/131653973-f49b697d-1db1-4ae0-a6fa-498b44fb6d2c.png alt=image></p>
+<h3 id=polar-axes>Polar axes</h3>
+<p>The parameter <em><strong>subplot_kw</strong></em> of <code>pyplot.subplots</code> controls the subplot properties (see also <code>Figure.add_subplot</code>). In particular, this can be used to create a grid of polar Axes.</p>
+<pre tabindex=0><code>fig, (ax1, ax2) = plt.subplots(1, 2, subplot_kw=dict(projection='polar'))
+ax1.plot(x, y)
+ax2.plot(x, y ** 2)
+
+plt.show()
+</code></pre><p><img src=https://user-images.githubusercontent.com/65668613/131653802-efa8c7fd-8cba-4e9c-bc8f-c1f060d3fb76.png alt=image></p>
+</div>
+</div>
+<div id=post-footer class="post-footer main-content-wrap">
+<div class=post-footer-tags>
+<span class="text-color-light text-small">TAGGED IN</span><br>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/python/>python</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/matplotlib/>matplotlib</a>
+</div>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/de_0830/ data-tooltip="'They would have let Hitler buy ads': Sacha Baron Cohen's scathing attack on Facebook" aria-label="NEXT: 'They would have let Hitler buy ads': Sacha Baron Cohen's scathing attack on Facebook">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_0827/ data-tooltip="Carbon Pricing" aria-label="PREVIOUS: Carbon Pricing">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+<div id=disqus_thread>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+</div>
+<script type=text/javascript>var disqus_config=function(){this.page.url='https://xiaoshan1994.github.io/post/re_0830/',this.page.identifier='/post/re_0830/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='https-xiaoshan1994-github-io',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
+</div>
+</article>
+<footer id=footer class=main-content-wrap>
+<span class=copyrights>
+&copy; 2021 Kai Li (李锴). All Rights Reserved
+</span>
+</footer>
+</div>
+<div id=bottom-bar class=post-bottom-bar data-behavior=4>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/de_0830/ data-tooltip="'They would have let Hitler buy ads': Sacha Baron Cohen's scathing attack on Facebook" aria-label="NEXT: 'They would have let Hitler buy ads': Sacha Baron Cohen's scathing attack on Facebook">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_0827/ data-tooltip="Carbon Pricing" aria-label="PREVIOUS: Carbon Pricing">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_0830/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id=share-options-bar class=share-options-bar data-behavior=4>
+<i id=btn-close-shareoptions class="fa fa-times"></i>
+<ul class=share-options>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_0830%2F" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i><span>Share on Facebook</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_0830%2F" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i><span>Share on Twitter</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://wa.me/?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_0830%2F" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i><span>Share on Whatsapp</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_0830%2F" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i><span>Share on Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+<div id=share-options-mask class=share-options-mask></div>
+</div>
+<div id=about>
+<div id=about-card>
+<div id=about-btn-close>
+<i class="fa fa-times"></i>
+</div>
+<img id=about-card-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+<h4 id=about-card-name>Kai Li (李锴)</h4>
+<div id=about-card-bio>PhD candidate of Environmental Sciences, Leiden University</div>
+<div id=about-card-job>
+<i class="fa fa-briefcase"></i>
+<br>
+Leiden University
+</div>
+<div id=about-card-location>
+<i class="fa fa-map-marker-alt"></i>
+<br>
+the Netherlands
+</div>
+</div>
+</div>
+<div id=cover style=background-image:url(https://i.redd.it/4w8jxyi56if41.jpg)></div>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://xiaoshan1994.github.io/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js></script>
+<script>$(document).ready(function(){hljs.configure({classPrefix:'',useBR:!1}),$('pre.code-highlight > code, pre > code').each(function(b,a){$(this).hasClass('codeblock')||$(this).addClass('codeblock'),hljs.highlightBlock(a)})})</script>
+</body>
+</html>
