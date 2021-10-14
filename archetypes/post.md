@@ -17,3 +17,10 @@ thumbnailImagePosition: left/bottom
 ---
 
 <!--more-->
+{{< toc >}}
+
+{{< alert info/success/warning/danger >}} content {{< /alert >}}
+
+{{< hl-text red >}} content {{< /hl-text >}}
+
+{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
