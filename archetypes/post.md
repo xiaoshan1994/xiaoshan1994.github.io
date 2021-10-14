@@ -11,8 +11,13 @@ keywords:
 - tech
 coverImage:
 coverSize: full
+metaAlignment: center
 thumbnailImagePosition: left/bottom
 #thumbnailImage: //example.com/image.jpg
 ---
 
 <!--more-->
+{{< toc >}}
+
+{{< alert info/success/warning/danger >}}
+{{< /alert >}}
