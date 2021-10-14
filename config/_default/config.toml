@@ -231,7 +231,7 @@ PhD candidate of Environmental Sciences"""
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  favicon = "static/favicons/favicon-16x16.png"
+  favicon = "/favicon-16x16.png"
 
   # ------------------
   # External resources
