@@ -5,7 +5,7 @@ description: ''
 images:
 -
 videos: []
-thumbnail:
+thumbnailImage: 
 tags:
 -
 -

@@ -9,7 +9,7 @@ categories:
 - skill
 images:
 - https://res.cloudinary.com/practicaldev/image/fetch/s--3yJkrb96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y44m89pi90bi8p6g50lc.png
-thumbnail: https://res.cloudinary.com/practicaldev/image/fetch/s--3yJkrb96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y44m89pi90bi8p6g50lc.png
+thumbnailImage:  https://res.cloudinary.com/practicaldev/image/fetch/s--3yJkrb96--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/y44m89pi90bi8p6g50lc.png
 ---
 ## Make Your Website Social Media Card-able on Twitter, Facebook and More
 

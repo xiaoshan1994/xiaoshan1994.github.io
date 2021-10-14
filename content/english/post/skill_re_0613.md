@@ -4,7 +4,7 @@ date: 2021-06-13T10:28:21+02:00
 description: It is possible to modify the existing EndNote styles to change how the intext references and bibliography displays. You can also create a completely new style to meet your needs.
 images:
 - https://crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
-thumbnail: https://crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
+thumbnailImage:  https://crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
 tags:
 - research
 - EndNote

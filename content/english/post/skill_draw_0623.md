@@ -4,7 +4,7 @@ date: 2021-06-23T18:33:02+02:00
 description:
 images:
 - https://i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
-thumbnail: https://i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
+thumbnailImage:  https://i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
 tags:
 - Illustrator
 - Drawing

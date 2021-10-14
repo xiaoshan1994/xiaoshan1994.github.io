@@ -4,7 +4,7 @@ date: 2021-05-23T11:46:04+02:00
 description: ''
 images:
 - https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg
-thumbnail: https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg
+thumbnailImage:  https://blogs.bath.ac.uk/academic-and-employability-skills/wp-content/uploads/sites/84/2020/07/einstein-645461_1920-1200x692.jpg
 tags:
 - research skill
 Categories:
