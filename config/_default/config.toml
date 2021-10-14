@@ -120,8 +120,8 @@ canonifyurls = true
 
 [[menu.links]]
   weight = 5
-  identifier = "E-mail"
-  name = "E-mail"
+  identifier = "facebook"
+  name = "Facebook"
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook\" aria-hidden=\"true\"></i>"
   url = "https://www.facebook.com/profile.php?id=100063897362757"
 
