@@ -214,7 +214,7 @@ PhD candidate of Environmental Sciences"""
   # Current image is on AWS S3 and delivered by AWS CloudFront.
   # Otherwise put your image, for example `cover.jpg` in folder `static/images/`,
   # and use relative url : `images/cover.jpg`
-  coverImage = "https://lh3.googleusercontent.com/gyN_9m2Cs_4VwrkScUZ960CU10I92lyTcF_w8b81gdgZKEjiwz-Xtk7suS59Uyyo1qBOj1JGyAA9tI22OUXIxZkCAoqZgalvfBxYd8JjmolcfZlPjMg8ECbJ7Ng8Sb_n41mkpRygod6aRQ4Z06VVTpxgWQjLeKYJYwBa4tMpVRVcnH7OuX9hJyfOvZD52LhBRIIG1mmyeGp1ZfmwDfBqivqPfjr_eKvIaEJj48d-dldIuIT5wHuLAaf4a3PeirVuyirr9C2h3s5XsnqGJ853FibyzSdfC93wRc7LS8b1HJxiZ7F4zfDb7O56iQ5BNG5GLIdXhnjNscyJCVDYEIkQK4p3xNR2o_efOTFcaguIoLW2PTF8zX3vdLrWBwazAXdinb_THh_mUp36Plp5pXmOczqkWI6Q2Jse5h2bolzSIoIbzy_68J95oJyjN-iWWv1xsrvkPN-kQxUjHH7NeRTAevurTErcArmnALG_-lWsq8IQeY9JZPAtjX_hMWJyn16T199tLU9TlYPCx4FM7_EC7KApj8Y16a323BZkh8Crsyr6apahcLEKWIgg-kkel_9n9vZKdliKEWAekkopqlKSIPBuFVdr3yvLPi83EdAsRyWpUtjBEtz9LClRjWyinJlS007uNyeCw5p3-aq0M7EBYd25QAl0pCFPkjupkULx-sPI6Ltq65DCOHlKcgnQb2lNel4U3vV4XSed5mXNbQjFQZc=w2560-h1023-no?authuser=0"
+  coverImage = "https://images.homedepot-static.com/productImages/30960813-76f4-4279-936f-c667881d128c/svn/primed-jeld-wen-steel-doors-without-glass-thdjw166100278-64_1000.jpg"
 
   # Display an image gallery at the end of a post which have photos variables (false: disabled, true: enabled)
   imageGallery = true
