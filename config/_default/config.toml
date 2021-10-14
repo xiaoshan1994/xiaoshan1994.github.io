@@ -403,7 +403,7 @@ PhD candidate of Environmental Sciences"""
   #  icon: search
   #  class: st-search-show-outputs
   [params.header.rightLink]
-    class = "open-algolia-search"
+    class = "st-search-show-outputs"
     icon = "search"
     url = "/#search"
 
