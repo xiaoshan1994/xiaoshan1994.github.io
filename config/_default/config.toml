@@ -403,9 +403,9 @@ PhD candidate of Environmental Sciences"""
   #  icon: search
   #  class: st-search-show-outputs
   [params.header.rightLink]
-    class = ""
-    icon = ""
-    url = "/#about"
+    class = "open-algolia-search"
+    icon = "search"
+    url = "/#search"
 
   # --------------------
   # Footer configuration
