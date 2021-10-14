@@ -17,7 +17,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 Title = "Blogs of Kai"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "https-xiaoshan1994-github-io"
 googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -378,7 +378,7 @@ PhD candidate of Environmental Sciences"""
   [params.comment]
     [params.comment.disqus]
       enable = true
-      shortname = "hugo-tranquilpeak-theme"
+      shortname = "https-xiaoshan1994-github-io"
     [params.comment.gitalk]
       enable = false
       # clientId =
