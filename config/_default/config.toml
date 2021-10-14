@@ -125,12 +125,6 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-facebook\" aria-hidden=\"true\"></i>"
   url = "https://www.facebook.com/profile.php?id=100063897362757"
 
-[[menu.links]]
-  weight = 6
-  identifier = "email"
-  name = "E-mail"
-  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope-square\" aria-hidden=\"true\"></i>"
-  url = "mailto:k.li@cml.leidenuniv.nl"
 
 [[menu.misc]]
   weight = 1
@@ -139,11 +133,11 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
   url = "/index.xml"
 [[menu.misc]]
-weight = 1
-identifier = "e-mail"
-name = "E-mail"
-pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope-square\" aria-hidden=\"true\"></i>"
-url = "mailto:k.li@cml.leidenuniv.nl"
+  weight = 2
+  identifier = "e-mail"
+  name = "E-mail"
+  pre = "<i class=\"sidebar-button-icon fab fa-lg fa-envelope-square\" aria-hidden=\"true\"></i>"
+  url = "mailto:k.li@cml.leidenuniv.nl"
 
 # -------------
 # Customization
