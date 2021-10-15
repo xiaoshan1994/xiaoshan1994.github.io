@@ -7,11 +7,13 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //cdn.economiasc.com/wp-content/uploads/2020/08/0299_637328478455867629.jpg
 tags:
+- CML
 - EIOA
 - Ranran
 - IGA
 Categories:
-- Research
+- Skill
+- Course
 ---
 
 UK companies can and should see the current high-uncertainty environment as a spur to rethink their supply chain strategies and make them more resilient.
