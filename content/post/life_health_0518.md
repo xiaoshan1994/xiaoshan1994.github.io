@@ -6,7 +6,8 @@ tags:
 - manual
 - health
 Categories:
-- Life
+- Daily English
+- Health
 images:
 - https://user-images.githubusercontent.com/65668613/118708131-a3670e80-b81b-11eb-90f1-5d3c26750ae0.png
 thumbnailImagePosition: left
