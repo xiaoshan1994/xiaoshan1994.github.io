@@ -9,7 +9,7 @@ thumbnailImage: //cheekyscientist.com/wp-content/uploads/2018/03/transferable-sk
 tags:
 - research skill
 Categories:
-- skill
+- Skill
 ---
 
 Here are examples of PhD skill sets and ways to describe them by University of Michigan.

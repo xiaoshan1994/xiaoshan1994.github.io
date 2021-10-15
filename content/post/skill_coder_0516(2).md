@@ -5,7 +5,7 @@ tags:
 - Hugo
 - coder
 categories:
-- skill
+- Skill
 thumbnailImagePosition: left
 thumbnailImage: //webse.nl/wp-content/uploads/2017/11/shortcode.jpg
 ---

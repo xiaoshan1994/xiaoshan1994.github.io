@@ -9,7 +9,7 @@ thumbnailImage: //blog.kamiapp.com/wp-content/uploads/2019/05/Keyboard-Shortcuts
 tags:
 - shortcuts
 Categories:
-- skill
+- Skill
 ---
 
 The text you type appears wherever the insertion/cursor point is positioned in the current document. Moving the insertion point around the screen is a critical part of creating and editing documents. To move the insertion point around the screen, you can use either the keyboard or the mouse. Table 1-1 lists ways to move the insertion point by using keystrokes.

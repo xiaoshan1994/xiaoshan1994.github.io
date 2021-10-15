@@ -5,7 +5,7 @@ tags:
 - Hugo
 - coder
 categories:
-- skill
+- Skill
 thumbnailImagePosition: left
 thumbnailImage: //document360.com/wp-content/uploads/2020/02/Introductory-Guide-to-Markdown-for-Documentation-Writers-01.jpg
 ---

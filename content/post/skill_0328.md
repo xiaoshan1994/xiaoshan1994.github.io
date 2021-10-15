@@ -6,9 +6,9 @@ description: A brief guide to setup KaTeX
 math: true
 tags:
 - Hugo
-- coder
 categories:
 - Skill
+- Code
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.
