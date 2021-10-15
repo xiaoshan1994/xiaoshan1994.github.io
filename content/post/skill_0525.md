@@ -6,8 +6,6 @@ images:
 - https://cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
 thumbnailImagePosition: left
 thumbnailImage: //cheekyscientist.com/wp-content/uploads/2018/03/transferable-skills-articles-1-1.jpg
-tags:
-- research skill
 Categories:
 - Skill
 ---
