@@ -7,10 +7,11 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //i.morioh.com/2019/11/09/c99230a9da36.jpg
 tags:
-- python
+- Python
 - code
 Categories:
-- Research
+- Skill
+- Code
 ---
 # Tuple
 Tuples are used to store multiple items in a single variable.
