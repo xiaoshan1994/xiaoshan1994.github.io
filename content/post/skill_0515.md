@@ -3,9 +3,9 @@ title: 'Markdown Syntax Guide'
 date : 2020-05-15
 tags:
 - Hugo
-- coder
 categories:
 - Skill
+- Code
 thumbnailImagePosition: left
 thumbnailImage: //document360.com/wp-content/uploads/2020/02/Introductory-Guide-to-Markdown-for-Documentation-Writers-01.jpg
 ---
