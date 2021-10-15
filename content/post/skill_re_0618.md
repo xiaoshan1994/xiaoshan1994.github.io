@@ -10,7 +10,7 @@ tags:
 - course
 - CML
 Categories:
-- skill
+- Skill
 ---
 
 ## Industrial Ecology
