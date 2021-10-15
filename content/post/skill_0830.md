@@ -7,7 +7,7 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg
 tags:
-- python
+- Python
 - matplotlib
 Categories:
 - Skill
