@@ -7,10 +7,10 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.enago.com/academy/wp-content/uploads/2016/05/Rejection-without-Peer-Review-Issues-and-Solutions-750x300.jpg
 tags:
-- writing
-- research
+- Journal Review
 Categories:
-- skill
+- Skill
+- Academic Writing
 ---
 
 A guidance highlighting why your paper was rejected by **Environmental Science & Technology** and what basic characteristics your paper should possess so it can move forward.
