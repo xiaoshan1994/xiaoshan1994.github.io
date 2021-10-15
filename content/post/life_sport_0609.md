@@ -8,9 +8,10 @@ thumbnailImagePosition: left
 thumbnailImage: //user-images.githubusercontent.com/65668613/121392047-4e687500-c94f-11eb-86b1-6876c78c29b1.png
 tags:
 - running
-- manual
+- Garmin
 Categories:
-- sport
+- Daily English
+- Sports
 ---
 
 Not to be so professional and just for the recording of every running exercise in Leiden I chose the plain and runner-designed Garmin forerunner 245.
