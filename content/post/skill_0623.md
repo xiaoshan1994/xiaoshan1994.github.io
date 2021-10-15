@@ -10,7 +10,7 @@ tags:
 - Adobe Illustrator
 Categories:
 - Skill
-- Tips
+- Academic Drawing
 ---
 
 You can change your nudge increments distance in the Preferences Panel(Keyboard increments).
