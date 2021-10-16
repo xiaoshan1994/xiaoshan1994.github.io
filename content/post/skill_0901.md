@@ -8,8 +8,9 @@ thumbnailImagePosition: left
 thumbnailImage: //i.ytimg.com/vi/zeZr51hHpYw/maxresdefault.jpg
 tags:
 - matplotlib
-- python
+- Python
 Categories:
-- Research
+- Skill
+- Code
 ---
 https://matplotlib.org/stable/tutorials/intermediate/gridspec.html#sphx-glr-tutorials-intermediate-gridspec-py

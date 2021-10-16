@@ -7,10 +7,9 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/science/cml/ul---institute-of-environmental-sciences---rgb.jpg
 tags:
-- course
 - CML
 Categories:
-- skill
+- Skill
 ---
 
 ## Industrial Ecology

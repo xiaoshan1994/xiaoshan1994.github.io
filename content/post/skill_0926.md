@@ -8,9 +8,10 @@ thumbnailImagePosition: left
 thumbnailImage: //i.ytimg.com/vi/AZ9aIB57-Nw/maxresdefault.jpg
 tags:
 - DSLR
-- night
+- night shooting
 Categories:
-- photography
+- Skill
+- Photo Shooting
 math: false
 ---
 DSLR Tutorial: How to shoot in Low Light (at night) & how to reduce noise!

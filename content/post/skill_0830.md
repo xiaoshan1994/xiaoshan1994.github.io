@@ -7,10 +7,11 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //cdn.educba.com/academy/wp-content/uploads/2020/07/psd-9-1-2-2.jpg
 tags:
-- python
+- Python
 - matplotlib
 Categories:
-- Research
+- Skill
+- Academic Drawing
 ---
 pyplot.subplots creates a figure and a grid of subplots with a single call, while providing reasonable control over how the individual plots are created. For more advanced use cases you can use GridSpec for a more general subplot layout or Figure.add_subplot for adding subplots at arbitrary locations within the figure.
 https://matplotlib.org/stable/gallery/subplots_axes_and_figures/subplots_demo.html

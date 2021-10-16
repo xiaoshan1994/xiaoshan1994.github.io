@@ -7,10 +7,10 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //crackpcfull.com/wp-content/uploads/2020/06/EndNote-X9.3-Crack.jpg
 tags:
-- research
 - EndNote
 Categories:
-- skill
+- Skill
+- Academic Writing
 ---
 
 You will only be able to edit the style if the style is saved to your computer.

@@ -7,10 +7,10 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //i.pinimg.com/originals/51/3e/b7/513eb7555cc1fb740667c2ccf893e959.jpg
 tags:
-- Illustrator
-- Drawing
+- Adobe Illustrator
 Categories:
 - Skill
+- Academic Drawing
 ---
 
 You can change your nudge increments distance in the Preferences Panel(Keyboard increments).
