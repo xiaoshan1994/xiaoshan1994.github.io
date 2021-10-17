@@ -58,12 +58,6 @@
   {{ end }}
 {{ end }}
 
-
-{{ with .Params.coverImage }}
-  <meta property="og:image" content="{{ . | absURL }}">
-  <meta property="twitter:image" content="{{ . | absURL }}">
-{{ end }}
-
 {{ with .Params.thumbnailImage }}
   <meta property="og:image" content="{{ . | absURL }}">
   <meta property="twitter:image" content="{{ . | absURL }}">
