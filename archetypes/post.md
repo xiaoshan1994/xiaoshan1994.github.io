@@ -1,7 +1,7 @@
 ---
 title: ""
 date: {{ .Date }}
-description: 
+description:
 categories:
 - category
 - subcategory
@@ -11,6 +11,7 @@ tags:
 keywords:
 - tech
 coverImage:
+thumbnailImage: 
 coverSize: full
 metaAlignment: center
 thumbnailImagePosition: left/bottom
