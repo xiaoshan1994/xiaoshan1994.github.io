@@ -1,0 +1,3 @@
+[submodule "themes/hugo-tranquilpeak-theme"]
+	path = themes/hugo-tranquilpeak-theme
+	url = https://github.com/xiaoshan1994/hugo-tranquilpeak-theme.git
