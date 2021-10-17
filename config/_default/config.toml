@@ -49,12 +49,12 @@ canonifyurls = true
   job = "Leiden University"
   location = "the Netherlands"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  #gravatarEmail = "xiaoshancqu@gmail.com"
+  gravatarEmail = "xiaoshancqu@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/images/profile.png"
+  #picture = "/images/profile.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
-  #twitter = "xiaoshan1994"
+  twitter = "xiaoshan1994"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -200,8 +200,8 @@ canonifyurls = true
   sidebarBehavior = 1
 
   # Customize link of author avatar in sidebar
-  [params.sidebar.profile]
-    url = "https://xiaoshan1994.github.io/post/about/"
+  #[params.sidebar.profile]
+    #url = "https://xiaoshan1994.github.io/post/about/"
 
   # -------------------
   # Media configuration
