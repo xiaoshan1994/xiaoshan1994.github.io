@@ -29,11 +29,3 @@ rm -rf .git/modules/<path_to_submodule>
 git submodule add https://github.com/xiaoshan1994/hugo-tranquilpeak-theme.git themes/hugo-tranquilpeak-theme
 ```
 {{< alert warning >}} If you try to add the submodule using `git submodule add`, you’ll need to delete the theme from themes and **push**. Otherwise, it’ll think it’s still in the index. {{< /alert >}}
-
-
-
-{{< alert info/success/warning/danger >}} content {{< /alert >}}
-
-{{< hl-text red >}} content {{< /hl-text >}}
-
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
