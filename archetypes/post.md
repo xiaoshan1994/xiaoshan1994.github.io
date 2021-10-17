@@ -11,11 +11,10 @@ tags:
 keywords:
 - tech
 coverImage:
-thumbnailImage: 
-coverSize: full
-metaAlignment: center
+coverSize: full/partial
+thumbnailImage:
 thumbnailImagePosition: left/bottom
-#thumbnailImage: //example.com/image.jpg
+metaAlignment: center
 ---
 
 <!--more-->
