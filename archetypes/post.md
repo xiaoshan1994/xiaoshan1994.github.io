@@ -1,6 +1,7 @@
 ---
 title: ""
 date: {{ .Date }}
+description: 
 categories:
 - category
 - subcategory
