@@ -226,7 +226,7 @@ canonifyurls = true
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = true
+  autoThumbnailImage = false
 
   # Your favicon path, default is "/favicon.png"
   favicon = "/favicons/favicon-16x16.png"
