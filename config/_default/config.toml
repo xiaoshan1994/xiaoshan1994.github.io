@@ -24,7 +24,7 @@ canonifyurls = true
 
 [blackfriday]
 extensions = [
-"hardLineBreak", # newlines result in line breaks
+"hardLineBreak"# newlines result in line breaks
 ]
 
 [permalinks]
