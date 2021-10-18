@@ -22,8 +22,9 @@ googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
 
-[blackfriday]
-extensions = ["hardLineBreak"]
+[markup.goldmark.renderer]
+hardWraps = true
+
 
 [permalinks]
   posts = "/:year/:month/:slug/"
