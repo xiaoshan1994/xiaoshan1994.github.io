@@ -40,7 +40,7 @@ If you wanted to {{< hl-text red >}}change the drive{{< /hl-text >}} from “C:�
 
 You can {{< hl-text red >}}make a new folder{{< /hl-text >}} using the `mkdir <your folder name>` (Make Directory) command. The syntax of these commands is mkdir Folder.
 
-{{< hl-text red >}}To test{{< hl-text red >}} if it worked, use the `dir` command. The newly created folder appears in the list.
+{{< hl-text red >}}To test{{< /hl-text >}} if it worked, use the `dir` command. The newly created folder appears in the list.
 
 If you are working on the “C:” drive and you want to {{< hl-text red >}}create a new folder in another Drive{{< /hl-text >}} D called "Google", type `mkdir d:\Google` and then press `Enter`.
 
