@@ -30,11 +30,48 @@ Both the Windows command prompt and all Unix shells have several "built-ins", or
 However, in both Linux and Windows, the great majority of "commands" that do useful things are in fact external programs that are "called" by the the shell. And that is the primary purpose of a shell, to enable an operator to start programs with specifying arguments for those programs. It's not really strictly a programming language, it's just a framework for launching programs.
 <!--more-->
 {{< toc >}
-## 01. Lists Installed Drivers (driverquery)
+## Change the Directory / Folder (cd)/Drive
+Use `cd \` to go to the top of the directory tree.
+
+If you need to **go to a specific folder** from this drive run the command CD Folder. The subfolders must be separated by a {{< hl-text red >}}backslash character: `\`{{< /hl-text >}}.
+
+Use the `cd..` command to **go one folder up**.
+
+If you wanted to **change the drive** from “C:” to “D:”, type `d:` and then press `Enter`.
+
+## Create a New Directory / Folder (mkdir)
+
+You can **make a new folder** using the `mkdir <your folder name>` (Make Directory) command. The syntax of these commands is mkdir Folder.
+
+**To test** if it worked, use the `dir` command. The newly created folder appears in the list.
+
+If you are working on the “C:” drive and you want to **create a new folder in another Drive** D called "Google", type `mkdir d:\Google` and then press `Enter`.
+
+## Clear Screen (cls)
+To clear the existing commands in prompts type `cls` and press `Enter`.
+cls
+
+## Lists Installed Drivers (driverquery)
 Drivers are very important in your PC. Missing a important driver can hamper your work. Use driverquery command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
 
-## 02. Networking Information (ipconfig)
+## Networking Information (ipconfig)
 `ipconfig` will provide you your ip address along with your local network.
+
+## List Hardware Information (systeminfo)
+Use `systeminfo` to know very basic information about your pc’s hardware, like – motherboard, processor & ram.
+
+## Check if Server is Reachable (ping)
+The ping command sends packets of data to a specific IP address (or domain) on a network and then lets you know how long it took to transmit that data and get a response.
+pin
+If you get the response properly then the connection of the device is working properly if not a particular server or your online connection is blocking communication between your computer and another.
+`ping <ip or domain>`
+
+## Scan and Repare System Files (sfc /scannow)
+`sfc /scannow` will scan and repare windown system files. But you must be run the console as an administrator.
+
+## List Currently Running Tusk (tasklist)
+Use `tasklist` to get currant list of all tasks running on your pc.
+
 
 Use `driverquery -v` to obtain more information.
 {{< alert info/success/warning/danger >}} content {{< /alert >}}
