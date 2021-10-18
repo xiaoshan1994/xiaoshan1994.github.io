@@ -1,7 +1,7 @@
 ---
 title: ""
-date: {{ .Date }}
-description:""
+date: 2021-10-18T09:57:01+02:00
+description:
 categories:
 - category
 - subcategory
