@@ -23,9 +23,7 @@ paginate = 7
 canonifyurls = true
 
 [blackfriday]
-extensions = [
-"hardLineBreak"# newlines result in line breaks
-]
+extensions = ["hardLineBreak"]
 
 [permalinks]
   posts = "/:year/:month/:slug/"
