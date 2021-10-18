@@ -73,9 +73,4 @@ If you get the response properly then the connection of the device is working pr
 Use `tasklist` to get currant list of all tasks running on your pc.
 
 
-Use `driverquery -v` to obtain more information.
-{{< alert info/success/warning/danger >}} content {{< /alert >}}
-
-{{< hl-text red >}} content {{< /hl-text >}}
-
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
+S
