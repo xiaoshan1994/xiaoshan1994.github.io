@@ -9,8 +9,6 @@ tags:
 - command prompt
 keywords:
 - tech
-coverImage: https://cdn.educba.com/academy/wp-content/uploads/2019/05/What-is-CMD.jpg
-coverSize: partial
 thumbnailImage: https://cdn.educba.com/academy/wp-content/uploads/2019/05/What-is-CMD.jpg
 thumbnailImagePosition: left
 metaAlignment: center
