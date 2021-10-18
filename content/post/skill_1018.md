@@ -50,7 +50,7 @@ To clear the existing commands in prompts type `cls` and press `Enter`.
 ### Run software
 To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can `start <softeare name>`
 {{< alert info >}} You can directly type the system names (not shortcut names) {{< /alert >}}
-Common program names include the following:<br>
+Common program names include the following:
 File Explorer: `explorer`
 Task Manager: `taskmgr`
 Character Map:`charmap`
