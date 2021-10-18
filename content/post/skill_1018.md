@@ -46,7 +46,6 @@ If you are working on the “C:” drive and you want to {{< hl-text red >}}crea
 
 ### Clear Screen (cls)
 To clear the existing commands in prompts type `cls` and press `Enter`.
-cls
 
 ### Run software
 To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can `start <softeare name>`
