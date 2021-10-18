@@ -28,7 +28,7 @@ However, in both Linux and Windows, the great majority of "commands" that do use
 <!--more-->
 {{< toc >}}
 ## Change the Directory / Folder (cd)/Drive
-Use `cd \` to go to the top of the directory tree.
+Use `cd \` to {{< hl-text red >}}go to the top of the directory tree{{< /hl-text >}}.
 
 If you need to {{< hl-text red >}}go to a specific folder{{< /hl-text >}} from this drive run the command CD Folder. The subfolders must be separated by a backslash character: `\`.
 
@@ -36,7 +36,7 @@ Use the `cd..` command to {{< hl-text red >}}go one folder up{{< /hl-text >}}.
 
 If you wanted to {{< hl-text red >}}change the drive{{< /hl-text >}} from “C:” to “D:”, type `d:` and then press `Enter`.
 
-## Create a New Directory / Folder (mkdir)
+### Create a New Directory / Folder (mkdir)
 
 You can {{< hl-text red >}}make a new folder{{< /hl-text >}} using the `mkdir <your folder name>` (Make Directory) command. The syntax of these commands is mkdir Folder.
 
@@ -44,29 +44,32 @@ You can {{< hl-text red >}}make a new folder{{< /hl-text >}} using the `mkdir <y
 
 If you are working on the “C:” drive and you want to {{< hl-text red >}}create a new folder in another Drive{{< /hl-text >}} D called "Google", type `mkdir d:\Google` and then press `Enter`.
 
-## Clear Screen (cls)
+### Clear Screen (cls)
 To clear the existing commands in prompts type `cls` and press `Enter`.
 cls
 
-## Lists Installed Drivers (driverquery)
-Drivers are very important in your PC. Missing a important driver can hamper your work. Use driverquery command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
+### Run software
 
-## Networking Information (ipconfig)
+
+### Lists Installed Drivers (driverquery)
+Drivers are very important in your PC. Missing a important driver can hamper your work. Use `driverquery` command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
+
+### Networking Information (ipconfig)
 `ipconfig` will provide you your ip address along with your local network.
 
-## List Hardware Information (systeminfo)
+### List Hardware Information (systeminfo)
 Use `systeminfo` to know very basic information about your pc’s hardware, like – motherboard, processor & ram.
 
-## Check if Server is Reachable (ping)
+### Check if Server is Reachable (ping)
 The ping command sends packets of data to a specific IP address (or domain) on a network and then lets you know how long it took to transmit that data and get a response.
 pin
 If you get the response properly then the connection of the device is working properly if not a particular server or your online connection is blocking communication between your computer and another.
 `ping <ip or domain>`
 
-## Scan and Repare System Files (sfc /scannow)
+### Scan and Repare System Files (sfc /scannow)
 `sfc /scannow` will scan and repare windown system files. But you must be run the console as an administrator.
 
-## List Currently Running Tusk (tasklist)
+### List Currently Running Tusk (tasklist)
 Use `tasklist` to get currant list of all tasks running on your pc.
 
 
