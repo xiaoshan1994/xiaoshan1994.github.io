@@ -50,11 +50,11 @@ cls
 
 ### Run software
 To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can `start <softeare name>`
-{{< alert info >}} You can type directly system names of files(not shortcunt names) {{< /alert >}}
-Common program names include the following:
-File Explorer: `explorer`
-Task Manager: `taskmgr`
-Character Map:`charmap`
+{{< alert info >}} You can directly type system names of files(not shortcut names) {{< /alert >}}
+Common program names include the following:<br>
+File Explorer: `explorer`<br>
+Task Manager: `taskmgr`<br>
+Character Map:`charmap`<br>
 Advanced System Properties (for Path setting):`systempropertiesadvanced`
 
 ### Lists Installed Drivers (driverquery)
