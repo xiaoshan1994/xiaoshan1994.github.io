@@ -155,7 +155,7 @@ October 18, 2021
 <div class=main-content-wrap>
 <p>In Windows, when you open a command prompt, almost always the program that is running is cmd.exe. It&rsquo;s an enhanced NT derivative of the old DOS-based command.com, which is in turn has similarites with the even older CP/M CCP command interpreter.</p>
 <p>In Linux, usually you are running bash in some sort of terminal emulator if you are using it in a graphical environment. (which can vary widely depending on your distro and desktop environment). This stands for &ldquo;Bourne Again Shell&rdquo; because it&rsquo;s an extended version of an earlier &ldquo;Bourne&rdquo; shell (sh)<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup>: that&rsquo;s been standard on Unix for a long time. There&rsquo;s other &ldquo;alternative&rdquo; shells in common use such as csh, ksh, and tcsh.</p>
-<p>As the outer layer of an operating system, a shell can be contrasted with the kernel, the operating system&rsquo;s inmost layer or core of services.
+<p>As the outer layer of an operating system, a shell can be contrasted with the kernel, the operating system&rsquo;s inmost layer or core of services.<br>
 The Windows cmd.exe can be considered a shell as well (as can explorer.exe).</p>
 <p>Both the Windows command prompt and all Unix shells have several &ldquo;built-ins&rdquo;, or commands that are handled entirely within the shell. This includes some basic commands (such as cd) and many conditional commands and operators that control script flow if a batch file of commands are executed.</p>
 <p>However, in both Linux and Windows, the great majority of &ldquo;commands&rdquo; that do useful things are in fact external programs that are &ldquo;called&rdquo; by the the shell. And that is the primary purpose of a shell, to enable an operator to start programs with specifying arguments for those programs. It&rsquo;s not really strictly a programming language, it&rsquo;s just a framework for launching programs.</p>
@@ -194,14 +194,14 @@ The Windows cmd.exe can be considered a shell as well (as can explorer.exe).</p>
 <h3 id=clear-screen-cls>Clear Screen (cls)</h3>
 <p>To clear the existing commands in prompts type <code>cls</code> and press <code>Enter</code>.</p>
 <h3 id=run-software>Run software</h3>
-<p>To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can <code>start &lt;softeare name></code>
+<p>To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can <code>start &lt;softeare name></code><br>
 <div class="alert info">
 <p>You can directly type the system names (not shortcut names)</p>
-</div>
-Common program names include the following:
-File Explorer: <code>explorer</code>
-Task Manager: <code>taskmgr</code>
-Character Map:<code>charmap</code>
+</div><br>
+Common program names include the following:<br>
+File Explorer: <code>explorer</code><br>
+Task Manager: <code>taskmgr</code><br>
+Character Map:<code>charmap</code><br>
 Advanced System Properties (for Path setting):<code>systempropertiesadvanced</code></p>
 <h3 id=lists-installed-drivers-driverquery>Lists Installed Drivers (driverquery)</h3>
 <p>Drivers are very important in your PC. Missing a important driver can hamper your work. Use <code>driverquery</code> command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.</p>
@@ -210,9 +210,9 @@ Advanced System Properties (for Path setting):<code>systempropertiesadvanced</co
 <h3 id=list-hardware-information-systeminfo>List Hardware Information (systeminfo)</h3>
 <p>Use <code>systeminfo</code> to know very basic information about your pc’s hardware, like – motherboard, processor & ram.</p>
 <h3 id=check-if-server-is-reachable-ping>Check if Server is Reachable (ping)</h3>
-<p>The ping command sends packets of data to a specific IP address (or domain) on a network and then lets you know how long it took to transmit that data and get a response.
-pin
-If you get the response properly then the connection of the device is working properly if not a particular server or your online connection is blocking communication between your computer and another.
+<p>The ping command sends packets of data to a specific IP address (or domain) on a network and then lets you know how long it took to transmit that data and get a response.<br>
+pin<br>
+If you get the response properly then the connection of the device is working properly if not a particular server or your online connection is blocking communication between your computer and another.<br>
 <code>ping &lt;ip or domain></code></p>
 <h3 id=scan-and-repare-system-files-sfc-scannow>Scan and Repare System Files (sfc /scannow)</h3>
 <p><code>sfc /scannow</code> will scan and repare windown system files. But you must be run the console as an administrator.</p>

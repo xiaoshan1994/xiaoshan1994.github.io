@@ -224,14 +224,14 @@ June 9, 2021
 </ul>
 </li>
 </ul>
-<p>The data here has different end-dates for the environmental extensions. Anything beyond the end date is an extrapolation.
-As of v3.5, the end year is: 2011 energy, 2015 CO2 fuel combustion, 2013 material, 2011 most others, incl methane and N20, land, water
-As of v3.6, the end year is: 2015 energy, 2015 CO2 fuel combustion, 2013 material, 2011 most others, incl methane and N20, land, water
+<p>The data here has different end-dates for the environmental extensions. Anything beyond the end date is an extrapolation.<br>
+As of v3.5, the end year is: 2011 energy, 2015 CO2 fuel combustion, 2013 material, 2011 most others, incl methane and N20, land, water<br>
+As of v3.6, the end year is: 2015 energy, 2015 CO2 fuel combustion, 2013 material, 2011 most others, incl methane and N20, land, water<br>
 As of v3.7, the end year is: 2015 energy, 2016 all GHG, 2013 material, 2011 most others, land, water land extensions to 2015 are available on request soon, but not yet processed.</p>
-<p>Constant price data has been estimated, but we are not robust enough to be released yet.
+<p>Constant price data has been estimated, but we are not robust enough to be released yet.<br>
 Price indices for each product in the database are available.</p>
 <h2 id=concordances>Concordances</h2>
-<p>For concordances, please see:
+<p>For concordances, please see:<br>
 <a href=https://ntnu.box.com/s/ziox4zmkgt3cdsg549brr0qaecskgjsd>https://ntnu.box.com/s/ziox4zmkgt3cdsg549brr0qaecskgjsd</a></p>
 <h2 id=analysis-package>Analysis package</h2>
 <p>The python package pymrio (<a href=https://github.com/konstantinstadler/pymrio>https://github.com/konstantinstadler/pymrio</a>) can be used to directly parse the EXIOBASE 3 zip files and to calculate production and consumption based acounts.</p>
@@ -241,28 +241,28 @@ Price indices for each product in the database are available.</p>
 <p>This also includes the main data documentation of the compilation (<a href=http://onlinelibrary.wiley.com/doi/10.1111/jiec.12715/full),>http://onlinelibrary.wiley.com/doi/10.1111/jiec.12715/full),</a> which This corresponds to version 3.4 of the data for the time series 1995-2011.</p>
 <p>For the now-casting description see the relevant deliverable: <a href="http://fp7desire.eu/documents/category/3-public-deliverables?download=24:d5-3-integrated-report-on-ee-io-related-macro-resource-indicator-time-series">http://fp7desire.eu/documents/category/3-public-deliverables?download=24:d5-3-integrated-report-on-ee-io-related-macro-resource-indicator-time-series</a></p>
 <p>EXIOBASE3 workflow and classification is based on EXIOBASE2.</p>
-<p>The final EXIOBASE2 database is available on <a href=http://www.exiobase.eu>www.exiobase.eu</a>, but note that agricultural emissions are available at:
+<p>The final EXIOBASE2 database is available on <a href=http://www.exiobase.eu>www.exiobase.eu</a>, but note that agricultural emissions are available at:<br>
 <a href=https://ntnu.box.com/s/bt93z4x4bw2tg8sworrl>https://ntnu.box.com/s/bt93z4x4bw2tg8sworrl</a></p>
-<p>Final country specific tables of EXIOBASE2 are:
+<p>Final country specific tables of EXIOBASE2 are:<br>
 <a href=https://ntnu.box.com/s/u9n7fwr6w7y0wguu9ubbw0ppc47r8opc>https://ntnu.box.com/s/u9n7fwr6w7y0wguu9ubbw0ppc47r8opc</a></p>
-<p>Source country tables of EXIOBASE2 are:
+<p>Source country tables of EXIOBASE2 are:<br>
 <a href=https://ntnu.box.com/s/u9n7fwr6w7y0wguu9ubbw0ppc47r8opc>https://ntnu.box.com/s/u9n7fwr6w7y0wguu9ubbw0ppc47r8opc</a></p>
-<p>For other info:
-<a href=http://www.exiobase.eu>www.exiobase.eu</a>
+<p>For other info:<br>
+<a href=http://www.exiobase.eu>www.exiobase.eu</a><br>
 <a href=https://environmentalfootprints.org/exiobase3/>https://environmentalfootprints.org/exiobase3/</a></p>
 <h2 id=data-qualityadherence>Data quality/adherence</h2>
 <p>In terms of data quality for more recent years. Please be mindful of:</p>
 <p>-2007 is the base year for the SUTs and the method of interpolation over time involves using data in different classifications and formats to understand structural change over time (i.e. intermediate and final demand flows by product and industry). Only output, trade and macroeconomic constraints (7 sectors) are direct inputs to final balancing in absolute terms. The database is under the NACE1 classification scheme.</p>
 <p>-SUT and IOT data are only used to inform structural change</p>
 <p>-Whilst the 2007 EXIOBASE2 table is the base, the National Account Main Aggregates is the main constraint. The main goal was temporal consistency, and not disaggregation of official tables in EXIO3. SUTs/IOTs do often not get updated going backwards, whilst National Account Main Aggregates data does. In general, National Account Main Aggregates are often 10-20% off the equivalent data points aggregated from the official SUTs/IOTs from 2007.</p>
-<p>Energy & emission accounts
+<p>Energy & emission accounts<br>
 Energy and Emission accounts are based on the IEA energy balances, but are not always fully consistent with the monetary IO tables (different data sources was used in the disaggregation of the energy accounts). This does lead to some minor discrepancies in relationships between energy flows and monetary flows. Some efforts are ongoing to fix these.</p>
 <p>Household use of energy is available in disaggregated form (by EXIOBASE product), but is auxiliary to the main MRIO dataset, as it does not fit that data structure. Similar case for fuel combustion emissions.</p>
 <h2 id=further-updates-and-development>Further Updates and Development</h2>
 <p>In terms of financing future work, we of course are reliant on funding. We are updating parts of the dataset based on individual project requirements, and providing some internal funding for co-ordination across these efforts. We are of course welcome to participate in projects that help fund these updates, either central updates or peripheral work that has benefits for both a single end-user, but also that can be rolled into future public data releases.</p>
 <p>We are continually updating the data behind EXIOBASE with a rolling release cycle. Hence more feedback that is given, the greater the chance of improvements in future updates!</p>
 <h2 id=announcements>Announcements</h2>
-<p>Stay tuned for announcements:
+<p>Stay tuned for announcements:<br>
 <a href=https://groups.google.com/forum/#!forum/exiobase-announcements>https://groups.google.com/forum/#!forum/exiobase-announcements</a></p>
 </div>
 </div>

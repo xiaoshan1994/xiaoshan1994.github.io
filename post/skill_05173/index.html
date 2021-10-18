@@ -156,7 +156,7 @@ May 17, 2021
 </div>
 <div class="post-content markdown">
 <div class=main-content-wrap>
-<p>Each group is expected to perform a research question about two real-world issues: BREXIT and national stimulus plans.
+<p>Each group is expected to perform a research question about two real-world issues: BREXIT and national stimulus plans.<br>
 in a post COVID-19 world.</p>
 <h3 id=tasks>Tasks</h3>
 <ol>
@@ -168,53 +168,53 @@ in a post COVID-19 world.</p>
 <li>Identify top-5 countries where the specific country displaced its emissions to</li>
 </ol>
 <p>June 11 at 17:00 (deadline):Code and report(.pdf) in Brightspace/Assignments.</p>
-<p>You are awesome.
-You&rsquo;re even better!
+<p>You are awesome.<br>
+You&rsquo;re even better!<br>
 What else &mldr;</p>
-<p>import numpy as np
-import time
-import pickle as pkl
-import os
-from pathlib import Path
+<p>import numpy as np<br>
+import time<br>
+import pickle as pkl<br>
+import os<br>
+from pathlib import Path<br>
 np.set_printoptions(precision=2)</p>
-<p>tstart = time.time()
-##############################################
+<p>tstart = time.time()<br>
+##############################################<br>
 ##############################################</p>
 <h1 id=task-1-load-mrio-from-pickle>TASK 1: Load MRIO from Pickle</h1>
 <p>##############################################</p>
 <h1 id=folder-settings-change-the-current-working-directory-to-reflect-the-location-in-your-computer>Folder settings: Change the current working directory to reflect the location in your computer</h1>
 <h1 id=run-osgetcwd-to-find-out-what-that-is>(run os.getcwd() to find out what that is)</h1>
 <h1 id=folder-to-read-mrio-from>Folder to read MRIO from</h1>
-<p>os.getcwd()
+<p>os.getcwd()<br>
 mrio_dir = Path("/&mldr;/EIOA/IGA/MRIO") # Fill " " with your working directory path</p>
 <p>##############################################</p>
 <h1 id=load-mrio>Load MRIO</h1>
 <p>tstart = time.time()</p>
 <p>mrio_name = &lsquo;mrio.pkl&rsquo;<br>
 mrio_str = mrio_dir.joinpath(mrio_name)<br>
-pkl_in = open(mrio_str,&ldquo;rb&rdquo;) # &lsquo;open&rsquo; the mrio.pkl file
-mrio = pkl.load(pkl_in) # load the mrio.pkl file to mrio
+pkl_in = open(mrio_str,&ldquo;rb&rdquo;) # &lsquo;open&rsquo; the mrio.pkl file<br>
+mrio = pkl.load(pkl_in) # load the mrio.pkl file to mrio<br>
 pkl_in.close()</p>
-<p>tend = time.time()
+<p>tend = time.time()<br>
 print(&lsquo;Done reading in %5.2f s\n&rsquo;% (tend - tstart))</p>
 <h1 id=category-counts>category counts</h1>
-<p>nr = mrio[&lsquo;label&rsquo;][&lsquo;region&rsquo;].count()[0]
-ns = mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;].count()[0]
+<p>nr = mrio[&lsquo;label&rsquo;][&lsquo;region&rsquo;].count()[0]<br>
+ns = mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;].count()[0]<br>
 ny = mrio[&lsquo;label&rsquo;][&lsquo;final&rsquo;].count()[0]</p>
 <h1 id=mrio-matrixvector-variables>MRIO matrix/vector variables</h1>
-<p>L = mrio[&lsquo;L&rsquo;]
-Y = mrio[&lsquo;Y&rsquo;]
-V = mrio[&lsquo;V&rsquo;]
-F = mrio[&lsquo;F&rsquo;]
-F_co2 = mrio[&lsquo;F_co2&rsquo;]
-H = mrio[&lsquo;H&rsquo;]
+<p>L = mrio[&lsquo;L&rsquo;]<br>
+Y = mrio[&lsquo;Y&rsquo;]<br>
+V = mrio[&lsquo;V&rsquo;]<br>
+F = mrio[&lsquo;F&rsquo;]<br>
+F_co2 = mrio[&lsquo;F_co2&rsquo;]<br>
+H = mrio[&lsquo;H&rsquo;]<br>
 H_co2 = mrio[&lsquo;H_co2&rsquo;]</p>
 <h1 id=calculate-total-output>calculate total output</h1>
 <p>x = L @ Y.sum(1)</p>
 <h1 id=calculate-direct-emissions-intensity>calculate direct emissions intensity</h1>
-<p>f_co2 = F_co2/x # resulting in na or inf when x = 0
+<p>f_co2 = F_co2/x # resulting in na or inf when x = 0<br>
 f_co2 = np.nan_to_num(f_co2, copy=False, nan=0.0, posinf=0.0, neginf=0.0) # replace na and inf with 0</p>
-<p>##############################################
+<p>##############################################<br>
 ##############################################</p>
 <h1 id=configuration-for-all-following-tasks>Configuration for all following tasks</h1>
 <h1 id=change-to-choose-different-region-c-in-0-to-48>change to choose different region: c in 0 to 48</h1>
@@ -225,83 +225,83 @@ f_co2 = np.nan_to_num(f_co2, copy=False, nan=0.0, posinf=0.0, neginf=0.0) # repl
 <h1 id=to-locate-country-columns-in-y-cny--c1ny>To locate country columns in Y: &lsquo;c*ny : (c+1)*ny&rsquo;</h1>
 <h1 id=convert-units-from-kg-to-mt-1e-9>convert units from kg to Mt (*1e-9)</h1>
 <p>conv = 1e-9</p>
-<p>##############################################
+<p>##############################################<br>
 ##############################################</p>
 <h1 id=task-2-calculate-territorial-emissions-for-a-specific-country>TASK 2. Calculate territorial emissions for a specific country</h1>
 <h1 id=we-want-to-report-three-cols-production-related-households-and-total-plus-a-global-contribution-percentage>We want to report three cols: production-related, households and total, plus a global contribution percentage</h1>
-<p>pba = np.zeros((1,4))
+<p>pba = np.zeros((1,4))<br>
 pba[:,0] = F_co2[c*ns : (c+1)*ns].sum() <em>conv # direct emissions by producers <br>
-pba[:,1] = H_co2[c</em>ny : (c+1)*ny].sum() *conv # direct emissions by households
-pba[:,2] = pba[:,0:2].sum()
+pba[:,1] = H_co2[c</em>ny : (c+1)*ny].sum() *conv # direct emissions by households<br>
+pba[:,2] = pba[:,0:2].sum()<br>
 pba[:,3] = pba[:,2]/((F_co2.sum()+H_co2.sum())*conv)*100</p>
-<p>##############################################
+<p>##############################################<br>
 ##############################################</p>
 <h1 id=task-3-calculate-for-a-specific-country-consumption-based-co2-emissions>TASK 3. Calculate for a specific country consumption-based CO2 emissions</h1>
 <h1 id=we-want-to-report-three-cols-production-generated-households-and-total-plus-a-global-contribution-percentage>We want to report three cols: production-generated, households and total, plus a global contribution percentage</h1>
 <p>cba = np.zeros((1,4)) <br>
 y = Y[:, c*ny : (c+1)*ny].sum(1) # aggregate final demand to one column</p>
-<p>cba[:,0] = f_co2 @ L @ y <em>conv # footprint traced to production emissions
-cba[:,1] = H_co2[c</em>ny : (c+1)*ny].sum()*conv # footprint traced to household direct emissions
-cba[:,2] = cba[:,:2].sum()
+<p>cba[:,0] = f_co2 @ L @ y <em>conv # footprint traced to production emissions<br>
+cba[:,1] = H_co2[c</em>ny : (c+1)*ny].sum()*conv # footprint traced to household direct emissions<br>
+cba[:,2] = cba[:,:2].sum()<br>
 cba[:,3] = cba[:,2]/((F_co2.sum()+H_co2.sum())*conv)*100</p>
-<p>##############################################
+<p>##############################################<br>
 ##############################################</p>
 <h1 id=task-4-identify-top-5-sectors-that-contribute-to-production-based-emissions>TASK 4. Identify top-5 sectors that contribute to production-based emissions</h1>
 <h1 id=pba_s-we-want-to-report-in-rows-each-sector-plus-household>pba_s: we want to report in rows each sector plus household</h1>
-<p>label_s = list(mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;][&lsquo;Name&rsquo;]) + [&lsquo;Household direct&rsquo;]
-pba_s = F_co2[c*ns : (c+1)*ns] *conv
+<p>label_s = list(mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;][&lsquo;Name&rsquo;]) + [&lsquo;Household direct&rsquo;]<br>
+pba_s = F_co2[c*ns : (c+1)*ns] *conv<br>
 pba_s = np.append(pba_s, pba[0,1]) # append household direct emissions to the end</p>
 <h1 id=pba_s_sorted-we-want-to-report-in-rows-the-sorted-in-descending-order-sectoral-plus-household-results>pba_s_sorted: we want to report in rows the &lsquo;sorted&rsquo; (in descending order) sectoral plus household results;</h1>
 <h1 id=3-cols-sectoral-emissions-percent-and-cumulative-percent>3 cols: sectoral emissions, percent, and cumulative percent</h1>
-<p>pba_s_sorted = np.zeros((ns+1,3))
-rank = np.argsort(pba_s) # returns indices that&rsquo;d sort the array low to high
+<p>pba_s_sorted = np.zeros((ns+1,3))<br>
+rank = np.argsort(pba_s) # returns indices that&rsquo;d sort the array low to high<br>
 rank = np.flip(rank) # flip so it goes &lsquo;high to low&rsquo;</p>
-<p>pba_s_sorted[:,0] = np.sort(pba_s) # sort the values from &lsquo;low to high&rsquo;
-pba_s_sorted[:,0] = np.flip(pba_s_sorted[:,0]) # flip so the values go from high to low
-pba_s_sorted[:,1] = pba_s_sorted[:,0]/pba[0,2]*100 # percentage contribution
+<p>pba_s_sorted[:,0] = np.sort(pba_s) # sort the values from &lsquo;low to high&rsquo;<br>
+pba_s_sorted[:,0] = np.flip(pba_s_sorted[:,0]) # flip so the values go from high to low<br>
+pba_s_sorted[:,1] = pba_s_sorted[:,0]/pba[0,2]*100 # percentage contribution<br>
 pba_s_sorted[:,2] = np.cumsum(pba_s_sorted[:,1]) # cumulative percentage contribution</p>
 <h1 id=sector-names-of-the-top-5-emitters>sector names of the top 5 emitters</h1>
 <p>for i in range(0,5) : <br>
 print(&ldquo;Top&rdquo;, i+1, label_s[rank[i]],"(sector index =", rank[i], &ldquo;);")</p>
-<p>##############################################
+<p>##############################################<br>
 ##############################################</p>
 <h1 id=task-5-identify-top-5-final-demand-spending-sectors-that-contribute-to-consumption-based-emissions>TASK 5. Identify top-5 final demand spending sectors that contribute to consumption-based emissions</h1>
 <h1 id=task-6-identify-top-5-countries-where-the-specific-country-displaced-emissions-to>TASK 6. Identify top-5 countries where the specific country displaced emissions to</h1>
-<p>label_s = list(mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;][&lsquo;Name&rsquo;]) + [&lsquo;Household direct&rsquo;]
-cba_s = f_co2 @ L @ np.diag(y)*conv
-cba_rs = np.reshape(cba_s,(nr,ns)) # pay attention to get the new shape dimension right
-cba_s = cba_rs.sum(0) # by final demand sector
-cba_s = np.append(cba_s,cba[0,1]) # append household direct emissions to the end
-cba_r = cba_rs.sum(1) # by emitting regions
+<p>label_s = list(mrio[&lsquo;label&rsquo;][&lsquo;product&rsquo;][&lsquo;Name&rsquo;]) + [&lsquo;Household direct&rsquo;]<br>
+cba_s = f_co2 @ L @ np.diag(y)*conv<br>
+cba_rs = np.reshape(cba_s,(nr,ns)) # pay attention to get the new shape dimension right<br>
+cba_s = cba_rs.sum(0) # by final demand sector<br>
+cba_s = np.append(cba_s,cba[0,1]) # append household direct emissions to the end<br>
+cba_r = cba_rs.sum(1) # by emitting regions<br>
 cba_r[c] = cba_r[c] + cba[0,1] # add HH direct emissions</p>
 <h1 id=cba_s_sort-we-want-to-report-in-rows-each-final-demand-sectorproduct-plus-household>cba_s_sort: we want to report in rows each final demand sector(product) plus household</h1>
 <h1 id=3-cols-sectoral-emissions-percent-and-cumulative-percent-1>3 cols: sectoral emissions, percent, and cumulative percent</h1>
-<p>cba_s_sorted = np.zeros((ns+1,3))
-rank = np.argsort(cba_s) # sort from &lsquo;low to high&rsquo; and returns indices
+<p>cba_s_sorted = np.zeros((ns+1,3))<br>
+rank = np.argsort(cba_s) # sort from &lsquo;low to high&rsquo; and returns indices<br>
 rank = np.flip(rank) # flip so it goes &lsquo;high to low&rsquo;</p>
-<p>cba_s_sorted[:,0] = np.sort(cba_s) # sort the values from &lsquo;low to high&rsquo;
-cba_s_sorted[:,0] = np.flip(cba_s_sorted[:,0]) # flip so the values go from high to low
-cba_s_sorted[:,1] = cba_s_sorted[:,0]/cba[0,2]*100 # percentage contribution
+<p>cba_s_sorted[:,0] = np.sort(cba_s) # sort the values from &lsquo;low to high&rsquo;<br>
+cba_s_sorted[:,0] = np.flip(cba_s_sorted[:,0]) # flip so the values go from high to low<br>
+cba_s_sorted[:,1] = cba_s_sorted[:,0]/cba[0,2]*100 # percentage contribution<br>
 cba_s_sorted[:,2] = np.cumsum(cba_s_sorted[:,1]) # cumulative percentage contribution</p>
 <h1 id=sector-names-of-the-top-5-final-demand-product-categories>sector names of the top 5 final demand product categories</h1>
 <p>for i in range(0,5) : <br>
 print(&ldquo;Top&rdquo;, i+1, label_s[rank[i]],"(sector index =&rdquo;, rank[i], &ldquo;);")</p>
 <h1 id=cba_r_sort-we-want-to-report-in-rows-each-country-of-origin>cba_r_sort: we want to report in rows each country of origin</h1>
 <h1 id=3-cols-country-emissions-percent-and-cumulative-percent>3 cols: country emissions, percent, and cumulative percent</h1>
-<p>label_r = list(mrio[&lsquo;label&rsquo;][&lsquo;region&rsquo;][&lsquo;CountryName&rsquo;])
-cba_r_sorted = np.zeros((nr,3))
-rank = np.argsort(cba_r) # sort from &lsquo;low to high&rsquo; and returns indices
+<p>label_r = list(mrio[&lsquo;label&rsquo;][&lsquo;region&rsquo;][&lsquo;CountryName&rsquo;])<br>
+cba_r_sorted = np.zeros((nr,3))<br>
+rank = np.argsort(cba_r) # sort from &lsquo;low to high&rsquo; and returns indices<br>
 rank = np.flip(rank) # flip so it goes &lsquo;high to low&rsquo;</p>
-<p>cba_r_sorted[:,0] = np.sort(cba_r) # sort the values from &lsquo;low to high&rsquo;
-cba_r_sorted[:,0] = np.flip(cba_r_sorted[:,0]) # flip so the values go from high to low
-cba_r_sorted[:,1] = cba_r_sorted[:,0]/cba[0,2]*100 # percentage contribution
+<p>cba_r_sorted[:,0] = np.sort(cba_r) # sort the values from &lsquo;low to high&rsquo;<br>
+cba_r_sorted[:,0] = np.flip(cba_r_sorted[:,0]) # flip so the values go from high to low<br>
+cba_r_sorted[:,1] = cba_r_sorted[:,0]/cba[0,2]*100 # percentage contribution<br>
 cba_r_sorted[:,2] = np.cumsum(cba_r_sorted[:,1]) # cumulative percentage contribution</p>
 <h1 id=country-names-of-the-top-5-displacement-locations>country names of the top 5 displacement locations</h1>
-<p>if c in rank[0:5] :
+<p>if c in rank[0:5] :<br>
 for i in range(0,6) :<br>
 if rank[i] != c : <br>
-print(&ldquo;Top&rdquo;, i+1, label_r[rank[i]],"(country index =&rdquo;, rank[i], &ldquo;);")
-else :
+print(&ldquo;Top&rdquo;, i+1, label_r[rank[i]],"(country index =&rdquo;, rank[i], &ldquo;);")<br>
+else :<br>
 for i in range(0,5) : <br>
 print(&ldquo;Top&rdquo;, i+1, label_r[rank[i]],"(country index =&rdquo;, rank[i], &ldquo;);")</p>
 </div>
