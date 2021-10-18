@@ -52,7 +52,7 @@ canonifyurls = true
   gravatarEmail = "xiaoshancqu@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
+  #picture = "/images/profile.png"
   # Your Twitter username without the @. E.g : thibaudlepretre
   twitter = "xiaoshan1994"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -226,7 +226,7 @@ canonifyurls = true
   # Automatically select the cover image or the first photo from the gallery of a post if there is no thumbnail image as the thumbnail image
   # Set this value to `true` if you have old posts that use the cover image or the first photo as the thumbnail image
   # and set `autoThumbnailImage` to `false` on a post to overwrite this setting
-  autoThumbnailImage = true
+  autoThumbnailImage = false
 
   # Your favicon path, default is "/favicon.png"
   favicon = "/favicons/favicon-16x16.png"
