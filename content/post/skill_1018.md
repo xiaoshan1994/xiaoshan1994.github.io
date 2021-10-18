@@ -7,7 +7,6 @@ categories:
 - Code
 tags:
 - command prompt
--
 keywords:
 - tech
 coverImage: https://cdn.educba.com/academy/wp-content/uploads/2019/05/What-is-CMD.jpg
