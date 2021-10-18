@@ -27,7 +27,7 @@ Both the Windows command prompt and all Unix shells have several "built-ins", or
 However, in both Linux and Windows, the great majority of "commands" that do useful things are in fact external programs that are "called" by the the shell. And that is the primary purpose of a shell, to enable an operator to start programs with specifying arguments for those programs. It's not really strictly a programming language, it's just a framework for launching programs.
 <!--more-->
 {{< toc >}}
-## Change the Directory / Folder (cd)/Drive
+### Change the Directory / Folder (cd)/ Drive
 Use `cd \` to {{< hl-text red >}}go to the top of the directory tree{{< /hl-text >}}.
 
 If you need to {{< hl-text red >}}go to a specific folder{{< /hl-text >}} from this drive run the command CD Folder. The subfolders must be separated by a backslash character: `\`.
@@ -50,6 +50,12 @@ cls
 
 ### Run software
 To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can `start <softeare name>`
+{{< alert info >}} You can type directly system names of files(not shortcunt names) {{< /alert >}}
+Common program names include the following:
+File Explorer: `explorer`
+Task Manager: `taskmgr`
+Character Map:`charmap`
+Advanced System Properties (for Path setting):`systempropertiesadvanced`
 
 ### Lists Installed Drivers (driverquery)
 Drivers are very important in your PC. Missing a important driver can hamper your work. Use `driverquery` command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
