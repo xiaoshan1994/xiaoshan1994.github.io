@@ -1,7 +1,7 @@
 ---
 title: "Command Prompt: Basic Commands You Should Know (CMD)"
 date: 2021-10-18T09:57:01+02:00
-description: "A quick guide to basic cmd commands."
+description: "A quick guide to basic cmd commands"
 categories:
 - Skill
 - Code
