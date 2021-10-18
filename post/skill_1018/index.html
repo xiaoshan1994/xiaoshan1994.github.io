@@ -1,22 +1,22 @@
 <!doctype html><html lang=en-us>
 <head>
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"A quick guide to basic cmd commands.","url":"https:\/\/xiaoshan1994.github.io\/post\/skill_1018\/","keywords":"[tech, development, next-gen]"}</script>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"A quick guide to basic cmd commands","url":"https:\/\/xiaoshan1994.github.io\/post\/skill_1018\/","keywords":"[tech, development, next-gen]"}</script>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
 <meta name=author content="Kai Li (李锴)">
 <meta name=keywords content="tech,development,next-gen">
-<meta name=description content="A quick guide to basic cmd commands.">
-<meta property="og:description" content="A quick guide to basic cmd commands.">
+<meta name=description content="A quick guide to basic cmd commands">
+<meta property="og:description" content="A quick guide to basic cmd commands">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Command Prompt: Basic Commands You Should Know (CMD)">
 <meta name=twitter:title content="Command Prompt: Basic Commands You Should Know (CMD)">
 <meta property="og:url" content="https://xiaoshan1994.github.io/post/skill_1018/">
 <meta property="twitter:url" content="https://xiaoshan1994.github.io/post/skill_1018/">
 <meta property="og:site_name" content="Blogs of Kai">
-<meta property="og:description" content="A quick guide to basic cmd commands.">
-<meta name=twitter:description content="A quick guide to basic cmd commands.">
+<meta property="og:description" content="A quick guide to basic cmd commands">
+<meta name=twitter:description content="A quick guide to basic cmd commands">
 <meta property="og:locale" content="en-us">
 <meta property="article:published_time" content="2021-10-18T09:57:01">
 <meta property="article:modified_time" content="2021-10-18T09:57:01">
@@ -164,9 +164,11 @@ The Windows cmd.exe can be considered a shell as well (as can explorer.exe).</p>
 <ul>
 <li>
 <ul>
-<li><a href=#change-the-directory--folder-cddrive>Change the Directory / Folder (cd)/Drive</a></li>
+<li><a href=#change-the-directory--folder-cddrive>Change the Directory / Folder (cd)/Drive</a>
+<ul>
 <li><a href=#create-a-new-directory--folder-mkdir>Create a New Directory / Folder (mkdir)</a></li>
 <li><a href=#clear-screen-cls>Clear Screen (cls)</a></li>
+<li><a href=#run-software>Run software</a></li>
 <li><a href=#lists-installed-drivers-driverquery>Lists Installed Drivers (driverquery)</a></li>
 <li><a href=#networking-information-ipconfig>Networking Information (ipconfig)</a></li>
 <li><a href=#list-hardware-information-systeminfo>List Hardware Information (systeminfo)</a></li>
@@ -176,33 +178,36 @@ The Windows cmd.exe can be considered a shell as well (as can explorer.exe).</p>
 </ul>
 </li>
 </ul>
+</li>
+</ul>
 </nav>
 <h2 id=change-the-directory--folder-cddrive>Change the Directory / Folder (cd)/Drive</h2>
-<p>Use <code>cd \</code> to go to the top of the directory tree.</p>
+<p>Use <code>cd \</code> to <span class="highlight-text red">go to the top of the directory tree</span>.</p>
 <p>If you need to <span class="highlight-text red">go to a specific folder</span> from this drive run the command CD Folder. The subfolders must be separated by a backslash character: <code>\</code>.</p>
 <p>Use the <code>cd..</code> command to <span class="highlight-text red">go one folder up</span>.</p>
 <p>If you wanted to <span class="highlight-text red">change the drive</span> from “C:” to “D:”, type <code>d:</code> and then press <code>Enter</code>.</p>
-<h2 id=create-a-new-directory--folder-mkdir>Create a New Directory / Folder (mkdir)</h2>
+<h3 id=create-a-new-directory--folder-mkdir>Create a New Directory / Folder (mkdir)</h3>
 <p>You can <span class="highlight-text red">make a new folder</span> using the <code>mkdir &lt;your folder name></code> (Make Directory) command. The syntax of these commands is mkdir Folder.</p>
 <p><span class="highlight-text red">To test</span> if it worked, use the <code>dir</code> command. The newly created folder appears in the list.</p>
 <p>If you are working on the “C:” drive and you want to <span class="highlight-text red">create a new folder in another Drive</span> D called &ldquo;Google&rdquo;, type <code>mkdir d:\Google</code> and then press <code>Enter</code>.</p>
-<h2 id=clear-screen-cls>Clear Screen (cls)</h2>
+<h3 id=clear-screen-cls>Clear Screen (cls)</h3>
 <p>To clear the existing commands in prompts type <code>cls</code> and press <code>Enter</code>.
 cls</p>
-<h2 id=lists-installed-drivers-driverquery>Lists Installed Drivers (driverquery)</h2>
-<p>Drivers are very important in your PC. Missing a important driver can hamper your work. Use driverquery command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.</p>
-<h2 id=networking-information-ipconfig>Networking Information (ipconfig)</h2>
+<h3 id=run-software>Run software</h3>
+<h3 id=lists-installed-drivers-driverquery>Lists Installed Drivers (driverquery)</h3>
+<p>Drivers are very important in your PC. Missing a important driver can hamper your work. Use <code>driverquery</code> command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.</p>
+<h3 id=networking-information-ipconfig>Networking Information (ipconfig)</h3>
 <p><code>ipconfig</code> will provide you your ip address along with your local network.</p>
-<h2 id=list-hardware-information-systeminfo>List Hardware Information (systeminfo)</h2>
+<h3 id=list-hardware-information-systeminfo>List Hardware Information (systeminfo)</h3>
 <p>Use <code>systeminfo</code> to know very basic information about your pc’s hardware, like – motherboard, processor & ram.</p>
-<h2 id=check-if-server-is-reachable-ping>Check if Server is Reachable (ping)</h2>
+<h3 id=check-if-server-is-reachable-ping>Check if Server is Reachable (ping)</h3>
 <p>The ping command sends packets of data to a specific IP address (or domain) on a network and then lets you know how long it took to transmit that data and get a response.
 pin
 If you get the response properly then the connection of the device is working properly if not a particular server or your online connection is blocking communication between your computer and another.
 <code>ping &lt;ip or domain></code></p>
-<h2 id=scan-and-repare-system-files-sfc-scannow>Scan and Repare System Files (sfc /scannow)</h2>
+<h3 id=scan-and-repare-system-files-sfc-scannow>Scan and Repare System Files (sfc /scannow)</h3>
 <p><code>sfc /scannow</code> will scan and repare windown system files. But you must be run the console as an administrator.</p>
-<h2 id=list-currently-running-tusk-tasklist>List Currently Running Tusk (tasklist)</h2>
+<h3 id=list-currently-running-tusk-tasklist>List Currently Running Tusk (tasklist)</h3>
 <p>Use <code>tasklist</code> to get currant list of all tasks running on your pc.</p>
 <p>S</p>
 <section class=footnotes role=doc-endnotes>
