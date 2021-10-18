@@ -28,7 +28,7 @@ Both the Windows command prompt and all Unix shells have several "built-ins", or
 
 However, in both Linux and Windows, the great majority of "commands" that do useful things are in fact external programs that are "called" by the the shell. And that is the primary purpose of a shell, to enable an operator to start programs with specifying arguments for those programs. It's not really strictly a programming language, it's just a framework for launching programs.
 <!--more-->
-{{< toc >}
+{{< toc >}}
 ## Change the Directory / Folder (cd)/Drive
 Use `cd \` to go to the top of the directory tree.
 
