@@ -30,19 +30,19 @@ However, in both Linux and Windows, the great majority of "commands" that do use
 ## Change the Directory / Folder (cd)/Drive
 Use `cd \` to go to the top of the directory tree.
 
-If you need to **go to a specific folder** from this drive run the command CD Folder. The subfolders must be separated by a {{< hl-text red >}}backslash character: `\`{{< /hl-text >}}.
+If you need to {{< hl-text red >}}go to a specific folder{{< /hl-text >}} from this drive run the command CD Folder. The subfolders must be separated by a backslash character: `\`.
 
-Use the `cd..` command to **go one folder up**.
+Use the `cd..` command to {{< hl-text red >}}go one folder up{{< /hl-text >}}.
 
-If you wanted to **change the drive** from “C:” to “D:”, type `d:` and then press `Enter`.
+If you wanted to {{< hl-text red >}}change the drive{{< /hl-text >}} from “C:” to “D:”, type `d:` and then press `Enter`.
 
 ## Create a New Directory / Folder (mkdir)
 
-You can **make a new folder** using the `mkdir <your folder name>` (Make Directory) command. The syntax of these commands is mkdir Folder.
+You can {{< hl-text red >}}make a new folder{{< /hl-text >}} using the `mkdir <your folder name>` (Make Directory) command. The syntax of these commands is mkdir Folder.
 
-**To test** if it worked, use the `dir` command. The newly created folder appears in the list.
+{{< hl-text red >}}To test{{< hl-text red >}} if it worked, use the `dir` command. The newly created folder appears in the list.
 
-If you are working on the “C:” drive and you want to **create a new folder in another Drive** D called "Google", type `mkdir d:\Google` and then press `Enter`.
+If you are working on the “C:” drive and you want to {{< hl-text red >}}create a new folder in another Drive{{< /hl-text >}} D called "Google", type `mkdir d:\Google` and then press `Enter`.
 
 ## Clear Screen (cls)
 To clear the existing commands in prompts type `cls` and press `Enter`.
