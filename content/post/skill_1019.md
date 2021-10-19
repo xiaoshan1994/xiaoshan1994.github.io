@@ -249,11 +249,11 @@ dv 	the derivative of v
 {{< hl-text red >}}10-3{{< /hl-text >}}	milli	m	/'mɪlɪ/
 {{< hl-text red >}}10-2{{< /hl-text >}}	centi	c	/'sentɪ/
 {{< hl-text red >}}10-1{{< /hl-text >}}	deci	d	/'desɪ/
-{{< hl-text red >}}103{{< /hl-text >}}	kilo	k	/'kɪləʊ/
-{{< hl-text red >}}106{{< /hl-text >}}	mega	M	/'megə/
-{{< hl-text red >}}109{{< /hl-text >}}	giga	G	/'gɪgə/
-{{< hl-text red >}}1012{{< /hl-text >}}	tera	T	/'terə/
-{{< hl-text red >}}1015{{< /hl-text >}}	peta	P	/'petə/
+{{< hl-text red >}}103{{< /hl-text >}}	{{< hl-text green >}}kilo	k	/'kɪləʊ/{{< /hl-text >}}
+{{< hl-text red >}}106{{< /hl-text >}}	{{< hl-text green >}}mega	M	/'megə/{{< /hl-text >}}
+{{< hl-text red >}}109{{< /hl-text >}}	{{< hl-text green >}}giga	G	/'gɪgə/{{< /hl-text >}}
+{{< hl-text red >}}1012{{< /hl-text >}}	{{< hl-text green >}}tera	T	/'terə/{{< /hl-text >}}
+{{< hl-text red >}}1015{{< /hl-text >}}	{{< hl-text green >}}peta	P	/'petə/{{< /hl-text >}}
 {{< hl-text red >}}1018{{< /hl-text >}}	exa	E	/'eksə/
 {{< hl-text red >}}1021{{< /hl-text >}}	zetta	Z	/'zetə/
 {{< hl-text red >}}1024{{< /hl-text >}}	yotta	Y	/'jɒtə/
