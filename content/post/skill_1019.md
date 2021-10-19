@@ -222,44 +222,44 @@ dv 	the derivative of v
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
 # Decimal Fractions [^deci]
-0.1	nought point one	/nɔ:t pɔɪnt wʌn/
+{{< hl-text red >}}0.1	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
-0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
-0.0001	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
-1.1	one point one
-1.2	one point two
-1.23	one point two three
-1.0123	one point oh one two three
-10.01	ten point oh one
-21.57	twenty-one point five seven
-2.6666666666....	two point six recurring
-2.612361236123...	two point six one two three recurring
-2.5 million	two point five million
+{{< hl-text red >}}0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
+{{< hl-text red >}}0.0001	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
+{{< hl-text red >}}1.1{{< /hl-text >}}	one point one
+{{< hl-text red >}}1.2{{< /hl-text >}}	one point two
+{{< hl-text red >}}1.23{{< /hl-text >}}	one point two three
+{{< hl-text red >}}1.0123{{< /hl-text >}}	one point oh one two three
+{{< hl-text red >}}10.01{{< /hl-text >}}	ten point oh one
+{{< hl-text red >}}21.57{{< /hl-text >}}	twenty-one point five seven
+{{< hl-text red >}}2.6666666666....{{< /hl-text >}}	two point six recurring
+{{< hl-text red >}}2.612361236123...{{< /hl-text >}}	two point six one two three recurring
+{{< hl-text red >}}2.5{{< /hl-text >}} million	two point five million
 
 [^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
 
-SI Units: Prefixes
-10-24	yocto	y	/'jɒktəʊ/
-10-21	zepto	z	/'zeptəʊ/
-10-18	atto	a	/'atəʊ/
-10-15	femto	f	/'femtəʊ/
-10-12	pico	p	/'pi:kəʊ/
-10-9	nano	n	/'nanəʊ/
-10-6	micro	µ	/'maɪkrəʊ/
-10-3	milli	m	/'mɪlɪ/
-10-2	centi	c	/'sentɪ/
-10-1	deci	d	/'desɪ/
-103	kilo	k	/'kɪləʊ/
-106	mega	M	/'megə/
-109	giga	G	/'gɪgə/
-1012	tera	T	/'terə/
-1015	peta	P	/'petə/
-1018	exa	E	/'eksə/
-1021	zetta	Z	/'zetə/
-1024	yotta	Y	/'jɒtə/
-1027	xona	X	/'zəʊnə/
-1030	weka	W	/'wekə/
-1033	vunda	V	/'vʊndə/
+# SI Units: Prefixes
+{{< hl-text red >}}10-24{{< /hl-text >}}	yocto	y	/'jɒktəʊ/
+{{< hl-text red >}}10-21{{< /hl-text >}}	zepto	z	/'zeptəʊ/
+{{< hl-text red >}}10-18{{< /hl-text >}}	atto	a	/'atəʊ/
+{{< hl-text red >}}10-15{{< /hl-text >}}	femto	f	/'femtəʊ/
+{{< hl-text red >}}10-12{{< /hl-text >}}	pico	p	/'pi:kəʊ/
+{{< hl-text red >}}10-9{{< /hl-text >}}	nano	n	/'nanəʊ/
+{{< hl-text red >}}10-6{{< /hl-text >}}	micro	µ	/'maɪkrəʊ/
+{{< hl-text red >}}10-3{{< /hl-text >}}	milli	m	/'mɪlɪ/
+{{< hl-text red >}}10-2{{< /hl-text >}}	centi	c	/'sentɪ/
+{{< hl-text red >}}10-1{{< /hl-text >}}	deci	d	/'desɪ/
+{{< hl-text red >}}103{{< /hl-text >}}	kilo	k	/'kɪləʊ/
+{{< hl-text red >}}106{{< /hl-text >}}	mega	M	/'megə/
+{{< hl-text red >}}109{{< /hl-text >}}	giga	G	/'gɪgə/
+{{< hl-text red >}}1012{{< /hl-text >}}	tera	T	/'terə/
+{{< hl-text red >}}1015{{< /hl-text >}}	peta	P	/'petə/
+{{< hl-text red >}}1018{{< /hl-text >}}	exa	E	/'eksə/
+{{< hl-text red >}}1021{{< /hl-text >}}	zetta	Z	/'zetə/
+{{< hl-text red >}}1024{{< /hl-text >}}	yotta	Y	/'jɒtə/
+{{< hl-text red >}}1027{{< /hl-text >}}	xona	X	/'zəʊnə/
+{{< hl-text red >}}1030{{< /hl-text >}}	weka	W	/'wekə/
+{{< hl-text red >}}1033{{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # SI Units: Prefixes
 10-24	yocto	y	/'jɒktəʊ/
