@@ -222,7 +222,6 @@ dv 	the derivative of v
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
 # Decimal[^deci] Fractions
-[^deci]: calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
 0.1	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
@@ -236,3 +235,5 @@ dv 	the derivative of v
 2.6666666666....	two point six recurring	/tu: pɔɪnt  sɪks rɪ'kɜ:rɪŋ/
 2.612361236123...	two point six one two three recurring	/tu: pɔɪnt  sɪks wʌn tu: θri: rɪ'kɜ:rɪŋ/
 2.5 million	two point five million	/tu: pɔɪnt  faɪv 'mɪljən/
+
+[^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
