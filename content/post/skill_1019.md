@@ -178,3 +178,28 @@ dv 	the derivative of v
 {{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
 
 # Greek alphabet
+
+Α	α	alpha	/'ælfə/
+Β	β	beta	/'bi:tə/
+Γ	γ	gamma	/'gæmə/
+Δ	δ	delta	/'deltə/
+Ε	ε	epsilon	/'epsilən/
+Ζ	ζ	zeta	/'ziːtə/
+Η	η	eta	/'iːtə/
+Θ	θ	theta	/'θiːtə/
+Ι	ι	iota	/aɪ'əʊtə/
+Κ	κ	kappa	/'kæpə/
+Λ	λ	lamda	/'læmdə/
+Μ	μ	mu	/'mjuː/
+Ν	ν	nu	/'njuː/
+Ξ	ξ	xi	/'ksaɪ/
+Ο	ο	omicron	/'əʊmɪkrən/
+Π	π	pi	/'paɪ/
+Ρ	ρς	rho	/'rəʊ/
+Σ	σ	sigma	/'sɪgmə/
+Τ	τ	tau	/'tɑʊ/
+Υ	υ	upsilon	/'jʊpsɪlən/
+Φ	φ	phi	/'faɪ/
+Χ	χ	chi	/'kaɪ/
+Ψ	ψ	psi	/'psaɪ/
+Ω	ω	omega	/'əʊmɪgə/
