@@ -199,7 +199,24 @@ dv 	the derivative of v
 {{< hl-text red >}}Σ	σ{{< /hl-text >}}	**sigma	/'sɪgmə/**
 {{< hl-text red >}}Τ	τ{{< /hl-text >}}	**tau	/'tɑʊ/**
 {{< hl-text red >}}Υ	υ{{< /hl-text >}}	**upsilon	/'jʊpsɪlən/**
-{{< hl-text red >}}Φ	φ{{< /hl-text >}}	**phi	/'faɪ/**
-{{< hl-text red >}}Χ	χ{{< /hl-text >}}	**chi	/'kaɪ/**
-{{< hl-text red >}}Ψ	ψ{{< /hl-text >}}	**psi	/'psaɪ/**
-{{< hl-text red >}}Ω	ω{{< /hl-text >}}	**omega	/'əʊmɪgə/**
+{{< hl-text red >}}Φ	φ{{< /hl-text >}}	{{< hl-text green >}}phi	/'faɪ/{{< /hl-text >}}
+{{< hl-text red >}}Χ	χ{{< /hl-text >}}	{{< hl-text green >}}chi	/'kaɪ/{{< /hl-text >}}
+{{< hl-text red >}}Ψ	ψ{{< /hl-text >}}	{{< hl-text green >}}psi	/'psaɪ/{{< /hl-text >}}
+{{< hl-text red >}}Ω	ω{{< /hl-text >}}	{{< hl-text green >}}omega	/'əʊmɪgə/{{< /hl-text >}}
+
+# Fractions
+{{< hl-text red >}}½{{< /hl-text >}}	a half	/ə 'hɑ:f/
+{{< hl-text red >}}¼{{< /hl-text >}}	a quarter	/ə 'kwɔːtə/
+{{< hl-text red >}}¾{{< /hl-text >}}	three quarters	/θriː 'kwɔːtəz/
+{{< hl-text red >}}⅓{{< /hl-text >}}	a third	/ə 'θɜ:d/
+{{< hl-text red >}}⅔{{< /hl-text >}}	two thirds	/tu: 'θɜ:dz/
+{{< hl-text red >}}⅕{{< /hl-text >}}	{{< hl-text green >}}a fifth	/ə 'fɪfθ/{{< /hl-text >}}
+{{< hl-text red >}}⅖{{< /hl-text >}}	{{< hl-text green >}}two fifths	/tu: 'fɪfθs/{{< /hl-text >}}
+{{< hl-text red >}}⅗{{< /hl-text >}}	three fifths	/θriː 'fɪfθs/
+{{< hl-text red >}}⅘{{< /hl-text >}}	four fifths	/fɔː 'fɪfθs/
+{{< hl-text red >}}⅙{{< /hl-text >}}	a sixth	/ə 'sɪksθ/
+{{< hl-text red >}}⅚{{< /hl-text >}}	five sixths	/faɪv 'sɪksθs/
+{{< hl-text red >}}⅛{{< /hl-text >}}	{{< hl-text green >}}an eighth	/ən 'eɪtθ/{{< /hl-text >}}
+{{< hl-text red >}}⅜{{< /hl-text >}}	three eighths	/θriː 'eɪtθs/
+{{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
+{{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
