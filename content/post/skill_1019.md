@@ -19,63 +19,66 @@ metaAlignment: center
 Common pronunciations (in British English - Gimson,1981) of mathematical and scientific symbols are given in the list below.
 <!--more-->
 (all the pages in this section need a unicode font installed - e.g. Arial Unicode MS, Doulos SIL Unicode, Lucida Sans Unicode - see: The International Phonetic Alphabet in Unicode).
+
 {{< toc >}}
+
 # Symbols
-\+  plus	/'plʌs/
-\-	minus	/'maɪnəs/
-{{< hl-text red >}}±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/{{< /hl-text >}}
-x	  multiplied by	/'mʌltɪplaɪd baɪ/
-/	  over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
-÷	  divided	/dɪ'vaɪdəd/
-{{< hl-text red >}}=	  equals	/'ɪ:kwəlz/{{< /hl-text >}}
-≈	  approximately, similar	/ə'prɒksɪmətlɪ/ /'sɪmɪlə tʊ/
-{{< hl-text red >}}≡ equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/{{< /hl-text >}}
-{{< hl-text red >}}≠   not equal to	/'nɒt 'iːkwəl tʊ/{{< /hl-text >}}
-\> 	greater than	/'greɪtə ðən/
-\< 	less than	/'les ðən/
-≥ 	greater than or equal to	/'greɪtə ðən ər 'iːkwəl tʊ/
-≤ 	less than or equal to	/'les ðən ər' iːkwəl tʊ/
-⊁	  not greater than	/'nɒt 'greɪtə ðən/
-⊀	  not less than	/'nɒt 'les ðən/
-≫	  much greater than	/'mʌʧ 'greɪtə ðən/
-≪	  much less than	/'mʌʧ 'les ðən/
+
+\+  plus
+\-	minus
+{{< hl-text red >}}±{{< /hl-text >}}
+x	  multiplied by
+/	  over; divided by
+÷	  divided
+{{< hl-text red >}}=	  equals	{{< /hl-text >}}
+≈	  approximately, similar	/ə'prɒksɪmətlɪ/
+{{< hl-text red >}}≡ equivalent to; identical {{< /hl-text >}}
+{{< hl-text red >}}≠   not equal to {{< /hl-text >}}
+\> 	greater than
+\< 	less than
+≥ 	greater than or equal to
+≤ 	less than or equal to
+⊁	  not greater than
+⊀	  not less than
+≫	  much greater than
+≪	  much less than
 ⊥	  perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
-∣∣	parallel to	/'pærəlel tʊ/
-≢	 not equivalent to, not identical to	/'nɒt ɪk'wɪvələnt tʊ/ /'nɒt aɪ'dentɪkl tʊ/
-≄≉	not similar to	/'nɒt 'sɪmɪlə tʊ/
+∣∣	parallel to
+≢	 not equivalent to, not identical to
+≄≉	not similar to
 {{< hl-text red >}}²	squared	/'skweəd/{{< /hl-text >}}
 {{< hl-text red >}}³	cubed	/'kju:bd/ {{< /hl-text >}}
-4	to the fourth;  to the power four	/tə ðə 'fɔːθ/ /te ðə 'pɑʊə fɔː/
-{{< hl-text red >}}n	 to the n; to the nth; to the power n	/tə ðɪ en; tə dɪ enθ; tə ðə pɑʊər en/ {{< /hl-text >}}
-{{< hl-text red >}}√	root; square root	/ru:t/ /skweə ru:t/ {{< /hl-text >}}
-{{< hl-text red >}}∛	cube root	/kju:b ru:t/ {{< /hl-text >}}
-{{< hl-text red >}}∜	fourth root 	/fɔːθ ruːt/ {{< /hl-text >}}
+4	to the fourth;  to the power four
+{{< hl-text red >}}n	 to the n; to the nth; to the power n {{< /hl-text >}}
+{{< hl-text red >}}√	root; square root	 {{< /hl-text >}}
+{{< hl-text red >}}∛	cube root	{{< /hl-text >}}
+{{< hl-text red >}}∜	fourth root{{< /hl-text >}}
 !	factorial	/fæk'tɔːrɪəl/
-%	percent	/pə'sent/
+%	percent
 ∞	infinity	/ɪn'fɪnətɪ/
 ∝	varies as; proportional to	/'vɛərɪz/  /prə'pɔːʃənəl/
-˙	dot	/dɒt/
-¨	double dot	/dʌbl dɒt/
-:	is to, ratio of	/reɪʃɪəʊ/
-f(x) fx	f; function	/ef/ /'fʌŋkʃən/
+˙	dot
+¨	double dot
+:	is to, ratio of
+f(x) fx	f; function
 f'(x)	f dash; derivative 	/dæʃ/ /dɪ'rɪvətɪv/
 ∫	integral	/'ɪntɪgrəl/
-∑	sum	/sʌm/
-w.r.t.	with respect to	/wɪð 'rɪspekt/
+∑	sum
+w.r.t.	with respect to
 log	log 	/lɒg/
-log₂x	log to the base 2 of x	/lɒg tə ðə beɪs tu: əv eks/
-∴	therefore	/'ðɛəfɔː/
-∵	because	/bɪ'kɒz/
-→	gives, leads to, approaches	/gɪvz/ /li:dz tʊ/ /əprəʊʧəz/
-/	per	/pɜ:/
-∈	belongs to; a member of;  an element of	/bɪ'lɒŋz/ /'membə/ /'elɪmənt/
-∉	does not belong to; is not a member of; is not an element of	/nɒt bɪ'lɒŋ/ /nɒt ə 'membə/ /nɒt ən 'elɪmənt/
-⊂	contained in;  a proper subset of	/kən'teɪnd ɪn/ /'prɒpə 'sʌbset/
-⊆	contained in; subset 	/'sʌbset/
-⋂	intersection	/'ɪntəsekʃən/
-⋃	union	/'juːnɪən/
-∀	for all	/fə rɔ:l/
-cos x	cos x; cosine x	/kɒz/
+log₂x	log to the base 2 of x
+∴	therefore
+∵	because
+→	gives, leads to, approaches
+/	per
+∈	belongs to; a member of;  an element of
+∉	does not belong to; is not a member of; is not an element of
+⊂	contained in;  a proper subset of
+⊆	contained in; subset 	
+⋂	intersection
+⋃	union
+∀	for all
+cos x	cos x; cosine x	/'kəʊsaɪn/
 sin x	sine x	/saɪn/
 tan x	tangent x	/tan/
 cosec x	cosec x	/'kəʊsek/
@@ -86,10 +89,10 @@ tanh x	than x	/θæn/
 ℃	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
 ℉	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
 °K	degrees Kelvin	/dɪ'gri:z 'kelvɪn/
-0°K, –273.15 °C	absolute zero	/absəlu:t zi:rəʊ/
+0°K, –273.15 °C	absolute zero
 mm	millimetre	/'mɪlɪmiːtə/
 cm	centimetre	/'sentɪmiːtə/
-cc, cm³	cubic centimetre, centimetre cubed	/'kjuːbɪk 'sentɪmiːtə/ /'sentɪmiːtə 'kju:bd/
+cc, cm³	cubic centimetre, centimetre cubed
 m	metre	/'miːtə/
 km	kilometre	/kɪ'lɒmɪtə/
 mg	milligram	/'mɪlɪgræm/
