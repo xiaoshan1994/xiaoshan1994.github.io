@@ -84,7 +84,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}cosec x{{< /hl-text >}}	cosec x	/'kəʊsek/
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x	/'ʃaɪn/
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x	/'kɒʃ/
-{{< hl-text red >}}tanh x{{< /hl-text >}}	than x	/θæn/
+{{< hl-text red >}}tanh x{{< /hl-text >}}	than x	/tæntʃ/
 {{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x	/mɒd/ /'mɒdjʊləs/
 {{< hl-text red >}}℃{{< /hl-text >}}	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
 {{< hl-text red >}}℉{{< /hl-text >}}	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
@@ -145,3 +145,34 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}∂v{{< /hl-text >}}	the partial derivative of v
 {{< hl-text red >}}∂v/∂θ{{< /hl-text >}}	delta v by delta theta, **the partial derivative of v with respect to θ**
 {{< hl-text red >}}∂²v/∂θ²{{< /hl-text >}}	delta two v by delta theta squared; the second partial derivative of v with respect to θ
+dv 	the derivative of v
+{{< hl-text red >}}dv/dθ{{< /hl-text >}} d v by d theta, the derivative of v with respect to theta
+{{< hl-text red >}}d²v/dθ²{{< /hl-text >}} d 2 v by d theta squared, **the second derivative of v with respect to theta**
+{{< hl-text red >}}∫{{< /hl-text >}} 	integral
+{{< hl-text red >}}∫_0^∞{{< /hl-text >}} 	integral from zero to infinity
+{{< hl-text red >}}∑_i=1^n{{< /hl-text >}}	the sum from i equals 1 to n
+{{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
+{{< hl-text red >}}log_e y{{< /hl-text >}}	log to the base e of y; log y to the base e; natural log (of) y
+{{< hl-text red >}}∴{{< /hl-text >}}	therefore
+{{< hl-text red >}}∵{{< /hl-text >}}	because
+{{< hl-text red >}}→{{< /hl-text >}}	gives, **approaches**
+{{< hl-text red >}}Δx → 0{{< /hl-text >}}	delta x approaches zero
+{{< hl-text red >}}lim_Δx→0{{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
+{{< hl-text red >}}Lt_Δx→0{{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
+{{< hl-text red >}}m/sec{{< /hl-text >}} metres per second
+{{< hl-text red >}}x ∈ A{{< /hl-text >}} x belongs to A; x is a member of A; x is an element of A
+{{< hl-text red >}}x ∉ A{{< /hl-text >}} x does not belong to A; x is not  a member of A; x is not an element of A
+{{< hl-text red >}}A ⊂ B{{< /hl-text >}}  A is contained in B; A is a proper subset of B
+{{< hl-text red >}}A ⊆ B A is contained in B; A is a subset of B
+{{< hl-text red >}}A ⋂ B{{< /hl-text >}} A intersection B
+{{< hl-text red >}}A ⋃ B{{< /hl-text >}}	A union B
+{{< hl-text red >}}cos x{{< /hl-text >}} cosine x
+{{< hl-text red >}}sin x{{< /hl-text >}}	sine x
+{{< hl-text red >}}tan x{{< /hl-text >}}	tangent x, tan x
+{{< hl-text red >}}cosec x{{< /hl-text >}}	cosec x
+{{< hl-text red >}}sinh x{{< /hl-text >}}	shine x
+{{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x
+{{< hl-text red >}}tanh x{{< /hl-text >}}	than x /tæntʃ/
+{{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x
+{{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
+{{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
