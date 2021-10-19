@@ -46,8 +46,8 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}∣∣{{< /hl-text >}}	parallel to
 {{< hl-text red >}}≢ {{< /hl-text >}} not equivalent to, not identical to
 {{< hl-text red >}}≄≉	{{< /hl-text >}} not similar to
-{{< hl-text red >}}²{{< /hl-text >}}	squared	/'skweəd/{{< /hl-text >}}
-{{< hl-text red >}}³{{< /hl-text >}}	cubed	/'kju:bd/ {{< /hl-text >}}
+{{< hl-text red >}}²{{< /hl-text >}}	squared	/'skweəd/
+{{< hl-text red >}}³{{< /hl-text >}}	cubed	/'kju:bd/
 {{< hl-text red >}}⁴{{< /hl-text >}}	to the fourth;  to the power four
 {{< hl-text red >}}n{{< /hl-text >}}	to the n; to the nth; to the power n
 {{< hl-text red >}}√{{< /hl-text >}}	root; square root	 
@@ -102,46 +102,46 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}DC{{< /hl-text >}}	D.C.	/di: si:/
 
 # Examples
-x + 1	x plus one
-x -1	x minus one
-x ± 1	x plus or minus one
-xy	x y;  x times y; x multiplied by y
-(x — y)(x + y)	 x minus y, x plus y
-x/y	x over y;  x divided by y;
-x ÷ y	x divided by y
-x = 5	x equals 5;  x is equal to 5
-x ≈ y	x is approximately equal to y
-x ≡ y	x is equivalent to y;  x is identical with y
-x ≠ y	x is not equal to y
-x > y	 x is greater than y
-x < y	 x is less than y
-x ≥ y	x is greater than or equal to y
-x ≤ y	x is less than or equal to y
-0 < x < 1	zero is less than x is less than 1; x is greater than zero and less than 1
-0 ≤ x ≤ 1	zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1
-x²	x squared
-x³	x cubed
-x4	x to the fourth;  x to the power four
-xn	x to the n; x to the nth;  x to the power n
-x-n	x to the minus n;  x to the power of minus n
-√	root x; square root x; the square root of x
-∛	the cube root of x
-∜	the fourth root of x
-n√ the nth root of x
-(x + y)²	x plus y all squared
-(x/y)²	x over y all squared
-n!	n factorial; factorial n
-x%	x percent
-∞	infinity
-x ∝ y	x varies as y; x is (directly) proportional to y
-x ∝ 1/y	x varies as one over y; x is indirectly proportional to y
-ẋ	x dot
-ẍ	x double dot
-f(x) fx	f of x; the function of x
-f'(x)	f dash x; the (first) derivative of f with respect to x
-f''x	f double-dash x; the second derivative of f with respect to x
-f'''(x)	f triple-dash x; f treble-dash x; the third derivative of f with respect to x
-f(4)	f four x; **the fourth derivative of f with respect to x**
-∂v	the partial derivative of v
-∂v/∂θ	delta v by delta theta, **the partial derivative of v with respect to θ**
-∂²v/∂θ²	delta two v by delta theta squared; the second partial derivative of v with respect to θ
+{{< hl-text red >}}x + 1{{< /hl-text >}}	x plus one
+{{< hl-text red >}}x -1{{< /hl-text >}}	x minus one
+{{< hl-text red >}}x ± 1{{< /hl-text >}}	x plus or minus one
+{{< hl-text red >}}xy{{< /hl-text >}}	x y;  x times y; x multiplied by y
+{{< hl-text red >}}(x — y)(x + y){{< /hl-text >}}	 x minus y, x plus y
+{{< hl-text red >}}x/y{{< /hl-text >}}	x over y;  x divided by y;
+{{< hl-text red >}}x ÷ y{{< /hl-text >}}	x divided by y
+{{< hl-text red >}}x = 5{{< /hl-text >}}	x equals 5;  x is equal to 5
+{{< hl-text red >}}x ≈ y{{< /hl-text >}}	x is approximately equal to y
+{{< hl-text red >}}x ≡ y{{< /hl-text >}}	x is equivalent to y;  x is identical with y
+{{< hl-text red >}}x ≠ y{{< /hl-text >}}	x is not equal to y
+{{< hl-text red >}}x > y{{< /hl-text >}}	 x is greater than y
+{{< hl-text red >}}x < y{{< /hl-text >}}	 x is less than y
+{{< hl-text red >}}x ≥ y{{< /hl-text >}}	x is greater than or equal to y
+{{< hl-text red >}}x ≤ y{{< /hl-text >}}	x is less than or equal to y
+{{< hl-text red >}}0 < x < 1{{< /hl-text >}}	zero is less than x is less than 1; x is greater than zero and less than 1
+{{< hl-text red >}}0 ≤ x ≤ 1{{< /hl-text >}}	zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1
+{{< hl-text red >}}x²{{< /hl-text >}}	x squared
+{{< hl-text red >}}x³{{< /hl-text >}}	x cubed
+{{< hl-text red >}}x4{{< /hl-text >}}	x to the fourth;  x to the power four
+{{< hl-text red >}}xn{{< /hl-text >}}	x to the n; x to the nth;  x to the power n
+{{< hl-text red >}}x-n{{< /hl-text >}}	x to the minus n;  x to the power of minus n
+{{< hl-text red >}}√{{< /hl-text >}}	root x; square root x; the square root of x
+{{< hl-text red >}}∛{{< /hl-text >}}	the cube root of x
+{{< hl-text red >}}∜{{< /hl-text >}}	the fourth root of x
+{{< hl-text red >}}n√{{< /hl-text >}} the nth root of x
+{{< hl-text red >}}(x + y)²{{< /hl-text >}}	x plus y all squared
+{{< hl-text red >}}(x/y)²{{< /hl-text >}}	x over y all squared
+{{< hl-text red >}}n!{{< /hl-text >}}	n factorial; factorial n
+{{< hl-text red >}}x%{{< /hl-text >}}	x percent
+{{< hl-text red >}}∞{{< /hl-text >}}	infinity
+{{< hl-text red >}}x ∝ y{{< /hl-text >}}	x varies as y; x is (directly) proportional to y
+{{< hl-text red >}}x ∝ 1/y{{< /hl-text >}}	x varies as one over y; x is indirectly proportional to y
+{{< hl-text red >}}ẋ{{< /hl-text >}}	x dot
+{{< hl-text red >}}ẍ{{< /hl-text >}}	x double dot
+{{< hl-text red >}}f(x){{< /hl-text >}} fx	f of x; the function of x
+{{< hl-text red >}}f'(x){{< /hl-text >}}	f dash x; the (first) derivative of f with respect to x
+{{< hl-text red >}}f''x{{< /hl-text >}}	f double-dash x; the second derivative of f with respect to x
+{{< hl-text red >}}f'''(x){{< /hl-text >}}	f triple-dash x; f treble-dash x; the third derivative of f with respect to x
+{{< hl-text red >}}f(4){{< /hl-text >}}	f four x; **the fourth derivative of f with respect to x**
+{{< hl-text red >}}∂v{{< /hl-text >}}	the partial derivative of v
+{{< hl-text red >}}∂v/∂θ{{< /hl-text >}}	delta v by delta theta, **the partial derivative of v with respect to θ**
+{{< hl-text red >}}∂²v/∂θ²{{< /hl-text >}}	delta two v by delta theta squared; the second partial derivative of v with respect to θ
