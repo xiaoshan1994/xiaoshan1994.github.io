@@ -179,27 +179,27 @@ dv 	the derivative of v
 
 # Greek alphabet
 
-Α	α	alpha	/'ælfə/
-Β	β	beta	/'bi:tə/
-Γ	γ	gamma	/'gæmə/
-Δ	δ	delta	/'deltə/
-Ε	ε	epsilon	/'epsilən/
-Ζ	ζ	zeta	/'ziːtə/
-Η	η	eta	/'iːtə/
-Θ	θ	theta	/'θiːtə/
-Ι	ι	iota	/aɪ'əʊtə/
-Κ	κ	kappa	/'kæpə/
-Λ	λ	lamda	/'læmdə/
-Μ	μ	mu	/'mjuː/
-Ν	ν	nu	/'njuː/
-Ξ	ξ	xi	/'ksaɪ/
-Ο	ο	omicron	/'əʊmɪkrən/
-Π	π	pi	/'paɪ/
-Ρ	ρς	rho	/'rəʊ/
-Σ	σ	sigma	/'sɪgmə/
-Τ	τ	tau	/'tɑʊ/
-Υ	υ	upsilon	/'jʊpsɪlən/
-Φ	φ	phi	/'faɪ/
-Χ	χ	chi	/'kaɪ/
-Ψ	ψ	psi	/'psaɪ/
-Ω	ω	omega	/'əʊmɪgə/
+{{< hl-text red >}}Α	α{{< /hl-text >}}	alpha	/'ælfə/
+{{< hl-text red >}}Β	β{{< /hl-text >}}	beta	/'bi:tə/
+{{< hl-text red >}}Γ	γ{{< /hl-text >}}	gamma	/'gæmə/
+{{< hl-text red >}}Δ	δ{{< /hl-text >}}	delta	/'deltə/
+{{< hl-text red >}}Ε	ε{{< /hl-text >}}	epsilon	/'epsilən/
+{{< hl-text red >}}Ζ	ζ{{< /hl-text >}}	zeta	/'ziːtə/
+{{< hl-text red >}}Η	η{{< /hl-text >}}	eta	/'iːtə/
+{{< hl-text red >}}Θ	θ{{< /hl-text >}}	theta	/'θiːtə/
+{{< hl-text red >}}Ι	ι{{< /hl-text >}}	iota	/aɪ'əʊtə/
+{{< hl-text red >}}Κ	κ{{< /hl-text >}}	kappa	/'kæpə/
+{{< hl-text red >}}Λ	λ{{< /hl-text >}}	lamda	/'læmdə/
+{{< hl-text red >}}Μ	μ{{< /hl-text >}}	mu	/'mjuː/
+{{< hl-text red >}}Ν	ν{{< /hl-text >}}	nu	/'njuː/
+{{< hl-text red >}}Ξ	ξ{{< /hl-text >}}	xi	/'ksaɪ/
+{{< hl-text red >}}Ο	ο{{< /hl-text >}}	omicron	/'əʊmɪkrən/
+{{< hl-text red >}}Π	π{{< /hl-text >}}	pi	/'paɪ/
+{{< hl-text red >}}Ρ	ρς{{< /hl-text >}}	rho	/'rəʊ/
+{{< hl-text red >}}Σ	σ{{< /hl-text >}}	sigma	/'sɪgmə/
+{{< hl-text red >}}Τ	τ{{< /hl-text >}}	tau	/'tɑʊ/
+{{< hl-text red >}}Υ	υ{{< /hl-text >}}	upsilon	/'jʊpsɪlən/
+{{< hl-text red >}}Φ	φ{{< /hl-text >}}	phi	/'faɪ/
+{{< hl-text red >}}Χ	χ{{< /hl-text >}}	chi	/'kaɪ/
+{{< hl-text red >}}Ψ	ψ{{< /hl-text >}}	psi	/'psaɪ/
+{{< hl-text red >}}Ω	ω{{< /hl-text >}}	omega	/'əʊmɪgə/
