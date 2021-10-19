@@ -209,7 +209,7 @@ dv 	the derivative of v
 {{< hl-text red >}}¼{{< /hl-text >}}	a quarter	/ə 'kwɔːtə/
 {{< hl-text red >}}¾{{< /hl-text >}}	three quarters	/θriː 'kwɔːtəz/
 {{< hl-text red >}}⅓{{< /hl-text >}}	a third	/ə 'θɜ:d/
-{{< hl-text red >}}⅔{{< /hl-text >}}	two thirds	/tu: 'θɜ:dz/
+{{< hl-text red >}}⅔{{< /hl-text >}}	{{< hl-text green >}}two thirds	/tu: 'θɜ:dz/{{< /hl-text >}}
 {{< hl-text red >}}⅕{{< /hl-text >}}	{{< hl-text green >}}a fifth	/ə 'fɪfθ/{{< /hl-text >}}
 {{< hl-text red >}}⅖{{< /hl-text >}}	{{< hl-text green >}}two fifths	/tu: 'fɪfθs/{{< /hl-text >}}
 {{< hl-text red >}}⅗{{< /hl-text >}}	three fifths	/θriː 'fɪfθs/
@@ -220,3 +220,18 @@ dv 	the derivative of v
 {{< hl-text red >}}⅜{{< /hl-text >}}	three eighths	/θriː 'eɪtθs/
 {{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
+
+# Decimal Fractions
+0.1	nought point one	/nɔ:t pɔɪnt wʌn/
+{{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
+0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
+0.0001	nought point oh oh oh one	/ten pɔɪnt əʊ əʊ əʊ wʌn/
+1.1	one point one	/wʌn pɔɪnt wʌn/
+1.2	one point two	/wʌn pɔɪnt tu:/
+1.23	one point two three	/wʌn pɔɪnt tu: θri:/
+1.0123	one point oh one two three	/wʌn pɔɪnt əʊ wʌn tu: θri:/
+10.01	ten point oh one	/ten pɔɪnt əʊ wʌn/
+21.57	twenty-one point five seven	/'twentɪ wʌn pɔɪnt  faɪv 'sevən/
+2.6666666666....	two point six recurring	/tu: pɔɪnt  sɪks rɪ'kɜ:rɪŋ/
+2.612361236123...	two point six one two three recurring	/tu: pɔɪnt  sɪks wʌn tu: θri: rɪ'kɜ:rɪŋ/
+2.5 million	two point five million	/tu: pɔɪnt  faɪv 'mɪljən/
