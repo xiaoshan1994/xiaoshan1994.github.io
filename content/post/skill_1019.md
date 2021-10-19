@@ -221,7 +221,7 @@ dv 	the derivative of v
 {{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
-# Decimal Fractionsb [^deci]
+# Decimal Fractionsb[^deci]
 {{< hl-text red >}}0.1	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 {{< hl-text red >}}0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
