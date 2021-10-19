@@ -10,7 +10,7 @@ tags:
 - pronunciation
 keywords:
 - tech
-coverImage: https://cultivatedculture.com/wp-content/uploads/2019/05/Chromatic-LinkedIn-Cover-Photo-Background-1024x311.png
+coverImage: https://previews.123rf.com/images/vtorous/vtorous0905/vtorous090500039/4877044-mathematics-background.jpg
 coverSize: partial
 thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
@@ -237,3 +237,49 @@ dv 	the derivative of v
 2.5 million	two point five million
 
 [^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
+
+SI Units: Prefixes
+10-24	yocto	y	/'jɒktəʊ/
+10-21	zepto	z	/'zeptəʊ/
+10-18	atto	a	/'atəʊ/
+10-15	femto	f	/'femtəʊ/
+10-12	pico	p	/'pi:kəʊ/
+10-9	nano	n	/'nanəʊ/
+10-6	micro	µ	/'maɪkrəʊ/
+10-3	milli	m	/'mɪlɪ/
+10-2	centi	c	/'sentɪ/
+10-1	deci	d	/'desɪ/
+103	kilo	k	/'kɪləʊ/
+106	mega	M	/'megə/
+109	giga	G	/'gɪgə/
+1012	tera	T	/'terə/
+1015	peta	P	/'petə/
+1018	exa	E	/'eksə/
+1021	zetta	Z	/'zetə/
+1024	yotta	Y	/'jɒtə/
+1027	xona	X	/'zəʊnə/
+1030	weka	W	/'wekə/
+1033	vunda	V	/'vʊndə/
+
+# SI Units: Prefixes
+10-24	yocto	y	/'jɒktəʊ/
+10-21	zepto	z	/'zeptəʊ/
+10-18	atto	a	/'atəʊ/
+10-15	femto	f	/'femtəʊ/
+10-12	pico	p	/'pi:kəʊ/
+10-9	nano	n	/'nanəʊ/
+10-6	micro	µ	/'maɪkrəʊ/
+10-3	milli	m	/'mɪlɪ/
+10-2	centi	c	/'sentɪ/
+10-1	deci	d	/'desɪ/
+103	kilo	k	/'kɪləʊ/
+106	mega	M	/'megə/
+109	giga	G	/'gɪgə/
+1012	tera	T	/'terə/
+1015	peta	P	/'petə/
+1018	exa	E	/'eksə/
+1021	zetta	Z	/'zetə/
+1024	yotta	Y	/'jɒtə/
+1027	xona	X	/'zəʊnə/
+1030	weka	W	/'wekə/
+1033	vunda	V	/'vʊndə/
