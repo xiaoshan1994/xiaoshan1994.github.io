@@ -9,9 +9,9 @@ tags:
 - mathematical expressions
 keywords:
 - tech
-coverImage: https://undark.org/wp-content/uploads/2020/01/GettyImages-154932300.jpg
-coverSize: full
-thumbnailImage: https://undark.org/wp-content/uploads/2020/01/GettyImages-154932300.jpg
+coverImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
+coverSize: partial
+thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
 metaAlignment: center
 ---
