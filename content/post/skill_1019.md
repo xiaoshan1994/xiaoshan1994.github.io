@@ -22,7 +22,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 # Symbols
 \+	plus	/'plʌs/
 \-	minus	/'maɪnəs/
-/±	plus or minus	/'plʌs  ɔ:  'maɪnəs/
+\±	plus or minus	/'plʌs  ɔ:  'maɪnəs/
 x	multiplied by	/'mʌltɪplaɪd baɪ/
 /	over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
 ÷	divided	/dɪ'vaɪdəd/
@@ -30,8 +30,8 @@ x	multiplied by	/'mʌltɪplaɪd baɪ/
 ≈	approximately, similar	/ə'prɒksɪmətlɪ/ /'sɪmɪlə tʊ/
 ≡	equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/
 ≠ 	not equal to	/'nɒt 'iːkwəl tʊ/
-/> 	greater than	/'greɪtə ðən/ (x ≥ y: x is greater than or equal to y)
-/< 	less than	/'les ðən/ (x < y: x is less than y)
+\> 	greater than	/'greɪtə ðən/ (x ≥ y: x is greater than or equal to y)
+\< 	less than	/'les ðən/ (x < y: x is less than y)
 ≥ 	greater than or equal to	/'greɪtə ðən ər 'iːkwəl tʊ/ (x ≥ y: x is greater than or equal to y)
 ≤ 	less than or equal to	/'les ðən ər' iːkwəl tʊ/ (x ≤ y: x is less than or equal to y)
 ⊁	not greater than	/'nɒt 'greɪtə ðən/
