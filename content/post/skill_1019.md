@@ -22,15 +22,17 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 # Symbols
 \+  plus	/'plʌs/
 \-	minus	/'maɪnəs/
-±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/
-x	  multiplied by	/'mʌltɪplaɪd baɪ/
+
+{{< hl-text red >}}±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/ (x ± 1: x plus or minus one){{< /hl-text >}}
+x	  multiplied by	/'mʌltɪplaɪd baɪ/ (xy: x multiplied by y)
 /	  over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
 ÷	  divided	/dɪ'vaɪdəd/
-=	  equals	/'ɪ:kwəlz/
+{{< hl-text red >}}=	  equals	/'ɪ:kwəlz/ (x = 5: x equals 5 / x is equal to 5){{< /hl-text >}}
+)
 ≈	  approximately, similar	/ə'prɒksɪmətlɪ/ /'sɪmɪlə tʊ/
 {{< hl-text red >}}≡	  equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/ (x ≡ y: x is equivalent to (or identical with) y){{< /hl-text >}}
 {{< hl-text red >}}≠   not equal to	/'nɒt 'iːkwəl tʊ/ (x ≠ 5: x (is) not equal to 5){{< /hl-text >}}
-\> 	greater than	/'greɪtə ðən/ (x ≥ y: x is greater than or equal to y)
+\> 	greater than	/'greɪtə ðən/ (x ≥ y: x is greater than or equal to y, 0 < x < 1: zero is less than x is less than 1)
 \< 	less than	/'les ðən/ (x < y: x is less than y)
 ≥ 	greater than or equal to	/'greɪtə ðən ər 'iːkwəl tʊ/ (x ≥ y: x is greater than or equal to y)
 ≤ 	less than or equal to	/'les ðən ər' iːkwəl tʊ/ (x ≤ y: x is less than or equal to y)
@@ -49,3 +51,78 @@ x	  multiplied by	/'mʌltɪplaɪd baɪ/
 {{< hl-text red >}}√	root; square root	/ru:t/ /skweə ru:t/ (√x: (square) root x / the square root of x){{< /hl-text >}}
 {{< hl-text red >}}∛	cube root	/kju:b ru:t/ (∛x: cube root (of) x){{< /hl-text >}}
 {{< hl-text red >}}∜	fourth root 	/fɔːθ ruːt/ (∜x:	fourth root (of) x; for others, nth root (of) x){{< /hl-text >}}
+!	factorial	/fæk'tɔːrɪəl/
+%	percent	/pə'sent/
+∞	infinity	/ɪn'fɪnətɪ/
+∝	varies as; proportional to	/'vɛərɪz/  /prə'pɔːʃənəl/
+˙	dot	/dɒt/
+¨	double dot	/dʌbl dɒt/
+:	is to, ratio of	/reɪʃɪəʊ/
+f(x) fx	f; function	/ef/ /'fʌŋkʃən/
+f'(x)	f dash; derivative 	/dæʃ/ /dɪ'rɪvətɪv/
+∫	integral	/'ɪntɪgrəl/
+∑	sum	/sʌm/
+w.r.t.	with respect to	/wɪð 'rɪspekt/
+log	log 	/lɒg/
+log₂x	log to the base 2 of x	/lɒg tə ðə beɪs tu: əv eks/
+∴	therefore	/'ðɛəfɔː/
+∵	because	/bɪ'kɒz/
+→	gives, leads to, approaches	/gɪvz/ /li:dz tʊ/ /əprəʊʧəz/
+/	per	/pɜ:/
+∈	belongs to; a member of;  an element of	/bɪ'lɒŋz/ /'membə/ /'elɪmənt/
+∉	does not belong to; is not a member of; is not an element of	/nɒt bɪ'lɒŋ/ /nɒt ə 'membə/ /nɒt ən 'elɪmənt/
+⊂	contained in;  a proper subset of	/kən'teɪnd ɪn/ /'prɒpə 'sʌbset/
+⊆	contained in; subset 	/'sʌbset/
+⋂	intersection	/'ɪntəsekʃən/
+⋃	union	/'juːnɪən/
+∀	for all	/fə rɔ:l/
+cos x	cos x; cosine x	/kɒz/
+sin x	sine x	/saɪn/
+tan x	tangent x	/tan/
+cosec x	cosec x	/'kəʊsek/
+sinh x	shine x	/'ʃaɪn/
+cosh x	cosh x	/'kɒʃ/
+tanh x	than x	/θæn/
+|x|	mod x; modulus x	/mɒd/ /'mɒdjʊləs/
+℃	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
+℉	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
+°K	degrees Kelvin	/dɪ'gri:z 'kelvɪn/
+0°K, –273.15 °C	absolute zero	/absəlu:t zi:rəʊ/
+mm	millimetre	/'mɪlɪmiːtə/
+cm	centimetre	/'sentɪmiːtə/
+cc, cm³	cubic centimetre, centimetre cubed	/'kjuːbɪk 'sentɪmiːtə/ /'sentɪmiːtə 'kju:bd/
+m	metre	/'miːtə/
+km	kilometre	/kɪ'lɒmɪtə/
+mg	milligram	/'mɪlɪgræm/
+g	gram	/græm/
+kg	kilogram	/'kɪləgræm/
+AC	A.C.	/eɪ si:/
+DC	D.C.	/di: si:/
+
+# Examples
+x + 1	x plus one
+x -1	x minus one
+x ± 1	x plus or minus one
+xy	x y;  x times y; x multiplied by y
+(x — y)(x + y)	 x minus y, x plus y
+x/y	x over y;  x divided by y;
+x ÷ y	x divided by y
+x = 5	x equals 5;  x is equal to 5
+x ≈ y	x is approximately equal to y
+x ≡ y	x is equivalent to y;  x is identical with y
+x ≠ y	x is not equal to y
+x > y	 x is greater than y
+x < y	 x is less than y
+x ≥ y	x is greater than or equal to y
+x ≤ y	x is less than or equal to y
+0 < x < 1	zero is less than x is less than 1; x is greater than zero and less than 1
+0 ≤ x ≤ 1	zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1
+x²	x squared
+x³	x cubed
+x4	x to the fourth;  x to the power four
+xn	x to the n; x to the nth;  x to the power n
+x-n	x to the minus n;  x to the power of minus n
+√	root x; square root x; the square root of x
+∛	the cube root of x
+∜	the fourth root of x
+the nth root of x
