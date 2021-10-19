@@ -163,7 +163,7 @@ dv 	the derivative of v
 {{< hl-text red >}}x ∈ A{{< /hl-text >}} x belongs to A; x is a member of A; x is an element of A
 {{< hl-text red >}}x ∉ A{{< /hl-text >}} x does not belong to A; x is not  a member of A; x is not an element of A
 {{< hl-text red >}}A ⊂ B{{< /hl-text >}}  A is contained in B; A is a proper subset of B
-{{< hl-text red >}}A ⊆ B A is contained in B; A is a subset of B
+{{< hl-text red >}}A ⊆ B{{< /hl-text >}} A is contained in B; A is a subset of B
 {{< hl-text red >}}A ⋂ B{{< /hl-text >}} A intersection B
 {{< hl-text red >}}A ⋃ B{{< /hl-text >}}	A union B
 {{< hl-text red >}}cos x{{< /hl-text >}} cosine x
@@ -176,3 +176,5 @@ dv 	the derivative of v
 {{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x
 {{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
 {{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
+
+# Greek alphabet
