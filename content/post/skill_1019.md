@@ -23,13 +23,11 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 # Symbols
 \+  plus	/'plʌs/
 \-	minus	/'maɪnəs/
-
-{{< hl-text red >}}±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/ (x ± 1: x plus or minus one){{< /hl-text >}}
+{{< hl-text red >}}±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/{{< /hl-text >}}
 x	  multiplied by	/'mʌltɪplaɪd baɪ/ (xy: x multiplied by y)
 /	  over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
 ÷	  divided	/dɪ'vaɪdəd/
 {{< hl-text red >}}=	  equals	/'ɪ:kwəlz/ (x = 5: x equals 5 / x is equal to 5){{< /hl-text >}}
-)
 ≈	  approximately, similar	/ə'prɒksɪmətlɪ/ /'sɪmɪlə tʊ/
 {{< hl-text red >}}≡	  equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/ (x ≡ y: x is equivalent to (or identical with) y){{< /hl-text >}}
 {{< hl-text red >}}≠   not equal to	/'nɒt 'iːkwəl tʊ/ (x ≠ 5: x (is) not equal to 5){{< /hl-text >}}
