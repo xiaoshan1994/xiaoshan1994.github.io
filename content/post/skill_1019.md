@@ -45,61 +45,61 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}⊥{{< /hl-text >}}	perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
 {{< hl-text red >}}∣∣{{< /hl-text >}}	parallel to
 {{< hl-text red >}}≢ {{< /hl-text >}} not equivalent to, not identical to
-≄≉	not similar to
-{{< hl-text red >}}²	squared	/'skweəd/{{< /hl-text >}}
-{{< hl-text red >}}³	cubed	/'kju:bd/ {{< /hl-text >}}
-4	to the fourth;  to the power four
-{{< hl-text red >}}n	 to the n; to the nth; to the power n {{< /hl-text >}}
-{{< hl-text red >}}√	root; square root	 {{< /hl-text >}}
-{{< hl-text red >}}∛	cube root	{{< /hl-text >}}
-{{< hl-text red >}}∜	fourth root{{< /hl-text >}}
-!	factorial	/fæk'tɔːrɪəl/
-%	percent
-∞	infinity	/ɪn'fɪnətɪ/
-∝	varies as; proportional to	/'vɛərɪz/  /prə'pɔːʃənəl/
-˙	dot
-¨	double dot
-\:	is to, ratio of
-f(x) fx	f; function
-f'(x)	f dash; derivative 	/dæʃ/ /dɪ'rɪvətɪv/
-∫	integral	/'ɪntɪgrəl/
-∑	sum
-w.r.t.	with respect to
-log	log 	/lɒg/
-log₂x	log to the base 2 of x
-∴	therefore
-∵	because
-→	gives, leads to, approaches
-/	per
-∈	belongs to; a member of;  an element of
-∉	does not belong to; is not a member of; is not an element of
-⊂	contained in;  a proper subset of
-⊆	contained in; subset 	
-⋂	intersection
-⋃	union
-∀	for all
-cos x	cos x; cosine x	/'kəʊsaɪn/
-sin x	sine x	/saɪn/
-tan x	tangent x	/tan/
-cosec x	cosec x	/'kəʊsek/
-sinh x	shine x	/'ʃaɪn/
-cosh x	cosh x	/'kɒʃ/
-tanh x	than x	/θæn/
-|x|	mod x; modulus x	/mɒd/ /'mɒdjʊləs/
-℃	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
-℉	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
-°K	degrees Kelvin	/dɪ'gri:z 'kelvɪn/
-0°K, –273.15 °C	absolute zero
-mm	millimetre	/'mɪlɪmiːtə/
-cm	centimetre	/'sentɪmiːtə/
-cc, cm³	cubic centimetre, centimetre cubed
-m	metre	/'miːtə/
-km	kilometre	/kɪ'lɒmɪtə/
-mg	milligram	/'mɪlɪgræm/
-g	gram	/græm/
-kg	kilogram	/'kɪləgræm/
-AC	A.C.	/eɪ si:/
-DC	D.C.	/di: si:/
+{{< hl-text red >}}≄≉	{{< /hl-text >}} not similar to
+{{< hl-text red >}}²{{< /hl-text >}}	squared	/'skweəd/{{< /hl-text >}}
+{{< hl-text red >}}³{{< /hl-text >}}	cubed	/'kju:bd/ {{< /hl-text >}}
+{{< hl-text red >}}⁴{{< /hl-text >}}	to the fourth;  to the power four
+{{< hl-text red >}}n{{< /hl-text >}}	to the n; to the nth; to the power n
+{{< hl-text red >}}√{{< /hl-text >}}	root; square root	 
+{{< hl-text red >}}∛{{< /hl-text >}}	cube root
+{{< hl-text red >}}∜{{< /hl-text >}} fourth root
+{{< hl-text red >}}!{{< /hl-text >}}	factorial	/fæk'tɔːrɪəl/
+{{< hl-text red >}}%{{< /hl-text >}}	percent
+{{< hl-text red >}}∞{{< /hl-text >}}	infinity	/ɪn'fɪnətɪ/
+{{< hl-text red >}}∝{{< /hl-text >}}	varies as; proportional to /
+{{< hl-text red >}}˙{{< /hl-text >}}	dot
+{{< hl-text red >}}¨{{< /hl-text >}}	double dot
+{{< hl-text red >}}:{{< /hl-text >}}	is to, ratio of
+{{< hl-text red >}}f(x) fx{{< /hl-text >}}	f; function
+{{< hl-text red >}}f'(x){{< /hl-text >}}	f dash; derivative /dæʃ/ /dɪ'rɪvətɪv/
+{{< hl-text red >}}∫{{< /hl-text >}}	integral	/'ɪntɪgrəl/
+{{< hl-text red >}}∑{{< /hl-text >}}	sum
+{{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
+{{< hl-text red >}}log{{< /hl-text >}}	log 	/lɒg/
+{{< hl-text red >}}log₂x{{< /hl-text >}}	log to the base 2 of x
+{{< hl-text red >}}∴{{< /hl-text >}}	therefore
+{{< hl-text red >}}∵{{< /hl-text >}}	because
+{{< hl-text red >}}→{{< /hl-text >}}	gives, leads to, approaches
+{{< hl-text red >}}/{{< /hl-text >}}	per
+{{< hl-text red >}}∈{{< /hl-text >}}	belongs to; a member of;  an element of
+{{< hl-text red >}}∉{{< /hl-text >}}	does not belong to; is not a member of; is not an element of
+{{< hl-text red >}}⊂{{< /hl-text >}}	contained in;  a proper subset of
+{{< hl-text red >}}⊆{{< /hl-text >}}	contained in; subset 	
+{{< hl-text red >}}⋂{{< /hl-text >}}	intersection
+{{< hl-text red >}}⋃{{< /hl-text >}}	union
+{{< hl-text red >}}∀{{< /hl-text >}}	for all
+{{< hl-text red >}}cos x{{< /hl-text >}} cosine x	/'kəʊsaɪn/
+{{< hl-text red >}}sin x{{< /hl-text >}}	sine x	/saɪn/
+{{< hl-text red >}}tan x{{< /hl-text >}}	tangent x	/tan/
+{{< hl-text red >}}cosec x{{< /hl-text >}}	cosec x	/'kəʊsek/
+{{< hl-text red >}}sinh x{{< /hl-text >}}	shine x	/'ʃaɪn/
+{{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x	/'kɒʃ/
+{{< hl-text red >}}tanh x{{< /hl-text >}}	than x	/θæn/
+{{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x	/mɒd/ /'mɒdjʊləs/
+{{< hl-text red >}}℃{{< /hl-text >}}	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
+{{< hl-text red >}}℉{{< /hl-text >}}	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
+{{< hl-text red >}}°K{{< /hl-text >}}	degrees Kelvin	/dɪ'gri:z 'kelvɪn/
+{{< hl-text red >}}0°K{{< /hl-text >}}, –273.15 °C	absolute zero
+{{< hl-text red >}}mm{{< /hl-text >}}	millimetre	/'mɪlɪmiːtə/
+{{< hl-text red >}}cm{{< /hl-text >}}	centimetre	/'sentɪmiːtə/
+{{< hl-text red >}}cc{{< /hl-text >}}, cm³	cubic centimetre, centimetre cubed
+{{< hl-text red >}}m{{< /hl-text >}}	metre	/'miːtə/
+{{< hl-text red >}}km{{< /hl-text >}}	kilometre	/kɪ'lɒmɪtə/
+{{< hl-text red >}}mg{{< /hl-text >}}	milligram	/'mɪlɪgræm/
+{{< hl-text red >}}g{{< /hl-text >}}	gram	/græm/
+{{< hl-text red >}}kg{{< /hl-text >}}	kilogram	/'kɪləgræm/
+{{< hl-text red >}}AC{{< /hl-text >}}	A.C.	/eɪ si:/
+{{< hl-text red >}}DC{{< /hl-text >}}	D.C.	/di: si:/
 
 # Examples
 x + 1	x plus one
