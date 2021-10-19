@@ -222,10 +222,10 @@ dv 	the derivative of v
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
 # Decimal Fractionsb[^deci]
-{{< hl-text red >}}0.1	nought point one	/nɔ:t pɔɪnt wʌn/
+{{< hl-text red >}}0.1{{< /hl-text >}}	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
-{{< hl-text red >}}0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
-{{< hl-text red >}}0.0001	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
+{{< hl-text red >}}0.01{{< /hl-text >}}	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
+{{< hl-text red >}}0.0001{{< /hl-text >}}	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
 {{< hl-text red >}}1.1{{< /hl-text >}}	one point one
 {{< hl-text red >}}1.2{{< /hl-text >}}	one point two
 {{< hl-text red >}}1.23{{< /hl-text >}}	one point two three
