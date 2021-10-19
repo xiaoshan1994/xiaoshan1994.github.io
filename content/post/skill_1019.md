@@ -260,26 +260,3 @@ dv 	the derivative of v
 {{< hl-text red >}}1027{{< /hl-text >}}	xona	X	/'zəʊnə/
 {{< hl-text red >}}1030{{< /hl-text >}}	weka	W	/'wekə/
 {{< hl-text red >}}1033{{< /hl-text >}}	vunda	V	/'vʊndə/
-
-# SI Units: Prefixes
-10-24	yocto	y	/'jɒktəʊ/
-10-21	zepto	z	/'zeptəʊ/
-10-18	atto	a	/'atəʊ/
-10-15	femto	f	/'femtəʊ/
-10-12	pico	p	/'pi:kəʊ/
-10-9	nano	n	/'nanəʊ/
-10-6	micro	µ	/'maɪkrəʊ/
-10-3	milli	m	/'mɪlɪ/
-10-2	centi	c	/'sentɪ/
-10-1	deci	d	/'desɪ/
-103	kilo	k	/'kɪləʊ/
-106	mega	M	/'megə/
-109	giga	G	/'gɪgə/
-1012	tera	T	/'terə/
-1015	peta	P	/'petə/
-1018	exa	E	/'eksə/
-1021	zetta	Z	/'zetə/
-1024	yotta	Y	/'jɒtə/
-1027	xona	X	/'zəʊnə/
-1030	weka	W	/'wekə/
-1033	vunda	V	/'vʊndə/
