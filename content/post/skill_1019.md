@@ -31,20 +31,20 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}/{{< /hl-text >}} over; divided by
 {{< hl-text red >}}÷{{< /hl-text >}}	  divided
 {{< hl-text red >}}={{< /hl-text >}}	 equals
-{{< hl-text red >}}≈{{< /hl-text >}}	  approximately, similar	/ə'prɒksɪmətlɪ/
-{{< hl-text red >}}≡ {{< /hl-text >}} equivalent to; identical
-{{< hl-text red >}}≠   not equal to {{< /hl-text >}}
-\> 	greater than
-\< 	less than
-≥ 	greater than or equal to
-≤ 	less than or equal to
-⊁	  not greater than
-⊀	  not less than
-≫	  much greater than
-≪	  much less than
-⊥	  perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
-∣∣	parallel to
-≢	 not equivalent to, not identical to
+{{< hl-text red >}}≈{{< /hl-text >}} approximately, similar /ə'prɒksɪmətlɪ/
+{{< hl-text red >}}≡{{< /hl-text >}} equivalent to; identical
+{{< hl-text red >}}≠{{< /hl-text >}} not equal to
+{{< hl-text red >}}>{{< /hl-text >}} 	greater than
+{{< hl-text red >}}<{{< /hl-text >}} 	less than
+{{< hl-text red >}}≥{{< /hl-text >}} 	greater than or equal to
+{{< hl-text red >}}≤{{< /hl-text >}} 	less than or equal to
+{{< hl-text red >}}⊁{{< /hl-text >}}	not greater than
+{{< hl-text red >}}⊀{{< /hl-text >}}	not less than
+{{< hl-text red >}}≫{{< /hl-text >}}	much greater than
+{{< hl-text red >}}≪{{< /hl-text >}}	much less than
+{{< hl-text red >}}⊥{{< /hl-text >}}	perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
+{{< hl-text red >}}∣∣{{< /hl-text >}}	parallel to
+{{< hl-text red >}}≢ {{< /hl-text >}} not equivalent to, not identical to
 ≄≉	not similar to
 {{< hl-text red >}}²	squared	/'skweəd/{{< /hl-text >}}
 {{< hl-text red >}}³	cubed	/'kju:bd/ {{< /hl-text >}}
