@@ -24,12 +24,12 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 
 # Symbols
 
-\+  plus
-\-	minus
-{{< hl-text red >}}± plus or minus{{< /hl-text >}}
-x	  multiplied by
-/	  over; divided by
-÷	  divided
+{{< hl-text red >}}+{{< /hl-text >}} plus
+{{< hl-text red >}}-{{< /hl-text >}}	minus
+{{< hl-text red >}}±{{< /hl-text >}} plus or minus
+{{< hl-text red >}}x{{< /hl-text >}}	  multiplied by
+{{< hl-text red >}}/{{< /hl-text >}} over; divided by
+{{< hl-text red >}}÷{{< /hl-text >}}	  divided
 {{< hl-text red >}}=	  equals	{{< /hl-text >}}
 ≈	  approximately, similar	/ə'prɒksɪmətlɪ/
 {{< hl-text red >}}≡ equivalent to; identical {{< /hl-text >}}
