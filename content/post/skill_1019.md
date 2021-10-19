@@ -221,11 +221,12 @@ dv 	the derivative of v
 {{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
-# Decimal Fractions
+# Decimal[^deci] Fractions
+[^deci]: calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
 0.1	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
-0.0001	nought point oh oh oh one	/ten pɔɪnt əʊ əʊ əʊ wʌn/
+0.0001	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
 1.1	one point one	/wʌn pɔɪnt wʌn/
 1.2	one point two	/wʌn pɔɪnt tu:/
 1.23	one point two three	/wʌn pɔɪnt tu: θri:/
