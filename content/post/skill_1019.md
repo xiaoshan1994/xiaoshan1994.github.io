@@ -259,4 +259,17 @@ dv 	the derivative of v
 {{< hl-text red >}}1030{{< /hl-text >}}	weka	W	/'wekə/
 {{< hl-text red >}}1033{{< /hl-text >}}	vunda	V	/'vʊndə/
 
+# Supplementary
+![image](https://user-images.githubusercontent.com/65668613/137988555-20303f45-758e-463a-a330-e06930977d4d.png)
+the limit as x goes to infinity of x over sine x
+the limit as x tends to infinity of x divided by sine x
+
+![image](https://user-images.githubusercontent.com/65668613/137988487-9d6dbb12-b301-409c-987d-ac256fb28adf.png)
+• the limit as n goes to infinity, of the sum from i equals one to
+n, of two i over n times two over n
+• the limit as n goes to infinity, of the sum of the quantity two i
+over n times two over n, for i equals one to n
+
+
+
 [^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
