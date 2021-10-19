@@ -24,32 +24,32 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 \+  plus	/'plʌs/
 \-	minus	/'maɪnəs/
 {{< hl-text red >}}±	  plus or minus	/'plʌs  ɔ:  'maɪnəs/{{< /hl-text >}}
-x	  multiplied by	/'mʌltɪplaɪd baɪ/ (xy: x multiplied by y)
+x	  multiplied by	/'mʌltɪplaɪd baɪ/
 /	  over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
 ÷	  divided	/dɪ'vaɪdəd/
-{{< hl-text red >}}=	  equals	/'ɪ:kwəlz/ (x = 5: x equals 5 / x is equal to 5){{< /hl-text >}}
+{{< hl-text red >}}=	  equals	/'ɪ:kwəlz/{{< /hl-text >}}
 ≈	  approximately, similar	/ə'prɒksɪmətlɪ/ /'sɪmɪlə tʊ/
-{{< hl-text red >}}≡	  equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/ (x ≡ y: x is equivalent to (or identical with) y){{< /hl-text >}}
-{{< hl-text red >}}≠   not equal to	/'nɒt 'iːkwəl tʊ/ (x ≠ 5: x (is) not equal to 5){{< /hl-text >}}
-\> 	greater than	/'greɪtə ðən/ (x ≥ y: x is greater than or equal to y, 0 < x < 1: zero is less than x is less than 1)
-\< 	less than	/'les ðən/ (x < y: x is less than y)
-≥ 	greater than or equal to	/'greɪtə ðən ər 'iːkwəl tʊ/ (x ≥ y: x is greater than or equal to y)
-≤ 	less than or equal to	/'les ðən ər' iːkwəl tʊ/ (x ≤ y: x is less than or equal to y)
+{{< hl-text red >}}≡ equivalent to; identical	/ɪk'wɪvələnt tʊ/ /aɪ'dentɪkl tʊ/{{< /hl-text >}}
+{{< hl-text red >}}≠   not equal to	/'nɒt 'iːkwəl tʊ/{{< /hl-text >}}
+\> 	greater than	/'greɪtə ðən/
+\< 	less than	/'les ðən/
+≥ 	greater than or equal to	/'greɪtə ðən ər 'iːkwəl tʊ/
+≤ 	less than or equal to	/'les ðən ər' iːkwəl tʊ/
 ⊁	  not greater than	/'nɒt 'greɪtə ðən/
 ⊀	  not less than	/'nɒt 'les ðən/
 ≫	  much greater than	/'mʌʧ 'greɪtə ðən/
 ≪	  much less than	/'mʌʧ 'les ðən/
 ⊥	  perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
 ∣∣	parallel to	/'pærəlel tʊ/
-≢	 not equivalent to, not identical to	/'nɒt ɪk'wɪvələnt tʊ/ /'nɒt aɪ'dentɪkl tʊ/ (x≢ y: x is not equivalent to (or identical with) y)
+≢	 not equivalent to, not identical to	/'nɒt ɪk'wɪvələnt tʊ/ /'nɒt aɪ'dentɪkl tʊ/
 ≄≉	not similar to	/'nɒt 'sɪmɪlə tʊ/
-{{< hl-text red >}}²	squared	/'skweəd/ (x²: x squared){{< /hl-text >}}
-{{< hl-text red >}}³	cubed	/'kju:bd/ (x³: x cubed){{< /hl-text >}}
+{{< hl-text red >}}²	squared	/'skweəd/{{< /hl-text >}}
+{{< hl-text red >}}³	cubed	/'kju:bd/ {{< /hl-text >}}
 4	to the fourth;  to the power four	/tə ðə 'fɔːθ/ /te ðə 'pɑʊə fɔː/
-{{< hl-text red >}}n	 to the n; to the nth; to the power n	/tə ðɪ en; tə dɪ enθ; tə ðə pɑʊər en/ (x to the nth / x to the power n){{< /hl-text >}}
-{{< hl-text red >}}√	root; square root	/ru:t/ /skweə ru:t/ (√x: (square) root x / the square root of x){{< /hl-text >}}
-{{< hl-text red >}}∛	cube root	/kju:b ru:t/ (∛x: cube root (of) x){{< /hl-text >}}
-{{< hl-text red >}}∜	fourth root 	/fɔːθ ruːt/ (∜x:	fourth root (of) x; for others, nth root (of) x){{< /hl-text >}}
+{{< hl-text red >}}n	 to the n; to the nth; to the power n	/tə ðɪ en; tə dɪ enθ; tə ðə pɑʊər en/ {{< /hl-text >}}
+{{< hl-text red >}}√	root; square root	/ru:t/ /skweə ru:t/ {{< /hl-text >}}
+{{< hl-text red >}}∛	cube root	/kju:b ru:t/ {{< /hl-text >}}
+{{< hl-text red >}}∜	fourth root 	/fɔːθ ruːt/ {{< /hl-text >}}
 !	factorial	/fæk'tɔːrɪəl/
 %	percent	/pə'sent/
 ∞	infinity	/ɪn'fɪnətɪ/
