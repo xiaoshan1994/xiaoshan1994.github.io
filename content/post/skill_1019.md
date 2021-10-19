@@ -179,26 +179,26 @@ dv 	the derivative of v
 
 # Greek alphabet
 
-{{< hl-text red >}}Α	α{{< /hl-text >}}	**alpha	/'ælfə/**
-{{< hl-text red >}}Β	β{{< /hl-text >}}	**beta	/'bi:tə/**
-{{< hl-text red >}}Γ	γ{{< /hl-text >}}	**gamma	/'gæmə/**
-{{< hl-text red >}}Δ	δ{{< /hl-text >}}	**delta	/'deltə/**
-{{< hl-text red >}}Ε	ε{{< /hl-text >}}	**epsilon	/'epsilən/**
+{{< hl-text red >}}Α	α{{< /hl-text >}}	alpha	/'ælfə/
+{{< hl-text red >}}Β	β{{< /hl-text >}}	beta	/'bi:tə/
+{{< hl-text red >}}Γ	γ{{< /hl-text >}}	{{< hl-text green >}}gamma	/'gæmə/{{< /hl-text >}}
+{{< hl-text red >}}Δ	δ{{< /hl-text >}}	{{< hl-text green >}}delta	/'deltə/{{< /hl-text >}}
+{{< hl-text red >}}Ε	ε{{< /hl-text >}}	{{< hl-text green >}}epsilon	/'epsilən/{{< /hl-text >}}
 {{< hl-text red >}}Ζ	ζ{{< /hl-text >}}	zeta	/'ziːtə/
-{{< hl-text red >}}Η	η{{< /hl-text >}}	**eta	/'iːtə/**
-{{< hl-text red >}}Θ	θ{{< /hl-text >}}	**theta	/'θiːtə/**
+{{< hl-text red >}}Η	η{{< /hl-text >}}	{{< hl-text green >}}eta	/'iːtə/{{< /hl-text >}}
+{{< hl-text red >}}Θ	θ{{< /hl-text >}}	{{< hl-text green >}}theta	/'θiːtə/{{< /hl-text >}}
 {{< hl-text red >}}Ι	ι{{< /hl-text >}}	iota	/aɪ'əʊtə/
 {{< hl-text red >}}Κ	κ{{< /hl-text >}}	kappa	/'kæpə/
-{{< hl-text red >}}Λ	λ{{< /hl-text >}}	**lamda	/'læmdə/**
-{{< hl-text red >}}Μ	μ{{< /hl-text >}}	**mu	/'mjuː/**
-{{< hl-text red >}}Ν	ν{{< /hl-text >}}	nu	/'njuː/
-{{< hl-text red >}}Ξ	ξ{{< /hl-text >}}	**xi	/'ksaɪ/**
+{{< hl-text red >}}Λ	λ{{< /hl-text >}}	lamda	/'læmdə/
+{{< hl-text red >}}Μ	μ{{< /hl-text >}}	{{< hl-text green >}}mu	/'mjuː/{{< /hl-text >}}
+{{< hl-text red >}}Ν	ν{{< /hl-text >}}	{{< hl-text green >}}nu	/'njuː/{{< /hl-text >}}
+{{< hl-text red >}}Ξ	ξ{{< /hl-text >}}	{{< hl-text green >}}xi	/'ksaɪ/{{< /hl-text >}}
 {{< hl-text red >}}Ο	ο{{< /hl-text >}}	omicron	/'əʊmɪkrən/
 {{< hl-text red >}}Π	π{{< /hl-text >}}	pi	/'paɪ/
 {{< hl-text red >}}Ρ	ρς{{< /hl-text >}}	rho	/'rəʊ/
-{{< hl-text red >}}Σ	σ{{< /hl-text >}}	**sigma	/'sɪgmə/**
-{{< hl-text red >}}Τ	τ{{< /hl-text >}}	**tau	/'tɑʊ/**
-{{< hl-text red >}}Υ	υ{{< /hl-text >}}	**upsilon	/'jʊpsɪlən/**
+{{< hl-text red >}}Σ	σ{{< /hl-text >}}	sigma	/'sɪgmə/
+{{< hl-text red >}}Τ	τ{{< /hl-text >}}	{{< hl-text green >}}tau	/'tɑʊ/{{< /hl-text >}}
+{{< hl-text red >}}Υ	υ{{< /hl-text >}}	upsilon	/'jʊpsɪlən/
 {{< hl-text red >}}Φ	φ{{< /hl-text >}}	{{< hl-text green >}}phi	/'faɪ/{{< /hl-text >}}
 {{< hl-text red >}}Χ	χ{{< /hl-text >}}	{{< hl-text green >}}chi	/'kaɪ/{{< /hl-text >}}
 {{< hl-text red >}}Ψ	ψ{{< /hl-text >}}	{{< hl-text green >}}psi	/'psaɪ/{{< /hl-text >}}
