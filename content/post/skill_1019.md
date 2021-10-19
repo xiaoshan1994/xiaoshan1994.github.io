@@ -30,9 +30,9 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}x{{< /hl-text >}}	  multiplied by
 {{< hl-text red >}}/{{< /hl-text >}} over; divided by
 {{< hl-text red >}}÷{{< /hl-text >}}	  divided
-{{< hl-text red >}}=	  equals	{{< /hl-text >}}
-≈	  approximately, similar	/ə'prɒksɪmətlɪ/
-{{< hl-text red >}}≡ equivalent to; identical {{< /hl-text >}}
+{{< hl-text red >}}={{< /hl-text >}}	 equals
+{{< hl-text red >}}≈{{< /hl-text >}}	  approximately, similar	/ə'prɒksɪmətlɪ/
+{{< hl-text red >}}≡ {{< /hl-text >}} equivalent to; identical
 {{< hl-text red >}}≠   not equal to {{< /hl-text >}}
 \> 	greater than
 \< 	less than
