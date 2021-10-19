@@ -59,7 +59,7 @@ x	  multiplied by
 ∝	varies as; proportional to	/'vɛərɪz/  /prə'pɔːʃənəl/
 ˙	dot
 ¨	double dot
-:	is to, ratio of
+\:	is to, ratio of
 f(x) fx	f; function
 f'(x)	f dash; derivative 	/dæʃ/ /dɪ'rɪvətɪv/
 ∫	integral	/'ɪntɪgrəl/
