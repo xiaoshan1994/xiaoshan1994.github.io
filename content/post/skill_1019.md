@@ -226,14 +226,14 @@ dv 	the derivative of v
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
 0.0001	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
-1.1	one point one	/wʌn pɔɪnt wʌn/
-1.2	one point two	/wʌn pɔɪnt tu:/
-1.23	one point two three	/wʌn pɔɪnt tu: θri:/
-1.0123	one point oh one two three	/wʌn pɔɪnt əʊ wʌn tu: θri:/
-10.01	ten point oh one	/ten pɔɪnt əʊ wʌn/
-21.57	twenty-one point five seven	/'twentɪ wʌn pɔɪnt  faɪv 'sevən/
-2.6666666666....	two point six recurring	/tu: pɔɪnt  sɪks rɪ'kɜ:rɪŋ/
-2.612361236123...	two point six one two three recurring	/tu: pɔɪnt  sɪks wʌn tu: θri: rɪ'kɜ:rɪŋ/
-2.5 million	two point five million	/tu: pɔɪnt  faɪv 'mɪljən/
+1.1	one point one
+1.2	one point two
+1.23	one point two three
+1.0123	one point oh one two three
+10.01	ten point oh one
+21.57	twenty-one point five seven
+2.6666666666....	two point six recurring
+2.612361236123...	two point six one two three recurring
+2.5 million	two point five million
 
 [^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
