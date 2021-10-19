@@ -4,9 +4,10 @@ date: 2021-10-19T10:25:33+02:00
 description: "Common pronunciations (in British English - Gimson,1981) of mathematical and scientific symbols are given in the list below"
 categories:
 - Skill
-- Pronunciation
+- Speech
 tags:
 - mathematical expressions
+- pronunciation
 keywords:
 - tech
 coverImage: https://cultivatedculture.com/wp-content/uploads/2019/05/Chromatic-LinkedIn-Cover-Photo-Background-1024x311.png
@@ -125,4 +126,21 @@ x-n	x to the minus n;  x to the power of minus n
 √	root x; square root x; the square root of x
 ∛	the cube root of x
 ∜	the fourth root of x
-the nth root of x
+n√ the nth root of x
+(x + y)²	x plus y all squared
+(x/y)²	x over y all squared
+n!	n factorial; factorial n
+x%	x percent
+∞	infinity
+x ∝ y	x varies as y; x is (directly) proportional to y
+x ∝ 1/y	x varies as one over y; x is indirectly proportional to y
+ẋ	x dot
+ẍ	x double dot
+f(x) fx	f of x; the function of x
+f'(x)	f dash x; the (first) derivative of f with respect to x
+f''x	f double-dash x; the second derivative of f with respect to x
+f'''(x)	f triple-dash x; f treble-dash x; the third derivative of f with respect to x
+f(4)	f four x; **the fourth derivative of f with respect to x**
+∂v	the partial derivative of v
+∂v/∂θ	delta v by delta theta, **the partial derivative of v with respect to θ**
+∂²v/∂θ²	delta two v by delta theta squared; the second partial derivative of v with respect to θ
