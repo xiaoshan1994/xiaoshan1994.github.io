@@ -26,7 +26,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 
 \+  plus
 \-	minus
-{{< hl-text red >}}±{{< /hl-text >}}
+{{< hl-text red >}}± plus or minus{{< /hl-text >}}
 x	  multiplied by
 /	  over; divided by
 ÷	  divided
