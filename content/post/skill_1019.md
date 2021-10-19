@@ -22,7 +22,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 # Symbols
 \+	plus	/'plʌs/
 \-	minus	/'maɪnəs/
-\±	plus or minus	/'plʌs  ɔ:  'maɪnəs/
+±	plus or minus	/'plʌs  ɔ:  'maɪnəs/
 x	multiplied by	/'mʌltɪplaɪd baɪ/
 /	over; divided by	/'əʊvə/ /dɪ'vaɪdəd/
 ÷	divided	/dɪ'vaɪdəd/
