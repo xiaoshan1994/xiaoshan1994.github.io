@@ -224,7 +224,7 @@ dv 	the derivative of v
 # Decimal Fractionsb[^deci]
 {{< hl-text red >}}0.1{{< /hl-text >}}	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
-{{< hl-text red >}}0.01{{< /hl-text >}}	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
+{{< hl-text red >}}0.01{{< /hl-text >}}	{{< hl-text green >}}nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/{{< /hl-text >}}
 {{< hl-text red >}}0.0001{{< /hl-text >}}	nought point oh oh oh one	/nɔ:t pɔɪnt əʊ əʊ əʊ wʌn/
 {{< hl-text red >}}1.1{{< /hl-text >}}	one point one
 {{< hl-text red >}}1.2{{< /hl-text >}}	one point two
@@ -232,7 +232,7 @@ dv 	the derivative of v
 {{< hl-text red >}}1.0123{{< /hl-text >}}	one point oh one two three
 {{< hl-text red >}}10.01{{< /hl-text >}}	ten point oh one
 {{< hl-text red >}}21.57{{< /hl-text >}}	twenty-one point five seven
-{{< hl-text red >}}2.6666666666....{{< /hl-text >}}	two point six recurring
+{{< hl-text red >}}2.6666666666....{{< /hl-text >}}	{{< hl-text green >}}two point six recurring{{< /hl-text >}}
 {{< hl-text red >}}2.612361236123...{{< /hl-text >}}	two point six one two three recurring
 {{< hl-text red >}}2.5{{< /hl-text >}} million	two point five million
 
