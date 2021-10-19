@@ -221,7 +221,7 @@ dv 	the derivative of v
 {{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 
-# Decimal Fractions [^deci]
+# Decimal Fractionsb [^deci]
 {{< hl-text red >}}0.1	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 {{< hl-text red >}}0.01	nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/
@@ -235,8 +235,6 @@ dv 	the derivative of v
 {{< hl-text red >}}2.6666666666....{{< /hl-text >}}	two point six recurring
 {{< hl-text red >}}2.612361236123...{{< /hl-text >}}	two point six one two three recurring
 {{< hl-text red >}}2.5{{< /hl-text >}} million	two point five million
-
-[^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
 
 # SI Units: Prefixes
 {{< hl-text red >}}10-24{{< /hl-text >}}	yocto	y	/'jɒktəʊ/
@@ -260,3 +258,5 @@ dv 	the derivative of v
 {{< hl-text red >}}1027{{< /hl-text >}}	xona	X	/'zəʊnə/
 {{< hl-text red >}}1030{{< /hl-text >}}	weka	W	/'wekə/
 {{< hl-text red >}}1033{{< /hl-text >}}	vunda	V	/'vʊndə/
+
+[^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
