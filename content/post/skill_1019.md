@@ -278,11 +278,11 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 {{< hl-text red >}}Product k equals 1 to n{{< /hl-text >}} of {{< hl-text green >}}2k + 1 over 2k + 2{{< /hl-text >}}
 
-$$\lim_{x \to \infity} \frac{x}{sinx}$$
+$$\lim_{x \to \infty} \frac{x}{sinx}$$
 {{< hl-text red >}}the limit as x goes to infinity{{< /hl-text >}} **of** {{< hl-text green >}}x over sine x{{< /hl-text >}}
 the limit as x tends to infinity of x divided by sine x
 
-$$\lim_{n \to \infity} \sum_{i=1}^n (\frac{2i}{n})(\frac{2}{n})$$
+$$\lim_{n \to \infty} \sum_{i=1}^n (\frac{2i}{n})(\frac{2}{n})$$
 {{< hl-text red >}}the limit as n goes to infinity{{< /hl-text >}},**of** {{< hl-text green >}} the sum from i equals one to n{{< /hl-text >}}, **of** {{< hl-text blue >}}two i over n times two over n{{< /hl-text >}}
 
 
