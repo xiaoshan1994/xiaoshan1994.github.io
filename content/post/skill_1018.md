@@ -55,6 +55,9 @@ Common program names include the following:
 {{< hl-text red >}}Task Manager{{< /hl-text >}}: `taskmgr`
 {{< hl-text red >}}Character Map{{< /hl-text >}}:`charmap`
 {{< hl-text red >}}Advanced System Properties{{< /hl-text >}} (for Path setting):`systempropertiesadvanced`
+{{< hl-text red >}}***My Computer***{{< /hl-text >}}:`explorer =` or 'explorer /root,'
+{{< hl-text red >}}*** C drive***{{< /hl-text >}}:`explorer c`
+
 
 ### Lists Installed Drivers (driverquery)
 Drivers are very important in your PC. Missing a important driver can hamper your work. Use `driverquery` command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
