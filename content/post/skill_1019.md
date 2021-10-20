@@ -163,7 +163,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}$\int_0^\infty x${{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity of x{{< /hl-text >}}
 {{< hl-text red >}}$\sum_{i=1}^{n}x${{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n of x{{< /hl-text >}}
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
-{{< hl-text red >}}$log_e y${{< /hl-text >}} {{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
+{{< hl-text red >}}$log_e \mathrm{y}${{< /hl-text >}} {{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
 {{< hl-text red >}}p ⇒ q{{< /hl-text >}} {{< hl-text green >}}p implies q / if p, then q{{< /hl-text >}}
