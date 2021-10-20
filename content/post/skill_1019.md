@@ -10,7 +10,7 @@ tags:
 - pronunciation
 keywords:
 - tech
-coverImage: https://previews.123rf.com/images/vtorous/vtorous0905/vtorous090500039/4877044-mathematics-background.jpg
+coverImage: https://images.ctfassets.net/hrltx12pl8hq/mwXKKvACE5gGvqMHqdinU/bfa352095ce2b5dc686814c3422b2332/shutterstock_1065730331__1_-min__1_.jpg?fit=fill&w=800&h=300
 coverSize: partial
 thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
