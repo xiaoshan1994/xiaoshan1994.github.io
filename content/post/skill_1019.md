@@ -166,8 +166,8 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}p ⇔ q{{< /hl-text >}} {{< hl-text green >}}p if and only if q /p is equivalent to q / p and q are equivalent{{< /hl-text >}}
 {{< hl-text red >}}→{{< /hl-text >}}	gives, approaches
 {{< hl-text red >}}Δx → 0{{< /hl-text >}}	{{< hl-text green >}}delta x approaches zero{{< /hl-text >}}
-{{< hl-text red >}}$lim_{\Delta x \to 0}${{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
-{{< hl-text red >}}${Lt}_{\Delta x \to 0}${{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
+{{< hl-text red >}}$\lim_{\Delta x \to 0}${{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
+{{< hl-text red >}}$\{Lt}_{\Delta x \to 0}${{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
 {{< hl-text red >}}m/sec{{< /hl-text >}} metres per second
 {{< hl-text red >}}x ∈ A{{< /hl-text >}} {{< hl-text green >}}x belongs to A; x is a member of A; x is an element of A{{< /hl-text >}}
 {{< hl-text red >}}x ∉ A{{< /hl-text >}} {{< hl-text green >}}x does not belong to A; x is not  a member of A; x is not an element of A{{< /hl-text >}}
