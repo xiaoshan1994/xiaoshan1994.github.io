@@ -135,7 +135,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}n!{{< /hl-text >}}	{{< hl-text green >}}n factorial; factorial n{{< /hl-text >}}
 {{< hl-text red >}}xˆ{{< /hl-text >}} x hat
 {{< hl-text red >}}x¯{{< /hl-text >}} x bar
-{{< hl-text red >}}x˜{{< /hl-text >}} x tilde
+{{< hl-text red >}}$\bar x${{< /hl-text >}} x tilde
 {{< hl-text red >}}$x_i${{< /hl-text >}} xi / x subscript i / x suffix i / x sub i
 
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
