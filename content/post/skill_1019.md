@@ -275,6 +275,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}$10^{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # Supplementary
+\begin{flushleft}
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 product k equals 1 to n of 2k + 1 over 2k + 2
 
