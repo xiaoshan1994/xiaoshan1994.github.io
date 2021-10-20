@@ -133,10 +133,10 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}(x + y)²{{< /hl-text >}}	{{< hl-text green >}}x plus y all squared{{< /hl-text >}}
 {{< hl-text red >}}(x/y)²{{< /hl-text >}}	x over y all squared
 {{< hl-text red >}}n!{{< /hl-text >}}	{{< hl-text green >}}n factorial; factorial n{{< /hl-text >}}
-{{< hl-text red >}}$\hat x${{< /hl-text >}} x hat
-{{< hl-text red >}}$\bar x${{< /hl-text >}} x bar
-{{< hl-text red >}}$\tilde x${{< /hl-text >}} x tilde
-{{< hl-text red >}}$x_i${{< /hl-text >}} xi / x subscript i / x suffix i / x sub i
+{{< hl-text red >}}$\hat x${{< /hl-text >}} {{< hl-text green >}}x hat{{< /hl-text >}}
+{{< hl-text red >}}$\bar x${{< /hl-text >}} {{< hl-text green >}}x bar{{< /hl-text >}}
+{{< hl-text red >}}$\tilde x${{< /hl-text >}} {{< hl-text green >}}x tilde{{< /hl-text >}}
+{{< hl-text red >}}$x_i${{< /hl-text >}} {{< hl-text green >}}xi / x subscript i / x suffix i / x sub i{{< /hl-text >}}
 
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity
