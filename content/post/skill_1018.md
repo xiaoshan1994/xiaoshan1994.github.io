@@ -51,10 +51,10 @@ To clear the existing commands in prompts type `cls` and press `Enter`.
 To run software in cmd, Put your shortcuts or .exe (executable file) in the current path where you can `start <softeare name>`
 {{< alert info >}} You can directly type the system names (not shortcut names) {{< /alert >}}
 Common program names include the following:
-File Explorer: `explorer`
-Task Manager: `taskmgr`
-Character Map:`charmap`
-Advanced System Properties (for Path setting):`systempropertiesadvanced`
+{{< hl-text red >}}File Explorer{{< /hl-text >}}: `explorer`
+{{< hl-text red >}}Task Manager{{< /hl-text >}}: `taskmgr`
+{{< hl-text red >}}Character Map{{< /hl-text >}}:`charmap`
+{{< hl-text red >}}Advanced System Properties{{< /hl-text >}} (for Path setting):`systempropertiesadvanced`
 
 ### Lists Installed Drivers (driverquery)
 Drivers are very important in your PC. Missing a important driver can hamper your work. Use `driverquery` command to get a full list of installed drivers in your pc. It’ll help you to find the missing driver.
