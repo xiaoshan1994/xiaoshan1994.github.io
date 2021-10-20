@@ -92,7 +92,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x	/'ʃaɪn/
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x	/'kɒʃ/
 {{< hl-text red >}}tanh x{{< /hl-text >}}	than x	/tæntʃ/
-{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x	/mɒd/ /'mɒdjʊləs/{{< /hl-text >}}
+{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}absolute value of x(if x is a real number); modulus x(if x is a complex number, 模数)	/mɒd/ /'mɒdjʊləs/{{< /hl-text >}}
 {{< hl-text red >}}℃{{< /hl-text >}}	{{< hl-text green >}}degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/{{< /hl-text >}}
 {{< hl-text red >}}℉{{< /hl-text >}}	{{< hl-text green >}}degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/{{< /hl-text >}}
 {{< hl-text red >}}°K{{< /hl-text >}}	{{< hl-text green >}}degrees Kelvin	/dɪ'gri:z 'kelvɪn/{{< /hl-text >}}
