@@ -206,9 +206,9 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}Ω	ω{{< /hl-text >}}	{{< hl-text green >}}omega	/'əʊmɪgə/{{< /hl-text >}}
 
 # Fractions
-{{< hl-text red >}}½{{< /hl-text >}}	a half	/ə 'hɑ:f/
-{{< hl-text red >}}¼{{< /hl-text >}}	a quarter	/ə 'kwɔːtə/
-{{< hl-text red >}}¾{{< /hl-text >}}	three quarters	/θriː 'kwɔːtəz/
+{{< hl-text red >}}½{{< /hl-text >}}	{{< hl-text green >}}a half	/ə 'hɑ:f/{{< /hl-text >}}
+{{< hl-text red >}}¼{{< /hl-text >}}	{{< hl-text green >}}a quarter	/ə 'kwɔːtə/{{< /hl-text >}}
+{{< hl-text red >}}¾{{< /hl-text >}}	{{< hl-text green >}}three quarters	/θriː 'kwɔːtəz/{{< /hl-text >}}
 {{< hl-text red >}}⅓{{< /hl-text >}}	a third	/ə 'θɜ:d/
 {{< hl-text red >}}⅔{{< /hl-text >}}	{{< hl-text green >}}two thirds	/tu: 'θɜ:dz/{{< /hl-text >}}
 {{< hl-text red >}}⅕{{< /hl-text >}}	{{< hl-text green >}}a fifth	/ə 'fɪfθ/{{< /hl-text >}}
@@ -221,6 +221,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}⅜{{< /hl-text >}}	three eighths	/θriː 'eɪtθs/
 {{< hl-text red >}}⅝{{< /hl-text >}}	five eighths	/faɪv 'eɪtθs/
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
+{{< alert warning >}}Pay attention to "s" on the end of some denominators and a or an at the beginning of some numerators{{< /alert >}}
 
 # Decimal Fractionsb[^deci]
 {{< hl-text red >}}0.1{{< /hl-text >}}	nought point one	/nɔ:t pɔɪnt wʌn/
