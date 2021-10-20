@@ -55,7 +55,7 @@ Common program names include the following:
 {{< hl-text red >}}Task Manager{{< /hl-text >}}: `taskmgr`
 {{< hl-text red >}}Character Map{{< /hl-text >}}:`charmap`
 {{< hl-text red >}}Advanced System Properties{{< /hl-text >}} (for Path setting):`systempropertiesadvanced`
-{{< hl-text red >}}My Computer{{< /hl-text >}}:`explorer =` or 'explorer /root,'
+{{< hl-text red >}}My Computer{{< /hl-text >}}:`explorer =` or `explorer /root,`
 **{{< hl-text red >}}Control Panel{{< /hl-text >}}**:`control`
 
 
