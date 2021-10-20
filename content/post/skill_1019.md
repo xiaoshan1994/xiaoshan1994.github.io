@@ -284,6 +284,9 @@ $$(blablabla) · (blbl)$$
 $$x1,... ,xn$$
 {{< hl-text red >}}$x_1$ up to $x_n$ {{< /hl-text >}}
 
+$$ y = {(x-2)}^{(x+1)}$$
+{{< hl-text red >}}y equals {{< hl-text green >}}the quantity{{< /hl-text >}} {{< hl-text red >}}x minus two (pause) {{< /hl-text >}} {{< hl-text green >}}all raised to the quantity{{< /hl-text >}}{{< hl-text red >}}x plus one{{< /hl-text >}}
+
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 {{< hl-text red >}}Product k equals 1 to n{{< /hl-text >}} of {{< hl-text green >}}2k + 1 over 2k + 2{{< /hl-text >}}
 
