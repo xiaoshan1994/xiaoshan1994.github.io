@@ -275,28 +275,29 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}$10^{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # Supplementary
+1.
 $$x_i^j$$
 {{< hl-text red >}}x i j (if j is an index, not an exponent!){{< /hl-text >}}
-
+2.
 $$(blablabla) · (blbl)$$
 {{< hl-text red >}}blablabla, the whole times blbl{{< /hl-text >}}
-
+3.
 $$x1,... ,xn$$
 {{< hl-text red >}}$x_1$ up to $x_n$ {{< /hl-text >}}
-
+4.
 $$ y = {(x-2)}^{(x+1)}$$
 {{< hl-text red >}}y equals{{< /hl-text >}} {{< hl-text green >}}the quantity{{< /hl-text >}} {{< hl-text red >}}x minus two {{< /hl-text >}}{{< hl-text green >}}(pause){{< /hl-text >}}{{< hl-text green >}}all raised to the quantity{{< /hl-text >}}{{< hl-text red >}}x plus one{{< /hl-text >}}
-
+5.
 $$ y = {(7+z)}^{\frac{1}{z}}$$
 {{< hl-text red >}}Function f of z equals{{< /hl-text >}} {{< hl-text green >}}the quantity{{< /hl-text >}} {{< hl-text red >}}seven plus z{{< /hl-text >}} {{< hl-text green >}}raised to{{< /hl-text >}} {{< hl-text red >}}the one over z power{{< /hl-text >}}
-
+6.
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 {{< hl-text red >}}Product k equals 1 to n{{< /hl-text >}} of {{< hl-text green >}}2k + 1 over 2k + 2{{< /hl-text >}}
-
+7.
 $$\lim_{x \to \infty} \frac{x}{sinx}$$
 {{< hl-text red >}}The limit as x goes to infinity{{< /hl-text >}} of {{< hl-text green >}}x over sine x{{< /hl-text >}}
 the limit as x tends to infinity of x divided by sine
-
+8.
 $$\lim_{n \to \infty} \sum_{i=1}^n (\frac{2i}{n})(\frac{2}{n})$$
 {{< hl-text red >}}The limit as n goes to infinity{{< /hl-text >}},of {{< hl-text green >}} the sum from i equals one to n{{< /hl-text >}}, of {{< hl-text blue >}}two i over n times two over n{{< /hl-text >}}.
 
