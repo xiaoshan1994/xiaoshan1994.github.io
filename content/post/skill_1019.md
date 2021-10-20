@@ -126,7 +126,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}x4{{< /hl-text >}}	x to the fourth;  x to the power four
 {{< hl-text red >}}xn{{< /hl-text >}}	{{< hl-text green >}}x to the n; x to the nth;  x to the power n{{< /hl-text >}}
 {{< hl-text red >}}x-n{{< /hl-text >}}	{{< hl-text green >}}x to the minus n;  x to the power of minus n{{< /hl-text >}}
-{{< hl-text red >}}√{{< /hl-text >}}	{{< hl-text green >}}root x; square root x; the square root of x{{< /hl-text >}}
+{{< hl-text red >}}$\sqrt[2]{}{{< /hl-text >}}	{{< hl-text green >}}root x; square root x; the square root of x{{< /hl-text >}}
 {{< hl-text red >}}∛{{< /hl-text >}}	{{< hl-text green >}}the cube root of x{{< /hl-text >}}
 {{< hl-text red >}}∜{{< /hl-text >}}	the fourth root of x
 {{< hl-text red >}}n√{{< /hl-text >}} {{< hl-text green >}}the nth root of x{{< /hl-text >}}
