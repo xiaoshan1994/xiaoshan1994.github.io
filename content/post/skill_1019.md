@@ -278,6 +278,9 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 $$(blablabla) · (blbl)$$
 {{< hl-text red >}}blablabla, the whole times blbl{{< /hl-text >}}
 
+$$x1,... ,xn$$
+{{< hl-text red >}}$x_1$ up to $x_n$ {{< /hl-text >}}
+
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 {{< hl-text red >}}Product k equals 1 to n{{< /hl-text >}} of {{< hl-text green >}}2k + 1 over 2k + 2{{< /hl-text >}}
 
