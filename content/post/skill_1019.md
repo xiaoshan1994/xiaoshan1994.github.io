@@ -159,14 +159,14 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}$int_0^\infty x{{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity of x{{< /hl-text >}}
 {{< hl-text red >}}$\sum_{i=1}^{n}x$ i=1^n{{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n of x{{< /hl-text >}}
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
-{{< hl-text red >}}$log_e y${{< /hl-text >}}	{{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
+{{< hl-text red >}}$log_e y${{< /hl-text >}} {{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
 {{< hl-text red >}}p ⇒ q{{< /hl-text >}} {{< hl-text green >}}p implies q / if p, then q{{< /hl-text >}}
 {{< hl-text red >}}p ⇔ q{{< /hl-text >}} {{< hl-text green >}}p if and only if q /p is equivalent to q / p and q are equivalent{{< /hl-text >}}
 {{< hl-text red >}}→{{< /hl-text >}}	gives, approaches
 {{< hl-text red >}}Δx → 0{{< /hl-text >}}	{{< hl-text green >}}delta x approaches zero{{< /hl-text >}}
-{{< hl-text red >}}lim_Δx→0{{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
+{{< hl-text red >}}$lim_(Δx→0)${{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
 {{< hl-text red >}}Lt_Δx→0{{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
 {{< hl-text red >}}m/sec{{< /hl-text >}} metres per second
 {{< hl-text red >}}x ∈ A{{< /hl-text >}} {{< hl-text green >}}x belongs to A; x is a member of A; x is an element of A{{< /hl-text >}}
