@@ -236,7 +236,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}⅞{{< /hl-text >}}	seven eighths	/sevən 'eɪtθs/
 {{< alert warning >}}Pay attention to "s" on the end of some denominators and a or an at the beginning of some numerators{{< /alert >}}
 
-# Decimal Fraction [^deci]
+# Decimal Fractions [^deci]
 {{< hl-text red >}}0.1{{< /hl-text >}}	nought point one	/nɔ:t pɔɪnt wʌn/
 {{< alert info >}}Nought is for the British English, while zero for the American English{{< /alert >}}
 {{< hl-text red >}}0.01{{< /hl-text >}}	{{< hl-text green >}}nought point oh one	/nɔ:t pɔɪnt əʊ wʌn/{{< /hl-text >}}
