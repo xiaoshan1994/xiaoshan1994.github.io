@@ -105,68 +105,68 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 # Examples
 {{< hl-text red >}}x + 1{{< /hl-text >}}	x plus one
 {{< hl-text red >}}x -1{{< /hl-text >}}	x minus one
-{{< hl-text red >}}x ± 1{{< /hl-text >}}	x plus or minus one
-{{< hl-text red >}}xy{{< /hl-text >}}	x y;  x times y; x multiplied by y
+{{< hl-text red >}}x ± 1{{< /hl-text >}}	{{< hl-text green >}}x plus or minus one{{< /hl-text >}}
+{{< hl-text red >}}xy{{< /hl-text >}}	{{< hl-text green >}}x y;  x times y; x multiplied by y{{< /hl-text >}}
 {{< hl-text red >}}(x — y)(x + y){{< /hl-text >}}	 x minus y, x plus y
-{{< hl-text red >}}x/y{{< /hl-text >}}	x over y;  x divided by y;
-{{< hl-text red >}}x ÷ y{{< /hl-text >}}	x divided by y
-{{< hl-text red >}}x = 5{{< /hl-text >}}	x equals 5;  x is equal to 5
-{{< hl-text red >}}x ≈ y{{< /hl-text >}}	x is approximately equal to y
-{{< hl-text red >}}x ≡ y{{< /hl-text >}}	x is equivalent to y;  x is identical with y
+{{< hl-text red >}}x/y{{< /hl-text >}}	{{< hl-text green >}}x over y;  x divided by y;{{< /hl-text >}}
+{{< hl-text red >}}x ÷ y{{< /hl-text >}}	{{< hl-text green >}}x divided by y{{< /hl-text >}}
+{{< hl-text red >}}x = 5{{< /hl-text >}}	{{< hl-text green >}}x equals 5;  x is equal to 5{{< /hl-text >}}
+{{< hl-text red >}}x ≈ y{{< /hl-text >}}	{{< hl-text green >}}x is approximately equal to y{{< /hl-text >}}
+{{< hl-text red >}}x ≡ y{{< /hl-text >}}	{{< hl-text green >}}x is equivalent to y;  x is identical with y{{< /hl-text >}}
 {{< hl-text red >}}x ≠ y{{< /hl-text >}}	x is not equal to y
 {{< hl-text red >}}x > y{{< /hl-text >}}	 x is greater than y
 {{< hl-text red >}}x < y{{< /hl-text >}}	 x is less than y
 {{< hl-text red >}}x ≥ y{{< /hl-text >}}	x is greater than or equal to y
 {{< hl-text red >}}x ≤ y{{< /hl-text >}}	x is less than or equal to y
 {{< hl-text red >}}0 < x < 1{{< /hl-text >}}	zero is less than x is less than 1; x is greater than zero and less than 1
-{{< hl-text red >}}0 ≤ x ≤ 1{{< /hl-text >}}	zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1
-{{< hl-text red >}}x²{{< /hl-text >}}	x squared
-{{< hl-text red >}}x³{{< /hl-text >}}	x cubed
+{{< hl-text red >}}0 ≤ x ≤ 1{{< /hl-text >}}	{{< hl-text green >}}zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1{{< /hl-text >}}
+{{< hl-text red >}}x²{{< /hl-text >}}	{{< hl-text green >}}x squared{{< /hl-text >}}
+{{< hl-text red >}}x³{{< /hl-text >}}	{{< hl-text green >}}x cubed{{< /hl-text >}}
 {{< hl-text red >}}x4{{< /hl-text >}}	x to the fourth;  x to the power four
-{{< hl-text red >}}xn{{< /hl-text >}}	x to the n; x to the nth;  x to the power n
-{{< hl-text red >}}x-n{{< /hl-text >}}	x to the minus n;  x to the power of minus n
-{{< hl-text red >}}√{{< /hl-text >}}	root x; square root x; the square root of x
-{{< hl-text red >}}∛{{< /hl-text >}}	the cube root of x
+{{< hl-text red >}}xn{{< /hl-text >}}	{{< hl-text green >}}x to the n; x to the nth;  x to the power n{{< /hl-text >}}
+{{< hl-text red >}}x-n{{< /hl-text >}}	{{< hl-text green >}}x to the minus n;  x to the power of minus n{{< /hl-text >}}
+{{< hl-text red >}}√{{< /hl-text >}}	{{< hl-text green >}}root x; square root x; the square root of x{{< /hl-text >}}
+{{< hl-text red >}}∛{{< /hl-text >}}	{{< hl-text green >}}the cube root of x{{< /hl-text >}}
 {{< hl-text red >}}∜{{< /hl-text >}}	the fourth root of x
-{{< hl-text red >}}n√{{< /hl-text >}} the nth root of x
-{{< hl-text red >}}(x + y)²{{< /hl-text >}}	x plus y all squared
+{{< hl-text red >}}n√{{< /hl-text >}} {{< hl-text green >}}the nth root of x{{< /hl-text >}}
+{{< hl-text red >}}(x + y)²{{< /hl-text >}}	{{< hl-text green >}}x plus y all squared{{< /hl-text >}}
 {{< hl-text red >}}(x/y)²{{< /hl-text >}}	x over y all squared
-{{< hl-text red >}}n!{{< /hl-text >}}	n factorial; factorial n
+{{< hl-text red >}}n!{{< /hl-text >}}	{{< hl-text green >}}n factorial; factorial n{{< /hl-text >}}
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity
-{{< hl-text red >}}x ∝ y{{< /hl-text >}}	x varies as y; x is (directly) proportional to y
+{{< hl-text red >}}x ∝ y{{< /hl-text >}}	{{< hl-text green >}}x varies as y; x is (directly) proportional to y{{< /hl-text >}}
 {{< hl-text red >}}x ∝ 1/y{{< /hl-text >}}	x varies as one over y; x is indirectly proportional to y
 {{< hl-text red >}}ẋ{{< /hl-text >}}	x dot
 {{< hl-text red >}}ẍ{{< /hl-text >}}	x double dot
-{{< hl-text red >}}f(x){{< /hl-text >}} fx	f of x; the function of x
-{{< hl-text red >}}f'(x){{< /hl-text >}}	f dash x; the (first) derivative of f with respect to x
-{{< hl-text red >}}f''x{{< /hl-text >}}	f double-dash x; the second derivative of f with respect to x
-{{< hl-text red >}}f'''(x){{< /hl-text >}}	f triple-dash x; f treble-dash x; the third derivative of f with respect to x
-{{< hl-text red >}}f(4){{< /hl-text >}}	f four x; **the fourth derivative of f with respect to x**
-{{< hl-text red >}}∂v{{< /hl-text >}}	the partial derivative of v
-{{< hl-text red >}}∂v/∂θ{{< /hl-text >}}	delta v by delta theta, **the partial derivative of v with respect to θ**
-{{< hl-text red >}}∂²v/∂θ²{{< /hl-text >}}	delta two v by delta theta squared; the second partial derivative of v with respect to θ
-dv 	the derivative of v
+{{< hl-text red >}}f(x){{< /hl-text >}} {{< hl-text green >}}fx	f of x; the function of x{{< /hl-text >}}
+{{< hl-text red >}}f'(x){{< /hl-text >}}	{{< hl-text green >}}f dash x; the (first) derivative of f with respect to x{{< /hl-text >}}
+{{< hl-text red >}}f''x{{< /hl-text >}}	{{< hl-text green >}}f double-dash x; the second derivative of f with respect to x{{< /hl-text >}}
+{{< hl-text red >}}f'''(x){{< /hl-text >}}	{{< hl-text green >}}f triple-dash x; f treble-dash x; the third derivative of f with respect to x{{< /hl-text >}}
+{{< hl-text red >}}f(4){{< /hl-text >}}	f four x; {{< hl-text green >}}the fourth derivative of f with respect to x{{< /hl-text >}}
+{{< hl-text red >}}∂v{{< /hl-text >}}	{{< hl-text green >}}the partial derivative of v{{< /hl-text >}}
+{{< hl-text red >}}∂v/∂θ{{< /hl-text >}}	{{< hl-text green >}}delta v by delta theta, the partial derivative of v with respect to θ{{< /hl-text >}}
+{{< hl-text red >}}∂²v/∂θ²{{< /hl-text >}}	{{< hl-text green >}}delta two v by delta theta squared; the second partial derivative of v with respect to θ{{< /hl-text >}}
+{{< hl-text red >}}dv{{< /hl-text >}} 	{{< hl-text green >}}the derivative of v{{< /hl-text >}}
 {{< hl-text red >}}dv/dθ{{< /hl-text >}} d v by d theta, the derivative of v with respect to theta
-{{< hl-text red >}}d²v/dθ²{{< /hl-text >}} d 2 v by d theta squared, **the second derivative of v with respect to theta**
+{{< hl-text red >}}d²v/dθ²{{< /hl-text >}} d 2 v by d theta squared, the second derivative of v with respect to theta
 {{< hl-text red >}}∫{{< /hl-text >}} 	integral
-{{< hl-text red >}}∫_0^∞{{< /hl-text >}} 	integral from zero to infinity
-{{< hl-text red >}}∑_i=1^n{{< /hl-text >}}	the sum from i equals 1 to n
+{{< hl-text red >}}∫_0^∞{{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity{{< /hl-text >}}
+{{< hl-text red >}}∑_i=1^n{{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n{{< /hl-text >}}
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
-{{< hl-text red >}}log_e y{{< /hl-text >}}	log to the base e of y; log y to the base e; natural log (of) y
+{{< hl-text red >}}log_e y{{< /hl-text >}}	{{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
-{{< hl-text red >}}→{{< /hl-text >}}	gives, **approaches**
-{{< hl-text red >}}Δx → 0{{< /hl-text >}}	delta x approaches zero
-{{< hl-text red >}}lim_Δx→0{{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
+{{< hl-text red >}}→{{< /hl-text >}}	gives, approaches
+{{< hl-text red >}}Δx → 0{{< /hl-text >}}	{{< hl-text green >}}delta x approaches zero{{< /hl-text >}}
+{{< hl-text red >}}lim_Δx→0{{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
 {{< hl-text red >}}Lt_Δx→0{{< /hl-text >}} the limit as delta x approaches zero, the limit as delta x tends to zero
 {{< hl-text red >}}m/sec{{< /hl-text >}} metres per second
-{{< hl-text red >}}x ∈ A{{< /hl-text >}} x belongs to A; x is a member of A; x is an element of A
-{{< hl-text red >}}x ∉ A{{< /hl-text >}} x does not belong to A; x is not  a member of A; x is not an element of A
-{{< hl-text red >}}A ⊂ B{{< /hl-text >}}  A is contained in B; A is a proper subset of B
-{{< hl-text red >}}A ⊆ B{{< /hl-text >}} A is contained in B; A is a subset of B
-{{< hl-text red >}}A ⋂ B{{< /hl-text >}} A intersection B
-{{< hl-text red >}}A ⋃ B{{< /hl-text >}}	A union B
+{{< hl-text red >}}x ∈ A{{< /hl-text >}} {{< hl-text green >}}x belongs to A; x is a member of A; x is an element of A{{< /hl-text >}}
+{{< hl-text red >}}x ∉ A{{< /hl-text >}} {{< hl-text green >}}x does not belong to A; x is not  a member of A; x is not an element of A{{< /hl-text >}}
+{{< hl-text red >}}A ⊂ B{{< /hl-text >}}  {{< hl-text green >}}A is contained in B; A is a proper subset of B{{< /hl-text >}}
+{{< hl-text red >}}A ⊆ B{{< /hl-text >}} {{< hl-text green >}}A is contained in B; A is a subset of B{{< /hl-text >}}
+{{< hl-text red >}}A ⋂ B{{< /hl-text >}} {{< hl-text green >}}A intersection B{{< /hl-text >}}
+{{< hl-text red >}}A ⋃ B{{< /hl-text >}}	{{< hl-text green >}}A union B{{< /hl-text >}}
 {{< hl-text red >}}cos x{{< /hl-text >}} cosine x
 {{< hl-text red >}}sin x{{< /hl-text >}}	sine x
 {{< hl-text red >}}tan x{{< /hl-text >}}	tangent x, tan x
@@ -174,7 +174,7 @@ dv 	the derivative of v
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x
 {{< hl-text red >}}tanh x{{< /hl-text >}}	than x /tæntʃ/
-{{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x
+{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x{{< /hl-text >}}
 {{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
 {{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
 
