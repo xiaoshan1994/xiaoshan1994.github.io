@@ -28,32 +28,32 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}-{{< /hl-text >}}	minus
 {{< hl-text red >}}±{{< /hl-text >}} plus or minus
 {{< hl-text red >}}x{{< /hl-text >}}	  multiplied by
-{{< hl-text red >}}/{{< /hl-text >}} over; divided by
+{{< hl-text red >}}/{{< /hl-text >}} {{< hl-text green >}}over; divided by{{< /hl-text >}}
 {{< hl-text red >}}÷{{< /hl-text >}}	  divided
 {{< hl-text red >}}={{< /hl-text >}}	 equals
 {{< hl-text red >}}≈{{< /hl-text >}} approximately, similar /ə'prɒksɪmətlɪ/
-{{< hl-text red >}}≡{{< /hl-text >}} equivalent to; identical
+{{< hl-text red >}}≡{{< /hl-text >}} {{< hl-text green >}}equivalent to; identical{{< /hl-text >}}
 {{< hl-text red >}}≠{{< /hl-text >}} not equal to
 {{< hl-text red >}}>{{< /hl-text >}} 	greater than
 {{< hl-text red >}}<{{< /hl-text >}} 	less than
-{{< hl-text red >}}≥{{< /hl-text >}} 	greater than or equal to
-{{< hl-text red >}}≤{{< /hl-text >}} 	less than or equal to
+{{< hl-text red >}}≥{{< /hl-text >}} 	{{< hl-text green >}}greater than or equal to{{< /hl-text >}}
+{{< hl-text red >}}≤{{< /hl-text >}} 	{{< hl-text green >}}less than or equal to{{< /hl-text >}}
 {{< hl-text red >}}⊁{{< /hl-text >}}	not greater than
 {{< hl-text red >}}⊀{{< /hl-text >}}	not less than
 {{< hl-text red >}}≫{{< /hl-text >}}	much greater than
 {{< hl-text red >}}≪{{< /hl-text >}}	much less than
-{{< hl-text red >}}⊥{{< /hl-text >}}	perpendicular to	/pɜːpən'dɪkjʊlə tʊ/
-{{< hl-text red >}}∣∣{{< /hl-text >}}	parallel to
+{{< hl-text red >}}⊥{{< /hl-text >}}	{{< hl-text green >}}perpendicular to	/pɜːpən'dɪkjʊlə tʊ/{{< /hl-text >}}
+{{< hl-text red >}}∣∣{{< /hl-text >}}	{{< hl-text green >}}parallel to{{< /hl-text >}}
 {{< hl-text red >}}≢ {{< /hl-text >}} not equivalent to, not identical to
 {{< hl-text red >}}≄≉	{{< /hl-text >}} not similar to
-{{< hl-text red >}}²{{< /hl-text >}}	squared	/'skweəd/
-{{< hl-text red >}}³{{< /hl-text >}}	cubed	/'kju:bd/
+{{< hl-text red >}}²{{< /hl-text >}}	{{< hl-text green >}}squared	/'skweəd/{{< /hl-text >}}
+{{< hl-text red >}}³{{< /hl-text >}}	{{< hl-text green >}}cubed	/'kju:bd/{{< /hl-text >}}
 {{< hl-text red >}}⁴{{< /hl-text >}}	to the fourth;  to the power four
-{{< hl-text red >}}n{{< /hl-text >}}	to the n; to the nth; to the power n
-{{< hl-text red >}}√{{< /hl-text >}}	root; square root	 
-{{< hl-text red >}}∛{{< /hl-text >}}	cube root
+{{< hl-text red >}}n{{< /hl-text >}}	{{< hl-text green >}}to the n; to the nth; to the power n{{< /hl-text >}}
+{{< hl-text red >}}√{{< /hl-text >}}	{{< hl-text green >}}root; square root{{< /hl-text >}}	 
+{{< hl-text red >}}∛{{< /hl-text >}}	{{< hl-text green >}}cube root{{< /hl-text >}}
 {{< hl-text red >}}∜{{< /hl-text >}} fourth root
-{{< hl-text red >}}!{{< /hl-text >}}	factorial	/fæk'tɔːrɪəl/
+{{< hl-text red >}}!{{< /hl-text >}}	{{< hl-text green >}}factorial	/fæk'tɔːrɪəl/{{< /hl-text >}}
 {{< hl-text red >}}%{{< /hl-text >}}	percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity	/ɪn'fɪnətɪ/
 {{< hl-text red >}}∝{{< /hl-text >}}	varies as; proportional to /
@@ -61,23 +61,24 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}¨{{< /hl-text >}}	double dot
 {{< hl-text red >}}:{{< /hl-text >}}	is to, ratio of
 {{< hl-text red >}}f(x) fx{{< /hl-text >}}	f; function
-{{< hl-text red >}}f'(x){{< /hl-text >}}	f dash; derivative /dæʃ/ /dɪ'rɪvətɪv/
-{{< hl-text red >}}∫{{< /hl-text >}}	integral	/'ɪntɪgrəl/
+{{< hl-text red >}}f'(x){{< /hl-text >}}	{{< hl-text green >}}f dash; derivative /dæʃ/ /dɪ'rɪvətɪv/{{< /hl-text >}}
+{{< hl-text red >}}∫{{< /hl-text >}}	{{< hl-text green >}}integral	/'ɪntɪgrəl/{{< /hl-text >}}
 {{< hl-text red >}}∑{{< /hl-text >}}	sum
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
 {{< hl-text red >}}log{{< /hl-text >}}	log 	/lɒg/
-{{< hl-text red >}}log₂x{{< /hl-text >}}	log to the base 2 of x
+{{< hl-text red >}}log₂x{{< /hl-text >}}	{{< hl-text green >}}log to the base 2 of x{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
-{{< hl-text red >}}→{{< /hl-text >}}	gives, leads to, approaches
+{{< hl-text red >}}→{{< /hl-text >}}	{{< hl-text green >}}gives, leads to, approaches{{< /hl-text >}}
 {{< hl-text red >}}/{{< /hl-text >}}	per
-{{< hl-text red >}}∈{{< /hl-text >}}	belongs to; a member of;  an element of
-{{< hl-text red >}}∉{{< /hl-text >}}	does not belong to; is not a member of; is not an element of
-{{< hl-text red >}}⊂{{< /hl-text >}}	contained in;  a proper subset of
-{{< hl-text red >}}⊆{{< /hl-text >}}	contained in; subset 	
-{{< hl-text red >}}⋂{{< /hl-text >}}	intersection
-{{< hl-text red >}}⋃{{< /hl-text >}}	union
-{{< hl-text red >}}∀{{< /hl-text >}}	for all
+{{< hl-text red >}}∈{{< /hl-text >}}	{{< hl-text green >}}belongs to; a member of;  an element of{{< /hl-text >}}
+{{< hl-text red >}}∉{{< /hl-text >}}	{{< hl-text green >}}does not belong to; is not a member of; is not an element of{{< /hl-text >}}
+{{< hl-text red >}}⊂{{< /hl-text >}}	{{< hl-text green >}}contained in;  a proper subset of{{< /hl-text >}}
+{{< hl-text red >}}⊆{{< /hl-text >}}	{{< hl-text green >}}contained in; subset{{< /hl-text >}} 	
+{{< hl-text red >}}⋂{{< /hl-text >}}	{{< hl-text green >}}intersection{{< /hl-text >}}
+{{< hl-text red >}}⋃{{< /hl-text >}}	{{< hl-text green >}}union{{< /hl-text >}}
+{{< hl-text red >}}∀{{< /hl-text >}}	{{< hl-text green >}}for all{{< /hl-text >}}
+{{< hl-text red >}}∃{{< /hl-text >}} {{< hl-text green >}}there exists{{< /hl-text >}}
 {{< hl-text red >}}cos x{{< /hl-text >}} cosine x	/'kəʊsaɪn/
 {{< hl-text red >}}sin x{{< /hl-text >}}	sine x	/saɪn/
 {{< hl-text red >}}tan x{{< /hl-text >}}	tangent x	/tan/
@@ -85,17 +86,17 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x	/'ʃaɪn/
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x	/'kɒʃ/
 {{< hl-text red >}}tanh x{{< /hl-text >}}	than x	/tæntʃ/
-{{< hl-text red >}}|x|{{< /hl-text >}}	mod x; modulus x	/mɒd/ /'mɒdjʊləs/
-{{< hl-text red >}}℃{{< /hl-text >}}	degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/
-{{< hl-text red >}}℉{{< /hl-text >}}	degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/
-{{< hl-text red >}}°K{{< /hl-text >}}	degrees Kelvin	/dɪ'gri:z 'kelvɪn/
-{{< hl-text red >}}0°K{{< /hl-text >}}, –273.15 °C	absolute zero
+{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x	/mɒd/ /'mɒdjʊləs/{{< /hl-text >}}
+{{< hl-text red >}}℃{{< /hl-text >}}	{{< hl-text green >}}degrees Centigrade	/dɪ'gri:z 'sentɪgreɪd/{{< /hl-text >}}
+{{< hl-text red >}}℉{{< /hl-text >}}	{{< hl-text green >}}degrees Fahrenheit	/dɪ'gri:z 'færənhaɪt/{{< /hl-text >}}
+{{< hl-text red >}}°K{{< /hl-text >}}	{{< hl-text green >}}degrees Kelvin	/dɪ'gri:z 'kelvɪn/{{< /hl-text >}}
+{{< hl-text red >}}0°K{{< /hl-text >}}, {{< hl-text green >}}–273.15 °C	absolute zero{{< /hl-text >}}
 {{< hl-text red >}}mm{{< /hl-text >}}	millimetre	/'mɪlɪmiːtə/
 {{< hl-text red >}}cm{{< /hl-text >}}	centimetre	/'sentɪmiːtə/
-{{< hl-text red >}}cc{{< /hl-text >}}, cm³	cubic centimetre, centimetre cubed
+{{< hl-text red >}}cc{{< /hl-text >}}, {{< hl-text green >}}cm³	cubic centimetre, centimetre cubed{{< /hl-text >}}
 {{< hl-text red >}}m{{< /hl-text >}}	metre	/'miːtə/
 {{< hl-text red >}}km{{< /hl-text >}}	kilometre	/kɪ'lɒmɪtə/
-{{< hl-text red >}}mg{{< /hl-text >}}	milligram	/'mɪlɪgræm/
+{{< hl-text red >}}mg{{< /hl-text >}}	{{< hl-text green >}}milligram	/'mɪlɪgræm/{{< /hl-text >}}
 {{< hl-text red >}}g{{< /hl-text >}}	gram	/græm/
 {{< hl-text red >}}kg{{< /hl-text >}}	kilogram	/'kɪləgræm/
 {{< hl-text red >}}AC{{< /hl-text >}}	A.C.	/eɪ si:/
