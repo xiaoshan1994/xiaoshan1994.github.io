@@ -72,6 +72,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
 {{< hl-text red >}}log{{< /hl-text >}}	log 	/lɒg/
 {{< hl-text red >}}log₂x{{< /hl-text >}}	{{< hl-text green >}}log to the base 2 of x{{< /hl-text >}}
+{{< hl-text red >}}${ln}_y${{< /hl-text >}} {{< hl-text green >}}log y to the base e / log to the base e of y / natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
 {{< hl-text red >}}→{{< /hl-text >}}	{{< hl-text green >}}gives, leads to, approaches{{< /hl-text >}}
