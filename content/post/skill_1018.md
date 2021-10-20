@@ -57,6 +57,7 @@ Common program names include the following:
 {{< hl-text red >}}Advanced System Properties{{< /hl-text >}} (for Path setting):`systempropertiesadvanced`
 {{< hl-text red >}}My Computer{{< /hl-text >}}:`explorer =` or `explorer /root,`
 {{< hl-text red >}}Control Panel{{< /hl-text >}}:`control`
+{{< hl-text red >}}Calculator{{< /hl-text >}}:`calc`
 
 
 ### Lists Installed Drivers (driverquery)
