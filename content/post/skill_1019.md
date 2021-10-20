@@ -15,6 +15,7 @@ coverSize: partial
 thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
 metaAlignment: center
+Math: True
 ---
 Common pronunciations (in British English - Gimson,1981) of mathematical and scientific symbols are given in the list below.
 <!--more-->
@@ -132,6 +133,11 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}(x + y)²{{< /hl-text >}}	{{< hl-text green >}}x plus y all squared{{< /hl-text >}}
 {{< hl-text red >}}(x/y)²{{< /hl-text >}}	x over y all squared
 {{< hl-text red >}}n!{{< /hl-text >}}	{{< hl-text green >}}n factorial; factorial n{{< /hl-text >}}
+{{< hl-text red >}}xˆ{{< /hl-text >}} x hat
+{{< hl-text red >}}x¯{{< /hl-text >}} x bar
+{{< hl-text red >}}x˜{{< /hl-text >}} x tilde
+$x_i$ xi / x subscript i / x suffix i / x sub i
+
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity
 {{< hl-text red >}}x ∝ y{{< /hl-text >}}	{{< hl-text green >}}x varies as y; x is (directly) proportional to y{{< /hl-text >}}
@@ -156,6 +162,8 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}log_e y{{< /hl-text >}}	{{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
 {{< hl-text red >}}∵{{< /hl-text >}}	because
+{{< hl-text red >}}p ⇒ q{{< /hl-text >}} {{< hl-text green >}}p implies q / if p, then q{{< /hl-text >}}
+{{< hl-text red >}}p ⇔ q{{< /hl-text >}} {{< hl-text green >}}p if and only if q /p is equivalent to q / p and q are equivalent{{< /hl-text >}}
 {{< hl-text red >}}→{{< /hl-text >}}	gives, approaches
 {{< hl-text red >}}Δx → 0{{< /hl-text >}}	{{< hl-text green >}}delta x approaches zero{{< /hl-text >}}
 {{< hl-text red >}}lim_Δx→0{{< /hl-text >}} {{< hl-text green >}}the limit as delta x approaches zero, the limit as delta x tends to zero{{< /hl-text >}}
