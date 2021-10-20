@@ -123,8 +123,8 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}0 ≤ x ≤ 1{{< /hl-text >}}	{{< hl-text green >}}zero is less than or equal to x is less than or equal to 1; x is greater than or equal to zero and less than or equal to 1{{< /hl-text >}}
 {{< hl-text red >}}x²{{< /hl-text >}}	{{< hl-text green >}}x squared{{< /hl-text >}}
 {{< hl-text red >}}x³{{< /hl-text >}}	{{< hl-text green >}}x cubed{{< /hl-text >}}
-{{< hl-text red >}}x4{{< /hl-text >}}	x to the fourth;  x to the power four
-{{< hl-text red >}}xn{{< /hl-text >}}	{{< hl-text green >}}x to the n; x to the nth;  x to the power n{{< /hl-text >}}
+{{< hl-text red >}}$x_4${{< /hl-text >}}	x to the fourth;  x to the power four
+{{< hl-text red >}}$x_n${{< /hl-text >}}	{{< hl-text green >}}x to the n; x to the nth;  x to the power n{{< /hl-text >}}
 {{< hl-text red >}}x-n{{< /hl-text >}}	{{< hl-text green >}}x to the minus n;  x to the power of minus n{{< /hl-text >}}
 {{< hl-text red >}}$\sqrt[2]{}{{< /hl-text >}}	{{< hl-text green >}}root x; square root x; the square root of x{{< /hl-text >}}
 {{< hl-text red >}}∛{{< /hl-text >}}	{{< hl-text green >}}the cube root of x{{< /hl-text >}}
