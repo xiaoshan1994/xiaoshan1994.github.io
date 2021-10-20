@@ -11,7 +11,7 @@ tags:
 keywords:
 - tech
 coverImage: https://images.ctfassets.net/hrltx12pl8hq/mwXKKvACE5gGvqMHqdinU/bfa352095ce2b5dc686814c3422b2332/shutterstock_1065730331__1_-min__1_.jpg?fit=fill&w=800&h=300
-coverSize: full
+coverSize: partial
 thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
 metaAlignment: center
@@ -81,7 +81,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}∃{{< /hl-text >}} {{< hl-text green >}}there exists{{< /hl-text >}}
 {{< hl-text red >}}cos x{{< /hl-text >}} cosine x	/'kəʊsaɪn/
 {{< hl-text red >}}sin x{{< /hl-text >}}	sine x	/saɪn/
-{{< hl-text red >}}tan x{{< /hl-text >}}	tangent x	/tan/
+{{< hl-text red >}}tan x{{< /hl-text >}}	tangent x	/'tæn(d)ʒ(ə)nt/
 {{< hl-text red >}}cosec x{{< /hl-text >}}	cosec x	/'kəʊsek/
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x	/'ʃaɪn/
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x	/'kɒʃ/
@@ -172,7 +172,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}tan x{{< /hl-text >}}	tangent x, tan x
 {{< hl-text red >}}cosec x{{< /hl-text >}}	cosec x
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x
-{{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x
+{{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x /kɒʃ/
 {{< hl-text red >}}tanh x{{< /hl-text >}}	than x /tæntʃ/
 {{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x{{< /hl-text >}}
 {{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
