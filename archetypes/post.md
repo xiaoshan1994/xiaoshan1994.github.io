@@ -15,6 +15,7 @@ coverSize: full/partial
 thumbnailImage:
 thumbnailImagePosition: left/bottom
 metaAlignment: center
+Math: True
 ---
 
 <!--more-->
