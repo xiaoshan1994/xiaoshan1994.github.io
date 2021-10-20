@@ -11,7 +11,7 @@ tags:
 keywords:
 - tech
 coverImage: https://images.ctfassets.net/hrltx12pl8hq/mwXKKvACE5gGvqMHqdinU/bfa352095ce2b5dc686814c3422b2332/shutterstock_1065730331__1_-min__1_.jpg?fit=fill&w=800&h=300
-coverSize: partial
+coverSize: full
 thumbnailImage: https://www.wellesley.edu/sites/default/files/styles/news_refresh_hero/public/assets/dailyshot/ds_461390782.jpg?itok=jr0Buv1t
 thumbnailImagePosition: left
 metaAlignment: center
