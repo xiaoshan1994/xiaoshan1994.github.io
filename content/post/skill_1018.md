@@ -52,10 +52,10 @@ To run software in cmd, Put your shortcuts or .exe (executable file) in the curr
 {{< alert info >}} You can directly type the system names (not shortcut names) {{< /alert >}}
 Common program names include the following:
 {{< hl-text red >}}File Explorer{{< /hl-text >}}: `explorer`
+{{< hl-text red >}}My Computer{{< /hl-text >}}:`explorer =` or `explorer /root,`
 {{< hl-text red >}}Task Manager{{< /hl-text >}}: `taskmgr`
 {{< hl-text red >}}Character Map{{< /hl-text >}}:`charmap`
 {{< hl-text red >}}Advanced System Properties{{< /hl-text >}} (for Path setting):`systempropertiesadvanced`
-{{< hl-text red >}}My Computer{{< /hl-text >}}:`explorer =` or `explorer /root,`
 {{< hl-text red >}}Control Panel{{< /hl-text >}}:`control`
 {{< hl-text red >}}Calculator{{< /hl-text >}}:`calc`
 
