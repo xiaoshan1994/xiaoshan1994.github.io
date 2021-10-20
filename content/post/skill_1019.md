@@ -275,6 +275,9 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}$10^{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # Supplementary
+$$x_i^j$$
+{{< hl-text red >}}x i j (if j is an index, not an exponent!){{< /hl-text >}}
+
 $$(blablabla) · (blbl)$$
 {{< hl-text red >}}blablabla, the whole times blbl{{< /hl-text >}}
 
