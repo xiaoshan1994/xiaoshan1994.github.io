@@ -21,7 +21,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 <!--more-->
 (all the pages in this section need a unicode font installed - e.g. Arial Unicode MS, Doulos SIL Unicode, Lucida Sans Unicode - see: The International Phonetic Alphabet in Unicode).
 
-The content is extracted from the website of [UEfAP](http://www.uefap.com/speaking/symbols/symbols.htm), [***Pronunciation of mathematical expressions***](http://math.ecnu.edu.cn/~jypan/Research/MathEng.pdf) by H. V¨aliaho and [***American Pronunciation of Mathematics***](https://rpi.edu/dept/math/ms_graduate/resources/SayingMath.pdf) compiled by Rensselaer Polytechnic Institute, USA.
+The content is compiled from the website of [UEfAP](http://www.uefap.com/speaking/symbols/symbols.htm), [***Pronunciation of mathematical expressions***](http://math.ecnu.edu.cn/~jypan/Research/MathEng.pdf) by H. V¨aliaho and [***American Pronunciation of Mathematics***](https://rpi.edu/dept/math/ms_graduate/resources/SayingMath.pdf) by Rensselaer Polytechnic Institute, USA.
 
 
 
