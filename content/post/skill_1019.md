@@ -189,7 +189,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x{{< /hl-text >}}
 {{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
 {{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
-{{< hl-text red >}}exp(x), ex{{< /hl-text >}} {{< hl-text green >}}exponential of x, e to the x{{< /hl-text >}}
+{{< hl-text red >}}\mathit{exp}(x), ex{{< /hl-text >}} {{< hl-text green >}}exponential of x, e to the x{{< /hl-text >}}
 # Greek alphabet
 
 {{< hl-text red >}}Α	α{{< /hl-text >}}	alpha	/'ælfə/
