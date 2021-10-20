@@ -141,7 +141,6 @@ The content is extracted from the website of [UEfAP](http://www.uefap.com/speaki
 {{< hl-text red >}}$\bar x${{< /hl-text >}} {{< hl-text green >}}x bar{{< /hl-text >}}
 {{< hl-text red >}}$\tilde x${{< /hl-text >}} {{< hl-text green >}}x tilde{{< /hl-text >}}
 {{< hl-text red >}}$x_i${{< /hl-text >}} {{< hl-text green >}}xi / x subscript i / x suffix i / x sub i{{< /hl-text >}}
-
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity
 {{< hl-text red >}}x ∝ y{{< /hl-text >}}	{{< hl-text green >}}x varies as y; x is (directly) proportional to y{{< /hl-text >}}
@@ -160,8 +159,8 @@ The content is extracted from the website of [UEfAP](http://www.uefap.com/speaki
 {{< hl-text red >}}dv/dθ{{< /hl-text >}} d v by d theta, the derivative of v with respect to theta
 {{< hl-text red >}}d²v/dθ²{{< /hl-text >}} d 2 v by d theta squared, the second derivative of v with respect to theta
 {{< hl-text red >}}∫{{< /hl-text >}} 	integral
-{{< hl-text red >}}$int_0^\infty x{{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity of x{{< /hl-text >}}
-{{< hl-text red >}}$\sum_{i=1}^{n}x$ i=1^n{{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n of x{{< /hl-text >}}
+{{< hl-text red >}}$\int_0^\infty x${{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity of x{{< /hl-text >}}
+{{< hl-text red >}}$\sum_{i=1}^{n}x${{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n of x{{< /hl-text >}}
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
 {{< hl-text red >}}$log_e y${{< /hl-text >}} {{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
