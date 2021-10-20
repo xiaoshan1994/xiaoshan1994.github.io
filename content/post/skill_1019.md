@@ -157,7 +157,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}d²v/dθ²{{< /hl-text >}} d 2 v by d theta squared, the second derivative of v with respect to theta
 {{< hl-text red >}}∫{{< /hl-text >}} 	integral
 {{< hl-text red >}}∫_0^∞{{< /hl-text >}} 	{{< hl-text green >}}integral from zero to infinity{{< /hl-text >}}
-{{< hl-text red >}}∑_i=1^n{{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n{{< /hl-text >}}
+{{< hl-text red >}}$\sum_{i=1}^{n}x$ i=1^n{{< /hl-text >}}	{{< hl-text green >}}the sum from i equals 1 to n of x{{< /hl-text >}}
 {{< hl-text red >}}w.r.t.{{< /hl-text >}}	with respect to
 {{< hl-text red >}}log_e y{{< /hl-text >}}	{{< hl-text green >}}log to the base e of y; log y to the base e; natural log (of) y{{< /hl-text >}}
 {{< hl-text red >}}∴{{< /hl-text >}}	therefore
