@@ -136,7 +136,7 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}xˆ{{< /hl-text >}} x hat
 {{< hl-text red >}}x¯{{< /hl-text >}} x bar
 {{< hl-text red >}}x˜{{< /hl-text >}} x tilde
-$x_i$ xi / x subscript i / x suffix i / x sub i
+{{< hl-text red >}}$x_i${{< /hl-text >}} xi / x subscript i / x suffix i / x sub i
 
 {{< hl-text red >}}x%{{< /hl-text >}}	x percent
 {{< hl-text red >}}∞{{< /hl-text >}}	infinity
