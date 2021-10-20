@@ -247,27 +247,27 @@ Common pronunciations (in British English - Gimson,1981) of mathematical and sci
 {{< hl-text red >}}2.5{{< /hl-text >}} million	two point five million
 
 # SI Units: Prefixes
-{{< hl-text red >}}$10_{-24}${{< /hl-text >}}	yocto	y	/'jɒktəʊ/
-{{< hl-text red >}}$10_{-21}${{< /hl-text >}}	zepto	z	/'zeptəʊ/
-{{< hl-text red >}}$10_{-18}${{< /hl-text >}}	atto	a	/'atəʊ/
-{{< hl-text red >}}$10_{-15}${{< /hl-text >}}	femto	f	/'femtəʊ/
-{{< hl-text red >}}$10_{-12}${{< /hl-text >}}	pico	p	/'pi:kəʊ/
-{{< hl-text red >}}$10_{-9}${{< /hl-text >}}	nano	n	/'nanəʊ/
-{{< hl-text red >}}$10_{-6}${{< /hl-text >}}	micro	µ	/'maɪkrəʊ/
-{{< hl-text red >}}$10_{-3}${{< /hl-text >}}	milli	m	/'mɪlɪ/
-{{< hl-text red >}}$10_{-2}${{< /hl-text >}}	centi	c	/'sentɪ/
-{{< hl-text red >}}$10_{-1}${{< /hl-text >}}	deci	d	/'desɪ/
-{{< hl-text red >}}$10_{3}${{< /hl-text >}}	{{< hl-text green >}}kilo	k	/'kɪləʊ/{{< /hl-text >}}
-{{< hl-text red >}}$10_{6}${{< /hl-text >}}	{{< hl-text green >}}mega	M	/'megə/{{< /hl-text >}}
-{{< hl-text red >}}$10_{9}${{< /hl-text >}}	{{< hl-text green >}}giga	G	/'gɪgə/{{< /hl-text >}}
-{{< hl-text red >}}$10_{12}${{< /hl-text >}}	{{< hl-text green >}}tera	T	/'terə/{{< /hl-text >}}
+{{< hl-text red >}}$10^{-24}${{< /hl-text >}}	yocto	y	/'jɒktəʊ/
+{{< hl-text red >}}$10^{-21}${{< /hl-text >}}	zepto	z	/'zeptəʊ/
+{{< hl-text red >}}$10^{-18}${{< /hl-text >}}	atto	a	/'atəʊ/
+{{< hl-text red >}}$10^{-15}${{< /hl-text >}}	femto	f	/'femtəʊ/
+{{< hl-text red >}}$10^{-12}${{< /hl-text >}}	pico	p	/'pi:kəʊ/
+{{< hl-text red >}}$10^{-9}${{< /hl-text >}}	nano	n	/'nanəʊ/
+{{< hl-text red >}}$10^{-6}${{< /hl-text >}}	micro	µ	/'maɪkrəʊ/
+{{< hl-text red >}}$10^{-3}${{< /hl-text >}}	milli	m	/'mɪlɪ/
+{{< hl-text red >}}$10^{-2}${{< /hl-text >}}	centi	c	/'sentɪ/
+{{< hl-text red >}}$10^{-1}${{< /hl-text >}}	deci	d	/'desɪ/
+{{< hl-text red >}}$10^{3}${{< /hl-text >}}	{{< hl-text green >}}kilo	k	/'kɪləʊ/{{< /hl-text >}}
+{{< hl-text red >}}$10^{6}${{< /hl-text >}}	{{< hl-text green >}}mega	M	/'megə/{{< /hl-text >}}
+{{< hl-text red >}}$10^{9}${{< /hl-text >}}	{{< hl-text green >}}giga	G	/'gɪgə/{{< /hl-text >}}
+{{< hl-text red >}}$10^{12}${{< /hl-text >}}	{{< hl-text green >}}tera	T	/'terə/{{< /hl-text >}}
 {{< hl-text red >}}$10_{15}${{< /hl-text >}}	{{< hl-text green >}}peta	P	/'petə/{{< /hl-text >}}
-{{< hl-text red >}}$10_{18}${{< /hl-text >}}	exa	E	/'eksə/
-{{< hl-text red >}}$10_{21}${{< /hl-text >}}	zetta	Z	/'zetə/
-{{< hl-text red >}}$10_{24}${{< /hl-text >}}	yotta	Y	/'jɒtə/
-{{< hl-text red >}}$10_{27}${{< /hl-text >}}	xona	X	/'zəʊnə/
-{{< hl-text red >}}$10_{30}${{< /hl-text >}}	weka	W	/'wekə/
-{{< hl-text red >}}$10_{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
+{{< hl-text red >}}$10^{18}${{< /hl-text >}}	exa	E	/'eksə/
+{{< hl-text red >}}$10^{21}${{< /hl-text >}}	zetta	Z	/'zetə/
+{{< hl-text red >}}$10^{24}${{< /hl-text >}}	yotta	Y	/'jɒtə/
+{{< hl-text red >}}$10^{27}${{< /hl-text >}}	xona	X	/'zəʊnə/
+{{< hl-text red >}}$10^{30}${{< /hl-text >}}	weka	W	/'wekə/
+{{< hl-text red >}}$10^{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # Supplementary
 ![image](https://user-images.githubusercontent.com/65668613/137988555-20303f45-758e-463a-a330-e06930977d4d.png)
