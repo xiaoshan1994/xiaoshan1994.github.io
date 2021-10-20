@@ -275,12 +275,10 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}$10^{33}${{< /hl-text >}}	vunda	V	/'vʊndə/
 
 # Supplementary
-\begin{equation}
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
-\end{equation}
-product k equals 1 to n of 2k + 1 over 2k + 2
+Product k equals 1 to n of 2k + 1 over 2k + 2
 
-![image](https://user-images.githubusercontent.com/65668613/137988555-20303f45-758e-463a-a330-e06930977d4d.png)
+$$\lim_{x \to \infity} \frac{x}{sinx}
 {{< hl-text red >}}the limit as x goes to infinity{{< /hl-text >}} **of** {{< hl-text green >}}x over sine x{{< /hl-text >}}
 the limit as x tends to infinity of x divided by sine x
 
