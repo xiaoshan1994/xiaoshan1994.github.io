@@ -301,6 +301,4 @@ $$\lim_{n \to \infty} \sum_{i=1}^n (\frac{2i}{n})(\frac{2}{n})$$
 {{< hl-text red >}}The limit as n goes to infinity{{< /hl-text >}},of {{< hl-text green >}} the sum from i equals one to n{{< /hl-text >}}, of {{< hl-text blue >}}two i over n times two over n{{< /hl-text >}}.
 
 
-
-
 [^deci]: /ˈdesəməl/, e.g. calculations accurate to three decimal places (=one of the numbers after the full stop in a decimal) 精确到小数点后三位的计算.
