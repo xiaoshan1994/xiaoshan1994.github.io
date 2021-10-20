@@ -287,6 +287,9 @@ $$x1,... ,xn$$
 $$ y = {(x-2)}^{(x+1)}$$
 {{< hl-text red >}}y equals {{< hl-text green >}}the quantity{{< /hl-text >}} {{< hl-text red >}}x minus two (pause) {{< /hl-text >}} {{< hl-text green >}}all raised to the quantity{{< /hl-text >}}{{< hl-text red >}}x plus one{{< /hl-text >}}
 
+$$ y = {(7+z)}^{\frac{1}{z}}$$
+ Function f of z equals the quantity seven plus z raised to the one over z power
+
 $$\prod_{k-1}^n \frac{2k+1}{2k+2}$$
 {{< hl-text red >}}Product k equals 1 to n{{< /hl-text >}} of {{< hl-text green >}}2k + 1 over 2k + 2{{< /hl-text >}}
 
