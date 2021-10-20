@@ -186,7 +186,7 @@ The content is compiled from the website of [UEfAP](http://www.uefap.com/speakin
 {{< hl-text red >}}sinh x{{< /hl-text >}}	shine x
 {{< hl-text red >}}cosh x{{< /hl-text >}}	cosh x /kɒʃ/
 {{< hl-text red >}}tanh x{{< /hl-text >}}	than x /tæntʃ/
-{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}mod x; modulus x{{< /hl-text >}}
+{{< hl-text red >}}|x|{{< /hl-text >}}	{{< hl-text green >}}absolute value of x; modulus x{{< /hl-text >}}
 {{< hl-text red >}}18 ℃{{< /hl-text >}}	eighteen degrees Centigrade
 {{< hl-text red >}}70 ℉{{< /hl-text >}}	seventy degrees Fahrenheit
 {{< hl-text red >}}$\mathit{exp}(x)$, ex{{< /hl-text >}} {{< hl-text green >}}exponential of x, e to the x{{< /hl-text >}}
