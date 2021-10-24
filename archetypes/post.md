@@ -24,16 +24,11 @@ Math: True
 ### alert ribbon
 {{< alert info/success/warning/danger >}} content {{< /alert >}}
 ### Text highlights
-{{< hl-text red >}} content {{< /hl-text >}}
+{{< hl-text red/green/blue >}} content {{< /hl-text >}}
 ### Wide image showcase
 {{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
 ### underline in the text
-<u>content</u> # underline in the text
-### underline in the text
 <abbr title="Avenue">AVE</abbr>
-### sup- and subscript
-<sup>content</sup>
-<sub>content</sub>
 ### left or right quote
 {{< pullquote left/right >}}content{{< /pullquote >}}
 ### Youtube
