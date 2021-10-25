@@ -162,6 +162,7 @@ October 24, 2021
 <ul>
 <li><a href=#what-is-goodness-of-fit-for-a-linear-model>What is Goodness-of-Fit for a linear model?</a></li>
 <li><a href=#what-is-r-squared>What is R-squared?</a></li>
+<li><a href=#graphical-representation-of-r-squared>Graphical representation of R-squared</a></li>
 </ul>
 </nav>
 <h1 id=what-is-goodness-of-fit-for-a-linear-model>What is Goodness-of-Fit for a linear model?</h1>
@@ -175,9 +176,9 @@ October 24, 2021
 <p><strong>R-squared = Explained variation / Total variation</strong><br>
 Measured with two sums of squares formulas:<br>
 $$ R^2 = 1-\frac{SS_{res}}{SS_{tot}} $$<br>
-The sum of squares of residuals, also called the residual sum of squares:<br>
+The sum of squares of residuals, also called the **residual sum of squares**:<br>
 $$ SS_{res} = \sum_i (y_i-f_i)^2 = \sum_i e_i^2$$<br>
-The total sum of squares (proportional to the variance of the data):<br>
+The **total sum of squares** (proportional to the variance of the data):<br>
 $$ SS_{tot} = \sum_i (y_i-\bar{y})^2$$<br>
 Note: $\bar {y}$ is the mean of the observed data.</p>
 <p><span class="highlight-text red">R-squared is always between 0 and 100%</span>:</p>
@@ -189,6 +190,10 @@ $R^2 = 1- \frac{\color{blue}{SS_{res}}}{\color{red}{SS_{tot}}}$<br>
 The better the linear regression (on the right) fits the data in comparison to the simple average (on the left graph), the closer the value of $R^2$ is to 1. The areas of the blue squares represent the squared residuals with respect to the linear regression. The areas of the red squares represent the squared residuals with respect to the average value.</li>
 </ul>
 <p>In general, the higher the R-squared, the better the model fits your data. However, there are important conditions for this guideline that I’ll talk about both in this post and my next post.</p>
+<h1 id=graphical-representation-of-r-squared>Graphical representation of R-squared</h1>
+<p>Plotting fitted values by observed values graphically illustrates different R-squared values for regression models.<br>
+<img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/fittedxobserved.gif alt><br>
+The regression model on the left accounts for 38.0% of the variance while the one on the right accounts for 87.4%. The more variance that is accounted for by the regression model the closer the data points will fall to the fitted regression line. Theoretically, if a model could explain 100% of the variance, the fitted values would always equal the observed values and, therefore, all the data points would fall on the fitted regression line.</p>
 <section class=footnotes role=doc-endnotes>
 <hr>
 <ol>
