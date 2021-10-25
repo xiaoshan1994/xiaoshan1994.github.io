@@ -1,38 +1,40 @@
 <!doctype html><html lang=en-us>
 <head>
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"In this post, we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!","url":"https:\/\/xiaoshan1994.github.io\/post\/re_10242\/","keywords":"[tech, development, next-gen]"}</script>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"\u003cp\u003eReviewing the basic statistical concepts: expected value and variance.\u003c\/p\u003e","url":"https:\/\/xiaoshan1994.github.io\/post\/re_1025\/","keywords":"[tech, development, next-gen]"}</script>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
 <meta name=author content="Kai Li (李锴)">
 <meta name=keywords content="tech,development,next-gen">
-<meta name=description content="In this post, we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!">
-<meta property="og:description" content="In this post, we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!">
+<meta name=description content="Reviewing the basic statistical concepts: expected value and variance.">
+<meta property="og:description" content="Reviewing the basic statistical concepts: expected value and variance.">
 <meta property="og:type" content="article">
-<meta property="og:title" content="Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?">
-<meta name=twitter:title content="Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?">
-<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_10242/">
-<meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_10242/">
+<meta property="og:title" content="The memory of expected value and variance">
+<meta name=twitter:title content="The memory of expected value and variance">
+<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_1025/">
+<meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_1025/">
 <meta property="og:site_name" content="Blogs of Kai">
-<meta property="og:description" content="In this post, we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!">
-<meta name=twitter:description content="In this post, we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!">
+<meta property="og:description" content="Reviewing the basic statistical concepts: expected value and variance.">
+<meta name=twitter:description content="Reviewing the basic statistical concepts: expected value and variance.">
 <meta property="og:locale" content="en-us">
-<meta property="article:published_time" content="2021-10-24T12:05:35">
-<meta property="article:modified_time" content="2021-10-24T12:05:35">
+<meta property="article:published_time" content="2021-10-25T12:41:56">
+<meta property="article:modified_time" content="2021-10-25T12:41:56">
 <meta property="article:section" content="Research">
 <meta property="article:section" content="Statistics">
 <meta property="article:tag" content="regression">
-<meta property="article:tag" content="R-squared">
-<meta property="article:tag" content="Goodness-of-Fit">
+<meta property="article:tag" content="variance">
+<meta property="article:tag" content="expected value">
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@xiaoshan1994">
 <meta name=twitter:creator content="@xiaoshan1994">
-<meta property="og:image" content="https://datascience696.files.wordpress.com/2016/08/regressioncurv.png">
-<meta property="twitter:image" content="https://datascience696.files.wordpress.com/2016/08/regressioncurv.png">
-<title>Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?</title>
+<meta property="og:image" content="https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg">
+<meta property="twitter:image" content="https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg">
+<meta property="og:image" content="https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg">
+<meta property="twitter:image" content="https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg">
+<title>The memory of expected value and variance</title>
 <link rel=icon href=https://xiaoshan1994.github.io/favicons/favicon-16x16.png>
-<link rel=canonical href=https://xiaoshan1994.github.io/post/re_10242/>
+<link rel=canonical href=https://xiaoshan1994.github.io/post/re_1025/>
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin=anonymous referrerpolicy=no-referrer>
 <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin=anonymous referrerpolicy=no-referrer>
 <link rel=stylesheet href=https://xiaoshan1994.github.io/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css>
@@ -138,93 +140,82 @@
 </ul>
 </div>
 </nav>
-<div id=main data-behavior=4 class=hasCoverMetaIn>
-<article class=post id=top>
+<div class="post-header-cover
+text-center
+post-header-cover--partial" style=background-image:url(https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg) data-behavior=4>
 <div class="post-header main-content-wrap text-center">
 <h1 class=post-title>
-Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?
+The memory of expected value and variance
 </h1>
 <div class="postShorten-meta post-meta">
-<time datetime=2021-10-24T12:05:35+02:00>
-October 24, 2021
+<time datetime=2021-10-25T12:41:56+02:00>
+October 25, 2021
 </time>
 <span>in</span>
 <a class=category-link href=https://xiaoshan1994.github.io/categories/research>Research</a>,
 <a class=category-link href=https://xiaoshan1994.github.io/categories/statistics>Statistics</a>
 </div>
 </div>
+</div>
+<div id=main data-behavior=4 class="hasCover
+hasCoverMetaIn">
+<article class=post id=top>
 <div class="post-content markdown">
 <div class=main-content-wrap>
-<p>Low R-squared values are not always bad and high R-squared values are not always good!</p>
-<p>After you have fit a linear model using regression analysis, ANOVA (Analysis of variance), or design of experiments (DOE), you need to determine how well the model fits the data. [In this post]https://blog.minitab.com/en/adventures-in-statistics-2/regression-analysis-how-do-i-interpret-r-squared-and-assess-the-goodness-of-fit), we’ll explore the R-squared (R2 ) statistic, some of its limitations, and uncover some surprises along the way. For instance, low R-squared values are not always bad and high R-squared values are not always good!</p>
+<p>Reviewing the basic statistical concepts: expected value and variance.</p>
 <h1 id=table-of-contents>Table of Contents</h1>
 <nav id=TableOfContents>
 <ul>
-<li><a href=#what-is-goodness-of-fit-for-a-linear-model>What is Goodness-of-Fit for a linear model?</a></li>
-<li><a href=#what-is-r-squared>What is R-squared?</a></li>
-<li><a href=#graphical-representation-of-r-squared>Graphical representation of R-squared</a></li>
+<li><a href=#definition-of-the-expected-value>Definition of the expected value</a></li>
+<li><a href=#expected-value-of-a-continuous-and-a-discrete-random-variable>Expected value of a continuous and a discrete random variable</a></li>
+<li><a href=#definition-of-variance>Definition of variance</a></li>
 </ul>
 </nav>
-<h1 id=what-is-goodness-of-fit-for-a-linear-model>What is Goodness-of-Fit for a linear model?</h1>
-<p>Linear regression calculates <em><strong>an equation that minimizes the distance between the fitted line and all of the data points</strong></em>. Technically, ordinary least squares (OLS) regression minimizes the sum of the squared residuals.</p>
-<p>In general, a model fits the data well if the <strong>differences</strong> between the observed values and the model&rsquo;s predicted values are <strong>small</strong> and <strong>unbiased</strong>.</p>
-<p>Before you look at the statistical measures for goodness-of-fit, you should check the <strong>residual plots</strong> (Definition: Residual = Observed value - Fitted value). Residual plots can reveal unwanted residual patterns that indicate biased results more effectively than numbers. When your residual plots pass muster, you can trust your numerical results and check the goodness-of-fit statistics.</p>
-<p><span class="highlight-text orange">Roughly, Goodness-of-Fit indicates the discrepancy between observed values and the values expected under the model in question.</span> <sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup></p>
-<h1 id=what-is-r-squared>What is R-squared?</h1>
-<p>R-squared is a statistical measure of how close the data are to the fitted regression line. It is also known as the coefficient of determination (可决系数), or the coefficient of multiple determination for multiple regression.</p>
-<p>The definition of R-squared is fairly straight-forward; <span class="highlight-text orange">R-squared is the percentage of the response variable variation that is explained by a linear model.</span> Or:</p>
-<p><strong>R-squared = Explained variation / Total variation</strong><br>
-Measured with two sums of squares formulas:<br>
-$$ R^2 = 1-\frac{SS_{res}}{SS_{tot}} $$</p>
-<p>The sum of squares of residuals, also called the <strong>residual sum of squares</strong>:</p>
-<p>$$ SS_{res} = \sum_i (y_i-f_i)^2 = \sum_i e_i^2$$</p>
-<p>The <strong>total sum of squares</strong><sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup> (proportional to the variance of the data):</p>
-<p>$$ SS_{tot} = \sum_i (y_i-\bar{y})^2$$</p>
-<p>Note: $\bar {y}$ is the mean of the observed data.</p>
-<p>R-squared is always between 0 and 100%:</p>
-<ul>
-<li>0% indicates that the model explains none of the variability of the response data around its mean.</li>
-<li>100% indicates that the model explains all the variability of the response data around its mean.<br>
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Coefficient_of_Determination.svg/400px-Coefficient_of_Determination.svg.png alt><br>
-$R^2 = 1- \frac{\color{blue}{SS_{res}}}{\color{red}{SS_{tot}}}$<br>
-The better the linear regression (on the right) fits the data in comparison to the simple average (on the left graph), the closer the value of $R^2$ is to 1. The areas of the blue squares represent the squared residuals with respect to the linear regression. The areas of the red squares represent the squared residuals with respect to the average value.</li>
-</ul>
-<p>In general, the higher the R-squared, the better the model fits your data. However, there are important conditions for this guideline that I’ll talk about both in this post and my next post.</p>
-<h1 id=graphical-representation-of-r-squared>Graphical representation of R-squared</h1>
-<p>Plotting fitted values by observed values graphically illustrates different R-squared values for regression models.<br>
-<img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/fittedxobserved.gif alt><br>
-The regression model on the left accounts for 38.0% of the variance while the one on the right accounts for 87.4%. The more variance that is accounted for by the regression model the closer the data points will fall to the fitted regression line. Theoretically, if a model could explain 100% of the variance, the fitted values would always equal the observed values and, therefore, all the data points would fall on the fitted regression line.</p>
-<section class=footnotes role=doc-endnotes>
-<hr>
-<ol>
-<li id=fn:1 role=doc-endnote>
-<p><a href=https://en.wikipedia.org/wiki/Goodness_of_fit>https://en.wikipedia.org/wiki/Goodness_of_fit</a>&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
-</li>
-<li id=fn:2 role=doc-endnote>
-<p>For wide classes of linear models, the total sum of squares equals the explained sum of squares plus the residual sum of squares.&#160;<a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
+<h1 id=definition-of-the-expected-value>Definition of the expected value</h1>
+<p>In probability theory, the expected value of a random variable {\displaystyle X}X, often denoted {\displaystyle \operatorname {E} (X)}\operatorname {E}(X), {\displaystyle \operatorname {E} [X]}\operatorname {E} [X], or {\displaystyle EX}{\displaystyle EX}, is <span class="highlight-text orange">a generalization of the weighted average</span>, and is intuitively the arithmetic mean of a large number of independent realizations of {\displaystyle X}X. The expectation operator {\displaystyle \operatorname {E} }\operatorname {E} is also commonly stylized as {\displaystyle E}E or {\displaystyle \mathbb {E} }\mathbb {E} . The expected value is also known as the <strong>expectation</strong>, <strong>mathematical expectation</strong>, <strong>mean</strong>, <strong>average</strong>, or <strong>first moment</strong>. Expected value is a key concept in economics, finance, and many other subjects.</p>
+<h1 id=expected-value-of-a-continuous-and-a-discrete-random-variable>Expected value of a continuous and a discrete random variable</h1>
+<p>Let X be <strong>a continuous random variable</strong> with range [a, b] and probability<br>
+density function f(x). The expected value of X is defined by:</p>
+<p>$$ E(x) = \int_a^b xf(x) \mathrm{d}x$$</p>
+<p>Let’s see how this compares with the formula for <strong>a discrete random variable</strong>:<br>
+$$ E(x) = \sum_{i=1}^n x_ip(x_i) $$</p>
+<p>The discrete formula says to take a weighted sum of the values $x_i$ of X, where the weights are the probabilities $p_(x_i)$. Recall that f(x) is a probability density. Its units are prob/(unit of X).</p>
+<h1 id=definition-of-variance>Definition of variance</h1>
+<p>In probability theory and statistics, <span class="highlight-text orange">variance is the expectation of the squared deviation of a random variable from its population mean or sample mean</span>.</p>
+<p>$$ Var(X)= E[(X - \mu )^2]$$</p>
+<p>If the generator of random variable {\displaystyle X}X is discrete with probability mass function {\displaystyle x_{1}\mapsto p_{1},x_{2}\mapsto p_{2},\ldots ,x_{n}\mapsto p_{n}}{\displaystyle x_{1}\mapsto p_{1},x_{2}\mapsto p_{2},\ldots ,x_{n}\mapsto p_{n}}, then</p>
+<p>\operatorname {Var} (X)=\sum <em>{i=1}^{n}p</em>{i}\cdot (x_{i}-\mu )^{2},</p>
+<p>where {\displaystyle \mu }\mu is the expected value. That is,</p>
+<p>{\displaystyle \mu =\sum <em>{i=1}^{n}p</em>{i}x_{i}.}{\displaystyle \mu =\sum _{i=1}^{n}p_{i}x_{i}.}</p>
+<p>If the random variable {\displaystyle X}X has a probability density function {\displaystyle f(x)}f(x), and {\displaystyle F(x)}F(x) is the corresponding cumulative distribution function, then</p>
+<p>{\displaystyle {\begin{aligned}\operatorname {Var} (X)=\sigma ^{2}&=\int _{\mathbb {R} }(x-\mu )^{2}f(x),dx\[4pt]&=\int _{\mathbb {R} }x^{2},dF(x)-\mu ^{2},\end{aligned}}}<br>
+or equivalently,<br>
+{\displaystyle \operatorname {Var} (X)=\int _{\mathbb {R} }x^{2}f(x),dx-\mu ^{2},}{\displaystyle \operatorname {Var} (X)=\int _{\mathbb {R} }x^{2}f(x),dx-\mu ^{2},}</p>
+<p>Variance is a measure of dispersion, meaning it is a measure of how far a set of numbers is spread out from their average value. Variance has a central role in statistics, where some ideas that use it include descriptive statistics, statistical inference, hypothesis testing, goodness of fit, and Monte Carlo sampling.</p>
+<p><img src=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Comparison_standard_deviations.svg/400px-Comparison_standard_deviations.svg.png alt><br>
+Example of samples from two populations (总体) with the same mean but different variances. The red population has mean 100 and variance 100 (SD=10) while the blue population has mean 100 and variance 2500 (SD=50).</p>
+<p>An advantage of variance as a measure of dispersion is that it is more amenable to <strong>algebraic manipulation</strong> than other measures of dispersion such as the expected absolute deviation; for example, <em><strong>the variance of a sum of uncorrelated random variables is equal to the sum of their variances</strong></em>. A disadvantage of the variance for practical applications is that, unlike the standard deviation, <em><strong>its units differ from the random variable</strong></em>, which is why <strong>the standard deviation</strong> is more commonly reported as a measure of dispersion once the calculation is finished.</p>
+<p>There are two distinct concepts that are both called &ldquo;variance&rdquo;. One, as discussed above, is part of <strong>a theoretical probability distribution</strong> and is <strong>defined by an equation</strong>. The other variance is <strong>a characteristic of a set of observations</strong>. When variance is calculated from observations, those observations are typically measured from a real world system. If <strong>all</strong> possible observations of the system are present then the calculated variance is called the <span class="highlight-text orange">population variance</span>. Normally, however, only a subset is available, and the variance calculated from this is called the <span class="highlight-text orange">sample variance</span>. The variance calculated from a sample is considered <strong>an estimate of the full population variance</strong>. There are multiple ways to calculate an estimate of the population variance, as discussed in the section below.</p>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
 <div class=post-footer-tags>
 <span class="text-color-light text-small">TAGGED IN</span><br>
 <a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/regression/>regression</a>
-<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/r-squared/>R-squared</a>
-<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/goodness-of-fit/>Goodness-of-Fit</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/variance/>variance</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/expected-value/>expected value</a>
 </div>
 <div class=post-actions-wrap>
 <nav>
 <ul class="post-actions post-action-nav">
 <li class=post-action>
-<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1025/ data-tooltip="The memory of expected value and variance" aria-label="NEXT: The memory of expected value and variance">
+<a class="post-action-btn btn btn--disabled">
 <i class="fa fa-angle-left"></i>
 <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
 </a>
 </li>
 <li class=post-action>
-<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1024/ data-tooltip="How to Interpret a Regression Model with Low R-squared and Low P values" aria-label="PREVIOUS: How to Interpret a Regression Model with Low R-squared and Low P values">
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_10242/ data-tooltip="Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?" aria-label="PREVIOUS: Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?">
 <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
 <i class="fa fa-angle-right"></i>
 </a>
@@ -238,22 +229,22 @@ The regression model on the left accounts for 38.0% of the variance while the on
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Facebook" aria-label="Share on Facebook">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Facebook" aria-label="Share on Facebook">
 <i class="fab fa-facebook-square" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Twitter" aria-label="Share on Twitter">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Twitter" aria-label="Share on Twitter">
 <i class="fab fa-twitter" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
 <i class="fab fa-whatsapp" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Linkedin" aria-label="Share on Linkedin">
 <i class="fab fa-linkedin" aria-hidden=true></i>
 </a>
 </li>
@@ -272,7 +263,7 @@ The regression model on the left accounts for 38.0% of the variance while the on
 <div id=disqus_thread>
 <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
 </div>
-<script type=text/javascript>var disqus_config=function(){this.page.url='https://xiaoshan1994.github.io/post/re_10242/',this.page.identifier='/post/re_10242/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='https-xiaoshan1994-github-io',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
+<script type=text/javascript>var disqus_config=function(){this.page.url='https://xiaoshan1994.github.io/post/re_1025/',this.page.identifier='/post/re_1025/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='https-xiaoshan1994-github-io',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
 </div>
 </article>
 <footer id=footer class=main-content-wrap>
@@ -286,13 +277,13 @@ The regression model on the left accounts for 38.0% of the variance while the on
 <nav>
 <ul class="post-actions post-action-nav">
 <li class=post-action>
-<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1025/ data-tooltip="The memory of expected value and variance" aria-label="NEXT: The memory of expected value and variance">
+<a class="post-action-btn btn btn--disabled">
 <i class="fa fa-angle-left"></i>
 <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
 </a>
 </li>
 <li class=post-action>
-<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1024/ data-tooltip="How to Interpret a Regression Model with Low R-squared and Low P values" aria-label="PREVIOUS: How to Interpret a Regression Model with Low R-squared and Low P values">
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_10242/ data-tooltip="Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?" aria-label="PREVIOUS: Regression analysis: How do I interpret R-squared and assess the Goodness-of-Fit?">
 <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
 <i class="fa fa-angle-right"></i>
 </a>
@@ -306,22 +297,22 @@ The regression model on the left accounts for 38.0% of the variance while the on
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Facebook" aria-label="Share on Facebook">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Facebook" aria-label="Share on Facebook">
 <i class="fab fa-facebook-square" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Twitter" aria-label="Share on Twitter">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Twitter" aria-label="Share on Twitter">
 <i class="fab fa-twitter" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
 <i class="fab fa-whatsapp" aria-hidden=true></i>
 </a>
 </li>
 <li class="post-action hide-xs">
-<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_10242/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_1025/" title="Share on Linkedin" aria-label="Share on Linkedin">
 <i class="fab fa-linkedin" aria-hidden=true></i>
 </a>
 </li>
@@ -342,22 +333,22 @@ The regression model on the left accounts for 38.0% of the variance while the on
 <i id=btn-close-shareoptions class="fa fa-times"></i>
 <ul class=share-options>
 <li class=share-option>
-<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10242%2F" aria-label="Share on Facebook">
+<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1025%2F" aria-label="Share on Facebook">
 <i class="fab fa-facebook-square" aria-hidden=true></i><span>Share on Facebook</span>
 </a>
 </li>
 <li class=share-option>
-<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10242%2F" aria-label="Share on Twitter">
+<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1025%2F" aria-label="Share on Twitter">
 <i class="fab fa-twitter" aria-hidden=true></i><span>Share on Twitter</span>
 </a>
 </li>
 <li class=share-option>
-<a class=share-option-btn target=new href="https://wa.me/?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10242%2F" aria-label="Share on Whatsapp">
+<a class=share-option-btn target=new href="https://wa.me/?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1025%2F" aria-label="Share on Whatsapp">
 <i class="fab fa-whatsapp" aria-hidden=true></i><span>Share on Whatsapp</span>
 </a>
 </li>
 <li class=share-option>
-<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10242%2F" aria-label="Share on Linkedin">
+<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1025%2F" aria-label="Share on Linkedin">
 <i class="fab fa-linkedin" aria-hidden=true></i><span>Share on Linkedin</span>
 </a>
 </li>
