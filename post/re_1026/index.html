@@ -160,13 +160,15 @@ October 26, 2021
 <ul>
 <li><a href=#r-squared-as-a-biased-estimate>R-squared as a biased estimate</a></li>
 <li><a href=#r-squared-shrinkage>R-squared shrinkage</a></li>
+<li><a href=#precision-of-the-adjusted-r-squared-estimate>Precision of the adjusted R-Squared estimate</a></li>
+<li><a href=#power-and-sample-size-guidelines-for-regression-analysis>Power and sample size guidelines for regression analysis</a></li>
 </ul>
 </nav>
 <p>Using a sample to estimate the properties of an entire population is common practice in statistics. For example, the mean from a random sample estimates that parameter for an entire population. In linear regression analysis, we’re used to the idea that the <strong>regression coefficients</strong> are estimates of the true parameters. However, it’s easy to forget that R-squared (R2) is also an estimate. Unfortunately, it has a problem that many other estimates don’t have. <span class="highlight-text orange">R-squared is inherently biased!</span></p>
 <h1 id=r-squared-as-a-biased-estimate>R-squared as a biased estimate</h1>
 <p>R-squared measures the strength of the relationship between the predictors and response. The R-squared in your regression output is a biased estimate based on your sample.</p>
 <ul>
-<li>An unbiased estimate is one that is just as likely to be too high as it is to be too low, and it is correct on average. If you collect a random sample correctly, the sample mean is an unbiased estimate of the population mean.</li>
+<li>An unbiased estimate<sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup> is one that is just as likely to be too high as it is to be too low, and it is correct on average. If you collect a random sample correctly, the sample mean is an unbiased estimate of the population mean.</li>
 <li><strong>A biased estimate</strong> is <strong>systematically too high or low</strong>, and so is <strong>the average</strong>. <em><strong>It’s like a bathroom scale that always indicates you are heavier than you really are. No one wants that!</strong></em></li>
 </ul>
 <p>R-squared is like the broken bathroom scale: it is deceptively large. Researchers have long recognized that regression’s optimization process takes advantage of <strong><a href=http://www.vias.org/tmdatanaleng/cc_corr_bychance.html>chance correlations</a></strong> (偶然相关) in the sample data and inflates the R-squared.</p>
@@ -176,6 +178,31 @@ October 26, 2021
 <p>Adjusted R-squared does what you’d do with that broken bathroom scale. If you knew the scale was consistently too high, you’d reduce it by an appropriate amount to produce an accurate weight. In statistics this is called shrinkage. (You Seinfeld fans are probably giggling now. Yes, George, we’re talking about shrinkage, but here it’s a good thing!)</p>
 <p>We need to shrink the R-squared down so that it is not biased. Adjusted R-squared does this by comparing the sample size to the number of terms in your regression model.</p>
 <p>Regression models that have many samples per term produce a better R-squared estimate and require less shrinkage. Conversely, models that have few samples per term require more shrinkage to correct the bias.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/rsq_shrinkage_w640.png alt></p>
+<p>The graph shows greater shrinkage when you have a smaller sample size per term and lower R-squared values.</p>
+<h1 id=precision-of-the-adjusted-r-squared-estimate>Precision of the adjusted R-Squared estimate</h1>
+<p>Now that we have an unbiased estimator, let&rsquo;s take a look at the precision.</p>
+<p>Estimates in statistics have both a <strong>point estimate</strong> and a <strong>confidence interval</strong>. For example, the sample mean is the point estimate for the population mean. However, the population mean is unlikely to exactly equal the sample mean. A confidence interval provides a range of values that is likely to contain the population mean. Narrower confidence intervals indicate a more precise estimate of the parameter. Larger sample sizes help produce more precise estimates.</p>
+<p>All of this is true with the adjusted R-squared as well because it is just another estimate. The adjusted R-squared value is the point estimate, but how precise is it and what’s a good sample size?</p>
+<p>Rob Kelly, a senior statistician at Minitab, was asked to study this issue in order to develop power and sample size guidelines for regression in the Assistant menu. He simulated the distribution of adjusted R-squared values around different population values of R-squared for different sample sizes. This histogram shows the distribution of 10,000 simulated adjusted R-squared values for a true population value of 0.6 (rho-sq (adj)) for a simple regression model.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/adjrsqprecision_w640.png alt></p>
+<p>With 15 observations, the adjusted R-squared varies widely around the population value. Increasing the sample size from 15 to 40 greatly reduces the likely magnitude of the difference. With a sample size of 40 observations for a simple regression model, the margin of error for a 90% confidence interval is +/- 20%. For multiple regression models, the sample size guidelines increase as you add terms to the model.</p>
+<h1 id=power-and-sample-size-guidelines-for-regression-analysis>Power and sample size guidelines for regression analysis</h1>
+<p>These guidelines help ensure that you have sufficient power to detect a relationship and provide a reasonably precise estimate of the strength of that relationship. Specifically, if you follow these guidelines:</p>
+<ul>
+<li>The power of the overall F-test ranges from about 0.8 to 0.9 for a moderately weak relationship (0.25). Stronger relationships yield higher power.</li>
+<li>You can be 90% confident that the adjusted R-squared in your output is within +/- 20% of the true population R-squared value. Stronger relationships (~0.9) produce more precise estimates.</li>
+</ul>
+<p>In closing, if you want to estimate the strength of the relationship in the population, assess the adjusted R-squared and consider the precision of the estimate.</p>
+<p>Even when you meet the sample size guidelines for regression, the adjusted R-squared is a rough estimate. If the adjusted R2 in your output is 60%, you can be 90% confident that the population value is between 40-80%.</p>
+<section class=footnotes role=doc-endnotes>
+<hr>
+<ol>
+<li id=fn:1 role=doc-endnote>
+<p>An unbiased estimator of a parameter is an estimator whose expected value is equal to the parameter. That is, if the estimator S is being used to estimate a parameter θ, then S is an unbiased estimator of θ if E(S)=θ. If an estimator S is unbiased, then on average it is equal to the number it is trying to estimate.&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
