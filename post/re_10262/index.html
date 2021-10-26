@@ -1,0 +1,412 @@
+<!doctype html><html lang=en-us>
+<head>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"\u003cp\u003eThis blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!\u003c\/p\u003e","url":"https:\/\/xiaoshan1994.github.io\/post\/re_10262\/","keywords":"[tech, development, next-gen]"}</script>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=author content="Kai Li (李锴)">
+<meta name=keywords content="tech,development,next-gen">
+<meta name=description content="This blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!">
+<meta property="og:description" content="This blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Multiple Regression Analysis: Use Adjusted R-Squared and Predicted R-Squared to Include the Correct Number of Variables">
+<meta name=twitter:title content="Multiple Regression Analysis: Use Adjusted R-Squared and Predicted R-Squared to Include the Correct Number of Variables">
+<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_10262/">
+<meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_10262/">
+<meta property="og:site_name" content="Blogs of Kai">
+<meta property="og:description" content="This blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!">
+<meta name=twitter:description content="This blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!">
+<meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2021-10-26T17:44:19">
+<meta property="article:modified_time" content="2021-10-26T17:44:19">
+<meta property="article:section" content="Research">
+<meta property="article:section" content="Statistics">
+<meta property="article:tag" content="R-Squared">
+<meta property="article:tag" content="regression">
+<meta name=twitter:card content="summary">
+<meta name=twitter:site content="@xiaoshan1994">
+<meta name=twitter:creator content="@xiaoshan1994">
+<meta property="og:image" content="https://datapott.com/wp-content/uploads/2015/12/Adjusted-R-Squared-Formula.jpg">
+<meta property="twitter:image" content="https://datapott.com/wp-content/uploads/2015/12/Adjusted-R-Squared-Formula.jpg">
+<title>Multiple Regression Analysis: Use Adjusted R-Squared and Predicted R-Squared to Include the Correct Number of Variables</title>
+<link rel=icon href=https://xiaoshan1994.github.io/favicons/favicon-16x16.png>
+<link rel=canonical href=https://xiaoshan1994.github.io/post/re_10262/>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://xiaoshan1994.github.io/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script>
+</head>
+<body>
+<div id=blog>
+<header id=header data-behavior=4>
+<i id=btn-open-sidebar class="fa fa-lg fa-bars"></i>
+<div class=header-title>
+<a class=header-title-link href=https://xiaoshan1994.github.io/ aria-label="Go to homepage">Blogs of Kai</a>
+</div>
+<a class="header-right-icon st-search-show-outputs" href=https://xiaoshan1994.github.io/#search aria-label="Open the link: /#search">
+<i class="fa fa-lg fa-search"></i>
+</a>
+</header>
+<nav id=sidebar data-behavior=4>
+<div class=sidebar-container>
+<div class=sidebar-profile>
+<a href=https://xiaoshan1994.github.io/#about aria-label="Read more about the author">
+<img class=sidebar-profile-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+</a>
+<h4 class=sidebar-profile-name>Kai Li (李锴)</h4>
+<h5 class=sidebar-profile-bio>PhD candidate of Environmental Sciences, Leiden University</h5>
+</div>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/ title=Home>
+<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden=true></i>
+<span class=sidebar-button-desc>Home</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/post/about/ title="About me">
+<i class="sidebar-button-icon fas fa-lg fa-user" aria-hidden=true></i>
+<span class=sidebar-button-desc>About me</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/categories title=Categories>
+<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden=true></i>
+<span class=sidebar-button-desc>Categories</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/tags title=Tags>
+<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden=true></i>
+<span class=sidebar-button-desc>Tags</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/archives title=Archives>
+<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden=true></i>
+<span class=sidebar-button-desc>Archives</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1 target=_blank rel=noopener title="Staff page">
+<i class="sidebar-button-icon fas fa-lg fa-university" aria-hidden=true></i>
+<span class=sidebar-button-desc>Staff page</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN" target=_blank rel=noopener title="Google Scholar">
+<i class="sidebar-button-icon fab fa-lg fa-google" aria-hidden=true></i>
+<span class=sidebar-button-desc>Google Scholar</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://github.com/xiaoshan1994 target=_blank rel=noopener title=GitHub>
+<i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden=true></i>
+<span class=sidebar-button-desc>GitHub</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://twitter.com/xiaoshan1994 target=_blank rel=noopener title=Twitter>
+<i class="sidebar-button-icon fab fa-lg fa-twitter" aria-hidden=true></i>
+<span class=sidebar-button-desc>Twitter</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://www.facebook.com/profile.php?id=100063897362757" target=_blank rel=noopener title=Facebook>
+<i class="sidebar-button-icon fab fa-lg fa-facebook" aria-hidden=true></i>
+<span class=sidebar-button-desc>Facebook</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/index.xml title=RSS>
+<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden=true></i>
+<span class=sidebar-button-desc>RSS</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=mailto:k.li@cml.leidenuniv.nl target=_blank rel=noopener title=E-mail>
+<i class="sidebar-button-icon fas fa-lg fa-envelope" aria-hidden=true></i>
+<span class=sidebar-button-desc>E-mail</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div id=main data-behavior=4 class=hasCoverMetaIn>
+<article class=post id=top>
+<div class="post-header main-content-wrap text-center">
+<h1 class=post-title>
+Multiple Regression Analysis: Use Adjusted R-Squared and Predicted R-Squared to Include the Correct Number of Variables
+</h1>
+<div class="postShorten-meta post-meta">
+<time datetime=2021-10-26T17:44:19+02:00>
+October 26, 2021
+</time>
+<span>in</span>
+<a class=category-link href=https://xiaoshan1994.github.io/categories/research>Research</a>,
+<a class=category-link href=https://xiaoshan1994.github.io/categories/statistics>Statistics</a>
+</div>
+</div>
+<div class="post-content markdown">
+<div class=main-content-wrap>
+<p>This blog looks at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!</p>
+<h1 id=table-of-contents>Table of Contents</h1>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#some-problems-with-r-squared>Some problems with R-squared</a></li>
+<li><a href=#what-is-the-adjusted-r-squared>What is the adjusted R-Squared？</a></li>
+<li><a href=#what-is-the-predicted-r-squared>What is the predicted R-Squared?</a></li>
+<li><a href=#examples-of-overfit-models-and-predicted-r-squared>Examples of overfit models and predicted R-Squared</a></li>
+</ul>
+</nav>
+<p>Multiple regression can be a beguiling, temptation-filled analysis. It’s so easy to add more variables as you think of them, or just because the data are handy. Some of the predictors will be significant. Perhaps there is a relationship, or is it just by chance? You can add <strong>higher-order polynomials</strong> to bend and twist that fitted line as you like, but are you fitting real patterns or just connecting the dots? All the while, the R-squared (R2) value increases, teasing you, and egging you on to add more variables!</p>
+<p>Previously, I showed how R-squared can be misleading when you assess the goodness-of-fit for linear regression analysis. In this post, we’ll look at why you should resist the urge to add too many predictors to a regression model, and how the adjusted R-squared and predicted R-squared can help!</p>
+<h1 id=some-problems-with-r-squared>Some problems with R-squared</h1>
+<p>In my last post, I showed how R-squared cannot determine whether the coefficient estimates and predictions are biased, which is why you must assess the residual plots. However, R-squared has additional problems that the adjusted R-squared and predicted R-squared are designed to address.</p>
+<p>Problem 1: Every time you add a predictor to a model, the R-squared increases, even if due to chance alone. It never decreases. Consequently, a model with more terms may appear to have a better fit simply because it has more terms.</p>
+<p>Problem 2: <em><strong>If a model has too many predictors and higher order polynomials, it begins to model the random noise in the data</strong></em>. This condition is known as <strong>overfitting the model</strong> and it produces misleadingly high R-squared values and a lessened ability to make predictions.</p>
+<h1 id=what-is-the-adjusted-r-squared>What is the adjusted R-Squared？</h1>
+<p>The <strong>adjusted R-Squared</strong> compares the explanatory power of regression models that contain <strong>different numbers of predictors</strong>.</p>
+<p>Suppose you compare a five-predictor model with a higher R-squared to a one-predictor model. Does the five predictor model have a higher R-squared because it’s better? Or is the R-squared higher because it has more predictors? Simply compare the adjusted R-squared values to find out!</p>
+<p><span class="highlight-text orange">The adjusted R-Squared is a modified version of R-squared that has been adjusted for the number of predictors in the model</span>. The adjusted R-squared increases only if the new term improves the model more than would be expected by chance. It decreases when a predictor improves the model by less than expected by chance. The adjusted R-squared can be negative, but it’s usually not. It is always lower than the R-squared.</p>
+<p>The formula to calculate R-Squared is:<br>
+$$ R_{adj}^2 = 1 - [\frac {(1-R^2)(n-1)}{n-k-1}]$$<br>
+where</p>
+<ul>
+<li>n = the number of points in your data sample.</li>
+<li>k = the number of independent regressors, i.e. the number of variables in your model, excluding the constant.</li>
+</ul>
+<p>In the simplified Best Subsets Regression output below, you can see where the adjusted R-squared peaks, and then declines. Meanwhile, the R-Squared continues to increase.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/bestsubsetsex.gif alt></p>
+<p>You might want to include only three predictors in this model. In my last blog, we saw how an under-specified model (one that was too simple) can produce biased estimates. However, an overspecified model (one that&rsquo;s too complex) is more likely to reduce the precision of coefficient estimates and predicted values. Consequently, you don’t want to include more terms in the model than necessary.</p>
+<p>Finally, a different use for the adjusted R-squared is that it provides an unbiased estimate of the population R-Squared.</p>
+<h1 id=what-is-the-predicted-r-squared>What is the predicted R-Squared?</h1>
+<p>The predicted R-Squared indicates how well a regression model predicts responses for new observations. This statistic helps you determine when the model fits the original data but is less capable of providing valid predictions for new observations.</p>
+<p>Minitab calculates predicted R-squared by systematically removing each observation from the data set, estimating the regression equation, and determining how well the model predicts the removed observation. Like adjusted R-squared, predicted R-squared can be negative and it is always lower than R-squared.</p>
+<p>Even if you don’t plan to use the model for predictions, the predicted R-squared still provides crucial information.</p>
+<p>A key benefit of predicted R-squared is that it can prevent you from overfitting a model. As mentioned earlier, an overfit model contains too many predictors and it starts to model the random noise.</p>
+<p>Because it is impossible to predict random noise, the predicted R-squared must drop for an overfit model. If you see a predicted R-squared that is much lower than the regular R-squared, you almost certainly have too many terms in the model.</p>
+<h1 id=examples-of-overfit-models-and-predicted-r-squared>Examples of overfit models and predicted R-Squared</h1>
+<p>There’s an easy way for you to see an overfit model in action. If you analyse a linear regression model that has one predictor for each degree of freedom, you’ll always get an R-squared of 100%!</p>
+<p>In the random data worksheet, I created 10 rows of random data for a response variable and nine predictors. Because there are nine predictors and nine degrees of freedom, we get an R-squared of 100%.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/rsq100.gif alt></p>
+<p>It appears that the model accounts for all of the variation. However, we know that the random predictors do not have any relationship to the random response! We are just fitting the random variability.</p>
+<p>That’s an extreme case, but let’s look at some real data in the President&rsquo;s ranking worksheet.</p>
+<p>These data come from my post about great Presidents. I found no association between each President’s highest approval rating and the historian’s ranking. In fact, I described that fitted line plot (below) as an exemplar of no relationship, a flat line with an R-squared of 0.7%!</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/high_ftl.gif alt></p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/overfitlineplot.gif alt></p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/swooverfitpresidents.gif alt></p>
+<p>Wow, both the R-squared and adjusted R-squared look pretty good! Also, the coefficient estimates are all significant because their p-values are less than 0.05. The residual plots (not shown) look good too. Great!</p>
+<p>Not so fast&mldr;all that we&rsquo;re doing is excessively bending the fitted line to artificially connect the dots rather than finding a true relationship between the variables.</p>
+<p>Our model is too complicated and the predicted R-squared gives this away. We actually have a negative predicted R-squared value. That may not seem intuitive, but if 0% is terrible, a negative percentage is even worse!</p>
+<p>The predicted R-squared doesn’t have to be negative to indicate an overfit model. If you see the predicted R-squared start to fall as you add predictors, even if they’re significant, you should begin to worry about overfitting the model.</p>
+</div>
+</div>
+<div id=post-footer class="post-footer main-content-wrap">
+<div class=post-footer-tags>
+<span class="text-color-light text-small">TAGGED IN</span><br>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/r-squared/>R-Squared</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/regression/>regression</a>
+</div>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--disabled">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1026/ data-tooltip="R-squared Shrinkage and Power and Sample Size Guidelines for Regression Analysis" aria-label="PREVIOUS: R-squared Shrinkage and Power and Sample Size Guidelines for Regression Analysis">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+<div id=disqus_thread>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+</div>
+<script type=text/javascript>var disqus_config=function(){this.page.url='https://xiaoshan1994.github.io/post/re_10262/',this.page.identifier='/post/re_10262/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='https-xiaoshan1994-github-io',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
+</div>
+</article>
+<footer id=footer class=main-content-wrap>
+<span class=copyrights>
+&copy; 2021 Kai Li (李锴). All Rights Reserved
+</span>
+</footer>
+</div>
+<div id=bottom-bar class=post-bottom-bar data-behavior=4>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--disabled">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1026/ data-tooltip="R-squared Shrinkage and Power and Sample Size Guidelines for Regression Analysis" aria-label="PREVIOUS: R-squared Shrinkage and Power and Sample Size Guidelines for Regression Analysis">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_10262/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id=share-options-bar class=share-options-bar data-behavior=4>
+<i id=btn-close-shareoptions class="fa fa-times"></i>
+<ul class=share-options>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10262%2F" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i><span>Share on Facebook</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10262%2F" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i><span>Share on Twitter</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://wa.me/?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10262%2F" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i><span>Share on Whatsapp</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_10262%2F" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i><span>Share on Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+<div id=share-options-mask class=share-options-mask></div>
+</div>
+<div id=about>
+<div id=about-card>
+<div id=about-btn-close>
+<i class="fa fa-times"></i>
+</div>
+<img id=about-card-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+<h4 id=about-card-name>Kai Li (李锴)</h4>
+<div id=about-card-bio>PhD candidate of Environmental Sciences, Leiden University</div>
+<div id=about-card-job>
+<i class="fa fa-briefcase"></i>
+<br>
+Leiden University
+</div>
+<div id=about-card-location>
+<i class="fa fa-map-marker-alt"></i>
+<br>
+the Netherlands
+</div>
+</div>
+</div>
+<div id=cover style=background-image:url(https://i.redd.it/4w8jxyi56if41.jpg)></div>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://xiaoshan1994.github.io/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js></script>
+<script>$(document).ready(function(){hljs.configure({classPrefix:'',useBR:!1}),$('pre.code-highlight > code, pre > code').each(function(b,a){$(this).hasClass('codeblock')||$(this).addClass('codeblock'),hljs.highlightBlock(a)})})</script>
+<script type=text/javascript async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin=anonymous></script>
+<script type=text/x-mathjax-config>
+    MathJax.Hub.Config({
+      CommonHTML: { linebreaks: { automatic: true } },
+      tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+      messageStyle: 'none'
+    });
+  </script>
+</body>
+</html>
