@@ -165,6 +165,32 @@ October 24, 2021
 <img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/flp_highvar.png alt><br>
 <img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/flp_lowvar.png alt></p>
 <h3 id=similarities-between-the-regression-models>Similarities between the regression models</h3>
+<p>The two models are nearly identical in several ways:</p>
+<ul>
+<li>Regression equations: Output = 44 + 2 * Input</li>
+<li>Input is significant with P &lt; 0.001 for both models</li>
+</ul>
+<p>You can see that the upward slope of both regression lines is about 2, and they accurately follow the trend that is present in both datasets.</p>
+<p>The interpretation of the P value and coefficient for Input doesn’t change. If you move right on either line by increasing Input by one unit, there is an average two-unit increase in Output. For both models, the significant P value indicates that you can reject the null hypothesis that the coefficient equals zero (no effect).</p>
+<p>Further, if you enter the same value for Input into both equations, you’ll calculate nearly equivalent predicted values for Output. For instance, an Input of 10 yields a predicted Output of 66.2 for one model and 64.8 for the other model.</p>
+<h1 id=differences-between-the-regression-models>Differences between the regression models</h1>
+<p>I bet the main difference is the first thing you noticed about these fitted line plots: The variability of the data around the two regression lines is drastically different. $R_2$ and S (standard error of the regression) numerically describe this variability.</p>
+<p>The low R-squared graph shows that even noisy, high-variability data can have a significant trend. The trend indicates that the predictor variable still provides information about the response even though data points fall further from the regression line. Keep this graph in mind when you try to reconcile significant variables with a low R-squared value!</p>
+<p>As we saw, the two regression equations produce nearly identical predictions. However, the differing levels of variability affect the precision of these predictions.</p>
+<p>To assess the precision, we’ll look at prediction intervals. A prediction interval is a range that is likely to contain the response value of a single new observation given specified settings of the predictors in your model. Narrower intervals indicate more precise predictions. Below are the fitted values and prediction intervals for an Input of 10.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/pred_lowvar.png alt></p>
+<p>The model with the high variability data produces a prediction interval that extends from about -500 to 630, over 1100 units! Meanwhile, the low variability model has a prediction interval from -30 to 160, about 200 units. Clearly, the predictions are much more precise from the high R-squared model, even though the fitted values are nearly the same!</p>
+<p>The difference in precision should make sense after seeing the variability present in the actual data. When the data points are spread out further, the predictions must reflect that added uncertainty.</p>
+<h1 id=closing-thoughts>Closing thoughts</h1>
+<p>Let’s recap what we’ve learned:</p>
+<ul>
+<li>The coefficients estimate the trends while R-squared represents the scatter around the regression line.</li>
+<li>The interpretations of the significant variables are the same for both high and low R-squared models.</li>
+<li>Low R-squared values are problematic when you need precise predictions.</li>
+</ul>
+<p>So, what’s to be done if you have significant predictors but a low R-squared value? I can hear some of you saying, &ldquo;add more variables to the model!&rdquo;</p>
+<p>In some cases, it’s possible that additional predictors can increase the true explanatory power of the model. However, in other cases, the data contain an inherently higher amount of unexplainable variability. For example, many psychology studies have R-squared values less that 50% because people are fairly unpredictable.</p>
+<p>The good news is that even when R-squared is low, low P values still indicate a real relationship between the significant predictors and the response variable.</p>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
