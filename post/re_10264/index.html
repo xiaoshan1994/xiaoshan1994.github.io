@@ -1,22 +1,22 @@
 <!doctype html><html lang=en-us>
 <head>
-<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"","url":"https:\/\/xiaoshan1994.github.io\/post\/re_10264\/","keywords":"[tech, development, next-gen]"}</script>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"\u003cp\u003eThis blog presents four tips that will help you avoid the more common mistakes of \u003cstrong\u003eapplied regression analysis\u003c\/strong\u003e that I identified in the research literature.\u003c\/p\u003e","url":"https:\/\/xiaoshan1994.github.io\/post\/re_10264\/","keywords":"[tech, development, next-gen]"}</script>
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="IE=edge">
 <meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
 <meta name=author content="Kai Li (李锴)">
 <meta name=keywords content="tech,development,next-gen">
-<meta name=description content>
-<meta property="og:description" content>
+<meta name=description content="This blog presents four tips that will help you avoid the more common mistakes of applied regression analysis that I identified in the research literature.">
+<meta property="og:description" content="This blog presents four tips that will help you avoid the more common mistakes of applied regression analysis that I identified in the research literature.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Four Tips on How to Perform a Regression Analysis that Avoids Common Problems">
 <meta name=twitter:title content="Four Tips on How to Perform a Regression Analysis that Avoids Common Problems">
 <meta property="og:url" content="https://xiaoshan1994.github.io/post/re_10264/">
 <meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_10264/">
 <meta property="og:site_name" content="Blogs of Kai">
-<meta property="og:description" content>
-<meta name=twitter:description content>
+<meta property="og:description" content="This blog presents four tips that will help you avoid the more common mistakes of applied regression analysis that I identified in the research literature.">
+<meta name=twitter:description content="This blog presents four tips that will help you avoid the more common mistakes of applied regression analysis that I identified in the research literature.">
 <meta property="og:locale" content="en-us">
 <meta property="article:published_time" content="2021-10-26T22:52:40">
 <meta property="article:modified_time" content="2021-10-26T22:52:40">
@@ -151,10 +151,21 @@ October 26, 2021
 </div>
 <div class="post-content markdown">
 <div class=main-content-wrap>
-<p><h1 id=table-of-contents>Table of Contents</h1>
-<nav id=TableOfContents></nav>
-<br>
-<a href=https://blog.minitab.com/en/adventures-in-statistics-2/four-tips-on-how-to-perform-a-regression-analysis-that-avoids-common-problems>https://blog.minitab.com/en/adventures-in-statistics-2/four-tips-on-how-to-perform-a-regression-analysis-that-avoids-common-problems</a></p>
+<p>This blog presents four tips that will help you avoid the more common mistakes of <strong>applied regression analysis</strong> that I identified in the research literature.</p>
+<p>I’ll focus on applied regression analysis, which is used to make decisions rather than just determining the statistical significance of the predictors. Applied regression analysis emphasizes both being able to influence the outcome and the precision of the predictions.<br>
+<h1 id=table-of-contents>Table of Contents</h1>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#tip-1-use-prior-studies-to-determine-which-variables-to-include-in-the-regression-model>Tip 1: Use prior studies to determine which variables to include in the regression model</a></li>
+</ul>
+</nav>
+</p>
+<h1 id=tip-1-use-prior-studies-to-determine-which-variables-to-include-in-the-regression-model>Tip 1: Use prior studies to determine which variables to include in the regression model</h1>
+<p>Before beginning the regression analysis, you should already have an idea of <strong>what the important variables are</strong> along with <strong>their relationships</strong>, <strong>coefficient signs</strong>, and <strong>effect magnitudes based on previous research</strong>. Unfortunately, recent trends have moved away from this approach thanks to large, readily available databases and automated procedures that build regression models.</p>
+<p>If you want see the problem with data mining in action, simply create a worksheet in Minitab Statistical Software that has 101 columns, each of which contains 30 rows of random data, or use tdhis worksheet. Then, perform stepwise regression using one column as the response variable and all of the others as the potential predictor variables. This simulates dredging through a data set to see what sticks.</p>
+<p>The results below are for the entirely random data. Each column in the output shows the model fit statistics for the first 5 steps of the stepwise procedure. For five predictors, we got an R-squared of 84.23% and an adjusted R-squared of 80.12%! The p-values (not shown) are all very low, often less than 0.01!</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/random_stepwise.gif alt></p>
+<p>While stepwise regression and best subsets regression have their place in the early stages, you need more reason to include a predictor variable in a final regression model than just being able to reject the null hypothesis.</p>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
