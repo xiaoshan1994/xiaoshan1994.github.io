@@ -164,6 +164,8 @@ October 24, 2021
 <li><a href=#what-is-r-squared>What is R-squared?</a></li>
 <li><a href=#graphical-representation-of-r-squared>Graphical representation of R-squared</a></li>
 <li><a href=#key-limitations-of-r-squared>Key limitations of R-squared</a></li>
+<li><a href=#are-low-r-squared-values-inherently-bad>Are low R-squared values inherently bad?</a></li>
+<li><a href=#are-high-r-squared-values-inherently-good>Are high R-squared values inherently good?</a></li>
 </ul>
 </nav>
 <h1 id=what-is-goodness-of-fit-for-a-linear-model>What is Goodness-of-Fit for a linear model?</h1>
@@ -198,6 +200,19 @@ The regression model on the left accounts for 38.0% of the variance while the on
 <h1 id=key-limitations-of-r-squared>Key limitations of R-squared</h1>
 <p><span class="highlight-text orange">R-squared cannot determine whether the coefficient estimates and predictions are biased</span>, which is why you must assess the residual plots.</p>
 <p>R-squared does not indicate whether a regression model is adequate. You can have a low R-squared value for a good model, or a high R-squared value for a model that does not fit the data!</p>
+<h1 id=are-low-r-squared-values-inherently-bad>Are low R-squared values inherently bad?</h1>
+<p>No! There are two major reasons why it can be just fine to have low R-squared values.</p>
+<p>In some fields, it is entirely expected that your R-squared values will be low. For example, any field that attempts to predict human behavior, such as psychology, typically has R-squared values lower than 50%. Humans are simply harder to predict than, say, physical processes.</p>
+<p>Furthermore, <span class="highlight-text orange">if your R-squared value is low but you have statistically significant predictors, you can still draw important conclusions about how changes in the predictor values are associated with changes in the response value</span>. Regardless of the R-squared, the significant coefficients still represent the mean change in the response for one unit of change in the predictor while holding other predictors in the model constant. Obviously, this type of information can be extremely valuable.</p>
+<p><a href=https://xiaoshan1994.github.io/post/re_1024/>See a graphical illustration of why a low R-squared doesn&rsquo;t affect the interpretation of significant variables</a>.</p>
+<p><span class="highlight-text orange">A low R-squared is most problematic when you want to produce predictions that are reasonably precise (have a small enough prediction interval)</span>. How high should the R-squared be for prediction? Well, that depends on your requirements for the width of a prediction interval and how much variability is present in your data. While a high R-squared is required for precise predictions, it’s not sufficient by itself, as we shall see.</p>
+<h1 id=are-high-r-squared-values-inherently-good>Are high R-squared values inherently good?</h1>
+<p>No! A high R-squared does not necessarily indicate that the model has a good fit. That might be a surprise, but look at the fitted line plot and residual plot below. The fitted line plot displays the relationship between semiconductor electron mobility and the natural log of the density for real experimental data.</p>
+<p><img src=https://blog.minitab.com/hubfs/Imported_Blog_Media/flplinear-1.gif alt></p>
+<p>The fitted line plot shows that these data follow a nice tight function and the R-squared is 98.5%, which sounds great. However, look closer to see how the regression line systematically over and under-predicts the data (bias) at different points along the curve. You can also see patterns in the Residuals versus Fits plot, rather than the randomness that you want to see. This indicates a bad fit, and serves as a reminder as to why you should always check the residual plots.</p>
+<p>This example comes from my post about choosing between linear and nonlinear regression. In this case, the answer is to use nonlinear regression because linear models are unable to fit the specific curve that these data follow.</p>
+<p>However, similar biases can occur when your linear model is missing important predictors, polynomial terms, and interaction terms. Statisticians call this specification bias, and it is caused by an underspecified model. For this type of bias, you can fix the residuals by adding the proper terms to the model.</p>
+<p>For more information about how a high R-squared is not always good a thing, read the blog Five Reasons Why Your R-squared Can Be Too High.</p>
 <section class=footnotes role=doc-endnotes>
 <hr>
 <ol>
