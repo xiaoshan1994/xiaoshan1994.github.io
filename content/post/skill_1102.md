@@ -77,7 +77,7 @@ The number of publications with at least 10 citations.
 Finally, the h5-index, h5-core, and h5-median of a publication are, respectively, the h-index, h-core, and h-median of only those of its articles that were published in the last five complete calendar years.
 
 # Understanding some confusing concepts
-## What Are Scopus and Web of Science?
+## What are Scopus and Web of Science?
 
 **{{< hl-text orange>}}Scopus{{< /hl-text >}}** and **{{< hl-text orange>}}Web of Science{{< /hl-text >}}** {{< hl-text orange>}}are the largest worldwide-used{{< /hl-text >}} **{{< hl-text orange>}}citation databases{{< /hl-text >}}**[^cita]. Today, these are the most respected platforms for analysing peer-reviewed literature: scientific publications, conference proceedings, and books.
 
@@ -85,14 +85,14 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 
 {{< hl-text orange>}}Web of Science is currently maintained by Clarivate Analytics{{< /hl-text >}}.
 
-***The Web of Science Core Collection*** consists of **six** online databases:
+**The Web of Science Core Collection** consists of **six** online databases:
 
-Science Citation Index Expanded covers more than 8,500 notable journals encompassing 150 disciplines. Coverage is from the year 1900 to the present day.
-Social Sciences Citation Index covers more than 3,000 journals in social science disciplines. Range of coverage is from the year 1900 to the present day.
-Arts & Humanities Citation Index covers more than 1,700 arts and humanities journals starting from 1975. In addition, 250 major scientific and social sciences journals are also covered.
-Emerging Sources Citation Index covers over 5,000 journals in the sciences, social science, and humanities.
-Book Citation Index covers more than 60,000 editorially selected books starting from 2005.
-Conference Proceedings Citation Index (CPCI) covers more than 160,000 conference titles in the Sciences starting from 1990 to the present day[19]
+***Science Citation Index Expanded*** (SCIE) covers more than **8,500** notable journals encompassing 150 disciplines. Coverage is from the year 1900 to the present day.
+***Social Sciences Citation Index*** (SSCI) covers more than **3,000** journals in social science disciplines. Range of coverage is from the year 1900 to the present day.
+***Arts & Humanities Citation Index*** covers more than **1,700** arts and humanities journals starting from 1975. In addition, 250 major scientific and social sciences journals are also covered.
+***Emerging Sources Citation Index*** covers over **5,000** journals in the sciences, social science, and humanities.
+***Book Citation Index*** covers more than **60,000** editorially selected books starting from 2005.
+***Conference Proceedings Citation Index*** (CPCI) covers more than **160,000** conference titles in the Sciences starting from 1990 to the present day.
 
 ## What is ScienceDirect?
 
