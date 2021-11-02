@@ -17,9 +17,7 @@ thumbnailImagePosition: left
 metaAlignment: center
 Math: True
 ---
-
 <!--more-->
-
 {{< toc >}}
 # Journal Citation Reports
 ## Journal Impact Factor
