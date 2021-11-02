@@ -80,12 +80,23 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 # Understanding some confusing concepts
 ## What Are Scopus and Web of Science?
 
-**{{< hl-text orange>}}Scopus{{< /hl-text >}}** and **{{< hl-text orange>}}Web of Science{{< /hl-text >}}** {{< hl-text orange>}}are the largest worldwide-used{{< /hl-text >}} **{{< hl-text orange>}}citation databases{{< /hl-text >}}**. Today, these are the most respected platforms for analysing peer-reviewed literature: scientific publications, conference proceedings, and books.
+**{{< hl-text orange>}}Scopus{{< /hl-text >}}** and **{{< hl-text orange>}}Web of Science{{< /hl-text >}}** {{< hl-text orange>}}are the largest worldwide-used{{< /hl-text >}} **{{< hl-text orange>}}citation databases{{< /hl-text >}}**[^cita]. Today, these are the most respected platforms for analysing peer-reviewed literature: scientific publications, conference proceedings, and books.
 
 {{< hl-text orange>}}Scopus is Elsevier's abstract and citation database launched in 2004. {{< /hl-text >}}
 
 {{< hl-text orange>}}Web of Science is currently maintained by Clarivate Analytics{{< /hl-text >}}.
 
+***The Web of Science Core Collection*** consists of **six** online databases:
+
+Science Citation Index Expanded covers more than 8,500 notable journals encompassing 150 disciplines. Coverage is from the year 1900 to the present day.
+Social Sciences Citation Index covers more than 3,000 journals in social science disciplines. Range of coverage is from the year 1900 to the present day.
+Arts & Humanities Citation Index covers more than 1,700 arts and humanities journals starting from 1975. In addition, 250 major scientific and social sciences journals are also covered.
+Emerging Sources Citation Index covers over 5,000 journals in the sciences, social science, and humanities.
+Book Citation Index covers more than 60,000 editorially selected books starting from 2005.
+Conference Proceedings Citation Index (CPCI) covers more than 160,000 conference titles in the Sciences starting from 1990 to the present day[19]
+
 ## What is ScienceDirect?
 
 {{< hl-text orange>}}ScienceDirect is a {{< /hl-text >}}{{< hl-text orange>}}**website**{{< /hl-text >}} {{< hl-text orange>}}which provides access to a large {{< /hl-text >}}**{{< hl-text orange>}}full-text database{{< /hl-text >}}** {{< hl-text orange>}}of scientific and medical publications of the{{< /hl-text >}} **{{< hl-text orange>}}Dutch publisher Elsevier{{< /hl-text >}}**. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read. {{< hl-text orange>}}ScienceDirect is operated by the British-Dutch publisher {{< /hl-text >}}**{{< hl-text orange>}}Elsevier{{< /hl-text >}}**. It was launched in March 1997.
+
+[^cita]: Citation databases are databases that have been developed for evaluating publications. The citation databases enable you to **count citations** and check, for example, which articles or journals are the most cited ones. Note: None of the citation databases cover all publications. ***The coverage of different disciplines also varies greatly***. Citation analysis and bibliometric indicators are based on citations and the amount of them. Citing in itself, however, is not a quality criterion and there can be many reasons for the citing (**negative citations**, **ethnocentricity** (/ˌeθnəʊˈsentrɪk/), **self-citation**).
