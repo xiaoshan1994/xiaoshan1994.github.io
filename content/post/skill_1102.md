@@ -70,7 +70,7 @@ The 5-year Impact Factor is the average number of times articles from the journa
 
 * CiteScore calculation is based on **Scopus data**, while Impact Factor is based on Web of Science data.
 * CiteScore uses a **4-year window** while Impact Factor adopts a **2-year window**.
-* CiteScore includes more document types indexed by Scopus, including articles, reviews, conference papers, data papers and book chapters; while Impact Factor only includes "citable documents" which are articles and reviews.
+* CiteScore includes more document types indexed by Scopus, including articles, reviews, conference papers, data papers and book chapters; while Impact Factor only includes **"citable documents"** which are articles and reviews.
 
 # Google Scholar Metrics
 
