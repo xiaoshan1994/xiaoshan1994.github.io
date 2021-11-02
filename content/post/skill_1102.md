@@ -66,6 +66,12 @@ JIF without self citations is calculated by subtracting self citations in the la
 The 5-year Impact Factor is the average number of times articles from the journal published in the past five years have been cited in the JCR year. {{< hl-text orange>}}It is calculated by dividing the number of citations in the JCR year by the total number of articles published in the five previous years.{{< /hl-text >}}
 
 
+## Major difference between CiteScore and Journal Impact Factor
+
+* CiteScore calculation is based on **Scopus data**, while Impact Factor is based on Web of Science data.
+* CiteScore uses a **4-year window** while Impact Factor adopts a **2-year window**.
+* CiteScore includes more document types indexed by Scopus, including articles, reviews, conference papers, data papers and book chapters; while Impact Factor only includes "citable documents" which are articles and reviews.
+
 # Google Scholar Metrics
 
 ## h-index
@@ -95,6 +101,7 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 {{< hl-text orange>}}Web of Science is currently maintained by Clarivate Analytics{{< /hl-text >}}.
 
 Clarivate (formerly **Clarivate Analytics**) was formerly the Intellectual Property and Science **division** of **Thomson Reuters**. Before 2008, it was known as Thomson Scientific. In **2016**, Thomson Reuters struck a $3.55 billion deal in which they spun it off into an independent company, and sold it to **private-equity firms** Onex Corporation and Baring Private Equity Asia.
+
 
 ## What is ScienceDirect?
 
