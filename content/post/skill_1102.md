@@ -83,8 +83,6 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 
 {{< hl-text orange>}}Scopus is Elsevier's abstract and citation database launched in 2004. {{< /hl-text >}}
 
-{{< hl-text orange>}}Web of Science is currently maintained by Clarivate Analytics{{< /hl-text >}}.
-
 **The Web of Science Core Collection** consists of **six** online databases:
 
 ***Science Citation Index Expanded*** (SCIE) covers more than **8,500** notable journals encompassing 150 disciplines. Coverage is from the year 1900 to the present day.
@@ -93,6 +91,10 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 ***Emerging Sources Citation Index*** covers over **5,000** journals in the sciences, social science, and humanities.
 ***Book Citation Index*** covers more than **60,000** editorially selected books starting from 2005.
 ***Conference Proceedings Citation Index*** (CPCI) covers more than **160,000** conference titles in the Sciences starting from 1990 to the present day.
+
+{{< hl-text orange>}}Web of Science is currently maintained by Clarivate Analytics{{< /hl-text >}}.
+
+Clarivate (formerly **Clarivate Analytics**) was formerly the Intellectual Property and Science **division** of **Thomson Reuters**. Before 2008, it was known as Thomson Scientific. In **2016**, Thomson Reuters struck a $3.55 billion deal in which they spun it off into an independent company, and sold it to **private-equity firms** Onex Corporation and Baring Private Equity Asia.
 
 ## What is ScienceDirect?
 
