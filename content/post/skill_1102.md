@@ -20,7 +20,6 @@ Math: True
 
 <!--more-->
 
-
 {{< toc >}}
 # Journal Citation Reports
 ## Journal Impact Factor
