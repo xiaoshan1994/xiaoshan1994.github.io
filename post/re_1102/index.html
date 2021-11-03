@@ -4,7 +4,7 @@
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=generator content="Hugo 0.89.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name=author content="Kai Li (李锴)">
 <meta name=keywords content="tech,development,next-gen">
 <meta name=description content>
@@ -20,13 +20,15 @@
 <meta property="og:locale" content="en-us">
 <meta property="article:published_time" content="2021-11-02T10:04:18">
 <meta property="article:modified_time" content="2021-11-02T10:04:18">
-<meta property="article:section" content="category">
-<meta property="article:section" content="subcategory">
-<meta property="article:tag" content="tag1">
-<meta property="article:tag" content="tag2">
+<meta property="article:section" content="Research">
+<meta property="article:section" content="Material Flow Analysis">
+<meta property="article:tag" content="material stocks and flows">
+<meta property="article:tag" content="buildings">
 <meta name=twitter:card content="summary">
 <meta name=twitter:site content="@xiaoshan1994">
 <meta name=twitter:creator content="@xiaoshan1994">
+<meta property="og:image" content="https://kumarken.com/wp/wp-content/uploads/2021/02/COVER-JournalCleanerProd_AcceptedMSS_JCLP2.bmp">
+<meta property="twitter:image" content="https://kumarken.com/wp/wp-content/uploads/2021/02/COVER-JournalCleanerProd_AcceptedMSS_JCLP2.bmp">
 <title>Modelling global material stocks and flows for residential and service sector buildings towards 2050</title>
 <link rel=icon href=https://xiaoshan1994.github.io/favicons/favicon-16x16.png>
 <link rel=canonical href=https://xiaoshan1994.github.io/post/re_1102/>
@@ -137,7 +139,7 @@
 </nav>
 <div id=main data-behavior=4 class=hasCoverMetaIn>
 <article class=post id=top>
-<div class="post-header main-content-wrap text-center">
+<div class="post-header main-content-wrap text-cente">
 <h1 class=post-title>
 Modelling global material stocks and flows for residential and service sector buildings towards 2050
 </h1>
@@ -146,29 +148,33 @@ Modelling global material stocks and flows for residential and service sector bu
 November 2, 2021
 </time>
 <span>in</span>
-<a class=category-link href=https://xiaoshan1994.github.io/categories/category>category</a>,
-<a class=category-link href=https://xiaoshan1994.github.io/categories/subcategory>subcategory</a>
+<a class=category-link href=https://xiaoshan1994.github.io/categories/research>Research</a>,
+<a class=category-link href=https://xiaoshan1994.github.io/categories/material-flow-analysis>Material Flow Analysis</a>
 </div>
 </div>
 <div class="post-content markdown">
 <div class=main-content-wrap>
-<p>$Sebastiaan Deetman_{a,c}$ $Sylvia Marinova_{a}$ $Estervan der Voet_{a}$ $Detlef P.van Vuuren_{b,c}$ $Oreane Edelenbosch_{d}$ $Reinout Heijungs_{ae}$<br>
-a Institute of Environmental Sciences, Leiden University, Leiden, the Netherlands<br>
-b PBL Netherlands Environmental Assessment Agency, The Hague, the Netherlands<br>
-c Copernicus Institute for Sustainable Development, Utrecht University, Utrecht, the Netherlands<br>
-d Department of Management and Economics, Politecnico di Milan, Via Lambruschini 4/B, Milan, Italy<br>
-e Department of Econometrics and OR, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands<br>
+<p>$Sebastiaan Deetman_{a,c}$ $Sylvia Marinova_{a}$ $Estervan der Voet_{a}$ $Detlef P.van Vuuren_{b,c}$ $Oreane Edelenbosch_{d}$ $Reinout Heijungs_{ae}$</p>
+<p><strong>a</strong> Institute of Environmental Sciences, Leiden University, Leiden, the Netherlands<br>
+<strong>b</strong> PBL Netherlands Environmental Assessment Agency, The Hague, the Netherlands<br>
+<strong>c</strong> Copernicus Institute for Sustainable Development, Utrecht University, Utrecht, the Netherlands<br>
+<strong>d</strong> Department of Management and Economics, Politecnico di Milan, Via Lambruschini 4/B, Milan, Italy<br>
+<strong>e</strong> Department of Econometrics and OR, Vrije Universiteit Amsterdam, Amsterdam, the Netherlands<br>
 Received 30 January 2019, Revised 19 September 2019, Accepted 29 September 2019, Available online 2 October 2019.<br>
-Handling editor: Yutao Wang<br>
-<a href=https://www.sciencedirect.com/science/article/pii/S0959652619335280>https://www.sciencedirect.com/science/article/pii/S0959652619335280</a><br>
+Handling editor: Yutao Wang</p>
+<p><a href=https://www.sciencedirect.com/science/article/pii/S0959652619335280>https://www.sciencedirect.com/science/article/pii/S0959652619335280</a></p>
 <h1 id=table-of-contents>Table of Contents</h1>
 <nav id=TableOfContents>
 <ul>
 <li><a href=#highlights>Highlights</a></li>
 <li><a href=#abstract>Abstract</a></li>
+<li><a href=#2-methodology-and-data>2. Methodology and data</a>
+<ul>
+<li><a href=#21-the-building-stock-model>2.1. The building stock model</a></li>
+</ul>
+</li>
 </ul>
 </nav>
-</p>
 <h1 id=highlights>Highlights</h1>
 <p>• <span class="highlight-text orange">A model on global building stock and construction materials demand was developed</span>.<br>
 • Building stock includes <strong>four types of residential</strong> and <strong>four types of service sector buildings</strong>.<br>
@@ -176,14 +182,27 @@ Handling editor: Yutao Wang<br>
 • Results highlight the growing demand for construction materials towards 2050.<br>
 • <span class="highlight-text orange">Long lifespans of buildings pose a challenge for achieving a circular economy</span>.</p>
 <h1 id=abstract>Abstract</h1>
-<p>Residential buildings and service sector buildings have an important contribution to climate change, directly via energy use in these buildings and indirectly through construction activities and the production and disposal of buildings materials. In this paper, <span class="highlight-text orange">we introduce a model that looks at total global building stock for 26 regions between 1970 and 2050 and calculates the floor space and building materials both in new buildings and in demolished buildings</span>. For residential buildings, we build upon the work of <a href>Marinova et al. (2019, this issue)</a>, who used a building material database to come up with scenarios for materials in the residential building stock. This paper adds two things. First, we introduce a new regression-based model for service building floor space, recognizing 4 different types of service-related buildings. Secondly, we use a dynamic stock model, based on lifetime distributions found in literature, to calculate the construction (inflow) and demolition (outflow) of building floor space for both residential and service-related purposes. We combine this with data from the building material database to come up with scenarios for the annual demand for construction materials worldwide as well as an estimation of the availability of waste materials after building demolition towards 2050. The model can thus be used to assess the potential for closing the material cycles in the construction sector, while distinguishing urban and rural areas explicitly. The results show that demand for construction materials will continue to increase in most regions, even in developed countries. Global demand for steel and cement for the building sector is estimated to be 769 Mt/yr and 11.9 Gt/yr respectively, by the end of the modelling period. This represents a respective growth of 31% and 14% compared to today. Drivers behind this are an expected growth of global residential building stock of about 50%, and a growth of about 150% in the building stock for services. Our model projects that by 2050, only 55% of construction-related demand for copper, wood and steel could potentially be covered by recycled building materials. For other materials the availability of scrap may be higher, reaching up to 71% of new demand in the case of aluminium. This means that in most regions urban mining cannot cover the growing demand for construction materials.</p>
+<p>Residential buildings and service sector buildings have an important contribution to climate change, directly via energy use in these buildings and indirectly through construction activities and the production and disposal of buildings materials. In this paper, <span class="highlight-text orange">we introduce a model that looks at total global building stock for 26 regions between 1970 and 2050 and calculates the floor space and building materials both in new buildings and in demolished buildings</span>. For residential buildings, we build upon the work of <a href=https://www.sciencedirect.com/science/article/pii/S0959652619340168?via%3Dihub>Marinova et al. (2019, this issue)</a><sup id=fnref:1><a href=#fn:1 class=footnote-ref role=doc-noteref>1</a></sup>, who used a building material database to come up with scenarios for materials in the residential building stock. This paper adds two things. First, <span class="highlight-text orange">we introduce a new regression-based model for service building floor space, recognizing 4 different types of service-related buildings.</span> Secondly, <span class="highlight-text orange">we use a dynamic stock model, based on lifetime distributions found in literature, to calculate the construction (inflow) and demolition (outflow) of building floor space for both residential and service-related purposes</span>. We combine this with data from the building material database to come up with scenarios for the annual demand for construction materials worldwide as well as an estimation of the availability of waste materials after building demolition towards 2050. The model can thus be used to assess the potential for closing the material cycles in the construction sector, while distinguishing urban and rural areas explicitly. The results show that demand for construction materials will continue to increase in most regions, even in developed countries. Global demand for steel and cement for the building sector is estimated to be 769 Mt/yr and 11.9 Gt/yr respectively, by the end of the modelling period. This represents a respective growth of 31% and 14% compared to today. Drivers behind this are an expected growth of global residential building stock of about 50%, and a growth of about 150% in the building stock for services. Our model projects that by 2050, only 55% of construction-related demand for copper, wood and steel could potentially be covered by recycled building materials. For other materials the availability of scrap may be higher, reaching up to 71% of new demand in the case of aluminium. This means that in most regions urban mining cannot cover the growing demand for construction materials.</p>
+<h1 id=2-methodology-and-data>2. Methodology and data</h1>
+<h2 id=21-the-building-stock-model>2.1. The building stock model</h2>
+<p>In order to assess the practical applicability of the database, we apply a stock model which aims to determine the in-use stock of construction materials used in the built environment and makes estimations of their future stock. In this paper, we focus on the in-use stock of residential buildings. <span class="highlight-text orange">The starting point for the stock estimations is the total <span class="highlight-text blue">Useful Floor Area (UFA)</span> specified for 26 world regions</span>, as projected by the IMAGE model and described by Daioglou et al. (2012) (Daioglou et al., 2012). Section 2.2 describes this in more detail. The UFA is translated into material stock for the period between 1970 and 2050 by using material intensities per square meter UFA. Similar to Müller’s model (Müller, 2006) the main drivers in the system are population and lifestyle in terms of UFA per capita.</p>
+<p>The building stock model distinguishes between urban (including suburbs) and rural areas, as well as different types of residential buildings: detached houses, row houses, apartment buildings and high-rise buildings (Van Beers and Graedel, 2003; Stephan, 2013; Carre and Crossin, 2015). The additional variables that feed the model are the distribution of the population over the different dwelling types, the total UFA per building type for the 26 regions, and the material quantity per building type expressed in terms of kg/m2 UFA.</p>
+<p>As mentioned above, the urban/rural distinction is made in the IMAGE-TIMER projections, while the distribution over the different dwelling types is calculated based on national statistics (Residential Energy Consumption Survey (RECS) - Energy Information Administration, 2019; Australian GovernmentAustralian Bureau of Statistics, 2019; Eurostat, 2019). The material intensity is based on the existing literature, reviewed and documented in a material intensities database. The different calculations steps and data sources are discussed in the next section and are illustrated in Fig. 1.</p>
+<section class=footnotes role=doc-endnotes>
+<hr>
+<ol>
+<li id=fn:1 role=doc-endnote>
+<p><em><strong>Global construction materials database and stock analysis of residential buildings between 1970-2050</strong></em> published on <strong>20 February 2020</strong>.&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
 <div class=post-footer-tags>
 <span class="text-color-light text-small">TAGGED IN</span><br>
-<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/tag1/>tag1</a>
-<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/tag2/>tag2</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/material-stocks-and-flows/>material stocks and flows</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/buildings/>buildings</a>
 </div>
 <div class=post-actions-wrap>
 <nav>

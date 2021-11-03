@@ -4,7 +4,7 @@
 <meta charset=utf-8>
 <meta name=viewport content="width=device-width,initial-scale=1">
 <meta http-equiv=x-ua-compatible content="IE=edge">
-<meta name=generator content="Hugo 0.88.1 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=generator content="Hugo 0.89.0 with theme Tranquilpeak 0.5.3-BETA">
 <meta name=author content="Kai Li (李锴)">
 <meta name=keywords content="tech,development,next-gen">
 <meta name=description content="Reviewing the basic statistical concepts: expected value and variance.">
@@ -191,7 +191,7 @@ Example of samples from two populations (总体) with the same mean but differen
 <p>There are two distinct concepts that are both called &ldquo;variance&rdquo;. One, as discussed above, is part of <strong>a theoretical probability distribution</strong> and is <strong>defined by an equation</strong>. The other variance is <strong>a characteristic of a set of observations</strong>. When variance is calculated from observations, those observations are typically measured from a real world system. If <strong>all</strong> possible observations of the system are present then the calculated variance is called the <span class="highlight-text orange">population variance</span>. Normally, however, only a subset is available, and the variance calculated from this is called the <span class="highlight-text orange">sample variance</span>. The variance calculated from a sample is considered <strong>an estimate of the full population variance</strong>. There are multiple ways to calculate an estimate of the population variance, as discussed in the section below.</p>
 <h1 id=variance-of-a-continuous-or-a-discrete-random-variable>Variance of a continuous or a discrete random variable</h1>
 <p>If the generator of random variable X is discrete with probability mass function $x_{1} \mapsto p_{2}$, $x_{1} \mapsto p_{2}$,&mldr;, $x_{n} \mapsto p_{n}$, then<br>
-$$ Var(X)=\sum _{i=1}^{n} p_{i}\cdot (x_{i}-\mu )^{2} $$,</p>
+$$ Var(X)=\sum <em>{i=1}^{n} p</em>{i}\cdot (x_{i}-\mu )^{2} $$,</p>
 <p>where $\mu$ is the expected value. That is,</p>
 <p>$$ \mu = \sum_{i=1}^{n} p_{i}x_{i} $$</p>
 <p>If the random variable X has a probability density function f(x), and F(x) is the corresponding cumulative distribution function, then</p>
