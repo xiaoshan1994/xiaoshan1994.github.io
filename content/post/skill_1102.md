@@ -119,7 +119,7 @@ Elsevier (Dutch: [ˈɛlzəviːr]) is a Netherlands-based publishing company spec
 
 ### 4.1 ScienceDirect
 
-ScienceDirect is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read. 
+ScienceDirect is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read.
 
 
 
