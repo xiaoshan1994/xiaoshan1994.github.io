@@ -1,5 +1,5 @@
 ---
-title: "Publishing companies, Scholarly Impact and Citation Analysis"
+title: "Scientific publishers, scholarly impact and citation analysis"
 date: 2021-11-02T10:41:42+01:00
 categories:
 - Skill
@@ -8,6 +8,7 @@ tags:
 - journal impact factor
 - google scholar metrics
 - journal citation reports
+- publisher
 keywords:
 - tech
 coverImage:
