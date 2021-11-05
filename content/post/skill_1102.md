@@ -142,13 +142,13 @@ Springer gets access to more than **2,900 journals** and **300,000 books**.
 
 As of February 2020, Nature Research publishes **156 academic journals**. Grouped by multidisciplinary journals(***Nature***(50), ***Nature Communications***(15), ***Scientific Reports***(4) and ***Scientific Data***(6)), nature research journals(like ***Nature Climate Change***(25)), nature review journals(like ***Nature Reviews Cancer***), nature partner journals (prefix 'npj'  ) and other Nature Portfolio journals.
 
-6. Wiley
+## 6. Wiley
 
 ***John Wiley & Sons, Inc.***, commonly known as ***Wiley*** (**/ˈwaɪli/**), is an American multinational publishing company founded in 1807 (headquartered in Hobken, New Jersey) that focuses on academic publishing and instructional materials.
 
 It convers more than 1600 journals and 22,000 online books.
 
-7. Taylor & Francis
+## 7. Taylor & Francis
 
 ***Taylor & Francis Group*** is an international company originating in England that publishes books and academic journals. It is a division of Informa plc, a United Kingdom–based publisher and conference company.
 
