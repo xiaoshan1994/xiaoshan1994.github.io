@@ -53,7 +53,7 @@ Web of Science and Scopus are the largest worldwide-used **{{< hl-text blue>}}ci
 ***Conference Proceedings Citation Index*** (CPCI) covers more than **160,000** conference titles in the Sciences starting from 1990 to the present day.
 
 ### 2.2 Journal Citation Reports
-
+![](https://www.enago.com/academy/wp-content/uploads/2017/11/Journal-Citation-Reports-750x300.jpg)
 Clarivate publishes the annual Journal Citation Reports (JCR), which identifies the world's most impactful academic journals included in the Science Citation Index Expanded and Social Sciences Citation Index, part of the Web of Science Core Collection.
 
 #### 2.2.1 Journal Impact Factor
@@ -114,20 +114,20 @@ The number of publications with at least 10 citations.
 Finally, the h5-index, h5-core, and h5-median of a publication are, respectively, the h-index, h-core, and h-median of only those of its articles that were published in the last five complete calendar years.
 
 ## 4. Elsevier
-
+![](https://bluesyemre.files.wordpress.com/2015/12/elsevier-logo.jpg)
 ***Elsevier*** (Dutch: [ˈɛlzəviːr]) is a Netherlands-based publishing company specializing in scientific, technical, and medical content. It is a part of the RELX Group, known until 2015 as Reed Elsevier. Its products include journals such as {{< hl-text blue>}}The Lancet{{< /hl-text >}} and {{< hl-text blue>}}Cell{{< /hl-text >}}, the {{< hl-text blue>}}ScienceDirect{{< /hl-text >}} collection of electronic journals, the {{< hl-text blue>}}Trends{{< /hl-text >}} and {{< hl-text blue>}}Current Opinion{{< /hl-text >}} series of journals, the online citation database {{< hl-text blue>}}Scopus{{< /hl-text >}} the {{< hl-text blue>}}SciVal{{< /hl-text >}} tool for measuring research performance, the {{< hl-text blue>}}ClinicalKey{{< /hl-text >}} search engine for clinicians, and the {{< hl-text blue>}}ClinicalPath{{< /hl-text >}} evidence-based cancer care service.
 
 
 ### 4.1 ScienceDirect
-
+![](https://www.unic.ac.cy/wp-content/uploads/2020/07/sciencedirect-logo-vector.png)
 ***ScienceDirect*** is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read.
 
 ### 4.2 Scopus
-
+![](https://sisaljournal.files.wordpress.com/2019/10/scopus.png)
 ***Scopus*** is ***Elsevier***'s {{< hl-text blue>}}abstract and citation database{{< /hl-text >}} launched in 2004. Scopus covers nearly 36,377 titles from approximately 11,678 publishers, of which 34,346 are peer-reviewed journals in top-level subject fields: life sciences, social sciences, physical sciences and health sciences. It covers three types of sources: book series, journals, and trade journals. All journals covered in the Scopus database are reviewed for sufficiently high quality each year according to four types of numerical quality measure for each title; those are {{< hl-text blue>}}h-Index, CiteScore, SJR (SCImago Journal Rank) and SNIP (Source Normalized Impact per Paper){{< /hl-text >}}. Searches in Scopus also incorporate searches of patent databases.
 
 ## 5. Springer Nature
-
+![](https://partnerships.nature.com/wp-content/uploads/2017/12/Custom-Media.jpg)
 ***Springer Nature*** or the ***Springer Nature Group*** is a German-British academic publishing company created by the May 2015 merger of Springer Science+Business Media and Holtzbrinck Publishing Group's Nature Publishing Group[^npg], Palgrave Macmillan, and Macmillan Education.
 
 The following major brands belong to the group (also subsidiaries):
@@ -143,13 +143,13 @@ Springer gets access to more than **2,900 journals** and **300,000 books**.
 As of February 2020, Nature Research publishes **156 academic journals**. Grouped by multidisciplinary journals(***Nature***(50), ***Nature Communications***(15), ***Scientific Reports***(4) and ***Scientific Data***(6)), nature research journals(like ***Nature Climate Change***(25)), nature review journals(like ***Nature Reviews Cancer***), nature partner journals (prefix 'npj'  ) and other Nature Portfolio journals.
 
 ## 6. Wiley
-
+![](https://careers.wiley.com/img/team/about-wiley/logo-wiley-online-library.png)
 ***John Wiley & Sons, Inc.***, commonly known as ***Wiley*** (**/ˈwaɪli/**), is an American multinational publishing company founded in 1807 (headquartered in Hobken, New Jersey) that focuses on academic publishing and instructional materials.
 
 It convers more than 1600 journals and 22,000 online books.
 
 ## 7. Taylor & Francis
-
+![](https://www.cbs.dk/files/cbs.dk/styles/cbs_content/public/617_347_francisandtayloronline.jpg?itok=PCSuiqIq)
 ***Taylor & Francis Group*** is an international company originating in England that publishes books and academic journals. It is a division of Informa plc, a United Kingdom–based publisher and conference company.
 
 Taylor & Francis Online brings together over **2,700 journals**, including the world’s largest program of Social Science and Humanities journals published by Routledge[^rout].
