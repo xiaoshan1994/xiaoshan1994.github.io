@@ -24,7 +24,7 @@ Math: True
 # Begin with some companies
 
 ## 1. Thomson Reuters
-{{< image classes= "fig-33" src ="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397191966/68aa3a98f81f5e09a3afb00a73461434.png">}}
+{{< image classes= "fig-33" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397191966/68aa3a98f81f5e09a3afb00a73461434.png">}}
 Thomson Reuters Corporation is {{< hl-text blue>}}Canada-based multinational media corporation{{< /hl-text >}}. The company was founded in {{< hl-text blue>}}Toronto, Ontario, Canada,{{< /hl-text >}} where it is headquartered at the Bay Adelaide Centre.
 
 Thomson Reuters was created by the {{< hl-text blue>}}Thomson Corporation{{< /hl-text >}}'s purchase of the {{< hl-text blue>}}British company{{< /hl-text >}} {{< hl-text blue>}}Reuters Group{{< /hl-text >}} in April 2008.
