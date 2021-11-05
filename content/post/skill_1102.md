@@ -24,7 +24,7 @@ Math: True
 # Begin with some companies
 
 ## 1. Thomson Reuters
-
+![](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397191966/68aa3a98f81f5e09a3afb00a73461434.png)
 Thomson Reuters Corporation is {{< hl-text blue>}}Canada-based multinational media corporation{{< /hl-text >}}. The company was founded in {{< hl-text blue>}}Toronto, Ontario, Canada,{{< /hl-text >}} where it is headquartered at the Bay Adelaide Centre.
 
 Thomson Reuters was created by the {{< hl-text blue>}}Thomson Corporation{{< /hl-text >}}'s purchase of the {{< hl-text blue>}}British company{{< /hl-text >}} {{< hl-text blue>}}Reuters Group{{< /hl-text >}} in April 2008.
@@ -38,7 +38,7 @@ Clarivate (formerly **Clarivate Analytics**) was formerly the Intellectual Prope
 Clarivate owns and operates a collection of subscription-based services focused largely on analytics. The services include {{< hl-text blue>}}Web of Science{{< /hl-text >}}, {{< hl-text blue>}}EndNote{{< /hl-text >}}, {{< hl-text blue>}}InCites/JCR{{< /hl-text >}}, etc.
 
 ### 2.1 Web of Science
-
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvdUZoLrPwml5tTG1-D-HTkYwoQ4KSgbp--lRYZLHdPqmbUkmsRXbWpIiv5NGnG-oFMDc&usqp=CAU)
 Web of Science and Scopus are the largest worldwide-used **{{< hl-text blue>}}citation databases{{< /hl-text >}}**[^cita]. Today, these are the most respected platforms for analysing peer-reviewed literature: scientific publications, conference proceedings, and books.
 
 {{< alert info >}} Scopus is Elsevier's abstract and citation database launched in 2004. {{< /alert >}}
