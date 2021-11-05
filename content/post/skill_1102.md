@@ -114,13 +114,33 @@ Finally, the h5-index, h5-core, and h5-median of a publication are, respectively
 
 ## 4. Elsevier
 
-Elsevier (Dutch: [ˈɛlzəviːr]) is a Netherlands-based publishing company specializing in scientific, technical, and medical content. It is a part of the RELX Group, known until 2015 as Reed Elsevier. Its products include journals such as {{< hl-text blue>}}The Lancet and {{< hl-text blue>}}Cell{{< /hl-text >}}, the {{< hl-text blue>}}ScienceDirect{{< /hl-text >}} collection of electronic journals, the {{< hl-text blue>}}Trends{{< /hl-text >}} and {{< hl-text blue>}}Current Opinion{{< /hl-text >}} series of journals, the online citation database {{< hl-text blue>}}Scopus{{< /hl-text >}} the {{< hl-text blue>}}SciVal{{< /hl-text >}} tool for measuring research performance, the {{< hl-text blue>}}ClinicalKey{{< /hl-text >}} search engine for clinicians, and the {{< hl-text blue>}}ClinicalPath{{< /hl-text >}} evidence-based cancer care service.
+***Elsevier*** (Dutch: [ˈɛlzəviːr]) is a Netherlands-based publishing company specializing in scientific, technical, and medical content. It is a part of the RELX Group, known until 2015 as Reed Elsevier. Its products include journals such as {{< hl-text blue>}}The Lancet and {{< hl-text blue>}}Cell{{< /hl-text >}}, the {{< hl-text blue>}}ScienceDirect{{< /hl-text >}} collection of electronic journals, the {{< hl-text blue>}}Trends{{< /hl-text >}} and {{< hl-text blue>}}Current Opinion{{< /hl-text >}} series of journals, the online citation database {{< hl-text blue>}}Scopus{{< /hl-text >}} the {{< hl-text blue>}}SciVal{{< /hl-text >}} tool for measuring research performance, the {{< hl-text blue>}}ClinicalKey{{< /hl-text >}} search engine for clinicians, and the {{< hl-text blue>}}ClinicalPath{{< /hl-text >}} evidence-based cancer care service.
 
 
 ### 4.1 ScienceDirect
 
-ScienceDirect is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read.
+***ScienceDirect*** is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read.
 
+### 4.2 Scopus
+
+***Scopus*** is ***Elsevier***'s {{< hl-text blue>}}abstract and citation database{{< /hl-text >}} launched in 2004. Scopus covers nearly 36,377 titles from approximately 11,678 publishers, of which 34,346 are peer-reviewed journals in top-level subject fields: life sciences, social sciences, physical sciences and health sciences. It covers three types of sources: book series, journals, and trade journals. All journals covered in the Scopus database are reviewed for sufficiently high quality each year according to four types of numerical quality measure for each title; those are {{< hl-text blue>}}h-Index, CiteScore, SJR (SCImago Journal Rank) and SNIP (Source Normalized Impact per Paper){{< /hl-text >}}. Searches in Scopus also incorporate searches of patent databases.
+
+## 5. Springer Nature
+
+***Springer Nature*** or the ***Springer Nature Group*** is a German-British academic publishing company created by the May 2015 merger of Springer Science+Business Media and Holtzbrinck Publishing Group's Nature Publishing Group[^npg], Palgrave Macmillan, and Macmillan Education.
+
+The following major brands belong to the group (also subsidiaries):
+* Nature (journal)
+* Springer.com
+* BioMed Central
+* Scientific American
+* Heinrich Vogel Verlag[23]
+* SciGraph
+
+Springer gets access to more than 2,900 journals and 300,000 books.
+
+As of February 2020, Nature Research publishes **156 academic journals**. Grouped by multidisciplinary journals(***Nature***(50), ***Nature Communications***(15), ***Scientific Reports***(4) and ***Scientific Data***(6)), nature research journals(like ***Nature Climate Change***(25)), nature review journals(like ***Nature Reviews Cancer***), nature partner journals (prefix 'npj'  ) and other Nature Portfolio journals.
 
 
 [^cita]: Citation databases are databases that have been developed for evaluating publications. The citation databases enable you to **count citations** and check, for example, which articles or journals are the most cited ones. Note: None of the citation databases cover all publications. ***The coverage of different disciplines also varies greatly***. Citation analysis and bibliometric indicators are based on citations and the amount of them. Citing in itself, however, is not a quality criterion and there can be many reasons for the citing (**negative citations**, **ethnocentricity** (/ˌeθnəʊˈsentrɪk/), **self-citation**).
+[^npg]: also called Nature Portfolio (formerly known as Nature Publishing Group and Nature Research). Nature Research's flagship publication is ***Nature***, a weekly multidisciplinary journal first published in {{< hl-text blue>}}1869{{< /hl-text >}}.
