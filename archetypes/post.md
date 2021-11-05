@@ -33,3 +33,5 @@ Math: True
 {{< pullquote left/right >}}content{{< /pullquote >}}
 ### Youtube
 {{< youtube BSVkI3Ds8E >}}
+### Figure
+{{< image classes= "fig-33" src="https://xxx.png">}}
