@@ -66,13 +66,13 @@ Impact factors may be used by:
 * Academic departments to assess academic productivity
 * Academic departments to make decisions on promotion and tenure.
 
-How is the Journal Impact Factor Calculated?
+#### How is the Journal Impact Factor Calculated?
 
 Thomson defines impact factor as, **{{< hl-text orange>}}“The journal Impact Factor is the average number of times articles from the journal published in the past two years have been cited in the JCR year.{{< /hl-text >}}** ***{{< hl-text green>}}The Impact Factor is calculated by dividing the number of citations in the JCR year by the total number of articles published in the two previous years.{{< /hl-text >}}*** An Impact Factor of 2.5 means that, on average, the articles published one or two year ago have been cited two and a half times. Citing articles may be from the same journal; most citing articles are from different journals.”
 
 JIF without self citations is calculated by subtracting self citations in the last two years.
 
-Factors to Consider While Consulting Impact Factors
+#### Factors to Consider While Consulting Impact Factors
 
 **Publication Date**: The impact factor is based on citation frequency of articles from a journal in their first few years of publication. This does not serve well the journals with articles that get cited over a longer period of time (let's say, 10 years) rather than immediately. In other words, ***journals in rapidly expanding fields such as cell biology and computing tend to have much higher immediate citation rates leading to higher IFs than journals in fields like Education or Economics.***
 
@@ -84,29 +84,30 @@ Factors to Consider While Consulting Impact Factors
 
 **Uneven Coverage**: The Journal Citation Reports focuses much more on disciplines where the primary means of publishing is through journal article. It provides less coverage to areas in Social Sciences and Humanities, where books and other publishing formats are more prevalent.
 
-## Journal Citation Indicator (JCI)
+#### Journal Citation Indicator (JCI)
+
 {{< hl-text orange>}}The average JCI in a category is 1. Journals with a JCI of 1.5 have 50% more citation impact than the average in that category.{{< /hl-text >}}
 
-## Cited Half-life
+#### Cited Half-life
+
 {{< hl-text orange>}}The Cited Half-Life is the median age of the citations received by a journal during the JCR year.{{< /hl-text >}} For example, a 2015 Cited Half-Life value of 7.0 for Journal X means that half of the Journal X papers that were cited in 2015 were published in the last 7 years.
 
-## 5 Year Impact Factor
+#### 5 Year Impact Factor
 
-The 5-year Impact Factor is the average number of times articles from the journal published in the past five years have been cited in the JCR year. {{< hl-text orange>}}It is calculated by dividing the number of citations in the JCR year by the total number of articles published in the five previous years.{{< /hl-text >}}
+The 5-year Impact Factor is the average number of times articles from the journal published in the past five years have been cited in the JCR year. {{< hl-text green>}}It is calculated by dividing the number of citations in the JCR year by the total number of articles published in the five previous years.{{< /hl-text >}}
 
-
-## Major difference between CiteScore and Journal Impact Factor
+#### Major difference between CiteScore and Journal Impact Factor
 
 * CiteScore calculation is based on **Scopus data**, while Impact Factor is based on Web of Science data.
 * CiteScore uses a **4-year window** while Impact Factor adopts a **2-year window**.
 * CiteScore includes more document types indexed by Scopus, including articles, reviews, conference papers, data papers and book chapters; while Impact Factor only includes **"citable documents"** which are articles and reviews.
 
-# Google Scholar Metrics
+#### Google Scholar Metrics
 
-## h-index
-The number of papers (h) with a citation number ≥ h. Example: a scientist with an H-Index of 37 has 37 papers cited at least 37 times.
+h-index
+The number of papers (h) with a citation number ≥ h. Example: a scientist with an H-Index of 37 has at least 37 papers cited at least 37 times.
 
-## i10-Index
+i10-Index
 The number of publications with at least 10 citations.  
 
 Finally, the h5-index, h5-core, and h5-median of a publication are, respectively, the h-index, h-core, and h-median of only those of its articles that were published in the last five complete calendar years.
