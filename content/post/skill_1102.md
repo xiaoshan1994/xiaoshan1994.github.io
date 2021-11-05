@@ -14,7 +14,7 @@ coverImage:
 coverSize: full/partial
 thumbnailImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qgf_JHOeWSb5ZfLXdnWghh_lIkwnIr7zFA&usqp=CAU
 thumbnailImagePosition: left
-metaAlignment: center
+metaAlignment: left
 Math: True
 ---
 <!--more-->
@@ -22,13 +22,13 @@ Math: True
 
 # Begin with some companies
 
-## Thomson Reuters
+## 1. Thomson Reuters
 
 Thomson Reuters Corporation is {{< hl-text blue>}}Canada-based multinational media corporation{{< /hl-text >}}. The company was founded in {{< hl-text blue>}}Toronto, Ontario, Canada,{{< /hl-text >}} where it is headquartered at the Bay Adelaide Centre.
 
 Thomson Reuters was created by the {{< hl-text blue>}}Thomson Corporation{{< /hl-text >}}'s purchase of the {{< hl-text blue>}}British company{{< /hl-text >}} {{< hl-text blue>}}Reuters Group{{< /hl-text >}} in April 2008.
 
-## Clarivate
+## 2. Clarivate
 
 Clarivate is a company formed in 2016, following the acquisition of Thomson Reuters' Intellectual Property and Science Business by Onex Corporation and Baring Private Equity Asia.
 
@@ -36,7 +36,7 @@ Clarivate (formerly **Clarivate Analytics**) was formerly the Intellectual Prope
 
 Clarivate owns and operates a collection of subscription-based services focused largely on analytics. The services include {{< hl-text blue>}}Web of Science{{< /hl-text >}}, {{< hl-text blue>}}EndNote{{< /hl-text >}}, {{< hl-text blue>}}InCites/JCR{{< /hl-text >}}, etc.
 
-### Web of Science
+### 2.1 Web of Science
 
 Web of Science and Scopus are the largest worldwide-used **{{< hl-text blue>}}citation databases{{< /hl-text >}}**[^cita]. Today, these are the most respected platforms for analysing peer-reviewed literature: scientific publications, conference proceedings, and books.
 
@@ -51,11 +51,11 @@ Web of Science and Scopus are the largest worldwide-used **{{< hl-text blue>}}ci
 ***Book Citation Index*** covers more than **60,000** editorially selected books starting from 2005.
 ***Conference Proceedings Citation Index*** (CPCI) covers more than **160,000** conference titles in the Sciences starting from 1990 to the present day.
 
-## Journal Citation Reports
+### 2.2 Journal Citation Reports
 
 Clarivate publishes the annual Journal Citation Reports (JCR), which identifies the world's most impactful academic journals included in the Science Citation Index Expanded and Social Sciences Citation Index, part of the Web of Science Core Collection.
 
-### Journal Impact Factor
+#### 2.2.1 Journal Impact Factor
 
 An offshoot of citation analysis is **Journal Impact Factor (JIF)** which is used to sort or rank journals by their relative importance. The underlying assumption behind Impact Factors (IF) is that journals with high IF publish articles that are cited more often than journals with lower IF.
 
@@ -66,13 +66,13 @@ Impact factors may be used by:
 * Academic departments to assess academic productivity
 * Academic departments to make decisions on promotion and tenure.
 
-#### How is the Journal Impact Factor Calculated?
+##### How is the Journal Impact Factor Calculated?
 
 Thomson defines impact factor as, **{{< hl-text orange>}}“The journal Impact Factor is the average number of times articles from the journal published in the past two years have been cited in the JCR year.{{< /hl-text >}}** ***{{< hl-text green>}}The Impact Factor is calculated by dividing the number of citations in the JCR year by the total number of articles published in the two previous years.{{< /hl-text >}}*** An Impact Factor of 2.5 means that, on average, the articles published one or two year ago have been cited two and a half times. Citing articles may be from the same journal; most citing articles are from different journals.”
 
 JIF without self citations is calculated by subtracting self citations in the last two years.
 
-#### Factors to Consider While Consulting Impact Factors
+##### Factors to Consider While Consulting Impact Factors
 
 **Publication Date**: The impact factor is based on citation frequency of articles from a journal in their first few years of publication. This does not serve well the journals with articles that get cited over a longer period of time (let's say, 10 years) rather than immediately. In other words, ***journals in rapidly expanding fields such as cell biology and computing tend to have much higher immediate citation rates leading to higher IFs than journals in fields like Education or Economics.***
 
@@ -84,25 +84,25 @@ JIF without self citations is calculated by subtracting self citations in the la
 
 **Uneven Coverage**: The Journal Citation Reports focuses much more on disciplines where the primary means of publishing is through journal article. It provides less coverage to areas in Social Sciences and Humanities, where books and other publishing formats are more prevalent.
 
-#### Journal Citation Indicator (JCI)
+#### 2.2.2 Journal Citation Indicator (JCI)
 
 {{< hl-text orange>}}The average JCI in a category is 1. Journals with a JCI of 1.5 have 50% more citation impact than the average in that category.{{< /hl-text >}}
 
-#### Cited Half-life
+#### 2.2.3 Cited Half-life
 
 {{< hl-text orange>}}The Cited Half-Life is the median age of the citations received by a journal during the JCR year.{{< /hl-text >}} For example, a 2015 Cited Half-Life value of 7.0 for Journal X means that half of the Journal X papers that were cited in 2015 were published in the last 7 years.
 
-#### 5 Year Impact Factor
+#### 2.2.4 5 Year Impact Factor
 
 The 5-year Impact Factor is the average number of times articles from the journal published in the past five years have been cited in the JCR year. {{< hl-text green>}}It is calculated by dividing the number of citations in the JCR year by the total number of articles published in the five previous years.{{< /hl-text >}}
 
-#### Major difference between CiteScore and Journal Impact Factor
+#### 2.2.5 Major difference between CiteScore and Journal Impact Factor
 
 * CiteScore calculation is based on **Scopus data**, while Impact Factor is based on Web of Science data.
 * CiteScore uses a **4-year window** while Impact Factor adopts a **2-year window**.
 * CiteScore includes more document types indexed by Scopus, including articles, reviews, conference papers, data papers and book chapters; while Impact Factor only includes **"citable documents"** which are articles and reviews.
 
-#### Google Scholar Metrics
+## 3. About Google Scholar Metrics
 
 h-index
 The number of papers (h) with a citation number ≥ h. Example: a scientist with an H-Index of 37 has at least 37 papers cited at least 37 times.
@@ -112,8 +112,15 @@ The number of publications with at least 10 citations.
 
 Finally, the h5-index, h5-core, and h5-median of a publication are, respectively, the h-index, h-core, and h-median of only those of its articles that were published in the last five complete calendar years.
 
-## ScienceDirect
+## 4. Elsevier
 
-{{< hl-text orange>}}ScienceDirect is a {{< /hl-text >}}{{< hl-text orange>}}**website**{{< /hl-text >}} {{< hl-text orange>}}which provides access to a large {{< /hl-text >}}**{{< hl-text orange>}}full-text database{{< /hl-text >}}** {{< hl-text orange>}}of scientific and medical publications of the{{< /hl-text >}} **{{< hl-text orange>}}Dutch publisher Elsevier{{< /hl-text >}}**. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read. {{< hl-text orange>}}ScienceDirect is operated by the British-Dutch publisher {{< /hl-text >}}**{{< hl-text orange>}}Elsevier{{< /hl-text >}}**. It was launched in March 1997.
+Elsevier (Dutch: [ˈɛlzəviːr]) is a Netherlands-based publishing company specializing in scientific, technical, and medical content. It is a part of the RELX Group, known until 2015 as Reed Elsevier. Its products include journals such as {{< hl-text blue>}}The Lancet and {{< hl-text blue>}}Cell{{< /hl-text >}}, the {{< hl-text blue>}}ScienceDirect{{< /hl-text >}} collection of electronic journals, the {{< hl-text blue>}}Trends{{< /hl-text >}} and {{< hl-text blue>}}Current Opinion{{< /hl-text >}} series of journals, the online citation database {{< hl-text blue>}}Scopus{{< /hl-text >}} the {{< hl-text blue>}}SciVal{{< /hl-text >}} tool for measuring research performance, the {{< hl-text blue>}}ClinicalKey{{< /hl-text >}} search engine for clinicians, and the {{< hl-text blue>}}ClinicalPath{{< /hl-text >}} evidence-based cancer care service.
+
+
+### 4.1 ScienceDirect
+
+ScienceDirect is a **website** which provides access to {{< hl-text blue>}}a large full-text database{{< /hl-text >}} of scientific and medical publications of the Dutch publisher Elsevier. The access to the full-text requires subscription, while the **bibliographic metadata** is free to read. 
+
+
 
 [^cita]: Citation databases are databases that have been developed for evaluating publications. The citation databases enable you to **count citations** and check, for example, which articles or journals are the most cited ones. Note: None of the citation databases cover all publications. ***The coverage of different disciplines also varies greatly***. Citation analysis and bibliometric indicators are based on citations and the amount of them. Citing in itself, however, is not a quality criterion and there can be many reasons for the citing (**negative citations**, **ethnocentricity** (/ˌeθnəʊˈsentrɪk/), **self-citation**).
