@@ -11,6 +11,7 @@ keywords:
 - tech
 coverImage: https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg
 coverSize: partial
+coverMeta: out
 metaAlignment: left
 thumbnailImage: https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg
 thumbnailImagePosition: left
