@@ -43,16 +43,16 @@ Math: True
 ### Figure with fancybox
 {{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
 
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
 
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
 
 {{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
 
 {{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
+
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
+
+{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
