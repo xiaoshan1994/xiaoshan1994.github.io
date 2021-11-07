@@ -17,34 +17,9 @@ thumbnailImagePosition: left/bottom
 metaAlignment: left
 Math: True
 ---
-{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
 
 
-{{< image classes="left fancybox fig-50" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="right fancybox fig-50" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-
-{{< image classes="fancybox fig-33" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-33" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-33" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-
-{{< image classes="fancybox fig-75" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="clear fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-
 {{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
 {{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
 {{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
 {{< image classes="fancybox fig-25" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-
-{{< image classes="fancybox fig-20" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-20" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-20" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-20" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
-{{< image classes="fancybox fig-20" src="https://user-images.githubusercontent.com/65668613/140639873-ca79eb2c-28d6-4fe0-8e06-5a7de006c109.jpg" >}}
