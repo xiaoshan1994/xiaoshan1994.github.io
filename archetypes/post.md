@@ -10,7 +10,7 @@ tags:
 - tag2
 keywords:
 - tech
-gallery：
+gallery:
 -
 -
 coverImage:
