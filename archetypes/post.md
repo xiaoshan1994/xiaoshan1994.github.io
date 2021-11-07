@@ -10,6 +10,9 @@ tags:
 - tag2
 keywords:
 - tech
+gallery：
+-
+-
 coverImage:
 coverSize: full/partial
 coverMeta: out
@@ -36,3 +39,20 @@ Math: True
 
 ### Figure
 {{< image classes= "fig-33" src="https://xxx.png">}}
+
+### Figure with fancybox
+{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
+
+{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
+
+{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-33" src="//xxx.jpg">}}
+
+{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
+
+{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
+{{< image classes="fancybox fig-25" src="//xxx.jpg">}}
