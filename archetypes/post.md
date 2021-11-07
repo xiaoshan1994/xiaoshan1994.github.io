@@ -12,9 +12,12 @@ keywords:
 - tech
 coverImage:
 coverSize: full/partial
+coverMeta: out
+metaAlignment: left
 thumbnailImage:
 thumbnailImagePosition: left/bottom
-metaAlignment: center
+coverMeta: out
+metaAlignment: left
 Math: True
 ---
 
