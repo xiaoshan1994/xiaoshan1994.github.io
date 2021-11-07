@@ -10,9 +10,9 @@ tags:
 - tag2
 keywords:
 - tech
-coverImage:
-coverSize: full/partial
-coverMeta: out
+gallery:
+-
+-
 metaAlignment: left
 thumbnailImage:
 thumbnailImagePosition: left/bottom
