@@ -11,8 +11,8 @@ tags:
 - publisher
 keywords:
 - tech
-coverImage: https://media.nature.com/lw1024/magazine-assets/d41586-020-03324-y/d41586-020-03324-y_18614802.jpg
-coverSize: partial
+coverImage: https://www.science.org/do/10.1126/science.abf3371/abs/natures_1280p.jpg
+coverSize: full
 coverMeta: out
 thumbnailImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2qgf_JHOeWSb5ZfLXdnWghh_lIkwnIr7zFA&usqp=CAU
 thumbnailImagePosition: left
