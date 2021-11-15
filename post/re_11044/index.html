@@ -161,6 +161,7 @@ November 3, 2021
 <ul>
 <li><a href=#building-demand-layer>Building demand layer</a></li>
 <li><a href=#material-demand-layer>Material demand layer</a></li>
+<li><a href=#material-supply-layer>Material supply layer</a></li>
 </ul>
 </li>
 </ul>
@@ -187,20 +188,27 @@ available from the link: <a href=https://doi.org/10.5281/zenodo.5171943>https://
 <p>Note that although we mainly consider social-economic factors (i.e., population and floor area per person) as the driver of the global demand in building stocks. <span class="highlight-text orange">There are other factors that will impact future building stocks and could be modelled in future work (using different modelling approaches). For example, the increasing frequency and severity of climate changes may create extra building demand as a complement for those damaged by natural disasters</span><sup id=fnref:8><a href=#fn:8 class=footnote-ref role=doc-noteref>8</a></sup> , <span class="highlight-text orange">or abandoned in areas declared uninhabitable</span><sup id=fnref:9><a href=#fn:9 class=footnote-ref role=doc-noteref>9</a></sup>.</p>
 <h2 id=material-demand-layer>Material demand layer</h2>
 <p><img src=https://user-images.githubusercontent.com/65668613/141774532-d44da1d4-265f-4cff-a4a5-e57eef5e2d8f.png alt=image></p>
-<p>Materials inflow in year 𝑡 , defined as 𝑀𝑖𝑛(𝑡) , is calculated by multiplying building inflow with materials use intensity per floor area in year 𝑡, denoted as 𝑀𝐼(𝑡). We include seven major building<br>
-materials, i.e. steel, concrete, brick, aluminium, copper, wood, and glass. Detailed material density data<br>
-is included in the Scenario generation section (see below).<br>
-As shown in equation (6), the materials outflow in year 𝑡, denoted by 𝑀𝑜𝑢𝑡(𝑡), is determined by the<br>
-cumulative sum of the floor area of demolished buildings in year 𝑡 (i.e. 𝐿(𝑡,𝑡<br>
-′<br>
-) ∗ 𝐴𝑖𝑛(𝑡<br>
-′<br>
-) ), and the<br>
-material intensity in year 𝑡<br>
-′<br>
-(i.e. 𝑀𝐼(𝑡<br>
-′<br>
-)), when the demolished buildings were built.</p>
+<p>Materials inflow in year 𝑡 , defined as 𝑀𝑖𝑛(𝑡) , is calculated by multiplying building inflow with materials use intensity per floor area in year 𝑡, denoted as 𝑀𝐼(𝑡). <span class="highlight-text orange">We include seven major building materials, i.e. steel, concrete, brick, aluminium, copper, wood, and glass.</span> Detailed material density data is included in the Scenario generation section (see below).<br>
+As shown in equation (6), the materials outflow in year 𝑡, denoted by 𝑀𝑜𝑢𝑡(𝑡), is determined by the cumulative sum of the floor area of demolished buildings in year 𝑡 (i.e. 𝐿(𝑡,𝑡′) ∗ A𝑖𝑛(𝑡′)), and the material intensity in year 𝑡′(i.e. 𝑀𝐼(𝑡′)), when the demolished buildings were built.</p>
+<h2 id=material-supply-layer>Material supply layer</h2>
+<p><img src=https://user-images.githubusercontent.com/65668613/141806008-c5e3b627-7574-412a-804a-5d8e1c0536a4.png alt=image></p>
+<p>Materials demand can be met by primary production, secondary production, or reuse and their emission<br>
+intensities differ significantly (cradle-to-gate emission intensity is 0 for reused materials). In equation (7), 𝑃𝑀𝑖𝑛(𝑡) and 𝑆𝑀𝑖𝑛(𝑡) denote the <span class="highlight-text blue">quantities of materials supplied by primary and secondary production</span> respectively, while 𝑃𝐸𝐼(𝑡) and 𝑆𝐸𝐼(𝑡) represent the <span class="highlight-text blue">GHG emission intensity of the cradle-to-gate life cycle primary and secondary material production</span>, respectively. 𝑃𝑀𝑖𝑛(𝑡) and 𝑆𝑀𝑖𝑛(𝑡) can be calculated by equation (8) and (9) respectively, where 𝑅𝑈𝑟(𝑡) and 𝑅𝐶𝑟(𝑡) represent the <span class="highlight-text blue">reuse and recycling rate of building materials</span>, i.e., the percentage of post-consumer material scraps that are<br>
+collected for reuse or to produce secondary materials, respectively. Note that here are some inherent<br>
+assumptions: 1) we only consider the recycling and reuse of the newly generated material outflows,<br>
+which means the historical scraps would not be considered for recycling and reuse in the future; 2) we<br>
+only consider the recycling and reuse of material outflows within the same region, area, and building<br>
+type, which means cross-regional scraps, for example, are not considered for recycling and reuse; 3) we<br>
+assume that the secondary materials provide the same service as the primary materials, that is, a 1:1<br>
+substitution between primary and secondary materials in mass terms. Under these assumptions, our<br>
+circularity model should be taken as a simplified approach for short-term scenario analysis where<br>
+material inflows are generally larger than outflows. However, in the longer-term (i.e. beyond 2060) when<br>
+material outflows largely outstrip inflows, it could be important to consider the potential of using<br>
+historical scrap reserves and scraps moving across regions/areas/building types. 𝑃𝐸𝐼(𝑡) and 𝑆𝐸𝐼(𝑡)<br>
+are calculated using the life cycle assessment (LCA) model based on the life cycle inventory database<br>
+eco-invent, with emission intensities for unit processes specified per world region, and which we further<br>
+specified for future moments in time (more information about the LCA model can be found in section<br>
+Scenario evaluation in this document).</p>
 <section class=footnotes role=doc-endnotes>
 <hr>
 <ol>
