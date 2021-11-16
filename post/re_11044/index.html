@@ -281,80 +281,35 @@ metal-specific models by Van der Voet et al. (2018)<sup id=fnref:50><a href=#fn:
 <p>We evaluate the <span class="highlight-text orange">GHG emission intensity of each building material</span> using a <span class="highlight-text blue">prospective LCA model</span> as described below. The scope is the crade-to-gate production system of per kg of each building material. We use the ecoinvent 3.6 cut-off database<sup id=fnref:64><a href=#fn:64 class=footnote-ref role=doc-noteref>64</a></sup> as the life cycle inventory database because of its global coverage and regional resolution. The ecoinvent processes used are shown in Supplementary Table 9.</p>
 <p><strong>Supplementary Table 9. The process names refer to the ecoinvent 3.6 cut-off database.</strong><br>
 <img src=https://user-images.githubusercontent.com/65668613/142003261-937d9fb9-1ddf-434f-a110-665db88de7e8.png alt=image><br>
-In general, the regional mapping in ecoinvent has a different resolution with that in IMAGE. <span class="highlight-text orange">According to the approach used in Mendoza Beltran et al. (2020)</span><sup id=fnref:51><a href=#fn:51 class=footnote-ref role=doc-noteref>51</a></sup>, <span class="highlight-text orange">for ecoinvent regions that involve more than one region in IMAGE, we apply the LCA results for the larger region to all smaller regions included. For IMAGE regions involving more than one ecoinvent region, we use an average of the ecoinvent data.</span> As an example, Supplementary Table 10 shows the regional match for the primary copper case.<br>
-For the impact category of GHG emission, we use the Global Warming Potential per substance from the<br>
-IPCC 2013, with a time horizon of 100 years65<br>
-. We use the Activity Browser (AB) software66 to conduct<br>
-the prospective LCA calculation because of its high-efficiency at scenario-based modeling. To model the<br>
-development of GHG emission intensity of different unit processes in the different scenarios, we need to<br>
-incorporate the relevant scenario data into the LCI database of ecoinvent. For the Baseline scenario, we<br>
-incorporate the ore grade decline data into the ecoinvent database. For the High Efficiency scenario, data<br>
-on ore grade decline, energy transition, efficiency improvement, and production routes development are<br>
-incorporated into the ecoinvent database. To do this, we translate the scenario data of each parameter into<br>
-the presamples structure67 required for the prospective LCA calculation in the Activity Browser66<br>
-. In<br>
-practice this means that the scenario data of each parameter is specified in excel files using the approach<br>
-developed by Steubing et al. (2020)66<br>
-. We also conduct a ‘Contribution analysis’ using the Activity<br>
-Browser to split the contribution of CO2 and non-CO2 emissions to the total GHG emission.</p>
-<p>Supplementary Table 9. The process names refer to the ecoinvent 3.6 cut-off database.<br>
-<img src=https://user-images.githubusercontent.com/65668613/141856367-8cf29aee-770e-4165-86f9-7191b7656ed2.png alt=image><br>
-Notes: a. For simplicity, low-alloyed steel is used in consistent with ref.50. In practice, steel products are<br>
-used in different alloys. This model can be improved when market share of alloy types is available.<br>
-b. Based on the literature review, we assume that the wood products in buildings are mainly supplied by<br>
-softwood beam and hardwood (beam and board) and the ratio is 0.53:0.29:0.1839. The impact of the ratio<br>
-assumption on the LCA result is minor because these wooden product types share similar GHGs<br>
-intensities. For the secondary wood production, based on the wood cascading study, we assume that the<br>
-raw wood materials are directly replaced by waste wood68<br>
-.<br>
-c. There are two major routes for post-consumer aluminium recycling: scrap remelting for wrought alloy<br>
-and refining for cast alloy. Based on related studies48, 69, we assume that 61% of scraps are to be remelted<br>
-and 39% to be refined</p>
-<p>Supplementary Table 10. The regional mapping between IMAGE and ecoinvent for primary copper<br>
-production.<br>
-<img src=https://user-images.githubusercontent.com/65668613/141856447-1494f2d5-5640-4f19-abf1-868898b89d60.png alt=image></p>
+Notes: <strong>a</strong>. For simplicity, low-alloyed steel is used in consistent with ref.<sup id=fnref:50><a href=#fn:50 class=footnote-ref role=doc-noteref>50</a></sup>. In practice, steel products are used in different alloys. This model can be improved when market share of alloy types is available.<br>
+<strong>b</strong>. Based on the literature review, we assume that the wood products in buildings are mainly supplied by<br>
+softwood beam and hardwood (beam and board) and the ratio is 0.53:0.29:0.18<sup id=fnref:39><a href=#fn:39 class=footnote-ref role=doc-noteref>39</a></sup>. The impact of the ratio<br>
+assumption on the LCA result is minor because these wooden product types share similar GHGs intensities. For the secondary wood production, based on the wood cascading study, we assume that the raw wood materials are directly replaced by waste wood<sup id=fnref:65><a href=#fn:65 class=footnote-ref role=doc-noteref>65</a></sup>.<br>
+<strong>c</strong>. There are two major routes for post-consumer aluminium recycling: scrap remelting for wrought alloy<br>
+and refining for cast alloy. Based on related studies<sup id=fnref:48><a href=#fn:48 class=footnote-ref role=doc-noteref>48</a></sup>, <sup id=fnref:66><a href=#fn:66 class=footnote-ref role=doc-noteref>66</a></sup>, we assume that 61% of scraps are to be remelted and 39% to be refined.</p>
+<p>In general, the regional mapping in ecoinvent has a different resolution with that in IMAGE. <span class="highlight-text orange">According to the approach used in Mendoza Beltran et al. (2020)</span><sup id=fnref:51><a href=#fn:51 class=footnote-ref role=doc-noteref>51</a></sup>, <span class="highlight-text orange">for ecoinvent regions that involve more than one region in IMAGE, we apply the LCA results for the larger region to all smaller regions included. For IMAGE regions involving more than one ecoinvent region, we use an average of the ecoinvent data.</span> As an example, Supplementary Table 10 shows the regional match for the primary copper case.</p>
+<p><strong>Supplementary Table 10. The regional mapping between IMAGE and ecoinvent for primary copper production.</strong><br>
+<img src=https://user-images.githubusercontent.com/65668613/142012421-d070cba0-bf36-4ddf-97c9-38d73630a9d0.png alt=image></p>
+<p>For the impact category of GHG emission, we use the Global Warming Potential per substance from the IPCC 2013, with a time horizon of 100 years<sup id=fnref:67><a href=#fn:67 class=footnote-ref role=doc-noteref>67</a></sup>. We use the <span class="highlight-text blue">Activity Browser (AB)</span> software<sup id=fnref:68><a href=#fn:68 class=footnote-ref role=doc-noteref>68</a></sup> to conduct the prospective LCA calculation because of its high-efficiency at scenario-based modeling. To model the development of GHG emission intensity of different unit processes in the different scenarios, we need to incorporate the relevant scenario data into the LCI database of ecoinvent. For the Baseline scenario, we incorporate the ore grade decline data into the ecoinvent database. For the High Efficiency scenario, data on ore grade decline, energy transition, efficiency improvement, and production routes development are incorporated into the ecoinvent database. To do this, we translate the scenario data of each parameter into the <span class="highlight-text blue">presamples structure</span><sup id=fnref:69><a href=#fn:69 class=footnote-ref role=doc-noteref>69</a></sup> required for the prospective LCA calculation in the Activity Browser<sup id=fnref:68><a href=#fn:68 class=footnote-ref role=doc-noteref>68</a></sup>. In practice this means that the scenario data of each parameter is specified in excel files using the approach developed by Steubing et al. (2020)<sup id=fnref:68><a href=#fn:68 class=footnote-ref role=doc-noteref>68</a></sup>. We also conduct a ‘Contribution analysis’ using the Activity Browser to split the contribution of CO2 and non-CO2 emissions to the total GHG emission.</p>
 <h1 id=5-additional-figures-and-tables>5. Additional figures and tables</h1>
 <p><img src=https://user-images.githubusercontent.com/65668613/141856527-386cbe67-9fb0-4a5c-829c-99039c95c85c.png alt=image><br>
-Supplementary Figure 3. Building material outflow by magnitude during 1980-2020 (left axis) and<br>
-recycling input rate (the ratio of available recycled metals from outflows to annual inflows, for steel,<br>
-copper and aluminium in dashed line) (right axis).</p>
-<p>Supplementary Table 11. The eight regions classification.<br>
+<strong>Supplementary Figure 3. Building material outflow by magnitude during 1980-2020 (left axis) and recycling input rate (the ratio of available recycled metals from outflows to annual inflows, for steel, copper and aluminium in dashed line) (right axis).</strong></p>
+<p><strong>Supplementary Table 11. The eight regions classification.</strong><br>
 <img src=https://user-images.githubusercontent.com/65668613/141856591-6529f6ce-d0ac-49e3-8f3a-10b32e497447.png alt=image></p>
 <h1 id=6-uncertainty-and-sensitivity-analysis>6. Uncertainty and sensitivity analysis</h1>
-<p>The aim of this research is to evaluate long-term materials and emission trends across different regions<br>
-and income groups. We then investigate the emission mitigation potentials for key material efficiency<br>
-strategies. We are not able to explicitly evaluate the uncertainties across all datasets due to data<br>
-limitations. However, we conduct two analyses to understand where major uncertainties may arise so as<br>
-to facilitate improvements for future work.<br>
-First, we compare several primary variables in the Baseline scenario with other literature (Supplementary<br>
-Table 12). For example, we employ the population trend of IMAGE-SSP2 as a representative of a middleof-the-road path, which is comparable to the recent scenario explored by Vollset et al., (2020)<br>
-70 (with a<br>
-slightly smaller estimate than the UNDP Medium variant estimate, 201971). The residential floor area per<br>
-capita used in this study is slightly larger than other assumptions in the literature42, 72<br>
-. One important area<br>
-of uncertainty is in commercial floor area which we derive from the time-series estimates by Deetman et<br>
-al. (2020)5<br>
-, originally based on a Navigant Global Building Stock Database73 (including service-related<br>
-floor space in 231 countries in 2017). Similarly, large uncertainties are involved in the average lifetime<br>
-assumptions of regional buildings. It is difficult to compare the lifetime assumptions between this study<br>
-and the literature due to data limitations. In the future more detailed data along with time-series data<br>
-(especially those related to the commercial buildings) are needed to improve the robustness of our<br>
-analysis.<br>
-Second, we employ a sensitivity analysis to show how the High efficiency scenario is influenced by<br>
-different assumptions on several variables: more intensive use, lightweight design, lifetime extension,<br>
-material substitution, and more recovery. We assume a sensitivity range for each variable (see<br>
-Supplementary Table 12). Note that for light weight design, increased recycling and reuse, the High<br>
-efficiency scenario values are already the projected maximum from the literature. As shown in<br>
-Supplementary Figure 4, emissions are sensitive to assumptions on more intensive use, whereas different<br>
-assumptions on other material efficiency strategies tend not to have significant impacts on GHGs. This<br>
-also indicates the importance of the consumption-based changes (leading to lower floor area per person)<br>
-to emissions mitigation in the building material sector.</p>
-<p>Supplementary Table 12. Comparison of several variables between this study and other literature.<br>
+<p>The aim of this research is to evaluate long-term materials and emission trends across different regions and income groups. We then investigate the emission mitigation potentials for key material efficiency strategies. We are not able to explicitly evaluate the uncertainties across all datasets due to data limitations. However, we conduct two analyses to understand where major uncertainties may arise so as to facilitate improvements for future work.</p>
+<p>First, we compare several primary variables in the Baseline scenario with other literature (Supplementary<br>
+Table 12). For example, we employ the population trend of IMAGE-SSP2 as a representative of a middle-of-the-road path, which is comparable to the recent scenario explored by Vollset et al., (2020)<sup id=fnref:70><a href=#fn:70 class=footnote-ref role=doc-noteref>70</a></sup>(with a slightly smaller estimate than the UNDP Medium variant estimate, 2019<sup id=fnref:71><a href=#fn:71 class=footnote-ref role=doc-noteref>71</a></sup>). The residential floor area per capita used in this study is slightly larger than other assumptions in the literature<sup id=fnref:42><a href=#fn:42 class=footnote-ref role=doc-noteref>42</a></sup>,<sup id=fnref:72><a href=#fn:72 class=footnote-ref role=doc-noteref>72</a></sup>. One important area<br>
+of uncertainty is in commercial floor area which we derive from the time-series estimates by Deetman et al. (2020)<sup id=fnref:5><a href=#fn:5 class=footnote-ref role=doc-noteref>5</a></sup>, originally based on a Navigant Global Building Stock Database<sup id=fnref:73><a href=#fn:73 class=footnote-ref role=doc-noteref>73</a></sup> (including service-related floor space in 231 countries in 2017). Similarly, large uncertainties are involved in the average lifetime<br>
+assumptions of regional buildings. It is difficult to compare the lifetime assumptions between this study and the literature due to data limitations. In the future more detailed data along with time-series data (especially those related to the commercial buildings) are needed to improve the robustness of our<br>
+analysis.</p>
+<p>Second, we employ a sensitivity analysis to show how the High efficiency scenario is influenced by different assumptions on several variables: more intensive use, lightweight design, lifetime extension, material substitution, and more recovery. We assume a sensitivity range for each variable (see Supplementary Table 12). Note that for light weight design, increased recycling and reuse, the High efficiency scenario values are already the projected maximum from the literature. As shown in Supplementary Figure 4, emissions are sensitive to assumptions on more intensive use, whereas different assumptions on other material efficiency strategies tend not to have significant impacts on GHGs. This also indicates the importance of the consumption-based changes (leading to lower floor area per person) to emissions mitigation in the building material sector.</p>
+<p><strong>Supplementary Table 12. Comparison of several variables between this study and other literature.</strong><br>
 <img src=https://user-images.githubusercontent.com/65668613/141856670-a2530f3f-1d72-44bc-bfdb-0e5dca4bf073.png alt=image><br>
-<sup id=fnref:6><a href=#fn:6 class=footnote-ref role=doc-noteref>6</a></sup><sup id=fnref:5><a href=#fn:5 class=footnote-ref role=doc-noteref>5</a></sup><sup id=fnref:65><a href=#fn:65 class=footnote-ref role=doc-noteref>65</a></sup><sup id=fnref:66><a href=#fn:66 class=footnote-ref role=doc-noteref>66</a></sup><sup id=fnref:67><a href=#fn:67 class=footnote-ref role=doc-noteref>67</a></sup></p>
+<sup id=fnref:6><a href=#fn:6 class=footnote-ref role=doc-noteref>6</a></sup><sup id=fnref:5><a href=#fn:5 class=footnote-ref role=doc-noteref>5</a></sup><sup id=fnref:70><a href=#fn:70 class=footnote-ref role=doc-noteref>70</a></sup><sup id=fnref:72><a href=#fn:72 class=footnote-ref role=doc-noteref>72</a></sup><sup id=fnref:74><a href=#fn:74 class=footnote-ref role=doc-noteref>74</a></sup></p>
 <p><img src=https://user-images.githubusercontent.com/65668613/141856770-739fee55-3bca-431f-81ff-b5d5f9a8f0c8.png alt=image><br>
-Supplementary Figure 4. The impact of different assumptions of several material efficiency strategies on GHG emissions. The green lines in all panels represent the High efficiency scenario. More details are available in Supplementary Table 13.</p>
-<p>Supplementary Table 13. Sensitivity ranges.<br>
+<strong>Supplementary Figure 4. The impact of different assumptions of several material efficiency strategies on GHG emissions.</strong> The green lines in all panels represent the High efficiency scenario. More details are available in Supplementary Table 13.</p>
+<p><strong>Supplementary Table 13. Sensitivity ranges.</strong><br>
 <img src=https://user-images.githubusercontent.com/65668613/141856890-8baefeaf-80f3-4d1b-a217-9c668fa280c2.png alt=image></p>
 <h1 id=7-supplementary-references>7. Supplementary References</h1>
 <section class=footnotes role=doc-endnotes>
@@ -555,13 +510,34 @@ Industrial Ecology 20, 1025-1037(2016).&#160;<a href=#fnref:32 class=footnote-ba
 <p>Wernet G, Bauer C, Steubing B, Reinhard J, Moreno-Ruiz E, Weidema B. The ecoinvent database version 3 (part I): overview and methodology. The International Journal of Life Cycle Assessment 21, 1218-1230(2016).&#160;<a href=#fnref:64 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
 </li>
 <li id=fn:65 role=doc-endnote>
-<p>Vollset SE, et al. Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study. The Lancet, (2020).&#160;<a href=#fnref:65 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+<p>Mehr J, Vadenbo C, Steubing B, Hellweg S. Environmentally optimal wood use in Switzerland—Investigating the relevance of material cascades. Resources, Conservation and Recycling 131, 181-191(2018).&#160;<a href=#fnref:65 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
 </li>
 <li id=fn:66 role=doc-endnote>
-<p>Grubler A, et al. A low energy demand scenario for meeting the 1.5 C target and sustainable development goals without negative emission technologies. Nature energy 3, 515-527(2018).&#160;<a href=#fnref:66 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+<p>Boin UMJ, Bertram M. Melting standardized aluminum scrap: A mass balance model for europe. JOM 57, 26-33(2005).&#160;<a href=#fnref:66 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
 </li>
 <li id=fn:67 role=doc-endnote>
-<p>United Nations. World population prospects 2019: Highlights. New York (US): United Nations Department for Economic and Social Affairs, (2019).&#160;<a href=#fnref:67 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+<p>Qin D, et al. Climate change 2013: the physical science basis. Contribution of Working Group I to the Fifth Assessment Report of the Intergovernmental Panel on Climate Change (eds TF Stocker et al), 5-14(2014).&#160;<a href=#fnref:67 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:68 role=doc-endnote>
+<p>Steubing B, de Koning D, Haas A, Mutel CL. The Activity Browser—An open source LCA software building on top of the brightway framework. Software Impacts 3, 100012(2020).&#160;<a href=#fnref:68 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:69 role=doc-endnote>
+<p>Lesage P, Mutel C, Schenker U, Margni M. Uncertainty analysis in LCA using precalculated aggregated datasets. The International Journal of Life Cycle Assessment 23, 2248-2265(2018).&#160;<a href=#fnref:69 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:70 role=doc-endnote>
+<p>Vollset SE, et al. Fertility, mortality, migration, and population scenarios for 195 countries and territories from 2017 to 2100: a forecasting analysis for the Global Burden of Disease Study. The Lancet, (2020).&#160;<a href=#fnref:70 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:71 role=doc-endnote>
+<p>United Nations. World population prospects 2019: Volume II: Demographic Profiles. (2019).&#160;<a href=#fnref:71 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:72 role=doc-endnote>
+<p>Grubler A, et al. A low energy demand scenario for meeting the 1.5 C target and sustainable development goals without negative emission technologies. Nature energy 3, 515-527(2018).&#160;<a href=#fnref:72 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:73 role=doc-endnote>
+<p>T. Machinchick BF. Global Building Stock Database, Commercial and Residential Building Floor Space by Country and Building Type: 2017-2026. (2018).&#160;<a href=#fnref:73 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
+<li id=fn:74 role=doc-endnote>
+<p>United Nations. World population prospects 2019: Highlights. New York (US): United Nations Department for Economic and Social Affairs, (2019).&#160;<a href=#fnref:74 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
 </li>
 </ol>
 </section>
