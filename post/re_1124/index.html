@@ -1,0 +1,500 @@
+<!doctype html><html lang=en-us>
+<head>
+<script type=application/ld+json>{"@context":"http://schema.org","@type":"Website","@id":"https:\/\/xiaoshan1994.github.io\/","author":{"@type":"Person","name":"Kai Li (李锴)","image":"https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed"},"name":"Blogs of Kai","description":"","url":"https:\/\/xiaoshan1994.github.io\/post\/re_1124\/","keywords":"[tech, development, next-gen]"}</script>
+<meta charset=utf-8>
+<meta name=viewport content="width=device-width,initial-scale=1">
+<meta http-equiv=x-ua-compatible content="IE=edge">
+<meta name=generator content="Hugo 0.89.4 with theme Tranquilpeak 0.5.3-BETA">
+<meta name=author content="Kai Li (李锴)">
+<meta name=keywords content="tech,development,next-gen">
+<meta name=description content>
+<meta property="og:description" content>
+<meta property="og:type" content="article">
+<meta property="og:title" content="Blogs of Kai">
+<meta name=twitter:title content="Blogs of Kai">
+<meta property="og:url" content="https://xiaoshan1994.github.io/post/re_1124/">
+<meta property="twitter:url" content="https://xiaoshan1994.github.io/post/re_1124/">
+<meta property="og:site_name" content="Blogs of Kai">
+<meta property="og:description" content>
+<meta name=twitter:description content>
+<meta property="og:locale" content="en-us">
+<meta property="article:published_time" content="2021-11-24T10:11:30">
+<meta property="article:modified_time" content="2021-11-24T10:11:30">
+<meta property="article:section" content="Research">
+<meta property="article:section" content="Material flow analysis">
+<meta property="article:tag" content="review">
+<meta property="article:tag" content="ES&T">
+<meta name=twitter:card content="summary">
+<meta name=twitter:site content="@xiaoshan1994">
+<meta name=twitter:creator content="@xiaoshan1994">
+<meta property="og:image" content="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0007.jpeg">
+<meta property="twitter:image" content="https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0007.jpeg">
+<meta property="og:image" content="https://richearthinstitute.org/wp-content/uploads/2016/10/images.jpg">
+<meta property="twitter:image" content="https://richearthinstitute.org/wp-content/uploads/2016/10/images.jpg">
+<title>Blogs of Kai</title>
+<link rel=icon href=https://xiaoshan1994.github.io/favicons/favicon-16x16.png>
+<link rel=canonical href=https://xiaoshan1994.github.io/post/re_1124/>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.css integrity="sha512-H9jrZiiopUdsLpg94A333EfumgUBpO9MdbxStdeITo+KEIMaNfHNvwyjjDJb+ERPaRS6DpyRlKbvPUasNItRyw==" crossorigin=anonymous referrerpolicy=no-referrer>
+<link rel=stylesheet href=https://xiaoshan1994.github.io/css/style-h6ccsoet3mzkbb0wngshlfbaweimexgqcxj0h5hu4h82olsdzz6wmqdkajm.min.css>
+<script type=application/javascript>var doNotTrack=!1;doNotTrack||(function(a,e,f,g,b,c,d){a.GoogleAnalyticsObject=b,a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)},a[b].l=1*new Date,c=e.createElement(f),d=e.getElementsByTagName(f)[0],c.async=1,c.src=g,d.parentNode.insertBefore(c,d)}(window,document,'script','https://www.google-analytics.com/analytics.js','ga'),ga('create','UA-123-45','auto'),ga('send','pageview'))</script>
+</head>
+<body>
+<div id=blog>
+<header id=header data-behavior=4>
+<i id=btn-open-sidebar class="fa fa-lg fa-bars"></i>
+<div class=header-title>
+<a class=header-title-link href=https://xiaoshan1994.github.io/ aria-label="Go to homepage">Blogs of Kai</a>
+</div>
+<a class="header-right-icon st-search-show-outputs" href=https://xiaoshan1994.github.io/#search aria-label="Open the link: /#search">
+<i class="fa fa-lg fa-search"></i>
+</a>
+</header>
+<nav id=sidebar data-behavior=4>
+<div class=sidebar-container>
+<div class=sidebar-profile>
+<a href=https://xiaoshan1994.github.io/#about aria-label="Read more about the author">
+<img class=sidebar-profile-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+</a>
+<h4 class=sidebar-profile-name>Kai Li (李锴)</h4>
+<h5 class=sidebar-profile-bio>PhD candidate of Environmental Sciences, Leiden University</h5>
+</div>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/ title=Home>
+<i class="sidebar-button-icon fas fa-lg fa-home" aria-hidden=true></i>
+<span class=sidebar-button-desc>Home</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/post/about/ title="About me">
+<i class="sidebar-button-icon fas fa-lg fa-user" aria-hidden=true></i>
+<span class=sidebar-button-desc>About me</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/categories title=Categories>
+<i class="sidebar-button-icon fas fa-lg fa-bookmark" aria-hidden=true></i>
+<span class=sidebar-button-desc>Categories</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/tags title=Tags>
+<i class="sidebar-button-icon fas fa-lg fa-tags" aria-hidden=true></i>
+<span class=sidebar-button-desc>Tags</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/archives title=Archives>
+<i class="sidebar-button-icon fas fa-lg fa-archive" aria-hidden=true></i>
+<span class=sidebar-button-desc>Archives</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://www.universiteitleiden.nl/en/staffmembers/1/kai-li#tab-1 target=_blank rel=noopener title="Staff page">
+<i class="sidebar-button-icon fas fa-lg fa-university" aria-hidden=true></i>
+<span class=sidebar-button-desc>Staff page</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://scholar.google.com/citations?user=JcZReB8AAAAJ&hl=zh-CN" target=_blank rel=noopener title="Google Scholar">
+<i class="sidebar-button-icon fab fa-lg fa-google" aria-hidden=true></i>
+<span class=sidebar-button-desc>Google Scholar</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://github.com/xiaoshan1994 target=_blank rel=noopener title=GitHub>
+<i class="sidebar-button-icon fab fa-lg fa-github" aria-hidden=true></i>
+<span class=sidebar-button-desc>GitHub</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://twitter.com/xiaoshan1994 target=_blank rel=noopener title=Twitter>
+<i class="sidebar-button-icon fab fa-lg fa-twitter" aria-hidden=true></i>
+<span class=sidebar-button-desc>Twitter</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href="https://www.facebook.com/profile.php?id=100063897362757" target=_blank rel=noopener title=Facebook>
+<i class="sidebar-button-icon fab fa-lg fa-facebook" aria-hidden=true></i>
+<span class=sidebar-button-desc>Facebook</span>
+</a>
+</li>
+</ul>
+<ul class=sidebar-buttons>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=https://xiaoshan1994.github.io/index.xml title=RSS>
+<i class="sidebar-button-icon fas fa-lg fa-rss" aria-hidden=true></i>
+<span class=sidebar-button-desc>RSS</span>
+</a>
+</li>
+<li class=sidebar-button>
+<a class=sidebar-button-link href=mailto:k.li@cml.leidenuniv.nl target=_blank rel=noopener title=E-mail>
+<i class="sidebar-button-icon fas fa-lg fa-envelope" aria-hidden=true></i>
+<span class=sidebar-button-desc>E-mail</span>
+</a>
+</li>
+</ul>
+</div>
+</nav>
+<div class="post-header-cover
+text-left
+post-header-cover--partial" style=background-image:url(https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0007.jpeg) data-behavior=4>
+</div>
+<div id=main data-behavior=4 class="hasCover
+hasCoverMetaOut">
+<article class=post id=top>
+<div class="post-header main-content-wrap text-left">
+<h1 class=post-title>
+</h1>
+<div class="postShorten-meta post-meta">
+<time datetime=2021-11-24T10:11:30+01:00>
+November 24, 2021
+</time>
+<span>in</span>
+<a class=category-link href=https://xiaoshan1994.github.io/categories/research>Research</a>,
+<a class=category-link href=https://xiaoshan1994.github.io/categories/material-flow-analysis>Material flow analysis</a>
+</div>
+</div>
+<div class="post-content markdown">
+<div class=main-content-wrap>
+<p>Publication Date:September 24, 2019<br>
+<a href=https://doi.org/10.1021/acs.est.9b03413>https://doi.org/10.1021/acs.est.9b03413</a><br>
+<h1 id=table-of-contents>Table of Contents</h1>
+<nav id=TableOfContents>
+<ul>
+<li><a href=#abstract>Abstract</a></li>
+<li><a href=#1-introduction>1. Introduction</a></li>
+<li><a href=#2-defining-a-material-flow-analysis>2. Defining a Material Flow Analysis</a></li>
+<li><a href=#3-early-ventures-into-material-flow-analysis>3. Early Ventures Into Material Flow Analysis</a></li>
+<li><a href=#4-developments-in-material-flow-analysis-in-the-21st-century>4. Developments in Material Flow Analysis in the 21st Century</a>
+<ul>
+<li><a href=#41-enlarging-the-scope-of-materials-being-addressed>4.1. Enlarging the Scope of Materials Being Addressed</a>
+<ul>
+<li><a href=#411-metals-and-metalloids>4.1.1. Metals and Metalloids</a></li>
+<li><a href=#412-petrochemicals-and-plastics>4.1.2. Petrochemicals and Plastics</a></li>
+<li><a href=#413-fibers>4.1.3. Fibers</a></li>
+<li><a href=#414-construction-minerals>4.1.4. Construction Minerals</a></li>
+<li><a href=#415-composite-materials>4.1.5. Composite Materials</a></li>
+<li><a href=#416-agricultural-products>4.1.6. Agricultural Products</a></li>
+<li><a href=#417-water>4.1.7. Water</a></li>
+</ul>
+</li>
+<li><a href=#42-developing-mfa-software>4.2. Developing MFA Software</a></li>
+<li><a href=#43-extending-material-flow-cycle-detail>4.3. Extending Material Flow Cycle Detail</a></li>
+<li><a href=#44-expanding-the-boundaries-of-analysis>4.4. Expanding the Boundaries of Analysis</a></li>
+<li><a href=#45-deriving-recycling-rates-and-recycled-content>4.5. Deriving Recycling Rates and Recycled Content</a></li>
+</ul>
+</li>
+<li><a href=#5-mfa-in-industry-and-industrial-products>5. MFA in Industry and Industrial Products</a></li>
+<li><a href=#6-carbon-emissions-related-to-material-flows>6. Carbon Emissions Related to Material Flows</a></li>
+<li><a href=#7-displaying-material-flow-analysis-results>7. Displaying Material Flow Analysis Results</a></li>
+<li><a href=#8-determinations-of-uncertainty>8. Determinations of Uncertainty</a></li>
+<li><a href=#9-mfa-use-in-policy-analysis>9. MFA Use in Policy Analysis</a></li>
+<li><a href=#10-linking-mfa-analysis-to-other-industrial-ecology-tools>10. Linking MFA Analysis to Other Industrial Ecology Tools</a></li>
+<li><a href=#11-linking-mfa-analysis-to-related-fields>11. Linking MFA Analysis to Related Fields</a></li>
+<li><a href=#12-looking-to-the-future>12. Looking to the Future</a></li>
+<li><a href=#acknowledgments>Acknowledgments</a></li>
+<li><a href=#biography>Biography</a></li>
+</ul>
+</nav>
+</p>
+<h1 id=abstract>Abstract</h1>
+<p>Material flow analysis (MFA), a central methodology of industrial ecology, quantifies the ways in which the materials that enable modern society are used, reused, and lost. <span class="highlight-text orange">Sankey diagrams, termed the “visible language of industrial ecology”, are often employed to present MFA results.</span> This Perspective assesses the history and current status of MFA, reviews the development of the methodology, presents current examples of metal, polymer, and fiber MFAs, and demonstrates that MFAs have been responsible for creating related industrial ecology specialties and stimulating connections between industrial ecology and a variety of engineering and social science fields. <span class="highlight-text orange">MFA approaches are now being linked with environmental input-output assessment, scenario development, and life cycle assessment,</span> and these increasingly comprehensive assessments promise to be central tools for sustainable development and circular economy studies in the future. Current shortcomings and promising innovations are also presented, as are the implications of MFA results for corporate and national policy.</p>
+<h1 id=1-introduction>1. Introduction</h1>
+<p>Modern society—housing, food, transport, medicine, and so forth—is built on the back of materials. Until about 20 years ago, however, little quantitative information was available concerning rates of material use, material loss to the environment, efficiency of recycling, and other parameters of interest. Material flow analysis (MFA) has evolved to provide such information.<br>
+Material flow analysis is one of the central methodologies of industrial ecology. It is through MFA that an “industrial metabolism” (the flows of resources into and from a particular entity of human society) can be mapped and quantified, much as an accountant determines and quantifies monetary deposits and withdrawals. <span class="highlight-text blue">Dynamic MFAs (those that treat a specific region or system over time)</span> go further; they permit a determination of the in-use and “hibernating” stocks of materials in an industry or society (the material version of the accountant’s “assets and liabilities”).</p>
+<p>Unlike the accountant, however, who deals only with stocks and flows generally well-reported in monetary terms, the MFA analyst faces a wide diversity of commodities—biomass, polymers, metals, minerals—whose transactions often deal with inadequately described categories (e.g., “iron and aluminum alloys”), lumped categories (e.g., “plastics”), or resource flows that are seldom or never measured (many of the discard flows). MFA-related information quality may vary, from data to rough estimates to conjecture. The MFA analyst also needs to address flows that are of little import to the accountant because they are not monetized, such as waste flows not captured or emissions to the environment. The MFA specialist must therefore be part detective, part archivist, part extractor of information from experts, and part bold estimator, in order to build the internally consistent database needed to achieve a useful material flow analysis.</p>
+<p>In principle, MFA approaches can be applied to any material or combination of materials. <span class="highlight-text orange">In practice, metal stocks and flows have thus far proven to be the most suitable for analysis, largely because they can often be relatively easily tracked, and because data are commonly available for at least some parts of their life cycles.</span> However, MFAs can also treat groups of materials, such as construction minerals (sand, crushed stone, cement) or summed material flows into and from a country or region.</p>
+<p>Because data challenges of one sort or another inherently constrain the precision of MFAs, analyses of the levels of subjectivity and uncertainty in any MFA study are generally needed if the results are to be placed in proper context. Over the next few decades, more comprehensive data acquisition and more detailed analytical approaches are likely to decrease these uncertainties. Because of the nature of human societies and their levels of indeterminacy, however, MFAs will never have the tidy rigor of a laboratory analysis. Nonetheless, their utility is already clearly evident, and MFA results are widely employed for a variety of purposes.</p>
+<h1 id=2-defining-a-material-flow-analysis>2. Defining a Material Flow Analysis</h1>
+<p>As with most other analytical methodologies in science and engineering, MFA has developed over a period of time, and some of its attributes that are now widely accepted became synthesized and well-characterized only slowly. It is appropriate to ask, therefore, when did MFA (as now defined) come into being, how has it evolved, and what characteristics does it now possess?</p>
+<p>A list of attributes necessary to the designation of a MFA could well include the following;</p>
+<p><strong>i</strong> An MFA is the study of a clearly designed material flow <em>system</em>, not merely the study of a particular material flow.<br>
+<strong>ii</strong> An MFA includes a detailed description of each flow in the system (e.g., the physical and chemical state of each material), regardless of whether the flows are physical or monetary.<br>
+<strong>iii</strong> An MFA quantifies all flows of significance in the system. Conservation of mass constraints apply at each of the system nodes.<br>
+<strong>iv</strong> The presentation of MFA results is generally diagrammatic as well as numeric.<br>
+<strong>v</strong> An MFA analysis includes a discussion (or, better yet, a detailed analysis) of the reliability of the results.</p>
+<p>An example of a typical well-characterized material flow system is shown in Figure 1: a regional-level cycle of copper. In this diagram the material flow from ore in the mine begins at the left and proceeds through ore processing, metal preparation, employment in product manufacture, use, eventual discard, either loss to landfill or recycling into the scrap market, and back into use. Because what is pictured in Figure 1 is for a specified geographical area (not global), import and export flows are included. A quantitative MFA consists of determining flow magnitudes for each arrow in the diagram. In the Use stage, inflows and outflows are unlikely to be in balance, the difference being the change in stock.</p>
+<p><strong>Figure 1. Regional level flows of copper (Europe, 1994). (1) The units are Gigagrams (thousand metric tons).</strong><br>
+<img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0002.jpeg alt></p>
+<h1 id=3-early-ventures-into-material-flow-analysis>3. Early Ventures Into Material Flow Analysis</h1>
+<p>The first true MFA, one in which an entire material flow system was addressed, was that of Frosch and Gallopoulos (2) for the global platinum group cycle. Because this was a global assessment, import/export flows were not involved. There is little detail in their diagram, but all of the required MFA elements are there: cycle characterization, quantitation, material processing, use, recycling, and loss.</p>
+<p>In 1991 Baccini and Brunner (3) described a number of properties now common in contemporary MFAs in their discussion of anthropogenic flows of food, water, and other resources in a fictional region that they used for illustration. (This innovative work was updated in 2012. (4)) Then in 1997 using actual data, Socolow and Thomas (5) produced a much expanded approach to MFA, this time for lead. They included losses in some detail, and described flows for several different principal uses. Their diagram was a considerable progression from that of Frosch and Gallopoulos, and implies that considerable time and effort was expended to enable the analysis to follow the many flows from origin to destination.</p>
+<p>Also in 1997, the first carefully determined country-level MFAs were generated for both The Netherlands and Germany in the publication Resource Flows: The Material Basis of Industrial Economies. (6) Those MFAs were built on the limited data and estimates available at the time, and were illustrated as total flows, although efforts were made to subdivide overall flows into major flow components. A significant innovation was the inclusion of the heretofore ignored and untraded waste materials from mining and agriculture that are generated during the acquisition of parent materials (ores, petroleum, etc.).</p>
+<h1 id=4-developments-in-material-flow-analysis-in-the-21st-century>4. Developments in Material Flow Analysis in the 21st Century</h1>
+<h2 id=41-enlarging-the-scope-of-materials-being-addressed>4.1. Enlarging the Scope of Materials Being Addressed</h2>
+<h3 id=411-metals-and-metalloids>4.1.1. Metals and Metalloids</h3>
+<p>As the protocols and approaches of MFA became reasonably well-structured in the early part of the 21st century, the applications were largely to three metals: iron, aluminum, and copper. In the past two decades a large number of other elements have been studied by MFA approaches - in a 2012 review, (7) more than 350 MFA papers were listed, addressing 59 different elements. Work over the past several years has deepened that level of information for major element cycles, as well as adding a few other elements to the list. (In Supporting Information Table SI-1, notable MFA papers that have appeared within the past half-dozen years are cited.) Coverage remains incomplete, however: there are no published cycles for scandium, ruthenium, osmium, thorium, and most of the heavy rare earths.</p>
+<h3 id=412-petrochemicals-and-plastics>4.1.2. Petrochemicals and Plastics</h3>
+<p>Petrochemicals and plastics differ from metals in that they cannot readily be recovered, reprocessed, and reused. The traditional end-of-life approach has been either to burn them for energy production or to down-cycle them into products such as park benches. Perhaps partly because of this “one time through” design, material flow data for these materials as a group, or for individual plastics, are not widely available. Nonetheless, MFAs for plastics as a group were published in peer-reviewed journals as early as 1998, (8) 2000 (9) and 2006, (10) and more recently by others. (11−13) In the past decade several researchers have managed by various approaches to generate MFAs for specific plastics, (14−17) generally the consumer plastics polyethylene, polypropylene, polystyrene, and polyurethane, but also bisphenol A. (18) Polyvinyl chloride, which sees use both commercially and in consumer goods, has also been addressed. (15,19) The engineering plastics are thus far represented in MFAs only by polyethylene terephthalate. (15) Comprehensive (grouped plastics) analyses that emphasize flow to final use sectors of the economy rather than specific polymers have also been published, (12,13) and Levi and Cullen (20) have generated an MFA analysis of the entire petrochemical cycle.</p>
+<h3 id=413-fibers>4.1.3. Fibers</h3>
+<p>Fibers constitute a diverse group of materials that includes forest products and clothing. The former see a wide variety of uses, from very long-term (buildings and construction) to the very short-term (paper). In recent years MFAs for forest products have been generated for lumber, (21) paper, (22−24) or both. (25−27) Wood flow dominates in some countries and regions, paper flow in others. Data for clothing fibers such as cotton or wool are much less available and MFAs appear not to exist.</p>
+<h3 id=414-construction-minerals>4.1.4. Construction Minerals</h3>
+<p>Most modern construction employs minerals: cement, crushed stone, sand, and ornamental stone such as marble. The amounts used are very large–larger even than food or fossil fuels. (28) Most of these materials have low value and are mined and used locally, which tend to limit the availability of data. Unlike other minerals, however, data for cement seem well enough established to enable cement MFA analyses to be generated. (29,30) In fact, estimates of the annual production of concrete are generally produced by utilizing cement data in combination with average ratios of cement to crushed stone and sand.<br>
+Two decades ago, some national material cycles (6) attempted to quantify the flow of materials such as soil and rock that was mobilized by farm tilling and road building. The quantities proved difficult to quantify, however, and their usefulness was uncertain, so the effort has not been expended in recent years.</p>
+<h3 id=415-composite-materials>4.1.5. Composite Materials</h3>
+<p>Composite materials are those in which materials are intertwined to achieve physical properties that are unavailable from less complex material combinations. The common example for many years has been fiberglass, in which glass fiber rods are laid within sheets of plastic so as to produce a lightweight product with good mechanical properties. More recently, carbon fiber-reinforced polymers (CFRPs) have seen rapidly increasing use, especially in the automotive and aircraft industries. (31) As a consequence, CFRP manufacture rates are now roughly equal to those of some metals such as molybdenum (about 40 Gg/yr).<br>
+In what appears to be the first MFA for a composite material, Lefeuvre et al. (32) have estimated the life-cycle flows of CFRP by continent, and deduced the amount that will become available for reuse within coming years. With CFRP recycling now apparently nearing potential commercial reality, (33) detailed MFA analyses of composites seem likely to become increasingly common in the future.</p>
+<h3 id=416-agricultural-products>4.1.6. Agricultural Products</h3>
+<p>Food and related materials have been quantified in some detail for decades, particularly by the UN Food and Agriculture Organization, although the information is not typically presented in MFA form. An exception has been for phosphorus in view of its vital importance for agriculture. Detailed phosphorus MFAs have been derived for the world, (34,35) countries, (36−38) and cities. (39)</p>
+<h3 id=417-water>4.1.7. Water</h3>
+<p>It is well-known that in most cases energy is required to acquire water while water is often required to produce energy. As a consequence, water-energy MFAs are reasonably common. (40,41) Water for nonenergy uses is typically not conserved, but rather discarded at the end of use. Thus, nonenergy water has not customarily fit the pattern of a typical MFA. With the increasing reprocessing and reuse of water, however, MFAs will soon become possible at small scales such as buildings, towns, and regions.</p>
+<h2 id=42-developing-mfa-software>4.2. Developing MFA Software</h2>
+<p>In 2004 Brunner and REchberger (and colleagues) developed software to minimize the effort involved in generating MFA analyses for a variety of example systems. (42) The current version of this “STAN” open source software is freely available for download and use. (43) It includes features such as data reconciliation and error propagation.</p>
+<h2 id=43-extending-material-flow-cycle-detail>4.3. Extending Material Flow Cycle Detail</h2>
+<p>Early MFA analyses typically did not make distinctions between types of use, stock, and loss, but treated them in summation. More recently, some researchers have devised approaches that distinguish among major uses for a material, or among major discards and losses. As an example, Figure 2 (44) quantifies the zinc cycle. Several features are easy to deduce, including the largest input flow (yellow arrow, from domestic Chinese mines), the large reuse of scrap (blue), and the large rate of loss at end of use (green). Trade with other regions occurs between life stages at “markets” (the small black circles between the flows). A small dashed-line inset shows input to the Scrap node to reflect an input flow that is required to balance imput and output, but for which available data do not determine definitive assignment to one of the larger flows.</p>
+<p><strong>Figure 2. 2010 Zn cycle for Asia. (44) The line widths are proportional to the magnitudes of the zinc flows from one node of the diagram to the next.</strong> The colors indicate flows of zinc during ore processing (yellow), fabrication (blue), manufacturing (tan), and discard, recycling, and loss (green). Min = mining, S = smelting, F = fabrication, Mfg = manufacturing, U = use, W = waste management. The units are Gg/a.<br>
+<img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0003.jpeg alt></p>
+<p><strong>Figure 3. Saturation of per capita iron stocks, as revealed by country-level MFA analyses. (45)</strong><br>
+<img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0004.jpeg alt></p>
+<h2 id=44-expanding-the-boundaries-of-analysis>4.4. Expanding the Boundaries of Analysis</h2>
+<p>Strictly speaking, the stocks and flows of materials on and around Earth are combinations of the stocks and flows related to both natural and anthropogenically related flows. Such a perspective brings into view flows and stocks that enter and leave the surface of our planet from the interior (volcanic eruptions, subduction of tectonic plates, etc.), the oceans (chemicals in rivers and aerosols), the atmosphere (emissions from trees, surface deposition, and industry), and Earth orbit (captured interplanetary dust, deorbital flow). Rauch and Pacyna (46) generated such MFAs for the global silver, aluminum, chromium, copper, iron, nickel, lead, and zinc cycles; they found that anthropogenic activity has significantly perturbed Earth’s natural biogeochemical cycles, as shown by the copper example in Figure 4. In doing so they demonstrated that humans today mobilize about half the metal mass of these global elemental metal cycles. Such a broad perspective could become increasingly relevant should wide-scale mining of the seafloor or of asteroids occur in the future.</p>
+<p><strong>Figure 4. Earth’s biogeochemical copper cycle, ca. 1994. Arrows indicate flows to and from reservoirs that are not in a state of mass balance, and are either accumulating or losing copper. (46)</strong><br>
+<img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0005.jpeg alt></p>
+<h2 id=45-deriving-recycling-rates-and-recycled-content>4.5. Deriving Recycling Rates and Recycled Content</h2>
+<p>The results of a complete MFA provide the information needed to compute the functional end of life recycling rate (EOL-RR), a metric that measures the degree to which a material is recycled in such a way that its physical and chemical properties are retained, rather than becoming a “tramp constituent” of a different recycled material stream or being completely discarded. (47) A second useful metric that is derived from the MFA is the recycled content (RC), the share of scrap in produced metal. Rigorously available only from a carefully determined MFA, EOL-RR, and RC have become important measures of the degree to which the circularity of the use of a material is being achieved. (48)</p>
+<h1 id=5-mfa-in-industry-and-industrial-products>5. MFA in Industry and Industrial Products</h1>
+<p>Industries (or, more commonly, industrial associations) find MFA analyses to be useful tools for measuring progress related to material loss, recycling, and other relevant statistics. In recent years, global MFAs for specific metals have become common features of industrial association Web sites. Examples include quantitative MFAs for aluminum, (49) copper, (50) nickel, (51) and zinc. (52) In addition, large corporations are known to generate their own MFAs, and can use them for a variety of purposes such as assessing the criticality of materials in their supply chains. (53)<br>
+MFAs can also be generated for specific materials or products within an economy, as demonstrated by MFAs for various metals in automobiles. (54−56)</p>
+<h1 id=6-carbon-emissions-related-to-material-flows>6. Carbon Emissions Related to Material Flows</h1>
+<p>The acquisition, processing, use, and recycling of materials all involve the use of energy and thus (usually) the emissions of carbon dioxide to the atmosphere, some 8% of the global total, by some estimates. MFA analyses of the underlying materials cycles can provide the basis for detailed analyses of carbon emissions. In an example of this analytical approach, Liu et al. (57) constructed a global aluminum cycle (for 2009) and used the results as the basis for estimating carbon emissions to 2050 under different assumptions of emissions control and rates of industrial development. Similar analyses for other metals and materials can easily follow this approach provided the underlying MFAs have been constructed.</p>
+<h1 id=7-displaying-material-flow-analysis-results>7. Displaying Material Flow Analysis Results</h1>
+<p>Sankey diagrams are systems diagrams in which the magnitudes of resource flows are indicated by line width on MFA graphics. (58,59) The initial diagrams were for steam flow in equipment. (60) Somewhat later, Reichert (61) created a Sankey diagram for iron flow in Germany. Many variations and expansions have followed.<br>
+Sankey diagrams have become so common in MFA that Schmidt has suggested (58) that they are “the visual language of industrial ecology”. These diagrams have a unique ability to illustrate many features of an MFA analysis on a single diagram. Color is often utilized therein to aid in referring to particular flows, to indicate additional information such as life cycle stage (e.g., Figure 3) or to illustrate an additional property of the analysis. (62) Software to generate Sankey diagrams (63) is now routinely available.</p>
+<h1 id=8-determinations-of-uncertainty>8. Determinations of Uncertainty</h1>
+<p>As mentioned above, MFA results are uncertain to various degrees. Some flows are relatively well-determined, such as the import flow of mineral concentrates. Others, such as the flows of materials contained in products, are generated by averaging information on major product types. In some cases, such as losses to landfills are determined by difference or by informed estimation.</p>
+<p>Given reliability variations from one flow to another on the same diagram, an exemplary MFA will attempt to define the levels of uncertainty for each flow. (64) In recent examples characterizing MFA uncertainty, Meylan et al. (65) developed specific approaches for estimating uncertainty, and Lupton and Allwood (66) displayed estimated uncertainty for each flow by varying the color on a Sankey MFA diagram (Figure 5).</p>
+<p><strong>Figure 5. An example of a Sankey diagram resulting from a material flow analysis (this for iron on a global basis).</strong> (66) In this diagram, the line width indicates the flow magnitude, while the color indicates the level of uncertainty in the flow.<br>
+<img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0006.jpeg alt></p>
+<h1 id=9-mfa-use-in-policy-analysis>9. MFA Use in Policy Analysis</h1>
+<p>MFAs have been used in corporate policy analysis since the beginning of the 21st century. In a path-breaking example, the Toyota Motor Company in 2003 presented a corporate MFA diagram titled “Volume of Resources Input and Volume of Substances Released into the Environment in FY2002”. With the MFA cycle quantified, the corporation was then able to determine future goals for material use, emissions, and use of recycled materials, and follow progress year by year. Similar diagrams for other corporations have not been publicly available, but in many cases progress related to materials use and loss is summarized in corporate reports and elsewhere.<br>
+A particular merit of Sankey diagrams in the policy realm is their ability to effectively communicate the major features of an MFA analysis to decision makers in industry and government. As Figure 3 shows, qualitative characteristics such as import/export balances, recycling performance, and loss to the environment are readily visible, thereby providing useful starting points for policy discussions.<br>
+In the case of government policy, MFA results are policy relevant, but not policy prescriptive. The role of MFA practitioners in this regard, therefore, is to generate, interpret, and communicate potentially relevant information rather than to advocate for particular policies. Examples of the use of MFA in this way have occurred for at least a decade, and are regarded as sufficiently reliable to serve as a basis for policy use. (67) A few examples illustrate the utility of MFA in government policy. The flow of materials in Japan (68) provided the justification for Japan’s 3R (reduce, reuse, recycle) laws. An MFA of polybrominated diphenyl ethers in Vienna (69) pointed to a focus on end of life products and waste recycling plants. In the New York City harbor, MFA studies by Boehme et al. (70) quantified flows of five different toxins and assigned them to specific industrial sectors, generally with a recommendation for remedial action. . Finally, Eckelman and Chertow’s MFA study of waste management flows in Oahu, Hawaii (71) indicated several opportunities for using waste resources to substitute for imports while simultaneously reducing waste generation.<br>
+A more general use of MFA for policy purposes involves critical materials determinations. (72,73) Many aspects of those determinations—transboundary import and export flows, recycling performance, etc.—draw from MFA analyses of potentially critical materials in national or regional policy regimes.</p>
+<h1 id=10-linking-mfa-analysis-to-other-industrial-ecology-tools>10. Linking MFA Analysis to Other Industrial Ecology Tools</h1>
+<p>In recent years industrial ecologists (e.g., ref (74)) have worked to integrate MFA approaches to the economists’ input–output analysis (EIOA), the latter being generally developed on a national basis. EIOA tables treat monetary flows among industrial and societal sectors, often in great detail. To the extent that the monetary flows can be converted into material flows, MFA/EIOA analysis has the potential to be more comprehensive and informative than either approach by itself. By combining several national EIOA tables, researchers have now developed global multiregional input–output tables (GMRIOs). (75)<br>
+A new innovation in tool linkage is the work of Van der Voet et al., (76) who used metal supply/demand scenarios based on metal MFAs (77) as the starting point for life cycle assessment analyses of the environmental implications of potential future metal demand. In a similar approach, Kayo et al. (78) have used MFA followed by scenario development followed by LCA to quantify environmental impacts related to wood consumption in Japan. There is thus a proof of concept for a sequence of industrial ecology tools (MFA/EIOA → scenarios → LCA) that provide integrated more comprehensive look at visions of possible futures for resource supply, demand, and environmental impacts.</p>
+<h1 id=11-linking-mfa-analysis-to-related-fields>11. Linking MFA Analysis to Related Fields</h1>
+<p>When MFA draws from related field to accomplish its goals, or where MFA informs related fields, its utility is enhanced. Several examples illustrate the potential of such interactions:<br>
+Integrating MFA results by drawing on data from related fields. In an MFA study of the U.S. aluminum cycle from 1900 to 2009, Chen and Graedel (79) demonstrate that the magnitude of aluminum flow fluctuations is directly related to global political and economic events.<br>
+Using MFA results to inform industrial engineering opportunities. The MFA cycle in Figure 3 demonstrates that zinc loss in Asia (in 2010) was much higher at the water management (old scrap) stage than at the manufacturing (new scrap) stage, thus indicating the magnitude of potential reuse given a focus on recycling technology.<br>
+Using MFA results to stimulate environmental improvement. Chakraborty and colleagues (80) used an MFA of mercury flows in India to quantify toxic mercury emissions from a number of processes, including mining, incineration of discards, and cremation.<br>
+These examples make it obvious that analytical tool linkage is important in achieving the full potential of MFA approaches.</p>
+<h1 id=12-looking-to-the-future>12. Looking to the Future</h1>
+<p>At this point in the present review, it is possible to define the ideal goal for the MFA community: to complete MFA cycles at global, regional, and national levels for every element or material that is extensively used in human societies around the world, and to do so at high levels of accuracy. Approaching such a goal is, of course, a work in progress. For the moment, the field should aim to generate MFAs at intervals of no more than three to five years and at increasing levels of accuracy. Although MFAs can be very useful for policy purposes, as described above their policy utility will be no greater than the accuracy and timeliness of their assessments.<br>
+Despite considerable progress, challenges remain for MFA analysis. One is improving material flow statistics, especially for recycling and remanufacturing. A second is improved identification of the materials content of multimaterial products, where at present a paucity of materials-level information compromises some of the potential usefulness of national import/export statistics related to product flows. Third, most analyses of in-use stocks rely on rough estimates of product lifetimes—buildings, construction machinery, societal infrastructure, etc.—can today’s estimates be improved? Finally, can MFAs be generated for such complex but widely used materials as alloys and composites, and where would the necessary data come from?<br>
+Prospects for improvement in MFA accuracy and coverage appear bright, however. As discussed in the Supporting Information, missing cycles have been identified for metals (tantalum. heavy rare earth metals, thermoset polymers, etc.), and in many cases other gaps can probably be addressed, at least approximately. MFAs at one level (global, country, etc.) can also be pushed to other levels given sufficient effort and collaboration, and the usefulness of those MFAs will increase substantially as a result. Recycling and remanufacturing statistics, traditionally an MFA weak point, are likely to be improved by new and developing technology for material detection during recycling. Finally, MFA practitioners need to reach out more vigorously to the policy community in order to demonstrate the value of MFA information for policy purposes at levels from corporations to the planet. Much has been achieved through MFA development and quantification in the past few decades, much is yet to come.</p>
+<h1 id=acknowledgments>Acknowledgments</h1>
+<p>Much of the perspective discussed above has arisen in research discussions with many students, postdoctoral associates, and visiting scholars at Yale over the past 20 years. Barbara Reck has been particularly helpful in this regard. I also acknowledge financial support from a variety of governmental and corporate organizations, especially the Division of Chemical, Bioengineering, Environmental, and Transport Systems (CBET) of the U.S. National Science Foundation.</p>
+<h1 id=biography>Biography</h1>
+<p>Thomas E. Graedel</p>
+<p><img src=https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0001.jpeg alt></p>
+<p>Professor Graedel joined Yale University in 1997 after 27 years at AT&T Bell Laboratories and is currently Professor Emeritus of Industrial Ecology at Yale. One of the founders of the field of industrial ecology, he coauthored the first textbook in that specialty and has lectured widely on industrial ecology’s implementation and implications. His characterizations of the cycles of industrially used metals have explored aspects of resource availability, potential environmental impacts, opportunities for recycling and reuse, materials criticality, and resources policy. He was the inaugural President of the International Society for Industrial Ecology from 2002-2004 and winner of the 2007 ISIE Society Prize for excellence in industrial ecology research. He has served three terms on the United Nations International Resource Panel, and was elected to the U.S. National Academy of Engineering in 2002.</p>
+</div>
+</div>
+<div id=post-footer class="post-footer main-content-wrap">
+<div class=post-footer-tags>
+<span class="text-color-light text-small">TAGGED IN</span><br>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/review/>review</a>
+<a class="tag tag--primary tag--small" href=https://xiaoshan1994.github.io/tags/est/>ES&T</a>
+</div>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--disabled">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1120/ data-tooltip="When the Background Matters: Using Scenarios from Integrated Assessment Models in Prospective Life Cycle Assessment" aria-label="PREVIOUS: When the Background Matters: Using Scenarios from Integrated Assessment Models in Prospective Life Cycle Assessment">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+<div id=disqus_thread>
+<noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
+</div>
+<script type=text/javascript>var disqus_config=function(){this.page.url='https://xiaoshan1994.github.io/post/re_1124/',this.page.identifier='/post/re_1124/'};(function(){var a,b;if(["localhost","127.0.0.1"].indexOf(window.location.hostname)!=-1){document.getElementById('disqus_thread').innerHTML='Disqus comments not available by default when the website is previewed locally.';return}a=document.createElement('script'),a.type='text/javascript',a.async=!0,b='https-xiaoshan1994-github-io',a.src='//'+b+'.disqus.com/embed.js',(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(a)})()</script>
+</div>
+</article>
+<footer id=footer class=main-content-wrap>
+<span class=copyrights>
+&copy; 2021 Kai Li (李锴). All Rights Reserved
+</span>
+</footer>
+</div>
+<div id=bottom-bar class=post-bottom-bar data-behavior=4>
+<div class=post-actions-wrap>
+<nav>
+<ul class="post-actions post-action-nav">
+<li class=post-action>
+<a class="post-action-btn btn btn--disabled">
+<i class="fa fa-angle-left"></i>
+<span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default tooltip--top" href=https://xiaoshan1994.github.io/post/re_1120/ data-tooltip="When the Background Matters: Using Scenarios from Integrated Assessment Models in Prospective Life Cycle Assessment" aria-label="PREVIOUS: When the Background Matters: Using Scenarios from Integrated Assessment Models in Prospective Life Cycle Assessment">
+<span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+<i class="fa fa-angle-right"></i>
+</a>
+</li>
+</ul>
+</nav>
+<ul class="post-actions post-action-share">
+<li class="post-action hide-lg hide-md hide-sm">
+<a class="post-action-btn btn btn--default btn-open-shareoptions" href=#btn-open-shareoptions aria-label="Share this post">
+<i class="fa fa-share-alt" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.facebook.com/sharer/sharer.php?u=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Facebook" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://twitter.com/intent/tweet?text=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Twitter" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://wa.me/?text=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Whatsapp" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i>
+</a>
+</li>
+<li class="post-action hide-xs">
+<a class="post-action-btn btn btn--default" target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https://xiaoshan1994.github.io/post/re_1124/" title="Share on Linkedin" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#disqus_thread aria-label="Leave a comment">
+<i class="far fa-comment"></i>
+</a>
+</li>
+<li class=post-action>
+<a class="post-action-btn btn btn--default" href=#top aria-label="Back to top">
+<i class="fa fa-arrow-up" aria-hidden=true></i>
+</a>
+</li>
+</ul>
+</div>
+</div>
+<div id=share-options-bar class=share-options-bar data-behavior=4>
+<i id=btn-close-shareoptions class="fa fa-times"></i>
+<ul class=share-options>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1124%2F" aria-label="Share on Facebook">
+<i class="fab fa-facebook-square" aria-hidden=true></i><span>Share on Facebook</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1124%2F" aria-label="Share on Twitter">
+<i class="fab fa-twitter" aria-hidden=true></i><span>Share on Twitter</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://wa.me/?text=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1124%2F" aria-label="Share on Whatsapp">
+<i class="fab fa-whatsapp" aria-hidden=true></i><span>Share on Whatsapp</span>
+</a>
+</li>
+<li class=share-option>
+<a class=share-option-btn target=new href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fxiaoshan1994.github.io%2Fpost%2Fre_1124%2F" aria-label="Share on Linkedin">
+<i class="fab fa-linkedin" aria-hidden=true></i><span>Share on Linkedin</span>
+</a>
+</li>
+</ul>
+</div>
+<div id=share-options-mask class=share-options-mask></div>
+</div>
+<div id=about>
+<div id=about-card>
+<div id=about-btn-close>
+<i class="fa fa-times"></i>
+</div>
+<img id=about-card-picture src="https://www.gravatar.com/avatar/59093bf589818facd793bffecd9bd2ed?s=110" alt="Author's picture">
+<h4 id=about-card-name>Kai Li (李锴)</h4>
+<div id=about-card-bio>PhD candidate of Environmental Sciences, Leiden University</div>
+<div id=about-card-job>
+<i class="fa fa-briefcase"></i>
+<br>
+Leiden University
+</div>
+<div id=about-card-location>
+<i class="fa fa-map-marker-alt"></i>
+<br>
+the Netherlands
+</div>
+</div>
+</div>
+<div id=cover style=background-image:url(https://i.redd.it/4w8jxyi56if41.jpg)></div>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/highlight.min.js integrity="sha512-z+/WWfyD5tccCukM4VvONpEtLmbAm5LDu7eKiyMQJ9m7OfPEDL7gENyDRL3Yfe8XAuGsS2fS4xSMnl6d30kqGQ==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js integrity="sha512-uURl+ZXMBrF4AwGaWmEetzrd+J5/8NRkWAvJx5sbPSSuOb0bZLqf+tOzniObO00BjHa/dD7gub9oCGMLPQHtQA==" crossorigin=anonymous referrerpolicy=no-referrer></script>
+<script src=https://xiaoshan1994.github.io/js/script-yqzy9wdlzix4lbbwdnzvwx3egsne77earqmn73v9uno8aupuph8wfguccut.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-EWROca+bote+7Oaaar1F6y74iZj1r1F9rm/ly7o+/FwJopbBaWtsFDmaKoZDd3QiGU2pGacBirHJNivmGLYrow==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/go.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-GDVzAn0wpx1yVtQsRWmFc6PhJiLBPdUic+h4GWgljBh904O3JU10fk9EKNpVyIoPqkFn54rgL2QBG4BmUTMpiQ==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/http.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-UgZlma8NzkrDb/NWgmLIcTrH7i/CSnLLDRFqCSNF5NGPpjKmzyM25qcoXGOup8+cDakKyaiTDd7N4dyH4YT+IA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/less.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-lot9koe73sfXIrUvIPM/UEhuMciN56RPyBdOyZgfO53P2lkWyyXN7J+njcxIIBRV+nVDQeiWtiXg+bLAJZDTfg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/nginx.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-Zd3e7XxHP00TD0Imr0PIfeM0fl0v95kMWuhyAS3Wn1UTSXTkz0OhtRgBAr4JlmADRgiXr4x7lpeUdqaGN8xIog==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/puppet.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-qtqDO052iXMSP+5d/aE/jMtL9vIIGvONgTJziC2K/ZIB1yEGa55WVxGE9/08rSQ62EoDifS9SWVGZ7ihSLhzMA==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/scss.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-1NmkjnEDnwwwcu28KoQF8vs3oaPFokQHbmbtwGhFfeDsQZtVFI8zW2aE9O8yMYdpdyKV/5blE4pSWw4Z/Sv97w==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/stylus.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-B2wSfruPjr8EJL6IIzQr1eAuDwrsfIfccNf/LCEdxELCgC/S/ZMt/Uvk80aD79m7IqOqW+Sw8nbkvha20yZpzg==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/swift.min.js></script>
+<script async crossorigin=anonymous defer integrity="sha512-28oDiQZGKUVN6wQ7PSLPNipOcmkCALXKwOi7bnkyFf8QiMZQxG9EQoy/iiNx6Zxj2cG2SbVa4dXKigQhu7GiFw==" src=https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/yaml.min.js></script>
+<script>$(document).ready(function(){hljs.configure({classPrefix:'',useBR:!1}),$('pre.code-highlight > code, pre > code').each(function(b,a){$(this).hasClass('codeblock')||$(this).addClass('codeblock'),hljs.highlightBlock(a)})})</script>
+<script type=text/javascript async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS_CHTML-full" integrity="sha256-GhM+5JHb6QUzOQPXSJLEWP7R73CbkisjzK5Eyij4U9w=" crossorigin=anonymous></script>
+<script type=text/x-mathjax-config>
+    MathJax.Hub.Config({
+      CommonHTML: { linebreaks: { automatic: true } },
+      tex2jax: { inlineMath: [ ['$', '$'], ['\\(','\\)'] ], displayMath: [ ['$$','$$'], ['\\[', '\\]'] ], processEscapes: false },
+      messageStyle: 'none'
+    });
+  </script>
+</body>
+</html>
