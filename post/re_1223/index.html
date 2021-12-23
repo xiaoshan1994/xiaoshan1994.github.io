@@ -167,6 +167,7 @@ Arne Kätelhön, André Bardow, and Sangwon Suh*<br>
 Publication date: <strong>November 2, 2016</strong></p>
 <p>Chair of Technical Thermodynamics, RWTH Aachen University, Schinkelstrasse 8, 52062 Aachen, Germany<br>
 *Bren School of Environmental Science and Management, University of California, Santa Barbara, California 93106-5131, United States<br>
+<a href=https://pubs.acs.org/doi/10.1021/acs.est.6b04270>https://pubs.acs.org/doi/10.1021/acs.est.6b04270</a><br>
 <h1 id=table-of-contents>Table of Contents</h1>
 <nav id=TableOfContents>
 <ul>
@@ -196,6 +197,12 @@ Publication date: <strong>November 2, 2016</strong></p>
 <ul>
 <li>Matrix A shows the exchange of intermediate flows (functional flows), where the coefficient $a_{ij}$ indicates the production (>0) or consumption (&lt;0) amount. For an invertible technology matrix A and a given functional unit vector f, a scaling vector s can be calculated from:<br>
 $$S = A^{-1}f(1)$$</li>
+<li>Based on ISO standards (14040 and 14044), elementary flows are defined as <span class="highlight-text orange">material or energy entering or leaving the studied system from or into the environment without previous or subsequent human transformation.</span></li>
+<li>Matrix B shows the elementary flows of the unit processes, where the coefficient $b_{ej}$ shows the elementary flow e of unit process j entering (&lt;0) or leaving (>0) the system.</li>
+<li>Multiplying the elementary flow matrix B with the scaling vector s yields the Life Cycle Inventory (LCI) vector g representing the total elementary flows associated with the functional unit f:<br>
+$$g = Bs = BA^{-1}f$$</li>
+<li>The characterization matrix Q contains characterization factors transforming the elementary flows into environmental impact flows. The characterization factor of elementary flow e for impact category z is represented by the coefficient qze of the characterization matrix Q. The total environmental impacts expressed in impact vector h are calculated such that:<br>
+$$h = Qg = QBA^{-1}f$$</li>
 </ul>
 </div>
 </div>
