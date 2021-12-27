@@ -10,7 +10,7 @@ tags:
 - Journal Review
 Categories:
 - Skill
-- Academic Writing
+- Writing
 ---
 
 A guidance highlighting why your paper was rejected by **Environmental Science & Technology** and what basic characteristics your paper should possess so it can move forward.

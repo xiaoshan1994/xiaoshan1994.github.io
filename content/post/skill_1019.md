@@ -4,7 +4,7 @@ date: 2021-10-19T10:25:33+02:00
 description: "Common pronunciations (in British English - Gimson,1981) of mathematical and scientific symbols are given in the list below"
 categories:
 - Skill
-- Speech
+- Presentation
 tags:
 - mathematical expressions
 - pronunciation

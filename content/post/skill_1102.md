@@ -3,7 +3,7 @@ title: "Scientific publishers, scholarly impact and citation analysis"
 date: 2021-11-02T10:41:42+01:00
 categories:
 - Skill
-- Academic Writing
+- Writing
 tags:
 - journal impact factor
 - google scholar metrics

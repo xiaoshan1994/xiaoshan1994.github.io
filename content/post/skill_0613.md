@@ -10,7 +10,7 @@ tags:
 - EndNote
 Categories:
 - Skill
-- Academic Writing
+- Writing
 ---
 
 You will only be able to edit the style if the style is saved to your computer.
