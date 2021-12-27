@@ -8,7 +8,7 @@ tags:
 - Hugo
 categories:
 - Skill
-- Code
+- Coding
 ---
 
 Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.

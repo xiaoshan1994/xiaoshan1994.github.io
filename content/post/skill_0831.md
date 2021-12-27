@@ -11,7 +11,7 @@ tags:
 - code
 Categories:
 - Skill
-- Code
+- Coding
 ---
 # Tuple
 Tuples are used to store multiple items in a single variable.

@@ -5,7 +5,7 @@ tags:
 - Hugo
 categories:
 - Skill
-- Code
+- Coding
 thumbnailImagePosition: left
 thumbnailImage: //codeit.suntprogramator.dev/theme-documentation-built-in-shortcodes/featured-image.png
 ---

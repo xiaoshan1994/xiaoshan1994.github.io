@@ -11,6 +11,6 @@ tags:
 - Python
 Categories:
 - Skill
-- Code
+- Coding
 ---
 https://matplotlib.org/stable/tutorials/intermediate/gridspec.html#sphx-glr-tutorials-intermediate-gridspec-py
