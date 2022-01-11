@@ -41,7 +41,7 @@ Edgar Towa, Vanessa Zeller, Wouter M.J.Achten
 Institute for Environmental Management and Land-use Planning, Université Libre de Bruxelles (ULB), Avenue. F.D. Roosevelt 50, 1050, Brussels, Belgium
 
 # Solid waste generation and management in Portugal:- An environmental input-output modelling approach
-2002
 [7th Biennial Conference of the International Society for Ecological Economics](https://www.isecoeco.org/pdf/solid_waste_portugal.pdf)
+2002
 Eduardo J. G. Barata
 School of Politics, International Relations and the Environment, Keele University, Staffs. ST5 5BG, UK; and Faculty of Economics of the University of Coimbra, Portugal.
