@@ -4,10 +4,10 @@ date: 2022-01-11T20:15:08+01:00
 categories:
 - Waste
 - Environmentally Extended Input–Output Analysis
+tags:
+- collection
 keywords:
 - tech
-gallery:
-- collection
 thumbnailImage: https://industry.pulpandpaper-technology.com/articles/1504182590-top-methods-solid-waste-disposal-management.jpg
 thumbnailImagePosition: left
 metaAlignment: left
