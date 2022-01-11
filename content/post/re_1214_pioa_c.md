@@ -76,3 +76,9 @@ Livia Cabernard, Stephan Pfister, Christopher Oberschelp & Stefanie Hellweg
 Swiss Federal Institute of Technology, ETH Zürich, Department of Civil, Environmental and Geomatic Engineering, Institute of Environmental Engineering, Ecological Systems Design, Zürich, Switzerland
 
 Swiss Federal Institute of Technology, ETH Zürich, Department of Humanities, Social and Political Sciences, Institute of Science, Technology and Policy (ISTP), Zürich, Switzerland
+
+# Plastic packaging flows in Europe: A hybrid input-output approach
+First published: **12 August 2021**
+[Journal of Industrial Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13175)
+Ciprian Cimpan, Eivind Lekve Bjelle, Anders Hammer Strømman
+Industrial Ecology Programme, Department of energy and process engineering, Norwegian University of Science and Technology (NTNU), Trondheim, Norway
