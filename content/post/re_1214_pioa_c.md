@@ -67,3 +67,12 @@ https://xiaoshan1994.github.io/post/re_12282/
 ![image](https://user-images.githubusercontent.com/65668613/148078738-491d0086-0679-48ea-b933-92cd58158246.png)
 
 The newest data updates to September 2021 (access on 04/01/2022).
+
+# Growing environmental footprint of plastics driven by coal combustion
+Published: **02 December 2021**
+[Nature Sustainability](https://www.nature.com/articles/s41893-021-00807-2#Sec9)
+Livia Cabernard, Stephan Pfister, Christopher Oberschelp & Stefanie Hellweg
+
+Swiss Federal Institute of Technology, ETH Zürich, Department of Civil, Environmental and Geomatic Engineering, Institute of Environmental Engineering, Ecological Systems Design, Zürich, Switzerland
+
+Swiss Federal Institute of Technology, ETH Zürich, Department of Humanities, Social and Political Sciences, Institute of Science, Technology and Policy (ISTP), Zürich, Switzerland
