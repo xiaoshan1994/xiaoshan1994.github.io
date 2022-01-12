@@ -77,6 +77,8 @@ Swiss Federal Institute of Technology, ETH Zürich, Department of Civil, Environ
 
 Swiss Federal Institute of Technology, ETH Zürich, Department of Humanities, Social and Political Sciences, Institute of Science, Technology and Policy (ISTP), Zürich, Switzerland
 
+https://xiaoshan1994.github.io/post/re_220112/
+
 # Plastic packaging flows in Europe: A hybrid input-output approach
 First published: **12 August 2021**
 [Journal of Industrial Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13175)
