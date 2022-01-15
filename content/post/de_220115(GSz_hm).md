@@ -9,7 +9,7 @@ tags:
 - subtitles
 keywords:
 - tech
-coverImage: https://p1-tt.byteimg.com/origin/pgc-image/c822753b137840d681b91cb6efbddc63?from=pc
+coverImage: https://cs.xinpianchang.com/uploadfile/group/20200915/5f602ff5ac8f0.png
 coverSize: full
 coverMeta: out
 metaAlignment: left
