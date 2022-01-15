@@ -13,7 +13,7 @@ coverImage: http://image.uc.cn/s/wemedia/s/upload/2019/dfb842b1d1da9f445245c7f43
 coverSize: partial
 coverMeta: out
 metaAlignment: left
-thumbnailImage: http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/m/mzc00200cj25snv.jpg
+thumbnailImage: https://m.media-amazon.com/images/M/MV5BNjVmOWFhZTQtYjIyMC00ZDM2LTk0NmEtMjkzNjUzMzI4YjQ3XkEyXkFqcGdeQXVyODYyNTM1Nzk@._V1_.jpg
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
