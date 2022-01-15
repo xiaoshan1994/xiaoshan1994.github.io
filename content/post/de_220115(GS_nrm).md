@@ -9,7 +9,7 @@ tags:
 - subtitles
 keywords:
 - tech
-coverImage: https://p5.itc.cn/images01/20210413/13ab743f9da94a49934d0efc73835768.jpeg
+coverImage: http://img.mp.itc.cn/upload/20170413/73c595c163d94ef0ae8e06945dada0ce_th.jpg
 coverSize: full
 coverMeta: out
 metaAlignment: left
