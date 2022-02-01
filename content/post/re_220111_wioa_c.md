@@ -3,9 +3,9 @@ title: "(collection) IOA and waste management"
 date: 2022-01-11T20:15:08+01:00
 categories:
 - Waste
-- Environmentally Extended Input–Output Analysis
+- Collection
 tags:
-- collection
+- IOA
 keywords:
 - tech
 thumbnailImage: https://industry.pulpandpaper-technology.com/articles/1504182590-top-methods-solid-waste-disposal-management.jpg
