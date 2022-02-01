@@ -3,9 +3,10 @@ title: "(Collection) Global Plastic Waste Trade/ plastic and IOA"
 date: 2021-12-14T11:34:50+01:00
 categories:
 - Plastic
-- Trade and Input-output Analysis
+- Collection
 tags:
-- collection
+- plastic waste trade
+- IOA
 keywords:
 - tech
 coverImage: https://resource.co/sites/default/files/shipping%20containers.jpg
