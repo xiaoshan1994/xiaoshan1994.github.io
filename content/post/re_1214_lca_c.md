@@ -3,9 +3,9 @@ title: "(Collection) LCA of plastic or packaging waste"
 date: 2021-12-14T11:17:02+01:00
 categories:
 - Plastic
-- Life Cycle Assessment
+- Collection
 tags:
-- collection
+- LCA
 - packaging
 thumbnailImage: https://www.mdpi.com/sustainability/sustainability-13-05340/article_deploy/html/images/sustainability-13-05340-g002.png
 thumbnailImagePosition: left
