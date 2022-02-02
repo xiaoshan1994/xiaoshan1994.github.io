@@ -1,11 +1,11 @@
 ---
-title: "(Collection) The impact of covid-19 on global plastics waste trade"
+title: "(Collection) The impact of Covid-19 on global plastics waste trade"
 date: 2022-01-31T11:56:42+01:00
 categories:
 - Plastic
 - Collection
 tags:
-- covid-19
+- Covid-19
 thumbnailImage: https://www.aljazeera.com/wp-content/uploads/2020/07/d8af2feae1fd430887cde0389b6b92e8_6.jpeg
 thumbnailImagePosition: left
 metaAlignment: left
