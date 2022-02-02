@@ -23,7 +23,7 @@ Math: True
 {{< toc >}}
 
 # China’s plastic import ban increases prospects of environmental impact mitigation of plastic waste trade flow worldwide
-[*Nature Communications*](https://www.nature.com/articles/s41467-020-20741-9#Sec6)
+[*Nature Communications*](https://www.nature.com/articles/s41467-020-20741-9)
 Published: **18 January 2021**
 Zongguo Wen, Yiling Xie, Muhan Chen & Christian Doh Dinga
 
