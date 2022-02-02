@@ -23,10 +23,8 @@ Math: True
 {{< toc >}}
 
 # China’s plastic import ban increases prospects of environmental impact mitigation of plastic waste trade flow worldwide
-
-***Nature Communications***
+[*Nature Communications*](https://www.nature.com/articles/s41467-020-20741-9#Sec6)
 Published: **18 January 2021**
-https://www.nature.com/articles/s41467-020-20741-9#Sec6
 Zongguo Wen, Yiling Xie, Muhan Chen & Christian Doh Dinga
 
 State Key Joint Laboratory of Environment Simulation and Pollution Control (SKLESPC), School of Environment, Tsinghua University, Beijing, 100084, China
@@ -39,13 +37,12 @@ Year of publication: 2017
 Author: Ieva Ruceskva, Iris Carla De Jesus, Levi Westerveld, Thirze Hermans
 
 # The Chinese import ban and its impact on global plastic waste trade
-***Science Advances***
+[*Science Advances*](https://www.science.org/doi/10.1126/sciadv.aat0131)
 Received: 15 January 2018
 Accepted: 11 May 2018
 Amy L. Brooks $^a$, Shunli Wang $^a$, Jenna R. Jambeck $^a$,
 
 $^a$ College of Engineering, New Materials Institute, University of Georgia, Riverbend Research Lab South, 220 Riverbend Road, Athens, GA 30602, USA.
-https://www.science.org/doi/10.1126/sciadv.aat0131
 
 # eurostat
 https://ec.europa.eu/eurostat/web/waste/data
@@ -73,7 +70,7 @@ The newest data updates to September 2021 (access on 04/01/2022).
 
 # Growing environmental footprint of plastics driven by coal combustion
 Published: **02 December 2021**
-[Nature Sustainability](https://www.nature.com/articles/s41893-021-00807-2#Sec9)
+[*Nature Sustainability*](https://www.nature.com/articles/s41893-021-00807-2#Sec9)
 Livia Cabernard, Stephan Pfister, Christopher Oberschelp & Stefanie Hellweg
 
 Swiss Federal Institute of Technology, ETH Zürich, Department of Civil, Environmental and Geomatic Engineering, Institute of Environmental Engineering, Ecological Systems Design, Zürich, Switzerland
@@ -84,6 +81,6 @@ https://xiaoshan1994.github.io/post/re_220112/
 
 # Plastic packaging flows in Europe: A hybrid input-output approach
 First published: **12 August 2021**
-[Journal of Industrial Ecology](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13175)
+[*Journal of Industrial Ecology*](https://onlinelibrary.wiley.com/doi/full/10.1111/jiec.13175)
 Ciprian Cimpan, Eivind Lekve Bjelle, Anders Hammer Strømman
 Industrial Ecology Programme, Department of energy and process engineering, Norwegian University of Science and Technology (NTNU), Trondheim, Norway
