@@ -2,7 +2,7 @@
 title: "Modeling the EU plastic footprint: Exploring data sources and littering potential"
 date: 2021-12-11T10:01:26+01:00
 categories:
-- Research
+- Plastic
 - Material Flow Analysis
 tags:
 - plastic

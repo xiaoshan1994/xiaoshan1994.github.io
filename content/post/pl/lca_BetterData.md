@@ -2,7 +2,7 @@
 title: "Opinion: We need better data about the environmental persistence of plastic goods"
 date: 2021-12-10T10:09:12+01:00
 categories:
-- Research
+- plastic
 - Life Cycle Assessment
 tags:
 - plastic

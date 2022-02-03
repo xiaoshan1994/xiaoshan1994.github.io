@@ -2,7 +2,7 @@
 title: "Plastic Leak Project -- press release and methodological guidelines"
 date: 2021-12-08T10:49:13+01:00
 categories:
-- Research
+- Plastic
 - Life Cycle Assessment
 tags:
 - plastic

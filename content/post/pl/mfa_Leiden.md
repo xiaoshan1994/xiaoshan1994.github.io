@@ -2,7 +2,7 @@
 title: "Urban Material Flow Analysis of Plastics"
 date: 2021-12-07T12:02:53+01:00
 categories:
-- Research
+- Plastic
 - Material Flow Analysis
 tags:
 - plastics

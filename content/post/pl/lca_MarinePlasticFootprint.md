@@ -2,7 +2,7 @@
 title: "The Marine Plastic Footprint"
 date: 2021-12-10T11:09:19+01:00
 categories:
-- Research
+- Plastic
 - Life Cycle Assessment
 tags:
 - plastic

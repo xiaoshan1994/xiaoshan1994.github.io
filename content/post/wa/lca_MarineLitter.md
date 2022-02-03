@@ -2,7 +2,7 @@
 title: "A framework for the assessment of marine litter impacts in life cycle impact assessment"
 date: 2021-12-10T21:42:22+01:00
 categories:
-- Research
+- Waste
 - Life Cycle Assessment
 tags:
 - plastic

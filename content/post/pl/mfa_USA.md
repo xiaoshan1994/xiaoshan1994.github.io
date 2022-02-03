@@ -2,7 +2,7 @@
 title: "Plastics in the US: toward a material flow characterization of production, markets and end of life"
 date: 2021-12-05T11:35:53+01:00
 categories:
-- Research
+- Plastic
 - Material Flow Analysis
 tags:
 - plastics
