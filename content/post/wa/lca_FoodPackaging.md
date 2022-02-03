@@ -2,7 +2,7 @@
 title: "Mapping the Influence of Food Waste in Food Packaging Environmental Performance Assessments"
 date: 2021-12-05T11:35:53+01:00
 categories:
-- Research
+- waste
 - Life Cycle Assessment
 tags:
 - food packaging
