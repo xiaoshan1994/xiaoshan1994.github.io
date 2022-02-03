@@ -2,7 +2,7 @@
 title: "Don’t scrap the waste: The need for broader system boundaries in bioplastic food packaging life-cycle assessment – A critical review"
 date: 2021-12-05T11:35:53+01:00
 categories:
-- Research
+- waste
 - Life Cycle Assessment
 tags:
 - bioplastic

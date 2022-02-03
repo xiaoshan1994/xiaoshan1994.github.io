@@ -2,8 +2,8 @@
 title: "Linking the plastic footprint with the global trade"
 date: 2021-12-14T10:50:54+01:00
 categories:
-- Projects and Proposals
 - Plastic
+- Project
 keywords:
 - tech
 metaAlignment: left

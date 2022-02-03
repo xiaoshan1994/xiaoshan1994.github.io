@@ -2,7 +2,7 @@
 title: "Achieving net-zero greenhouse gas emission plastics by a circular carbon economy"
 date: 2021-12-17T17:55:05+01:00
 categories:
-- Research
+- Plastic
 - Life Cycle Assessment
 tags:
 - plastic
