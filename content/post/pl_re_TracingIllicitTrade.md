@@ -1,5 +1,5 @@
 ---
-title: "Plastic for profit：Tracing illicit plastic waste flows, supply chains and actors"
+title: "Plastic for profit: Tracing illicit plastic waste flows, supply chains and actors"
 date: 2022-01-20T21:53:50+01:00
 categories:
 - Plastic

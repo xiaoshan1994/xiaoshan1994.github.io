@@ -1,7 +1,6 @@
 ---
 title: "How to pull data from an API using Python"
 date: 2022-01-24T17:10:17+01:00
-description: ""
 categories:
 - Skill
 - Coding
