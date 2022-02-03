@@ -3,7 +3,7 @@ title: "Achieving a circular bioeconomy for plastics"
 date: 2021-12-04T12:34:38+01:00
 description: ""
 categories:
-- Research
+- plastic
 - Life Cycle Assessment
 tags:
 - bioplastic

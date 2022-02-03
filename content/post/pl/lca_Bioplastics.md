@@ -3,7 +3,7 @@ title: "The Unintended Side Effects of Bioplastics: Carbon, Land, and Water Foot
 date: 2021-12-03T20:53:14+01:00
 description: ""
 categories:
-- Research
+- plastic
 - Life Cycle Assessment
 tags:
 - bioplastic
