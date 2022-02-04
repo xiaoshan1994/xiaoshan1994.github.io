@@ -133,6 +133,8 @@ An ATA or CPD carnet can be used for temporary admission. It covers professional
 
 “Customs warehousing procedure” means the Customs procedure under which imported goods are stored under Customs control in a designated place (a Customs warehouse) without payment of import duties and taxes.
 
+
+
 "free zone" means an area at a port where certain customs restrictions are not implemented (*from collinsdictionary.com*)
 # About free zones
 [*Practical Guidance on Free Zones* by World Customs Organization December 2020](http://www.wcoomd.org/-/media/wco/public/global/pdf/topics/facilitation/activities-and-programmes/free-zone/wco-fz-guidance_en.pdf?la=en)
@@ -159,3 +161,16 @@ Anecdotal examples of illicit trade
 ![image](https://user-images.githubusercontent.com/65668613/151538994-99211c24-2ef5-4c29-ad39-45b0b583bcd5.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/151539048-5792fbe2-ecfd-4f83-a29a-109cc275098a.png)
+
+# Rules of Origin
+[WTO](https://www.wto.org/english/tratop_e/roi_e/roi_info_e.htm#:~:text=Rules%20of%20origin%20are%20the,to%20the%20rules%20of%20origin.)
+Rules of origin are the criteria needed to determine {{< hl-text blue>}}the national source of a product{{< /hl-text >}}. Their importance is derived from the fact that duties and restrictions in several cases depend upon the source of imports.
+
+While the requirement of substantial transformation is universally recognized, some governments apply the criterion of change of tariff classification, others the ad valorem percentage criterion and yet others the criterion of manufacturing or processing operation.
+
+Rules of origin are used:
+— to implement measures and instruments of commercial policy such as {{< hl-text blue>}}anti-dumping duties and safeguard measures{{< /hl-text >}};
+— to determine whether imported products shall receive {{< hl-text blue>}}most-favoured-nation (MFN) treatment{{< /hl-text >}} or {{< hl-text blue>}}preferential treatment{{< /hl-text >}};
+— for the purpose of trade statistics;
+— for the application of labelling and marking requirements; and
+— for government procurement.
