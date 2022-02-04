@@ -65,9 +65,9 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 * Much of the waste that is exported for recycling to South East Asia is often burned or dumped.
 * The degree to which the illicit trade in plastic waste severely undermines both the natural environment and human health and safety is alarming.
 * All this waste eventually feeds the five infamous garbage patches that float in our oceans, of which the so-called {{< hl-text blue>}}Great Pacific Garbage Patch{{< /hl-text >}} is the largest.
-* Aside from dumping, it has become common practice to burn illicit waste as a method of disposal in Indonesia or Malaysia, causing {{< hl-text blue>}}air pollution, respiratory problems, and food health problems (ashes).
+* Aside from dumping, it has become common practice to burn illicit waste as a method of disposal in Indonesia or Malaysia, causing {{< hl-text blue>}}air pollution, respiratory problems, and food health problems (ashes){{< /hl-text >}}.
 
->Burning is also used as a method of illicit waste disposal in some European countries such as **Italy** and the **UK**, as well as in **Turkey**. In October 2021, Italian authorities arrested the owners of a recycling plant who, in 2017, set ablaze tonnes of mixed hazardous waste as a way of clearing their premises at no cost.
+> Burning is also used as a method of illicit waste disposal in some European countries such as **Italy** and the **UK**, as well as in **Turkey**. In October 2021, Italian authorities arrested the owners of a recycling plant who, in 2017, set ablaze tonnes of mixed hazardous waste as a way of clearing their premises at no cost.
 
 > In **Turkey**, an average of two suspicious incinerations per week take place at recycling plants.
 
