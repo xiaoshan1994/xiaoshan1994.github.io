@@ -60,3 +60,19 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 > Following a 2019 ban on all waste imports, **Indonesia** also softened its stance. The year after, the government allowed the imports of plastic (and paper) waste with contamination levels of up to 2%. This particular case highlights the role of one particular set of actors: trade associations. The US Institute of Scrap Recycling Industries (ISRI) openly lobbied for the continuation of imports of a number of waste materials.
 
 > If these requests are met, **Kenya** – which has the strictest ban on single-use plastics in the world34 – could become the main hub for the distribution of US-made plastic in the continent.
+
+# HUMAN AND ENVIRONMENTAL HARM
+* Much of the waste that is exported for recycling to South East Asia is often burned or dumped.
+* The degree to which the illicit trade in plastic waste severely undermines both the natural environment and human health and safety is alarming.
+* All this waste eventually feeds the five infamous garbage patches that float in our oceans, of which the so-called {{< hl-text blue>}}Great Pacific Garbage Patch{{< /hl-text >}} is the largest.
+* Aside from dumping, it has become common practice to burn illicit waste as a method of disposal in Indonesia or Malaysia, causing {{< hl-text blue>}}air pollution, respiratory problems, and food health problems (ashes).
+
+>Burning is also used as a method of illicit waste disposal in some European countries such as **Italy** and the **UK**, as well as in **Turkey**. In October 2021, Italian authorities arrested the owners of a recycling plant who, in 2017, set ablaze tonnes of mixed hazardous waste as a way of clearing their premises at no cost.
+
+> In **Turkey**, an average of two suspicious incinerations per week take place at recycling plants.
+
+> The exploitation of vulnerable workers has also been documented in **Indonesia**, where some companies systematically employ women to sort waste (with no concerns for any resulting health problems).
+
+> **Ghana**’s Environmental Protection Agency told the GI-TOC that most recycling facilities in the country (primarily owned by **Chinese entrepreneurs**) have unsanitary working conditions. A similar picture emerged in **Zambia**, where Chinese companies appear to underpay their workers.
+
+> In **Indonesia** and the **Philippines**, waste pickers and workers in collection and aggregation facilities generally do not have formal employment contracts with the owners of the facilities and thus lack access to basic benefits, training and protections vital to their safety. Most waste pickers also do not have identification documents, a prerequisite for accessing government health-insurance schemes.
