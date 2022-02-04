@@ -76,3 +76,8 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 > **Ghana**’s Environmental Protection Agency told the GI-TOC that most recycling facilities in the country (primarily owned by **Chinese entrepreneurs**) have unsanitary working conditions. A similar picture emerged in **Zambia**, where Chinese companies appear to underpay their workers.
 
 > In **Indonesia** and the **Philippines**, waste pickers and workers in collection and aggregation facilities generally do not have formal employment contracts with the owners of the facilities and thus lack access to basic benefits, training and protections vital to their safety. Most waste pickers also do not have identification documents, a prerequisite for accessing government health-insurance schemes.
+
+## THE GREAT PACIFIC GARBAGE PATCH
+46% of the total mass is made of {{< hl-text blue>}}discarded fishing gear{{< /hl-text >}}.
+
+# TRACING THE FLOWS
