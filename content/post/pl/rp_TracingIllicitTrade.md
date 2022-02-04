@@ -26,4 +26,6 @@ To achieve a Net-Zero future, it is essential – among other interventions – 
 largest recipient of waste from Europe and North America as well as from Australia.
 * In addition, the role of African countries as receiving destinations is growing for both the North American and European waste trade.
 * Plastic waste, that once processed, becomes raw material to be sold to manufacturing companies. {{< hl-text orange>}}However, many of these receiving countries only possess basic recycling facilities and therefore are unable to process {{< hl-text blue>}}mixed or hazardous waste{{< /hl-text >}}, which is eventually {{< hl-text blue>}}dumped or burnt{{< /hl-text >}}.
-* The populations of developing and emerging economies in Africa and Asia are the most affected, and workers in those countries have to contend with {{< hl-text blue>}}unsanitary and exploitative working conditions{{< /alert >}} in sorting and recycling plants.
+* The populations of developing and emerging economies in Africa and Asia are the most affected, and workers in those countries have to contend with {{< hl-text blue>}}unsanitary and exploitative working conditions{{< /hl-text >}} in sorting and recycling plants.
+* Legitimate recycling companies and waste brokers have engaged in the misdeclaration of the content of containers and their origin; the concealment of illicit waste among other goods; illegal dumping and incineration; and money
+laundering and corruption to circumvent import and export bans and regulations.
