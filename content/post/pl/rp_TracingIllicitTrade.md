@@ -83,3 +83,50 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 # 5. TRACING THE FLOWS
 * Illicit plastic waste is transported around the world along multiple routes from {{< hl-text blue>}}North America{{< /hl-text >}} and {{< hl-text blue>}}Europe{{< /hl-text >}} to {{< hl-text blue>}}South East Asia{{< /hl-text >}}, {{< hl-text blue>}}other parts of Asia{{< /hl-text >}} and {{< hl-text blue>}}Africa{{< /hl-text >}}.
 * {{< hl-text blue>}}Turkey{{< /hl-text >}} has become a key node for the trade in European plastic waste owing to its permissive environment, an appetite for receiving and processing foreign waste to {{< hl-text blue>}}generate revenue{{< /hl-text >}} and {{< hl-text blue>}}the presence of criminal groups{{< /hl-text >}}.
+* Underlying drivers：1. the US and the EU simply do not have sufficient capacity to recycle domestically；2. The cost of exporting waste abroad is dramatically lower than the cost of setting up new facilities.
+* {{< hl-text orange>}}More compelling economic consideration is that producing virgin plastic is often more affordable than its recycled equivalent.{{< /hl-text >}} (the global plastics-recycling market is going to struggle to be competitive in the face of cheaper and often better-quality raw plastic.)
+
+> Crucially, the shale gas boom in the US is driving the cheap production of fossil fuels, including gases such as ethylene and propylene, which are the two most important plastic feedstocks.
+
+* Where next? Eastern Europe (specifically {{< hl-text blue>}}Romania{{< /hl-text >}} and {{< hl-text blue>}}Bulgaria{{< /hl-text >}}) could be a potential destination. {{< hl-text blue>}}Laos{{< /hl-text >}} or {{< hl-text blue>}}Myanmar{{< /hl-text >}}, where there have already been some detections, should be ones to watch. Looking further into the future, flows towards {{< hl-text blue>}}African countries (Zambia){{< /hl-text >}} are likely to increase.
+
+> According to **Romanian** authorities, organized crime groups are involved in the illicit trade of hazardous and unrecyclable plastics. **Poland** also receives waste from EU countries and the UK that is misdeclared as ‘recyclable’ (already sorted plastic that is, in fact, mixed with banned waste) and ends up being illegally dumped or burnt.
+
+## The in-betweens
+
+![image](https://user-images.githubusercontent.com/65668613/152579198-c750a73b-802e-47a9-a187-d43ed686199f.png)
+
+| Origin    | Destination         | Transit     | Notes               |
+|---------- |-----------------|-------------|-----------------|
+| Canada  | Indonesia  |     | Indonesia has returned waste to Canada |
+| Canada  | Malaysia   |     | Butterworth, Canada’s second-largest port, has been identified as a main departure hub for illegal plastic waste from the country to South East Asia. Malaysia has been returning illegal waste to Canada. |
+| Canada  | The Philippines |   | The illegal shipping of plastic waste from Canada to the Philippines has long been a source of diplomatic tensions between the two countries, including around the repatriation of unwanted cargo and responsibility for covering associated costs. |
+| United States | India | Indonesia | India has been used as an alternative destination for unwanted US waste that Indonesia intended to return to origin.|
+| United States | Indonesia | Hong Kong | Despite the lack of official data, it is believed that ‘lots’ of US plastic is illicitly shipped to Indonesia and, starting in 2019, the latter has become more vocal with its complaints and determined to repatriate unwanted waste.70 Large amounts of re-exported waste are diverted to third countries.|
+| United States | Malaysia | Hong Kong | There is no official comprehensive US data recording the new destinations of US plastic waste following the introduction of the Chinese ban.72 However, the state of California accounts for nearly a third of all US exports to non-OECD countries and this is the main origin of illicit waste into Malaysia (which became number one destination after the introduction of the import ban in China).|
+| United States | Thailand |  | Thailand saw the largest increase of imports immediately following the introduction of China’s import ban. 90% of plastics transit through the deep-water port of Laem Chabang. |
+| United States   | The Philippines  | | In the post-National Sword era, exports to the Philippines grew exponentially, especially from Japan and the US.|
+| United States   | Cambodia  |    | Multiple seizures of illegal plastic waste were recorded at Sihanoukville port in 2019. A Cambodia-based Chinese company was deemed responsible for importing the cargoes from the US and Canada.|
+| Canada, United States, Europe |Ghana |    | The ports of Tema and Accra and the inland city of Kumasi are hubs for illicit plastic waste. Ghana has long been a recipient of e-waste and there are suspicions that illicit plastic waste is exported to Ghana mixed with e-waste.77 |
+| North America, Europe | Pakistan  |           | Pakistan is a net importer as local plastic production is limited to   meeting national demand. It has become common for shipments to South East   Asian countries to be redirected to Pakistan. |
+| Europe | Myanmar |      | Most plastic waste arrives at Yangon port. Myanmar then exports mainly PET flakes and some HDPE/PP resins to neighbouring countries. Recycled HDPE and PP are mainly consumed locally.|
+| Belgium | Malaysia | Hong Kong | Reports indicate the shipping of illegal waste from Belgium to Malaysia that had been disguised as exports from Hong Kong, a widely used transit hub.|
+| France | Malaysia  |   | The shipping of illicit plastic waste to Malaysia came to the fore when a French brokerage firm received a heavy fine – the first instance of this kind in France.|
+| Germany  | Turkey     | Belgium     | As of June 2021, over 100 illicit containers that had reached Turkey from Germany via the port of Antwerp were sitting in Turkey waiting to be sent back to Germany. They contained mixed waste contaminated with household waste.  |
+| Italy  | Malaysia  |    | The Italy–Kuala Lumpur route is believed to be a significant route for illegal shipping of waste. Companies are believed to rely on Hong Kong-based agents who would, on paper, broker shipments to Hong Kong when, in reality, illegal plastic waste would arrive directly in Malaysia. |
+| Italy   | Tunisia |   | Italy’s Campania region has been identified as the point of origin of hundreds of containers full of mixed municipal waste that were directed to the Port of Sousse in Tunisia in 2020.8  |
+| Spain     | Malaysia |   | Malaysia has repatriated illegal waste back to Spain, Japan and Singapore.  |
+| Spain    | South Africa  |      | Disposal sites in KwaZulu-Natal and Cape Town are the most affected by illicit plastic waste. |
+| United Kingdom  | Malaysia | Turkey | Turkey (39%) and Malaysia (12%) are the top two destinations for illicit plastic waste from the UK. Both have limited capacity to recycle, and illegal dumping and burning are widespread.|
+| United Kingdom | Malaysia  | The Netherlands  | UK-origin plastic waste is sent for recycling to the Netherlands, where it is instead mixed with Dutch waste and then shipped to countries that no longer accept British plastic. As of 2021, evidence shows continued shipping from Dutch ports to non-OECD countries. |
+| United Kingdom | Poland  |     | Poland is the third-largest recipient of illicit plastic waste from the UK.  |
+| United Kingdom   | South Africa  |   | South Africa has witnessed the illegal dumping of containers full of unlawful plastic waste from the UK, Spain and other European countries.|
+| United Kingdom | Turkey |    | The Cilicia region of Turkey, from the Mediterranean to the Syrian border, is the main entry point for plastic waste and a highly polluted area. |
+| Mozambique  | South Africa |    | Truckloads of plastic mixed with e-waste enter South Africa and are suspected to then be shipped abroad.  |
+| South Africa | Portugal, Italy, Malaysia, Hong Kong and Pakistan |      | South Africa is both an importer and exporter of illegal plastic waste.   Multiple shipments to international destinations have been recorded in 2020   and 2021.|
+| Japan, Singapore | Malaysia |        | Malaysia has repatriated illegal waste back to Spain, Japan and   Singapore. |
+| Japan | The Philippines  |  | Japan has a history of shipping toxic and hazardous waste to the Philippines, but Tokyo’s repatriation of waste containers has won it praise from the Filipino government.  |
+| South Korea   | The Philippines  |     | Investigations by Greenpeace identified large amounts of mixed and hazardous waste (declared as plastic synthetic flakes) that had reached the Philippines from South Korea. A Korean company was the consignee of the shipment.|
+| Australia  | Indonesia, Malaysia, Vietnam|  | Post 2017, Australian plastic waste was redirected to Vietnam, Malaysia and Indonesia. Indonesia’s East Java province has received millions of kilograms of illegal plastic and contaminated mixed waste  |
+| Unknown| Indonesia | Marshall Islands | Masked as the country of origin of illegal plastic waste, the Marshall Islands are believed to be used as transit countries for waste coming from Western countries. Owing to this misdeclaration of origin, in 2018 it appeared that Indonesia was importing double the amount of plastic waste from the Marshall Islands than it was from the US. |
+| Unknown | Indonesia, Malaysia, the Philippines | Hong Kong | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere. |
