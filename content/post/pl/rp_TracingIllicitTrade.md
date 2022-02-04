@@ -19,3 +19,8 @@ The report was made possible with funding provided by the government of Norway
 {{< toc >}}
 
 To achieve a Net-Zero future, it is essential – among other interventions – to manage and control the indiscriminate use of plastic and the way it is disposed of once it becomes waste. Confronting the trade in plastic waste is also {{< hl-text blue>}}an issue of climate justice{{< /hl-text >}}, as the by-products aggravate health and environmental harms in lower-income countries and among communities that lack the political leverage to reject this waste.
+
+# Executive Summary
+* Now, South East Asia has become by far the
+largest recipient of waste from Europe and North America as well as from Australia.
+* In addition, the role of African countries as receiving destinations is growing for both the North American and European waste trade.
