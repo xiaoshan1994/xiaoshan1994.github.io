@@ -21,7 +21,7 @@ The report was made possible with funding provided by the government of Norway.
 [Plastic for profit: Tracing illicit plastic waste flows, supply chains and actors](https://globalinitiative.net/wp-content/uploads/2021/10/GITOC-Plastic-for-Profit.pdf)
 To achieve a Net-Zero future, it is essential – among other interventions – to manage and control the indiscriminate use of plastic and the way it is disposed of once it becomes waste. Confronting the trade in plastic waste is also {{< hl-text blue>}}an issue of climate justice{{< /hl-text >}}, as the by-products aggravate health and environmental harms in lower-income countries and among communities that lack the political leverage to reject this waste.
 
-# Executive Summary
+# 1. Executive Summary
 * Now, {{< hl-text blue>}}South East Asia{{< /hl-text >}} has become by far the largest recipient of waste from Europe and North America as well as from Australia.
 * In addition, the role of {{< hl-text blue>}}African countries{{< /hl-text >}} as receiving destinations is growing for both {{< hl-text blue>}}the North American and European waste trade{{< /hl-text >}}.
 * Plastic waste, that once processed, becomes raw material to be sold to manufacturing companies. However, many of these receiving countries only possess basic recycling facilities and therefore are unable to process {{< hl-text blue>}}mixed or hazardous waste{{< /hl-text >}}, which is eventually {{< hl-text blue>}}dumped or burnt{{< /hl-text >}}.
@@ -31,17 +31,17 @@ laundering and corruption to {{< hl-text blue>}}circumvent{{< /hl-text >}} impor
 * Often with stops in other parts of the world such as Turkey or eastern Europe.
 * Although many European countries have advanced recycling facilities, they cannot handle all of the waste produced domestically.
 
-# WASTE COLONIALISM AND EXPLOITATION
+# 2. WASTE COLONIALISM AND EXPLOITATION
 
 However, like all other highly lucrative businesses, waste management has long attracted the attention of criminals and of legitimate business operators adopting fraudulent practices such as misdeclaring the content of containers, money laundering, financial crime and corruption to maximize their profits.
 
-# The impact of the COVID-19 pandemic
+## The impact of the COVID-19 pandemic
 * The COVID-19 pandemic has prompted a sharp rise in the consumption of single-use plastic, from {{< hl-text blue>}}medical equipment{{< /hl-text >}} to {{< hl-text blue>}}takeaway food packaging{{< /hl-text >}}, which has not been matched by increased recycling capacity.
 * In 2020, the US produced a year’s worth of plastic waste in just two months. And in Thailand, generation of plastic waste jumped by 50% following the outbreak, with food-delivery packaging representing a sizeable share.
 * Meanwhile, as the pandemic took hold, the recycling sector was affected by disruptions, staff shortages and a deprioritization of recycling.
 * The world registered a 280% increase in illegal plastic-waste disposal in 2020. UK seeing a 300% increase in so-called fly-tipping (illegal dumping)
 
-# LEGAL FRAMEWORK
+# 3. LEGAL FRAMEWORK
 Two types of illegal activities related to waste: illegal trade,
 which violates import or export bans; and illegal treatment, in the forms of illegal disposal, incineration or recycling.
 ## International conventions
@@ -61,7 +61,7 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 
 > If these requests are met, **Kenya** – which has the strictest ban on single-use plastics in the world34 – could become the main hub for the distribution of US-made plastic in the continent.
 
-# HUMAN AND ENVIRONMENTAL HARM
+# 4. HUMAN AND ENVIRONMENTAL HARM
 * Much of the waste that is exported for recycling to South East Asia is often burned or dumped.
 * The degree to which the illicit trade in plastic waste severely undermines both the natural environment and human health and safety is alarming.
 * All this waste eventually feeds the five infamous garbage patches that float in our oceans, of which the so-called {{< hl-text blue>}}Great Pacific Garbage Patch{{< /hl-text >}} is the largest.
@@ -80,4 +80,4 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 ## THE GREAT PACIFIC GARBAGE PATCH
 46% of the total mass is made of {{< hl-text blue>}}discarded fishing gear{{< /hl-text >}}.
 
-# TRACING THE FLOWS
+# 5. TRACING THE FLOWS
