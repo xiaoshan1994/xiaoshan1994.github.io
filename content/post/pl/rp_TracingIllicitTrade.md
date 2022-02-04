@@ -17,7 +17,7 @@ NOVEMBER 2021
 The report was made possible with funding provided by the government of Norway
 <!--more-->
 {{< toc >}}
-
+[Plastic for profit: Tracing illicit plastic waste flows, supply chains and actors](https://globalinitiative.net/wp-content/uploads/2021/10/GITOC-Plastic-for-Profit.pdf)
 To achieve a Net-Zero future, it is essential – among other interventions – to manage and control the indiscriminate use of plastic and the way it is disposed of once it becomes waste. Confronting the trade in plastic waste is also {{< hl-text blue>}}an issue of climate justice{{< /hl-text >}}, as the by-products aggravate health and environmental harms in lower-income countries and among communities that lack the political leverage to reject this waste.
 
 # Executive Summary
@@ -25,3 +25,4 @@ To achieve a Net-Zero future, it is essential – among other interventions – 
 largest recipient of waste from Europe and North America as well as from Australia.
 * In addition, the role of African countries as receiving destinations is growing for both the North American and European waste trade.
 * Plastic waste, that once processed, becomes raw material to be sold to manufacturing companies. {{< hl-text orange>}}However, many of these receiving countries only possess basic recycling facilities and therefore are unable to process {{< hl-text blue>}}mixed or hazardous waste{{< /hl-text >}}, which is eventually {{< hl-text blue>}}dumped or burnt{{< /hl-text >}}.
+* The populations of developing and emerging economies in Africa and Asia are the most affected, and workers in those countries have to contend with {{< hl-text blue>}}unsanitary and exploitative working conditions{{< /alert >}} in sorting and recycling plants.
