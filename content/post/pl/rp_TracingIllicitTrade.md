@@ -81,3 +81,6 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 46% of the total mass is made of {{< hl-text blue>}}discarded fishing gear{{< /hl-text >}}.
 
 # 5. TRACING THE FLOWS
+* Illicit plastic waste is transported around the world along multiple routes from **North America** and **Europe** to **South East Asia**, **other parts of Asia** and **Africa**.
+* **Turkey** has become a key node for the trade in European plastic waste
+owing to its permissive environment, an appetite for receiving and processing foreign waste to {{< hl-text blue>}}generate revenue{{< /hl-text >}} and {{< hl-text blue>}}the presence of criminal groups{{< /hl-text >}}.
