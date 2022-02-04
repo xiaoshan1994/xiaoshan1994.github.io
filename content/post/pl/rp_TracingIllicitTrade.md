@@ -130,3 +130,5 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | Australia  | Indonesia, Malaysia, Vietnam|  | Post 2017, Australian plastic waste was redirected to Vietnam, Malaysia and Indonesia. Indonesia’s East Java province has received millions of kilograms of illegal plastic and contaminated mixed waste  |
 | Unknown| Indonesia | Marshall Islands | Masked as the country of origin of illegal plastic waste, the Marshall Islands are believed to be used as transit countries for waste coming from Western countries. Owing to this misdeclaration of origin, in 2018 it appeared that Indonesia was importing double the amount of plastic waste from the Marshall Islands than it was from the US. |
 | Unknown | Indonesia, Malaysia, the Philippines | Hong Kong | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere.|
+
+# METHODS AND ACTORS ALONG THE SUPPLY CHAIN
