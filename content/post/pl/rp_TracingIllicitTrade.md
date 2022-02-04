@@ -28,3 +28,35 @@ To achieve a Net-Zero future, it is essential – among other interventions – 
 * The populations of developing and emerging economies in Africa and Asia are the most affected, and workers in those countries have to contend with {{< hl-text blue>}}unsanitary and exploitative working conditions{{< /hl-text >}} in sorting and recycling plants.
 * Legitimate recycling companies and waste brokers have engaged in the {{< hl-text blue>}}misdeclaration{{< /hl-text >}} of the content of containers and their origin; the {{< hl-text blue>}}concealment{{< /hl-text >}} of illicit waste among other goods; {{< hl-text blue>}}illegal dumping and incineration{{< /hl-text >}}; and money
 laundering and corruption to {{< hl-text blue>}}circumvent{{< /hl-text >}} import and export bans and regulations.
+* Often with stops in other parts of the world such as Turkey or eastern Europe.
+* Although many European countries have advanced recycling facilities, they cannot handle all of the waste produced domestically.
+
+# WASTE COLONIALISM AND EXPLOITATION
+
+However, like all other highly lucrative businesses, waste management has long attracted the attention of criminals and of legitimate business operators adopting fraudulent practices such as misdeclaring the content of containers, money laundering, financial crime and corruption to maximize their profits.
+
+# The impact of the COVID-19 pandemic
+* The COVID-19 pandemic has prompted a sharp rise in the consumption of single-use plastic, from {{< hl-text blue>}}medical equipment{{< /hl-text >}} to {{< hl-text blue>}}takeaway food packaging{{< /hl-text >}}, which has not been matched by increased recycling capacity.
+* In 2020, the US produced a year’s worth of plastic waste in just two months. And in Thailand, generation of plastic waste jumped by 50% following the outbreak, with food-delivery packaging representing a sizeable share.
+* Meanwhile, as the pandemic took hold, the recycling sector was affected by disruptions, staff shortages and a deprioritization of recycling.
+* The world registered a 280% increase in illegal plastic-waste disposal in 2020. UK seeing a 300% increase in so-called fly-tipping (illegal dumping)
+
+# LEGAL FRAMEWORK
+Two types of illegal activities related to waste: illegal trade,
+which violates import or export bans; and illegal treatment, in the forms of illegal disposal, incineration or recycling.
+## International conventions
+* The Basel Convention was adopted in 1989 in response to developing regions being used as dumping grounds for foreign waste in the 1980s.
+* To date, 187 countries and the European Union (EU) are parties to it; notably, the US is not among them.
+* European Commission adopted a new set of rules in December 2020. EU countries can now only export to non-OECD destinations {{< hl-text blue>}}‘clean plastic waste’{{< /hl-text >}} for recycling and are banned from shipping {{< hl-text blue>}}hazardous or hard-to-recycle plastic waste{{< /hl-text >}} to non-OECD countries.
+* Export activities considered illegal in Europe are compliant with US legislation.
+## Illegal traffic under the Basel Convention
+## China’s ‘National Sword’ policy
+As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia and the Philippines{{< /hl-text >}}, along with many others, became the new recycling destinations for most North American and European plastic waste, despite the fact they often lacked adequate disposal facilities and sufficient law enforcement capacity.
+## Other national-level bans and the trend in U-turns
+> For example, in July 2021, largely compelled by a Greenpeace investigation that uncovered that most imported plastic waste was not recycled, **Turkey** introduced a ban on the imports of PET, HDPE and LDPE plastics. However, in less than two weeks, PET was removed from the list of banned imports. The move was symptomatic of the tensions between the country’s ministry of environment wanting a total ban and the ministry of trade advocating for openness, and is the by-product of the narrative that, at times of financial crisis, waste management and processing are needed to generate revenue.
+
+> In **Thailand**, plans to ban imports of plastic waste by September 2020 were postponed by five years, with critics arguing that this was aimed at securing a steady flow of waste needed to feed Thailand’s recycling industry, driven by an ever-growing number of Chinese companies.
+
+> Following a 2019 ban on all waste imports, **Indonesia** also softened its stance. The year after, the government allowed the imports of plastic (and paper) waste with contamination levels of up to 2%. This particular case highlights the role of one particular set of actors: trade associations. The US Institute of Scrap Recycling Industries (ISRI) openly lobbied for the continuation of imports of a number of waste materials.
+
+> If these requests are met, **Kenya** – which has the strictest ban on single-use plastics in the world34 – could become the main hub for the distribution of US-made plastic in the continent.
