@@ -2,7 +2,7 @@
 title: "Life cycle assessment of the solid waste"
 date: 2021-11-30T11:54:38+01:00
 categories:
-- Research
+- Waste
 - Life Cycle Assessment
 tags:
 - waste

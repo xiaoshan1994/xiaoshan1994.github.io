@@ -3,7 +3,7 @@ title: "Anything new about plastics"
 date: 2021-12-01T11:09:31+01:00
 description: ""
 categories:
-- Research
+- plastic
 - Life Cycle Assessment
 tags:
 - plastic

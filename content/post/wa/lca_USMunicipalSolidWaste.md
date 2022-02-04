@@ -2,7 +2,7 @@
 title: "Life-Cycle Assessment of a Regulatory Compliant U.S. Municipal Solid Waste Landfill"
 date: 2021-12-01T16:01:46+01:00
 categories:
-- Research
+- waste
 - Life Cycle Assessment
 tags:
 - municipal solid waste
