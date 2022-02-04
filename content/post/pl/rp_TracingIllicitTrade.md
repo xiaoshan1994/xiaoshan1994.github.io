@@ -96,7 +96,7 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 
 ![image](https://user-images.githubusercontent.com/65668613/152579198-c750a73b-802e-47a9-a187-d43ed686199f.png)
 
-| Origin    | Destination         | Transit     | Notes               |
+| Origin    | Destination     | Transit     | Notes           |
 |---------- |-----------------|-------------|-----------------|
 | Canada  | Indonesia  |     | Indonesia has returned waste to Canada |
 | Canada  | Malaysia   |     | Butterworth, Canada’s second-largest port, has been identified as a main departure hub for illegal plastic waste from the country to South East Asia. Malaysia has been returning illegal waste to Canada. |
@@ -108,7 +108,7 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | United States   | The Philippines  | | In the post-National Sword era, exports to the Philippines grew exponentially, especially from Japan and the US.|
 | United States   | Cambodia  |    | Multiple seizures of illegal plastic waste were recorded at Sihanoukville port in 2019. A Cambodia-based Chinese company was deemed responsible for importing the cargoes from the US and Canada.|
 | Canada, United States, Europe |Ghana |    | The ports of Tema and Accra and the inland city of Kumasi are hubs for illicit plastic waste. Ghana has long been a recipient of e-waste and there are suspicions that illicit plastic waste is exported to Ghana mixed with e-waste.77 |
-| North America, Europe | Pakistan  |           | Pakistan is a net importer as local plastic production is limited to   meeting national demand. It has become common for shipments to South East   Asian countries to be redirected to Pakistan. |
+| North America, Europe | Pakistan  |           | Pakistan is a net importer as local plastic production is limited to meeting national demand. It has become common for shipments to South East Asian countries to be redirected to Pakistan. |
 | Europe | Myanmar |      | Most plastic waste arrives at Yangon port. Myanmar then exports mainly PET flakes and some HDPE/PP resins to neighbouring countries. Recycled HDPE and PP are mainly consumed locally.|
 | Belgium | Malaysia | Hong Kong | Reports indicate the shipping of illegal waste from Belgium to Malaysia that had been disguised as exports from Hong Kong, a widely used transit hub.|
 | France | Malaysia  |   | The shipping of illicit plastic waste to Malaysia came to the fore when a French brokerage firm received a heavy fine – the first instance of this kind in France.|
@@ -129,4 +129,4 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | South Korea   | The Philippines  |     | Investigations by Greenpeace identified large amounts of mixed and hazardous waste (declared as plastic synthetic flakes) that had reached the Philippines from South Korea. A Korean company was the consignee of the shipment.|
 | Australia  | Indonesia, Malaysia, Vietnam|  | Post 2017, Australian plastic waste was redirected to Vietnam, Malaysia and Indonesia. Indonesia’s East Java province has received millions of kilograms of illegal plastic and contaminated mixed waste  |
 | Unknown| Indonesia | Marshall Islands | Masked as the country of origin of illegal plastic waste, the Marshall Islands are believed to be used as transit countries for waste coming from Western countries. Owing to this misdeclaration of origin, in 2018 it appeared that Indonesia was importing double the amount of plastic waste from the Marshall Islands than it was from the US. |
-| Unknown | Indonesia, Malaysia, the Philippines | Hong Kong | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere. |
+| Unknown | Indonesia, Malaysia, the Philippines | Hong Kong | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere.|
