@@ -14,9 +14,10 @@ Math: True
 ---
 Published by Global Initiative (Against Transnational Organized Crime)
 NOVEMBER 2021
-The report was made possible with funding provided by the government of Norway
+The report was made possible with funding provided by the government of Norway.
 <!--more-->
 {{< toc >}}
+![image](https://user-images.githubusercontent.com/65668613/152503104-0ced23db-a426-4e86-a048-f14b99a30acd.png)
 [Plastic for profit: Tracing illicit plastic waste flows, supply chains and actors](https://globalinitiative.net/wp-content/uploads/2021/10/GITOC-Plastic-for-Profit.pdf)
 To achieve a Net-Zero future, it is essential – among other interventions – to manage and control the indiscriminate use of plastic and the way it is disposed of once it becomes waste. Confronting the trade in plastic waste is also {{< hl-text blue>}}an issue of climate justice{{< /hl-text >}}, as the by-products aggravate health and environmental harms in lower-income countries and among communities that lack the political leverage to reject this waste.
 
