@@ -150,3 +150,15 @@ Concealment: Hiding plastic waste in the middle of other waste products such as 
 * **The ‘professional’ criminals**: {{< hl-text blue>}}Turkey and eastern Europe{{< /hl-text >}}.
 
 # 7. CONCLUSIONS AND RECOMMENDATION
+
+Legitimate business operators and organized crime groups alike can be expected to continue their illicit practices to maximize revenues.
+* the traditional cat-and-mouse dynamic as enforcement tightens its grip, criminals look for new ways and places to carry out their activities.
+
+1. Create a networked or taskforce approach to effectively tackle this form
+of criminality and associated risks at the national and international level.
+* A national multi-agency group in UK– {{< hl-text blue>}}the Joint Unit for Waste Crime{{< /hl-text >}} – to tackle the threat of organized crime within the waste industry.
+* INTERPOL’s Environmental Security Unit and the Pollution Crime Working Group.
+2. Support the private sector and build international capacity to work with
+relevant private-sector groups.
+3. Improve digitalization of waste collection and management.
+4. Collaborate with non-governmental actors.
