@@ -136,3 +136,6 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 * Broker: Arranging banned waste products to be sent to, and disposed of, in countries that do not have the ability to process such waste, and they play a role in misdeclaring the destination of shipments.
 * Shipping and logistic companies: Transporting containers along maritime routes, which constitute the largest method of transport for waste.
 * Customs authorities at ports: Corruption; lack the necessary training to identify different types of plastic ({{< hl-text blue>}}Zambia{{< /hl-text >}})
+ - Misdeclaration: 1. Mislabelling to be compliant with the Basel Convention (disguising imports under a different customs code as customs officers can only inspect a fraction of containers going through ports each day); 2. Recycling companies sometimes misdeclare their operating capacity, inflating their ability to recycle plastic waste in order to be allowed to import it (Malaysia and Vietnam).
+ - Concealment: Hiding plastic waste in the middle of other waste products such as paper and e-waste that are not subject to the same level of scrutiny (legal loophole).
+* Recycling and other companies
