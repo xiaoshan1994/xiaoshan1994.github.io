@@ -132,12 +132,21 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | Unknown | Indonesia, Malaysia, the Philippines | {{< hl-text blue>}}Hong Kong{{< /hl-text >}} | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere.|
 
 # 6. METHODS AND ACTORS ALONG THE SUPPLY CHAIN
-* Actors: waste producers (both local authorities and businesses) and commercial actors (such as recycling companies and waste brokers).
+
+Actors: waste producers (both local authorities and businesses) and commercial actors (such as recycling companies and waste brokers).
 * **Broker**: Arranging banned waste products to be sent to, and disposed of, in countries that do not have the ability to process such waste, and they play a role in misdeclaring the destination of shipments.
 * **Shipping and logistic companies**: Transporting containers along maritime routes, which constitute the largest method of transport for waste.
 * **Customs authorities at ports**: Corruption; lack the necessary training to identify different types of plastic ({{< hl-text blue>}}Zambia{{< /hl-text >}})
- - Misdeclaration: 1. Mislabelling to be compliant with the Basel Convention (disguising imports under a different customs code as customs officers can only inspect a fraction of containers going through ports each day); 2. Recycling companies sometimes misdeclare their operating capacity, inflating their ability to recycle plastic waste in order to be allowed to import it (Malaysia and Vietnam).
- - Concealment: Hiding plastic waste in the middle of other waste products such as paper and e-waste that are not subject to the same level of scrutiny (legal loophole).
+
+Misdeclaration: 1. Mislabelling to be compliant with the Basel Convention (disguising imports under a different customs code as customs officers can only inspect a fraction of containers going through ports each day); 2. Recycling companies sometimes misdeclare their operating capacity, inflating their ability to recycle plastic waste in order to be allowed to import it (Malaysia and Vietnam).
+
+Concealment: Hiding plastic waste in the middle of other waste products such as paper and e-waste that are not subject to the same level of scrutiny (legal loophole).
 * **Recycling and other companies**: Chinese companies found new homes in Indonesia, Malaysia, Ghana (lacked adequate machinery for recycling which raises suspicion that waste would be dumped in the country) and Zambia (competition among the ever-growing companies is fierce, which increases the prices of plastic waste)
 
-![image](https://user-images.githubusercontent.com/65668613/152691379-274ca41c-0250-4f42-ac47-91c8a411f7a6.png)
+![image](https://user-images.githubusercontent.com/65668613/152691379-274ca41c-0250-4f42-ac47-91c8a411f7a6.png
+
+{{< hl-text blue>}}Eastern Europe{{< /hl-text >}} as the next tile to fall in the domino effect of the ‘National Sword’ policy.
+
+* **The ‘professional’ criminals**: {{< hl-text blue>}}Turkey and eastern Europe{{< /hl-text >}}.
+
+# 7. CONCLUSIONS AND RECOMMENDATION
