@@ -131,7 +131,7 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | Unknown| Indonesia | {{< hl-text blue>}}Marshall Islands{{< /hl-text >}} | Masked as the country of origin of illegal plastic waste, the Marshall Islands are believed to be used as transit countries for waste coming from Western countries. Owing to this misdeclaration of origin, in 2018 it appeared that Indonesia was importing double the amount of plastic waste from the Marshall Islands than it was from the US. |
 | Unknown | Indonesia, Malaysia, the Philippines | {{< hl-text blue>}}Hong Kong{{< /hl-text >}} | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere.|
 
-# METHODS AND ACTORS ALONG THE SUPPLY CHAIN
+# 6. METHODS AND ACTORS ALONG THE SUPPLY CHAIN
 * Actors: waste producers (both local authorities and businesses) and commercial actors (such as recycling companies and waste brokers).
 * Broker: Arranging banned waste products to be sent to, and disposed of, in countries that do not have the ability to process such waste, and they play a role in misdeclaring the destination of shipments.
 * Shipping and logistic companies: Transporting containers along maritime routes, which constitute the largest method of transport for waste.
