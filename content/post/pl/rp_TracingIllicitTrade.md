@@ -132,3 +132,7 @@ As a result of the ban, countries such as {{< hl-text blue>}}Malaysia, Indonesia
 | Unknown | Indonesia, Malaysia, the Philippines | {{< hl-text blue>}}Hong Kong{{< /hl-text >}} | All three destination countries have speculated that illicit plastic waste arriving from Hong Kong had actually originated elsewhere.|
 
 # METHODS AND ACTORS ALONG THE SUPPLY CHAIN
+* Actors: waste producers (both local authorities and businesses) and commercial actors (such as recycling companies and waste brokers).
+* Broker: Arranging banned waste products to be sent to, and disposed of, in countries that do not have the ability to process such waste, and they play a role in misdeclaring the destination of shipments.
+* Shipping and logistic companies: Transporting containers along maritime routes, which constitute the largest method of transport for waste.
+* Customs authorities at ports: Corruption; lack the necessary training to identify different types of plastic ({{< hl-text blue>}}Zambia{{< /hl-text >}})
