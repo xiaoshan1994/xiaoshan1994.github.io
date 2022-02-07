@@ -33,7 +33,7 @@ State Key Joint Laboratory of Environment Simulation and Pollution Control (SKLE
 # Results
 ## Changes in plastic waste trade flow pattern
 Fig. 1: The trade flows of six types of plastic waste under two scenarios.
-https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig1_HTML.png?as=webp
+[](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig1_HTML.png?as=webp)
 a presents the global trade flows of six types of plastic waste prior to the ban (Baseline Scenario), while b presents the flows subsequent to the ban (2018 Scenario). The unit of the flows is tons. The data source of a and b is shown in Supplementary Tables 1 and  2. The flows of six types in the Figure are based on estimation (Supplementary Table 4).
 
 * **Country list (7 country groups) in Sankey diagram**：{{< hl-text blue>}}China mainland and HK, Japan, USA, Europe 7, Southeast Asia 5, Rep. of Korea, and Mexico{{< /hl-text >}}.
@@ -49,7 +49,7 @@ a presents the global trade flows of six types of plastic waste prior to the ban
 * There may be a downward trend of plastic waste flows from developed countries to Southeast Asia after 2018.
 
 Fig. 2: The relationship between Export flow change rate and ED.
-https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig2_HTML.png?as=webp
+[](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig2_HTML.png?as=webp)
 {{< hl-text blue>}}Export dependence on the Chinese market (ED){{< /hl-text >}} is defined as the proportion of export flows to mainland China and Hong Kong in the total exports of a country under the Baseline Scenario. The bubble shape size indicates the total Baseline export flow of the countries, according to which countries are divided into four categories and identified by four colors.
 
 * If a country relied heavily on the Chinese market, its trade structure would be vulnerable and easily influenced by abrupt changes such as the China ban.
