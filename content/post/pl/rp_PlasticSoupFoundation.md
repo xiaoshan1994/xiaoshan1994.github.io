@@ -34,6 +34,9 @@ We are based in Amsterdam but have an international focus. Our mission has not o
 * An exceptional opportunity in 2021：The European Commission is reviewing the Waste Shipment Regulation. Zero Waste Europe has come up with recommendations. PSF is calling on the Dutch Government to support these.
 
 # Waste Shipment Regulation revision (JANUARY 2021)
+
+![image](https://user-images.githubusercontent.com/65668613/152759007-12ab012e-2219-4908-b1d9-3152c6f92cd3.png)
+
 How to fix Europe's plastic waste trade issues
 1. Ban on plastic waste exports outside of
 the European Union
