@@ -76,4 +76,4 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
  ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig4_HTML.png?as=webp)
  Note that an item has a beneficial environmental impact when its value is negative. To enhance the visibility of midpoint indicator values on the ordinate axis, the unit of each indicator was adjusted as shown in the brackets at the bottom of the Figure.
 
- $$EIT_{ij} 	= \left( {EIT_{{\mathrm{DM}}}} \right)_{ij} + \left( {EIT_{{\mathrm{Exp}}}} \right)_{ij} + \left( {EIT_{{\mathrm{tran}}}} \right)_{ij}\\ 	= \left( {EX^\prime _{ij} - EX_{ij}} \right)\left( { - DM_{ij} + Exp_{ij} + tran_{ij}} \right)$$
+ $EIT_{ij} 	= \left( {EIT_{{\mathrm{DM}}}} \right)_{ij} + \left( {EIT_{{\mathrm{Exp}}}} \right)_{ij} + \left( {EIT_{{\mathrm{tran}}}} \right)_{ij}\\ 	= \left( {EX^\prime _{ij} - EX_{ij}} \right)\left( { - DM_{ij} + Exp_{ij} + tran_{ij}} \right)$
