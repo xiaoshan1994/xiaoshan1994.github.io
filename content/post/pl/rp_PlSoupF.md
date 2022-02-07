@@ -8,7 +8,7 @@ tags:
 - ban
 keywords:
 - tech
-thumbnailImage: https://www.plasticsoupfoundation.org/wp-content/uploads/2019/03/PSFlogo_nieuw.jpg
+thumbnailImage: https://pbs.twimg.com/profile_images/1153310773235650560/V0Q4f9a2_400x400.jpg
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
