@@ -155,7 +155,7 @@ listDateFormat = "Jan 2"
 You can enable read-more links for truncated posts by setting the `readMore = true`. The length of the preview is controlled by Hugo's `summarylength`. Read-more links are disabled by default.
 ```toml
 [params]
-  readMore = false
+  readMore = 
 ```
 
 ### Have a static page as a home page
