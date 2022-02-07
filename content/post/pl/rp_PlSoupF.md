@@ -38,8 +38,7 @@ We are based in Amsterdam but have an international focus. Our mission has not o
 ![image](https://user-images.githubusercontent.com/65668613/152759007-12ab012e-2219-4908-b1d9-3152c6f92cd3.png)
 
 How to fix Europe's plastic waste trade issues
-1. Ban on plastic waste exports outside of
-the European Union
+1. Ban on plastic waste exports outside of the European Union
 * 2.55 m tonnes of plastic waste in 2017 dropped to 1.72 m tonnes in 2019 as flows shifted from China to Southeast Asia and Turkey.
 * As Parties to the Basel Convention, EU countries have a general obligation to be self-sufficient in waste management and to minimise transboundary movements of waste. Rich industrialised countries of the EU should be among the first to
 achieve this goal.
