@@ -35,5 +35,22 @@ State Key Joint Laboratory of Environment Simulation and Pollution Control (SKLE
 Fig. 1: The trade flows of six types of plastic waste under two scenarios.
 https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig1_HTML.png?as=webp
 a presents the global trade flows of six types of plastic waste prior to the ban (Baseline Scenario), while b presents the flows subsequent to the ban (2018 Scenario). The unit of the flows is tons. The data source of a and b is shown in Supplementary Tables 1 and  2. The flows of six types in the Figure are based on estimation (Supplementary Table 4).
-**Country list (7 country groups) in Sankey diagram**：{{< hl-text blue>}}China mainland and HK, Japan, USA, Europe 7, Southeast Asia 5, Rep. of Korea, and Mexico{{< /hl-text >}}.
-**Flow components (six plastic groups)**: {{< hl-text blue>}}PE, PS, PVC, PET, PP, and Other{{< /hl-text >}}. 
+
+* **Country list (7 country groups) in Sankey diagram**：{{< hl-text blue>}}China mainland and HK, Japan, USA, Europe 7, Southeast Asia 5, Rep. of Korea, and Mexico{{< /hl-text >}}.
+
+* **Flow components (six plastic groups)**: {{< hl-text blue>}}PE, PS, PVC, PET, PP, and Other{{< /hl-text >}}.
+
+* Before Ban, mainland China and HK imported 55.7% and 22% of global plastic waste, while USA, Japan, and Europe 7 exported 77.9%, 87.6%, and 57.5% of plastic waste to mainland China and HK.
+* After Ban, {{< hl-text blue>}}Japan{{< /hl-text >}}, {{< hl-text blue>}}the USA{{< /hl-text >}}, {{< hl-text blue>}}Germany{{< /hl-text >}}, and {{< hl-text blue>}}the UK{{< /hl-text >}}, accounted for 46.1% of the world trade flow of plastic waste. {{< hl-text blue>}}Malaysia{{< /hl-text >}} became the top export destination  (12.2% of the total) among 18 sample countries.
+* In 18 countries, only {{< hl-text blue>}}China{{< /hl-text >}} and {{< hl-text blue>}}Belgium{{< /hl-text >}} had increments in exports.
+* Southeast Asia 5 became the major export destinations where proportions of flows rising from 4.34% to 55.9% for Japan, from 5.24% to 46.5% for the USA, and from 6.1% to 33.0% for Europe 7.
+* The import flows of Southeast Asia 5 rose to 3.62 times that of the Baseline Scenario (Japan 25.8%, the USA 19.4%, Germany 11.7%, Hong Kong 10.3%, and the UK 9.8%.)
+* An increase in intra-Europe flows.
+* There may be a downward trend of plastic waste flows from developed countries to Southeast Asia after 2018.
+
+Fig. 2: The relationship between Export flow change rate and ED.
+https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig2_HTML.png?as=webp
+{{< hl-text blue>}}Export dependence on the Chinese market (ED){{< /hl-text >}} is defined as the proportion of export flows to mainland China and Hong Kong in the total exports of a country under the Baseline Scenario. The bubble shape size indicates the total Baseline export flow of the countries, according to which countries are divided into four categories and identified by four colors.
+
+* If a country relied heavily on the Chinese market, its trade structure would be vulnerable and easily influenced by abrupt changes such as the China ban.
+{{< alert warning >}}Disagree with "trade structure", which should be changes in trade volumes{{< /alert >}}
