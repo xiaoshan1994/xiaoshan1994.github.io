@@ -35,3 +35,5 @@ State Key Joint Laboratory of Environment Simulation and Pollution Control (SKLE
 Fig. 1: The trade flows of six types of plastic waste under two scenarios.
 https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig1_HTML.png?as=webp
 a presents the global trade flows of six types of plastic waste prior to the ban (Baseline Scenario), while b presents the flows subsequent to the ban (2018 Scenario). The unit of the flows is tons. The data source of a and b is shown in Supplementary Tables 1 and  2. The flows of six types in the Figure are based on estimation (Supplementary Table 4).
+**Country list (7 country groups) in Sankey diagram**：{{< hl-text blue>}}China mainland and HK, Japan, USA, Europe 7, Southeast Asia 5, Rep. of Korea, and Mexico{{< /hl-text >}}.
+**Flow components (six plastic groups)**: {{< hl-text blue>}}PE, PS, PVC, PET, PP, and Other{{< /hl-text >}}. 
