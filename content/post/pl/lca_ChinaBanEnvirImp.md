@@ -85,7 +85,7 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
 ![image](https://user-images.githubusercontent.com/65668613/152964604-f3150dcb-64cb-4db7-bed0-16b6aebb0e6c.png)
 {{< alert info >}}how to show changes after covid19, reflecting on flows? or environmental impact? a bubble figure with two axes, one for trade flow changes, one for environmental impact changes. Bubble volume for what? Indicators of environmental impact, global warming, particulate matter, fresh water ecotoxicty, human carcinogenic toxicity, etc {{< /alert >}}
 *  SimaPro 8.5.2, which employs the ecoinvent database.
-* Eco-cost method: the {{< hl-text blue>}}average marginal prevention costs of midpoints of different impact categories{{< /hl-text >}}, and has the advantage that the output is expressed in an intelligible monetary value (2017 Euro, €). The so-called prevention cost is the economic cost to reduce environmental pollution and materials depletion.[^eco]
+* Eco-cost method[^eco]: the {{< hl-text blue>}}average marginal prevention costs of midpoints of different impact categories{{< /hl-text >}}, and has the advantage that the output is expressed in an intelligible monetary value (2017 Euro, €). The so-called prevention cost is the economic cost to reduce environmental pollution and materials depletion.
 
 
 [^rec]: [ReCiPe is a method for the **impact assessment** (LCIA) in a LCA](https://www.rivm.nl/en/life-cycle-assessment-lca/recipe). Life cycle impact assessment (LCIA) translates emissions and resource extractions into a limited number of environmental impact scores by means of so-called characterisation factors.
