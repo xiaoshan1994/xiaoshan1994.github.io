@@ -78,7 +78,11 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
 * Five midpoint indicators of ReCiPe [^rec]: global warming(GW, kg CO2 eq), fine particulate matter formation (FPMF, kg PM2.5eq), fresh water ecotoxicity (FWE, kg 1,4-DCB eq), human carcinogenic toxicity (HCT, kg 1,4-DCB eq) and water consumption (WC, $m^3$)
 
 # Methods
+* 17 countries are selected which account for over 92% of plastic waste imports to China.
 * Baseline Scenario: the average value of trade data from 2013 to 2016 (or 2008 to 2016 if it fluctuates greatly). 2017 is excluded as it differs from both sides.
 {{< alert info >}}For me, setting the average value of 18 and 19 as the baseline scenario while 20 and 21 as the Covid-19 scenario {{< /alert >}}
+* Several indicators to show waste export dependence on China's market.
+![image](https://user-images.githubusercontent.com/65668613/152964604-f3150dcb-64cb-4db7-bed0-16b6aebb0e6c.png)
+{{< alert info >}}how to show changes after covid19, reflecting on flows? or environmental impact? a bubble figure with two axes, one for trade flow changes, one for environmental impact changes. Bubble volume for what? Indicators of environmental impact, global warming, particulate matter, fresh water ecotoxicity, human carcinogenic toxicity, etc {{< /alert >}}
 
 [^rec]: [ReCiPe is a method for the **impact assessment** (LCIA) in a LCA](https://www.rivm.nl/en/life-cycle-assessment-lca/recipe). Life cycle impact assessment (LCIA) translates emissions and resource extractions into a limited number of environmental impact scores by means of so-called characterisation factors.
