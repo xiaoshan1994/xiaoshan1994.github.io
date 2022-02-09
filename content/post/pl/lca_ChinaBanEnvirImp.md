@@ -71,9 +71,7 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
  3.  $tran_ij$ is the environmental impact of transporting 1 kg of plastic waste from Country i to j, which is corresponding to the process of T1 and T2 in Fig. 3.
 
  {{< alert danger >}}Confused equation as $DM_{ij}$ and $Exp_{ij}$ will also change under the two scenarios. The correct form should be $EIT_{ij}=(EIT_{DM_{ij}})+(EIT_{Exp_{ij}})+(EIT_{tran_{ij}})$
- $$=-(EX^{\prime}_{ij} \times DM^{\prime}_{ij}-EX_{ij} \times DM_{ij})
- +(EX^{\prime}_{ij} \times Exp^{\prime}_{ij}-EX_{ij} \times Exp_{ij})
- +(EX^{\prime}_{ij} \times tran^{\prime}_{ij}-EX_{ij} \times tran_{ij})$$ {{< /alert >}}
+ ![image](https://user-images.githubusercontent.com/65668613/153179302-8125c527-61c8-4f8a-806a-b0bda961070d.png) {{< /alert >}}
 
 * Differ from the shares of three treatment options between the baseline and the 2018 scenario for some countries: the landfill rate declined, recycling rate rose while incineration rate fluctuated slightly.
 * The recycling and incineration rates of plastic waste in developed countries are generally higher than that in developing countries where landfill plays the dominant role in waste treatment.
