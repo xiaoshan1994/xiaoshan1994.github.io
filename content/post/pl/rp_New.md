@@ -4,7 +4,7 @@ date: 2021-12-01T11:09:31+01:00
 description: ""
 categories:
 - plastic
-- Life Cycle Assessment
+- Report
 tags:
 - plastic
 keywords:
@@ -70,6 +70,7 @@ Published June 2019
 4. {{< hl-text blue>}}Polystyrene (PS){{< /hl-text >}}, used to make some {{< hl-text blue>}}yoghurt pots{{< /hl-text >}} and {{< hl-text blue>}}plastic cutlery{{< /hl-text >}}, is not widely recycled.
 5. {{< hl-text blue>}}PVC{{< /hl-text >}} makes up small amount of packaging but can contaminate other plastic recycling.
 6. {{< hl-text blue>}}Biscuit wrappers{{< /hl-text >}} and {{< hl-text blue>}}meat trays{{< /hl-text >}} can be made from a mixture of many different types of plastic, making them the most difficult type of packaging to recycle.
+
 
 
 
