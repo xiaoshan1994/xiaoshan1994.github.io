@@ -18,6 +18,36 @@ Math: True
 <!--more-->
 {{< toc >}}
 
+# UK plastic waste being dumped and burned in Turkey, says Greenpeace
+[BBC News](https://www.bbc.com/news/uk-57139474?_ga=2.64868781.303243932.1643832699-289407696.1643832699)
+**17 May 2021**
+* Greenpeace said about 40% of the UK's plastic waste exports were sent to Turkey last year.
+* But rather than being recycled, investigators saw some of it dumped by roads, in fields and in waterways.
+* Greenpeace's report warned Turkey was becoming Europe's "largest plastic waste dump".
+* {{< hl-text orange>}}The {{< hl-text blue>}}UK{{< /hl-text >}} generates more plastic waste per person than any other country apart from the US{{< /hl-text >}}, the report added.
+* {{< hl-text blue>}}Turkey, Malaysia and Poland{{< /hl-text >}} received the largest amounts of plastic waste exports from the UK in 2020.
+# Why some countries are shipping back plastic waste?
+[BBC News](https://www.bbc.com/news/world-48444874)
+Published June 2019
+* Many wealthy countries send their recyclable waste overseas because it's cheap, helps meet recycling targets and reduces domestic landfill.
+* For developing countries taking in the rubbish, it's a valuable source of income.
+* But contaminated plastic and rubbish that cannot be recycled often gets mixed in and ends up in illegal processing centres.
+* Materials that can't be recycled end up being burned illegally, dumped in landfills or waterways, creating risks to the environment and public health.
+* Due to China's ban, global plastic waste exports dipped by almost half by the end of 2018, compared with 2016 levels. Malaysia, Vietnam, Thailand, Indonesia, Taiwan, South Korea, Turkey, India and Poland all took up the slack.
+* Malaysia took a major share - the plastic waste it imported from 10 countries in just the first six months of 2018 was nearly as much as the total it received in 2016 and 2017.
+* Malaysia has revoked import permits and has been clamping down on illegal processing plants.
+* The Global Alliance for Incinerator Alternatives (Gaia) says after a clear dip, "imports have begun rising again in the {{< hl-text blue>}}last quarter of 2018{{< /hl-text >}}, suggesting challenges in enforcing respective country bans".
+# Why plastic recycling is so confusing
+18 December 2018
+[BBC](https://www.bbc.com/news/science-environment-45496884)
+* All four nations of UK have set their recycling rate targets (Scotland 70%  by 2025, as does Wales. Northern Ireland 60% municipal waste by 2020.)
+![image](https://user-images.githubusercontent.com/65668613/153251814-1fb8a61b-6c2f-4e34-8e89-aca7c035011c.png)
+* BBC analysis shows there are 39 different sets of rules for what can be put in plastic recycling collections: Most collect bottles; Others collect pots, tubs and trays; Some collect a much wider range.
+
+![image](https://user-images.githubusercontent.com/65668613/153252447-d3f70520-7325-47dc-9dc6-f47b10cef245.png)
+
+
+
 # What are microplastics?
 https://www.ecomatters.nl/news/restriction-on-intentionally-added-microplastics/
 
