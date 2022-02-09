@@ -46,6 +46,32 @@ Published June 2019
 
 ![image](https://user-images.githubusercontent.com/65668613/153252447-d3f70520-7325-47dc-9dc6-f47b10cef245.png)
 
+* Waste plastic is collected in different ways too: Some local authorities collect all their recycling in one bin; Others ask households to separate their plastics from the rest of their recycling; Councils also employ many different companies to collect and sort their plastics.
+* And having different recycling schemes in different areas - for example, in some areas you can recycle margarine tubs and in other areas you cannot - makes labelling difficult.
+* How is the government proposing to tackle plastic recycling?
+1. Tackle the current postcode recycling lottery under which different materials are recyclable in different areas
+2. Introduce consistent labelling on packaging so consumers know what they can recycle
+3. Make the firms that produce materials responsible for the cost of disposing of those items
+4. Encourage manufacturers to design products that last longer and increase the levels of repair and re-use
+5. Crack down on waste crime by introducing electronic tracking of waste shipments
+6. Introduce a tax on plastic packaging made of less than 30% recycled plastic
+7. Ban plastic packaging where an alternative material could be used
+8. Improve the quality of plastic being exported
+* {{< hl-text orange>}}Plastic can often become too contaminated for recycling and have to be sent to landfill or incinerated instead.{{< /hl-text >}} This happens for several reasons:
+1. People are confused about what goes in which bin.
+2. People are not always very careful about what they put in.
+3. {{< hl-text orange>}}The plastic is contaminated with food waste.{{< /hl-text >}}
+4. {{< hl-text orange>}}In areas where all recycling is collected in one bin, one type of waste can contaminate another.{{< /hl-text >}}
+
+![image](https://user-images.githubusercontent.com/65668613/153254069-484dd8c9-0a2e-4b96-a64c-cdcffc2a5dc4.png)
+1. {{< hl-text blue>}}Bottles{{< /hl-text >}} are mainly made of {{< hl-text blue>}}PET{{< /hl-text >}} and {{< hl-text blue>}}HDPE{{< /hl-text >}} and these are easy to collect and recycle.
+2. Most {{< hl-text blue>}}trays{{< /hl-text >}} are made from {{< hl-text blue>}}polypropylene (PP){{< /hl-text >}} and this is pretty easy to recycle too but not all councils have access to the right facilities
+3. {{< hl-text blue>}}LDPE{{< /hl-text >}}, used to make some {{< hl-text blue>}}carrier bags{{< /hl-text >}} and {{< hl-text blue>}}cling film{{< /hl-text >}}, is easy to process but more difficult to sort and can often be contaminated with food.
+4. {{< hl-text blue>}}Polystyrene (PS){{< /hl-text >}}, used to make some {{< hl-text blue>}}yoghurt pots{{< /hl-text >}} and {{< hl-text blue>}}plastic cutlery{{< /hl-text >}}, is not widely recycled.
+5. {{< hl-text blue>}}PVC{{< /hl-text >}} makes up small amount of packaging but can contaminate other plastic recycling.
+6. {{< hl-text blue>}}Biscuit wrappers{{< /hl-text >}} and {{< hl-text blue>}}meat trays{{< /hl-text >}} can be made from a mixture of many different types of plastic, making them the most difficult type of packaging to recycle.
+
+
 
 
 # What are microplastics?
