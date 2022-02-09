@@ -180,6 +180,7 @@ State Key Joint Laboratory of Environment Simulation and Pollution Control (SKLE
 <li><a href=#environmental-impacts-of-changes-in-hahahugoshortcode-s21-hbhband-hahahugoshortcode-s22-hbhb>Environmental impacts of changes in <span class="highlight-text blue">waste trade flows</span>and <span class="highlight-text blue">treatment system structures</span></a></li>
 </ul>
 </li>
+<li><a href=#methods>Methods</a></li>
 </ul>
 </nav>
 <h1 id=introduction>Introduction</h1>
@@ -252,7 +253,8 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
 <li>$tran_ij$ is the environmental impact of transporting 1 kg of plastic waste from Country i to j, which is corresponding to the process of T1 and T2 in Fig. 3.</li>
 </ol>
 <div class="alert danger">
-<p><p>Confused equation as $DM_{ij}$ and $Exp_{ij}$ will also change under the two scenarios. The correct form should be $\Delta(EIT_{ij})=\Delta(EX_{ij})\times(\Delta(DM_{ij})+\Delta(Exp_{ij})+\Delta(tran_{ij}))$ {&lt; /alert >}}</p>
+<p>Confused equation as $DM_{ij}$ and $Exp_{ij}$ will also change under the two scenarios. The correct form should be $\Delta(EIT_{ij})=\Delta(EX_{ij})\times(\Delta(DM_{ij})+\Delta(Exp_{ij})+\Delta(tran_{ij}))$</p>
+</div>
 <ul>
 <li>Differ from the shares of three treatment options between the baseline and the 2018 scenario for some countries: the landfill rate declined, recycling rate rose while incineration rate fluctuated slightly.</li>
 <li>The recycling and incineration rates of plastic waste in developed countries are generally higher than that in developing countries where landfill plays the dominant role in waste treatment.</li>
@@ -266,7 +268,17 @@ Note that an item has a beneficial environmental impact when its value is negati
 <h1 id=methods>Methods</h1>
 <ul>
 <li>17 countries are selected which account for over 92% of plastic waste imports to China.</li>
-<li>Baseline Scenario: the average value of trade data from 2013 to 2016 (or 2008 to 2016 if it fluctuates greatly). 2017 is excluded as it differs from both sides.</li>
+<li>Baseline Scenario: the average value of trade data from 2013 to 2016 (or 2008 to 2016 if it fluctuates greatly). 2017 is excluded as it differs from both sides.<br>
+<div class="alert info">
+<p>For me, setting the average value of 18 and 19 as the baseline scenario while 20 and 21 as the Covid-19 scenario</p>
+</div></li>
+<li>Several indicators to show waste export dependence on China&rsquo;s market.<br>
+<img src=https://user-images.githubusercontent.com/65668613/152964604-f3150dcb-64cb-4db7-bed0-16b6aebb0e6c.png alt=image><br>
+<div class="alert info">
+<p>how to show changes after covid19, reflecting on flows? or environmental impact? a bubble figure with two axes, one for trade flow changes, one for environmental impact changes. Bubble volume for what? Indicators of environmental impact, global warming, particulate matter, fresh water ecotoxicty, human carcinogenic toxicity, etc</p>
+</div></li>
+<li>SimaPro 8.5.2, which employs the ecoinvent database.</li>
+<li>Eco-cost method<sup id=fnref:2><a href=#fn:2 class=footnote-ref role=doc-noteref>2</a></sup>: the <span class="highlight-text blue">average marginal prevention costs of midpoints of different impact categories</span>, and has the advantage that the output is expressed in an intelligible monetary value (2017 Euro, €). The so-called prevention cost is the economic cost to reduce environmental pollution and materials depletion.</li>
 </ul>
 <section class=footnotes role=doc-endnotes>
 <hr>
@@ -274,10 +286,11 @@ Note that an item has a beneficial environmental impact when its value is negati
 <li id=fn:1 role=doc-endnote>
 <p><a href=https://www.rivm.nl/en/life-cycle-assessment-lca/recipe>ReCiPe is a method for the <strong>impact assessment</strong> (LCIA) in a LCA</a>. Life cycle impact assessment (LCIA) translates emissions and resource extractions into a limited number of environmental impact scores by means of so-called characterisation factors.&#160;<a href=#fnref:1 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
 </li>
+<li id=fn:2 role=doc-endnote>
+<p><a href=https://www.ecocostsvalue.com/>https://www.ecocostsvalue.com/</a>&#160;<a href=#fnref:2 class=footnote-backref role=doc-backlink>&#8617;&#xfe0e;</a></p>
+</li>
 </ol>
 </section>
-</p>
-</div>
 </div>
 </div>
 <div id=post-footer class="post-footer main-content-wrap">
