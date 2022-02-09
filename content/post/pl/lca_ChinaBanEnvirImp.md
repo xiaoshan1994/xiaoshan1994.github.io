@@ -69,7 +69,7 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
  1. $EX_{ij}$ is the **export flow (in kg)** from i to j in Baseline Scenario and $EX′_{ij}$ is that of 2018.
  2.  $DM_{ij}$ and $Exp_{ij}$ are the environmental impacts of treating 1 kg of plastic waste, generated from Country i, by Country i and j respectively.
  3.  $tran_ij$ is the environmental impact of transporting 1 kg of plastic waste from Country i to j, which is corresponding to the process of T1 and T2 in Fig. 3.
- 
+
  {{< alert danger >}}Confused equation as $DM_{ij}$ and $Exp_{ij}$ will also change under the two scenarios. The correct form should be $\Delta(EIT_{ij})=(\Delta(DM_{ij})+\Delta(Exp_{ij})+\Delta(tran_{ij}))${< /alert >}}
 
 * Differ from the shares of three treatment options between the baseline and the 2018 scenario for some countries: the landfill rate declined, recycling rate rose while incineration rate fluctuated slightly.
@@ -86,7 +86,8 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
 {{< alert info >}}For me, setting the average value of 18 and 19 as the baseline scenario while 20 and 21 as the Covid-19 scenario {{< /alert >}}
 * Several indicators to show waste export dependence on China's market.
 ![image](https://user-images.githubusercontent.com/65668613/152964604-f3150dcb-64cb-4db7-bed0-16b6aebb0e6c.png)
-{{< alert info >}}how to show changes after covid19, reflecting on flows? or environmental impact? a bubble figure with two axes, one for trade flow changes, one for environmental impact changes. Bubble volume for what? Indicators of environmental impact, global warming, particulate matter, fresh water ecotoxicty, human carcinogenic toxicity, etc {{< /alert >}}
+{{< alert info >}}how to show changes after covid19, reflecting on flows? or environmental impact? a bubble figure with two axes, one for trade flow changes, one for environmental impact changes. Bubble volume for what? Indicators of environmental impact, global warming, particulate matter, fresh water ecotoxicty, human carcinogenic toxicity, etc
+{{< /alert >}}
 *  SimaPro 8.5.2, which employs the ecoinvent database.
 * Eco-cost method[^eco]: the {{< hl-text blue>}}average marginal prevention costs of midpoints of different impact categories{{< /hl-text >}}, and has the advantage that the output is expressed in an intelligible monetary value (2017 Euro, €). The so-called prevention cost is the economic cost to reduce environmental pollution and materials depletion.
 
