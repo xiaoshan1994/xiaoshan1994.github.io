@@ -64,13 +64,33 @@ Published June 2019
 4. {{< hl-text orange>}}In areas where all recycling is collected in one bin, one type of waste can contaminate another.{{< /hl-text >}}
 
 ![image](https://user-images.githubusercontent.com/65668613/153254069-484dd8c9-0a2e-4b96-a64c-cdcffc2a5dc4.png)
-1. {{< hl-text blue>}}Bottles{{< /hl-text >}} are mainly made of {{< hl-text blue>}}PET{{< /hl-text >}} and {{< hl-text blue>}}HDPE{{< /hl-text >}} and these are easy to collect and recycle.
-2. Most {{< hl-text blue>}}trays{{< /hl-text >}} are made from {{< hl-text blue>}}polypropylene (PP){{< /hl-text >}} and this is pretty easy to recycle too but not all councils have access to the right facilities
-3. {{< hl-text blue>}}LDPE{{< /hl-text >}}, used to make some {{< hl-text blue>}}carrier bags{{< /hl-text >}} and {{< hl-text blue>}}cling film{{< /hl-text >}}, is easy to process but more difficult to sort and can often be contaminated with food.
+1. {{< hl-text blue>}}Bottles{{< /hl-text >}} are mainly made of {{< hl-text blue>}}PET{{< /hl-text >}} (Polyethylene terephthalate /ˌterəf'θæleit/) and {{< hl-text blue>}}HDPE{{< /hl-text >}} (High-density polyethylene) and these are easy to collect and recycle.
+2. Most {{< hl-text blue>}}trays{{< /hl-text >}} are made from {{< hl-text blue>}}polypropylene (PP){{< /hl-text >}} and this is pretty easy to recycle too but not all councils have access to the right facilities.
+3. {{< hl-text blue>}}LDPE{{< /hl-text >}} (low density polyethylene), used to make some {{< hl-text blue>}}carrier bags{{< /hl-text >}} and {{< hl-text blue>}}cling film{{< /hl-text >}}, is easy to process but more difficult to sort and can often be contaminated with food.
 4. {{< hl-text blue>}}Polystyrene (PS){{< /hl-text >}}, used to make some {{< hl-text blue>}}yoghurt pots{{< /hl-text >}} and {{< hl-text blue>}}plastic cutlery{{< /hl-text >}}, is not widely recycled.
 5. {{< hl-text blue>}}PVC{{< /hl-text >}} makes up small amount of packaging but can contaminate other plastic recycling.
 6. {{< hl-text blue>}}Biscuit wrappers{{< /hl-text >}} and {{< hl-text blue>}}meat trays{{< /hl-text >}} can be made from a mixture of many different types of plastic, making them the most difficult type of packaging to recycle.
 
+![image](https://user-images.githubusercontent.com/65668613/153717452-98a9c226-8b05-4d9f-b14a-5fdd13e37b22.png)
+
+All plastic can be recycled - but it is not always economical to do so.
+* Bottles attract the best prices, especially clear ones, which is why almost all councils recycle them
+* Coloured plastic is less desirable because the colour cannot be removed, restricting its reuse
+* Polystyrene is almost never recycled because there is no market for it.
+
+![image](https://user-images.githubusercontent.com/65668613/153717755-14a2f93e-38f5-4e62-b85e-8aa5e4373292.png)
+
+Most bottles will be sent for reprocessing in this country.
+
+But plastic that is less valuable - about two-thirds collected for recycling - goes overseas and this figure has been rising.
+
+Earlier this year, the National Audit Office reported the plastic sent abroad could be highly contaminated, meaning it may not be reprocessed and could end up in landfill or contributing to pollution.
+
+![image](https://user-images.githubusercontent.com/65668613/153717892-1c45ec9e-72a6-4538-a5ef-45212251da57.png)
+
+These bans are having an effect on the prices paid for waste plastic.
+
+And {{< hl-text orange>}}this year the prices of the more contaminated plastics have fallen below zero, meaning companies are now expecting to be paid to take them away.{{< /hl-text >}}
 
 
 
