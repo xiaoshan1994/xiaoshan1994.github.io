@@ -80,6 +80,11 @@ Here, China’s export to Japan under the Baseline Scenario is taken as an examp
  ![](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-20741-9/MediaObjects/41467_2020_20741_Fig4_HTML.png?as=webp)
  Note that an item has a beneficial environmental impact when its value is negative. To enhance the visibility of midpoint indicator values on the ordinate axis, the unit of each indicator was adjusted as shown in the brackets at the bottom of the Figure.
 * Five midpoint indicators of ReCiPe [^rec]: global warming(GW, kg CO2 eq), fine particulate matter formation (FPMF, kg PM2.5eq), fresh water ecotoxicity (FWE, kg 1,4-DCB eq), human carcinogenic toxicity (HCT, kg 1,4-DCB eq) and water consumption (WC, $m^3$)
+* {{< hl-text orange>}}high per capita GDP (-> high high incineration rates) -> high unit impact values of incineration -> high impact of global warming{{< /hl-text >}}
+{{< alert info >}}Quite interesting to investigate the relationship between the plastic waste trade and global warming. Whether developed countries tend to have a higher incineration rate or a higher unit impact value on global warming? And the trade to some extent facilitates the global warming?  {{< /alert >}}
+* the above logical chain explains why the impact of GW domestically is higher than the impact of exporting them abroad (most developing counties).
+
+
 
 # Methods
 * 17 countries are selected which account for over 92% of plastic waste imports to China.
