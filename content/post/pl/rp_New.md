@@ -213,6 +213,71 @@ State-of-the-art sorting facilities use robots, lasers, magnets and air jets to 
 
 None of this can yet compete with the scale of the work done by low-cost labourers in China and beyond - but maybe closing off that option will prove just the spur to innovation that the industry needs.
 
+# What's holding up Scotland's bottle deposit scheme?
+[BBC](https://www.bbc.com/news/uk-scotland-scotland-politics-48198098)
+17 November 2021
+
+Scotland's bottle return scheme seems likely to suffer further days, with the Scottish government blaming Covid-19, Brexit and a row over tax rules.
+
+The scheme will add 20p to the price of products sold in some plastic drinking containers, cans and glass with the money being refunded when the containers are returned.
+
+The government originally outlined its plans in 2017, saying it represented "a step change in our level of ambition" for recycling
+
+Ministers had originally hoped the scheme would start in April 2021, but this was pushed back to July 2022, with the government blaming the pandemic.
+
+It is now widely expected to be delayed again after Circular Economy Minister Lorna Slater told MSPs that a number of other issues were holding up the system, including Brexit.
+
+She also claimed there had been a "lack of clarity" from the UK government over the tax status of the 20p deposits.
+
+Ms Slater insisted that the government remains fully committed to implementing the scheme - but would not give a timescale for when it would actually happen.
+
+Environmental group Greenpeace has been critical of the government, saying that a further delay would mean "millions more cans and bottles needlessly dumped and burned".
+
+And opposition parties have said it as an example of the government's environmental rhetoric not being matched by its actions.
+
+What type of containers will be included in the scheme?
+The scheme will apply to all types of drinks in containers between 50ml and three litres in size.
+
+Glass containers have been included in the scheme, despite some criticism from the glass industry.
+
+Reality Check: Is this how to cut plastic waste?
+The Scottish government has said that HDPE-made plastic bottles, which are typically used to carry milk, will not be included.
+
+However, containers made from polyethylene terephthalate (PET) - which typically carry fizzy drinks and water - will be subject to the deposit return.
+
+How will it work?
+Effectively, 20p - the deposit - will be added to the price of a single-use drinks container bought from a shop.
+
+The consumer will get their deposit back when they return the empty bottle or can to the retailer.
+
+The scheme will operate throughout Scotland, including rural areas and all retail outlets will have to comply, regardless of size.
+
+Businesses selling drinks which are opened and consumed on site - such as pubs and restaurants - will not have to charge the deposit to the public.
+
+How will I get my deposit back?
+There will be two ways you can return your empty container - over the counter, or by using a reverse vending machine (RVM).
+
+An RVM is a machine that scans containers when they are returned and then refunds your deposit.
+
+The government says there will be a range of ways you can get your 20p back, for example cash at a till, a token or discount voucher or digitally. The returned containers are stored in the machine and are then collected for recycling.
+
+As well as retailers and hospitality businesses, schools and other community hubs will be able to act as return locations.
+
+Who will be in charge of this scheme?
+The government says an independent, privately-run, not-for-profit company will be in charge.
+
+It adds that the system will be paid for through three sources of funding - unredeemed deposits, revenue from the sale of materials and a producer fee.
+
+![Bottles](https://ichef.bbci.co.uk/news/976/cpsprodpb/C0ED/production/_100598394_datapic-uk_plastic-j3a89-nc.png)
+
+Is this also happening in the rest of the UK?
+Scotland could still be the first nation in the UK to introduce a bottle deposit return scheme as recycling is a devolved issue.
+
+A consultation on the introduction of a similar scheme in England, Wales and Northern Ireland was carried out by the UK government last year.
+
+A four-week pilot for a deposit return scheme was recently run in Conwy in north Wales.
+
+
 # What are microplastics?
 https://www.ecomatters.nl/news/restriction-on-intentionally-added-microplastics/
 
