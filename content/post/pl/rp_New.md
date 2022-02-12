@@ -92,8 +92,126 @@ These bans are having an effect on the prices paid for waste plastic.
 
 And {{< hl-text orange>}}this year the prices of the more contaminated plastics have fallen below zero, meaning companies are now expecting to be paid to take them away.{{< /hl-text >}}
 
+# Could making recycling pay save the planet?
+[BBC](https://www.bbc.com/news/business-48214033)
+By Tim Harford
+29 May 2019
 
+Sail up the Pearl River from Hong Kong, and you come to the industrial city of Dongguan, where you'll find what may be the world's biggest paper mill, larger than 300 football pitches.
 
+It's owned by Nine Dragons, a recycling company started by Zhang Yin, also known as Cheung Yan, once ranked by Forbes as the world's richest self-made woman.
+
+Nine Dragons is - or, perhaps, was - the largest importer by volume of American goods into China.
+
+Those goods? Waste paper - typically with some unwelcome trash mixed in. Tonne upon tonne was baled /beɪl/, stacked on to ships and sailed to China, where workers manually sorted through it.
+
+It is a crucial job: if waste paper is too contaminated, it cannot be recycled.
+
+It is also a job that is hard to automate successfully. It needs humans.
+
+So rich countries started shipping their waste to countries where workers are poor enough to sort it for wages low enough to turn a profit.
+
+From the 1980s until very recently, this system worked smoothly.
+
+China's fast-growing economy exported lots of manufactured goods, and instead of ships returning empty, they were loaded with waste for China to recycle.
+
+Entrepreneurs such as Mrs Yin made a fortune.
+
+But as China got richer, the government decided it no longer wanted to be a dumping ground for the world's trash.
+
+It 2017, it announced its National Sword policy, under which China would only accept well-sorted rubbish containing no more than half of 1% of stuff that should not be there. That was a big change - contamination rates used to reach 40 times that.
+
+The amount of waste being shipped to China plunged.
+
+Governments and recycling companies scrambled to adjust.
+
+Should they find other countries poor enough to accept their badly sorted waste, or raise taxes to pay higher-wage workers to sort it better, or do something else?
+
+There is a reason the "reduce, reuse, recycle" mantra/'mæntrə/咒语 is in that order. Rinsing and refilling glass bottles makes more sense than crushing and melting them to make new ones.
+
+Examples of reuse go back before paper, to papyrus: Ancient Greece gave us the word "palimpsest", which literally means "scraped clean to be used again".
+
+The Romans melted old bronze statues to sculpt new ones, and 1,000 years ago, Japan pulped paper to make more paper.
+
+For centuries people have scraped a living by scavenging  /ˈskævəndʒ/ for scrap, such as rags to sell to paper mills.
+
+But that was all driven by market incentives: the raw materials were too valuable to be thrown away.
+
+The idea that we should recycle because it is the right thing to do is much more recent.
+
+Consider a Time magazine article from August 1955 headlined "Throwaway Living". The adjective is not pejorative - it is celebratory.
+
+"Disposable items cut down household chores," it says.
+
+A smiling family fills its bin with paper plates, plastic cutlery and other objects which, the article tells us, "would take 40 hours to clean - except that no housewife need bother".
+
+Why wash up after cooking when you can use a foil "Disposa-pan", or a throwaway barbecue, complete with handy asbestos stand?
+
+A TV ad campaign known as "The Crying Indian" helped shift the mood, in America at least.
+
+First shown in 1971, it shows a Native American man paddling his canoe down a trash-polluted river, and standing by a road as a passing motorist tosses a bag of fast-food detritus at his feet.
+
+"People start pollution," runs the voiceover. "People can stop it."
+
+The Native American man turns to the camera, a single tear rolling down his cheek.
+
+But the advert was not all it seemed, and not just because the actor turned out to be a second-generation Italian immigrant.
+
+It was funded by an organisation backed by leading beverage and packaging companies.
+
+At the time, deposit schemes were common: buy a fizzy drink, and get some cash back when you return the bottle. This model assumes it is the manufacturer's job to provide the incentives and logistics for returning waste.
+
+The Crying Indian had a different message. People were responsible for their own waste.
+
+Deposit schemes fell out of fashion. Recycling logistics became seen as a matter for local government.
+
+Historian Finis Dunaway argues that turning "big systemic problems into questions of individual responsibility" in this way was a bad idea.
+
+It made recycling less about effective action, more about making ourselves feel good.
+
+That seems to chime with research by behavioural economists at Boston University, who found that people who know they can recycle tend to act more wastefully.
+
+That would not matter if recycling was cost-free, but of course, it is not.
+
+The economist Michael Munger also argues that it is a bad idea to leave waste disposal to the free market.
+
+If you charge people what it costs to safely dispose of their rubbish, you tempt them to dump it illegally instead, and that is much worse.
+
+But once we use taxes to subsidise waste disposal, we risk incentivising the behaviour in the Time magazine article - people can chuck stuff away when society bears the costs.
+
+How do we get them to recycle instead? One solution is the moral persuasion of The Crying Indian adverts.
+
+But that also creates a problem, says Munger, in an essay for US think tank The Cato Institute.
+
+He says we should simply compare the costs and benefits of recycling each kind of waste - glass bottles, tin cans, plastic coffee cups etc against other options.
+
+Well-designed landfills are nowadays pretty safe, and we can harness the methane they produce for electricity.
+
+Modern waste incinerators can be a clean-ish source of power.
+
+If instead we treat recycling as a moral question, when do we stop? That brings us back to the conundrum posed by China's National Sword policy.
+
+Paring back recycling programmes would make sorting easier. But it seems like a backward step.
+
+Taiwan - once dubbed "garbage island" - now famously has one of the highest recycling rates in the world.
+
+How? By making sure that waste disposal "sits firmly in the public consciousness", Ying-Ying Lai, head of the Taiwan Environmental Protection Administration's waste management department, told the Smithsonian Magazine.
+
+If they can do it, why can't everyone else?
+
+Perhaps we need systemic answers: maybe regulators can encourage new business models like those bottle deposit schemes making manufacturers think through the incentives and logistics for recycling their products.
+
+Many of these discussions are happening under the voguish phrase "the circular economy", a concept also cited by Taiwan's Ying-Ying Lai.
+
+Or perhaps technology will come to the rescue.
+
+One UK start-up says that it can turn mixed plastics - notoriously difficult to recycle - back into the oil from where they came.
+
+A mall in Australia recently gave a debut to an artificial intelligence-enabled trash can which senses what is put in it, and sorts it accordingly.
+
+State-of-the-art sorting facilities use robots, lasers, magnets and air jets to separate different recyclable streams.
+
+None of this can yet compete with the scale of the work done by low-cost labourers in China and beyond - but maybe closing off that option will prove just the spur to innovation that the industry needs.
 
 # What are microplastics?
 https://www.ecomatters.nl/news/restriction-on-intentionally-added-microplastics/
