@@ -85,3 +85,5 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 * Panic buying and online grocery shopping (unnecessary stockpiling);
 * Consumer behavioural changes (due to paranoia of viral transmission)
 ## 2. Challenges for the current waste management systems
+> The most extensively used techniques of plastic waste management across the globe are {{< hl-text blue>}}mechanical recycling, incineration, and landfilling{{< /hl-text >}}.
+> Ellen McArthur Foundation estimates the global mechanical recycling rates of waste plastics at 16%. In comparison, the remaining waste plastics were either incinerated (25%), sanitary/unsanitary landfilled (40%), or gets leaked into the environment due to mismanagement (19%) as shown in Fig. 3 (Ellen MacArthur Foundation, 2017).
