@@ -99,3 +99,11 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 > {{< hl-text blue>}}Polymer cross-contamination{{< /hl-text >}}, {{< hl-text blue>}}presence of additives{{< /hl-text >}}, {{< hl-text blue>}}inorganic impurities{{< /hl-text >}}, {{< hl-text blue>}}irregular or inadequate segregation at source or during collection{{< /hl-text >}}, and {{< hl-text blue>}}partial polymer degradation{{< /hl-text >}} have always been the major constraints for mechanical recycling of waste plastics (Hopewell et al., 2009).
 
 > Multi-layered plastics that have {{< hl-text blue>}}low reward to effort ratio{{< /hl-text >}} in their {{< hl-text blue>}}collection{{< /hl-text >}}, {{< hl-text blue>}}high pre-processing costs{{< /hl-text >}}, {{< hl-text blue>}}technological constraints{{< /hl-text >}}, and {{< hl-text blue>}}weak integral structure{{< /hl-text >}} (UNEP, 2018)
+
+> Moreover, {{< hl-text blue>}}the plummeting of oil prices{{< /hl-text >}} during COVID-19 caused a dramatic decrease in the value of virgin plastics affecting the {{< hl-text blue>}}competitiveness of recycled plastics{{< /hl-text >}} in the market (Bell, 2016; Walker, 2020).
+
+> Furthermore, {{< hl-text blue>}}shortage of staff{{< /hl-text >}} due to the fear of viral transmission during the collection and handling of waste plastics and {{< hl-text blue>}}restricted transportation{{< /hl-text >}} have crashed the plastic recycling industry (B.I.R, 2020).
+
+> Incineration is popular in {{< hl-text blue>}}northern Europe{{< /hl-text >}} for handling MSW (including plastic waste) for its ability to recover energy complementing the energy needs of the market.
+
+{{< alert info >}}As plastic waste is contained in MSW, whether we should try per unit environmental impact of treating MSW in LCI rather than using only disposal of plastics?{{< /alert >}}
