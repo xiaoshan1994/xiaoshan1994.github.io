@@ -85,8 +85,15 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 * Panic buying and online grocery shopping (unnecessary stockpiling);
 * Consumer behavioural changes (due to paranoia of viral transmission)
 
-## 2. Challenges for the current waste management systems
+## 2. Challenges for the current waste management systems[^]:
 
 > The most extensively used techniques of plastic waste management across the globe are {{< hl-text blue>}}mechanical recycling{{< /hl-text >}}, {{< hl-text blue>}}incineration{{< /hl-text >}}, and {{< hl-text blue>}}landfilling{{< /hl-text >}}.
 
 > Ellen McArthur Foundation estimates the global {{< hl-text blue>}}mechanical recycling rates{{< /hl-text >}} of waste plastics at {{< hl-text blue>}}16%{{< /hl-text >}}. In comparison, the remaining waste plastics were either {{< hl-text blue>}}incinerated (25%){{< /hl-text >}}, {{< hl-text blue>}}sanitary/unsanitary landfilled (40%){{< /hl-text >}}, or gets leaked into the environment due to {{< hl-text blue>}}mismanagement (19%){{< /hl-text >}} as shown in Fig. 3 (Ellen MacArthur Foundation, 2017).
+
+**Fig. 3. Trends of plastic waste generation and implications of COVID-19 on existing waste management systems and probable solutions.**
+https://ars.els-cdn.com/content/image/1-s2.0-S0048969720350439-gr3_lrg.jpg
+
+{{< alert info >}}Depicting a clear picture!{{< /alert >}}
+
+> {{< hl-text blue>}}Polymer cross-contamination{{< /hl-text >}}, {{< hl-text blue>}}presence of additives{{< /hl-text >}}, {{< hl-text blue>}}inorganic impurities{{< /hl-text >}}, {{< hl-text blue>}}irregular or inadequate segregation at source or during collection{{< /hl-text >}}, and {{< hl-text blue>}}partial polymer degradation{{< /hl-text >}} have always been the major constraints for mechanical recycling of waste plastics (Hopewell et al., 2009).
