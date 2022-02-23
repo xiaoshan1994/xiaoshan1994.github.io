@@ -104,6 +104,6 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 
 > Furthermore, {{< hl-text blue>}}shortage of staff{{< /hl-text >}} due to the fear of viral transmission during the collection and handling of waste plastics and {{< hl-text blue>}}restricted transportation{{< /hl-text >}} have crashed the plastic recycling industry (B.I.R, 2020).
 
-> Incineration is popular in {{< hl-text blue>}}northern Europe{{< /hl-text >}} for handling MSW (including plastic waste) for its ability to recover energy complementing the energy needs of the market. Some of the developed nations like Sweden, Denmark, and Poland have adopted advanced and improved technology for {{< hl-text blue>}}air pollution control{{< /hl-text >}} in their {{< hl-text blue>}}‘waste to energy’ technology{{< /hl-text >}} for treating waste (Malinauskaite et al., 2017). 
+> Incineration is popular in {{< hl-text blue>}}northern Europe{{< /hl-text >}} for handling MSW (including plastic waste) for its ability to recover energy complementing the energy needs of the market. Some of the developed nations like Sweden, Denmark, and Poland have adopted advanced and improved technology for {{< hl-text blue>}}air pollution control{{< /hl-text >}} in their {{< hl-text blue>}}‘waste to energy’ technology{{< /hl-text >}} for treating waste (Malinauskaite et al., 2017).
 
 {{< alert info >}}As plastic waste is contained in MSW, whether we should try per unit environmental impact of treating MSW in LCI rather than using only disposal of plastics?{{< /alert >}}
