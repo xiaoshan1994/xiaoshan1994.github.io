@@ -92,7 +92,7 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 > Ellen McArthur Foundation estimates the global {{< hl-text blue>}}mechanical recycling rates{{< /hl-text >}} of waste plastics at {{< hl-text blue>}}16%{{< /hl-text >}}. In comparison, the remaining waste plastics were either {{< hl-text blue>}}incinerated (25%){{< /hl-text >}}, {{< hl-text blue>}}sanitary/unsanitary landfilled (40%){{< /hl-text >}}, or gets leaked into the environment due to {{< hl-text blue>}}mismanagement (19%){{< /hl-text >}} as shown in Fig. 3 (Ellen MacArthur Foundation, 2017).
 
 **Fig. 3. Trends of plastic waste generation and implications of COVID-19 on existing waste management systems and probable solutions.**
-https://ars.els-cdn.com/content/image/1-s2.0-S0048969720350439-gr3_lrg.jpg
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720350439-gr3_lrg.jpg)
 
 {{< alert info >}}Depicting a clear picture!{{< /alert >}}
 
