@@ -85,7 +85,7 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 * Panic buying and online grocery shopping (unnecessary stockpiling);
 * Consumer behavioural changes (due to paranoia of viral transmission)
 
-## 2. Challenges for the current waste management systems[^]:
+## 2. Challenges for the current waste management systems
 
 > The most extensively used techniques of plastic waste management across the globe are {{< hl-text blue>}}mechanical recycling{{< /hl-text >}}, {{< hl-text blue>}}incineration{{< /hl-text >}}, and {{< hl-text blue>}}landfilling{{< /hl-text >}}.
 
@@ -97,3 +97,5 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 {{< alert info >}}Depicting a clear picture!{{< /alert >}}
 
 > {{< hl-text blue>}}Polymer cross-contamination{{< /hl-text >}}, {{< hl-text blue>}}presence of additives{{< /hl-text >}}, {{< hl-text blue>}}inorganic impurities{{< /hl-text >}}, {{< hl-text blue>}}irregular or inadequate segregation at source or during collection{{< /hl-text >}}, and {{< hl-text blue>}}partial polymer degradation{{< /hl-text >}} have always been the major constraints for mechanical recycling of waste plastics (Hopewell et al., 2009).
+
+> Multi-layered plastics that have {{< hl-text blue>}}low reward to effort ratio{{< /hl-text >}} in their {{< hl-text blue>}}collection{{< /hl-text >}}, {{< hl-text blue>}}high pre-processing costs{{< /hl-text >}}, {{< hl-text blue>}}technological constraints{{< /hl-text >}}, and {{< hl-text blue>}}weak integral structure{{< /hl-text >}} (UNEP, 2018)
