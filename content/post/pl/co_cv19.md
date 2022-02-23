@@ -107,3 +107,7 @@ School of Environmental Science and Engineering, Indian Institute of Technology,
 > Incineration is popular in {{< hl-text blue>}}northern Europe{{< /hl-text >}} for handling MSW (including plastic waste) for its ability to recover energy complementing the energy needs of the market. Some of the developed nations like Sweden, Denmark, and Poland have adopted advanced and improved technology for {{< hl-text blue>}}air pollution control{{< /hl-text >}} in their {{< hl-text blue>}}‘waste to energy’ technology{{< /hl-text >}} for treating waste (Malinauskaite et al., 2017).
 
 {{< alert info >}}As plastic waste is contained in MSW, whether we should try per unit environmental impact of treating MSW in LCI rather than using only disposal of plastics?{{< /alert >}}
+
+>Sweden is a very good example in terms of energy output (23%) recovery from both municipal and industrial waste incineration (Ericsson and Werner, 2016).
+
+{{< alert info >}}Go back to the system boundary of LCA of China's ban, should the process of energy recovery by incineration be considered? {{< /alert >}}
