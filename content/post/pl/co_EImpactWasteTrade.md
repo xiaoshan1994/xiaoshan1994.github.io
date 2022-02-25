@@ -1,5 +1,5 @@
 ---
-title: "(Collection) The environmental impact of plastic waste trade"
+title: "(Collection) Global plastic waste trade and its environmental impact"
 date: 2022-02-25T22:34:22+01:00
 categories:
 - Plastic
@@ -11,7 +11,13 @@ thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-
 <!--more-->
-
 {{< toc >}}
+# The Chinese import ban and its impact on global plastic waste trade
+[*SCIENCE ADVANCES*](https://www.science.org/doi/full/10.1126/sciadv.aat0131)
+**20 Jun 2018**
+Amy L. Brooks, Shunli Wang, Jenna R. Jambeck*
+College of Engineering, New Materials Institute, University of Georgia, Riverbend Research Lab South, 220 Riverbend Road, Athens, GA 30602, USA.
+
+# Predicted growth in plastic waste exceeds efforts to mitigate plastic pollution
+[*SCIENCE*](https://www.science.org/doi/full/10.1126/science.aba3656)
