@@ -20,3 +20,7 @@ College of Engineering, New Materials Institute, University of Georgia, Riverben
 
 # Predicted growth in plastic waste exceeds efforts to mitigate plastic pollution
 [*SCIENCE*](https://www.science.org/doi/full/10.1126/science.aba3656)
+Stephanie B. Borrelle
+Department of Ecology and Evolutionary Biology, University of Toronto, Toronto, Ontario, Canada.
+College of Engineering, University of Georgia, Athens, GA, USA.
+David H. Smith Conservation Research Program, Society for Conservation Biology, Washington, DC, USA.
