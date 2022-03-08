@@ -14,10 +14,13 @@ metaAlignment: left
 Math: True
 ---
 Minderoo Foundation, Australia
+https://cdn.minderoo.org/content/uploads/2021/05/27094234/20211105-Plastic-Waste-Makers-Index.pdf
 <!--more-->
+> Close to 85 percent of all single-use plastics is produced from just five polymers - {{< hl-text blue>}}PP, PET, LLDPE, HDPE, and LDPE{{< /hl-text >}}.
+
 
 # THE FIVE MAJOR FINDINGS OF OUR REPORT
-1. In 2019, just {{< hl-text blue>}}20 polymer producers{{< /hl-text >}} accounted for more than {{< hl-text blue>}}half of all{{< /hl-text >}} single-use plastic waste generated globally – and the top 100 accounted for 90 percent.
+1. {{< hl-text orange>}}In 2019, just 20 polymer producers accounted for more than half of all single-use plastic waste generated globally{{< /hl-text >}} – and the top 100 accounted for 90 percent.
 > ExxonMobil (/ˈeksɒn/in the US /ˈesəʊ/in the UK) and Dow – both based in the USA – and China-based Sinopec top the list, with these three companies together accounting for 16 percent of global single-use plastic waste. Of approximately 300 polymer producers operating globally, a small fraction hold the fate of the world’s plastics crisis in their hands: their choice to continue to produce virgin polymers, rather than recycled polymers, will have massive repercussions on how much waste is collected, is managed and leaks into the environment.
 
 2. Major global investors and banks are enabling the single-use plastics crisis.
