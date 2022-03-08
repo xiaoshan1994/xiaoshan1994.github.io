@@ -44,4 +44,18 @@ Insist on “single-use plastic footprint” being {{< hl-text blue>}}a mandator
 Institutional asset managers and global banks are providing billions of dollars to companies that produce polymers from fossil fuels – as much as 100 times more than they provide to companies trying to shift to a circular economy. This asymmetry urgently needs to be reversed. Investors and banks should:
 * Disclose the level of lending and investment in virgin versus recycled polymer production and the associated generation of single-use plastic waste.
 Shareholders and customers have a right to know if their money is being invested or lent to entities whose products have negative impacts on people and the planet – a measure of single-use plastic waste must be included in annual environmental, social and governance reporting.
-* Commit to funding a circular plastics economy.
+* Commit to funding a circular plastics economy
+Adopt policies and targets that shift capital away from virgin polymer production and towards companies using recycled plastic waste as feedstock. Phase out entirely investing in and financing new virgin single-use plastic capacity.
+* Use measures of circularity to inform capital allocation decisions and shareholder action.
+Active fund managers should be using circularity as a screening criterion for investments in polymer producers. Passive fund managers can use the same tools to take action at shareholder meetings and exert influence over boards and management. Banks should link lending to circular business outcomes.
+## OTHER COMPANIES IN THE SUPPLY CHAIN
+* Convert voluntary commitments to use more recycled single-use plastics into firm market signals.
+Long-term forward contracts for recycled polymers and products will create the stability needed for investment in recycling infrastructure. Contracts should also account for the full cost of collecting, sorting and recycling waste, and accept the price premium over virgin polymer and plastics.
+* Design for recyclability.
+Users of plastic have a responsibility to ensure their products are easy to recycle. This means phasing out many hard-to-recycle multi-material single-use plastics, as well as the use of problematic performance- or appearance-enhancing additives. Creating common standards for recycled material quality, specifications and authentication will also improve the efficiency of waste management and recycling systems.
+* Reducing unnecessary single-use plastics.
+This is perhaps the most significant means to reduce single-use plastic waste in the short-term. Opportunities include: redesigning packaging and single-use products to use lower volumes of plastic; scaling innovative re-use models; and using substitute materials.
+* Design for recyclability.
+Users of plastic have a responsibility to ensure their products are easy to recycle. This means phasing out many hard-to-recycle multi-material single-use plastics, as well as the use of problematic performance- or appearance-enhancing additives. Creating common standards for recycled material quality, specifications and authentication will also improve the efficiency of waste management and recycling systems.
+* Reducing unnecessary single-use plastics.
+This is perhaps the most significant means to reduce single-use plastic waste in the short-term. Opportunities include: redesigning packaging and single-use products to use lower volumes of plastic; scaling innovative re-use models; and using substitute materials.
