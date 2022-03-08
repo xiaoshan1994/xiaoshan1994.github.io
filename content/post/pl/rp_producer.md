@@ -34,7 +34,7 @@ Set real, quantifiable /'kwɑntə,faɪəbl/ and time-bound commitments to reduce
 One example is the Circulytics initiative from the Ellen MacArthur Foundation, which supports a company’s transition towards the circular economy, and reveals the extent to which a company has achieved circularity across its entire operations.
 ## POLICYMAKERS
 Solving the single-use plastic problem will take more than the actions of progressive polymer producers or the influence of capital markets. It will also require policymakers to display great political will and practical action. Policymakers should:
-* Target policies at polymer producers
+* Target policies at polymer producers.
 With the knowledge of which companies are at the source of the single-use plastic waste crisis, policymakers can now draft effective regulatory responses, such as policies that {{< hl-text blue>}}require recycled polymer production from plastic waste feedstocks{{< /hl-text >}}, and therefore incentivise greater waste collection; or {{< hl-text blue>}}economic incentives that accelerate the transition from virgin to recycled polymers{{< /hl-text >}}, such as {{< hl-text blue>}}a levy on virgin production{{< /hl-text >}}.
 * Accelerate a global treaty on plastic pollution.
 A Montreal Protocol or Paris Agreement-style treaty may be the only way to bring an end to plastic pollution worldwide. The treaty must address the problem at its source, with targets for the phasing out of fossil-fuel-based polymers and encouraging the development of a circular plastics economy.
