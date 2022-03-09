@@ -16,6 +16,7 @@ Math: True
 ---
 the Joint Research Centre (JRC)
 <!--more-->
+[Original link](https://publications.jrc.ec.europa.eu/repository/handle/JRC125046)
 {{< toc >}}
 # Abstract
 The European Strategy for Plastics in a Circular Economy (COM(2018 28 final) proposes a vision where innovative materials and alternative feedstocks to fossil resources are developed and used for plastics production. Alternative feedstocks to oil and gas include {{< hl-text blue>}}plastic waste{{< /hl-text >}}, {{< hl-text blue>}}biomass{{< /hl-text >}} and {{< hl-text blue>}}other bio-based resources{{< /hl-text >}}, as well as CO2 from gaseous effluents.
