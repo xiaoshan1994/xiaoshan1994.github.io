@@ -26,6 +26,8 @@ Received 12 June 2018, Available online 15 January 2019
 * Only hard plastic waste (rigid products such as bottles and containers, pots, pipes, crates, toys, etc.; see definition in Appendix B) is generally recycled in Denmark.
 * Recycling processes for plastic waste have been classified by the scientific literature and legislation standards as a) primary (re-extrusion), b) secondary (mechanical recycling), c) tertiary (feedstock or chemical recycling) and d) quaternary (energy recovery) routes, according to the technology used and the output produced by the process (e.g. ASTM Standard D5033, 2000; Brems et al., 2012; Ignatyev et al., 2014).[^astm]
 * The presence of impurities in plastic waste makes recycling difficult differentiating with glass and metals.
+* The purity of plastic waste is the primary factor determining the quality and economic value of recyclates.
+
 
 
 [^astm]: Primary recycling, often referred to as “closed loop recycling”, is when recyclable materials are mechanically processed to create a product that serves a similar function. Secondary recycling is still a mechanical recycling process, but it uses recycled materials to make a new product. This new product typically does not have the same physical demands as the original product and is often less recyclable. The tertiary recycling is using recyclabeles as a feedstock in a process to create chemicals and fuels. These chemicals can then be used to create new materials. [the Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fboroughofambler.com%2Fdownload%2Ftrash__recycling%2FPRIMARY-SECONDARY-TERTIARY-RECYCLING-ARTICLE.pdf)
