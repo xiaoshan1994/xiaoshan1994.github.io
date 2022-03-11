@@ -27,6 +27,7 @@ Received 12 June 2018, Available online 15 January 2019
 * Recycling processes for plastic waste have been classified by the scientific literature and legislation standards as a) primary (re-extrusion), b) secondary (mechanical recycling), c) tertiary (feedstock or chemical recycling) and d) quaternary (energy recovery) routes, according to the technology used and the output produced by the process (e.g. ASTM Standard D5033, 2000; Brems et al., 2012; Ignatyev et al., 2014).[^astm]
 * The presence of impurities in plastic waste makes recycling difficult differentiating with glass and metals.
 * The purity of plastic waste is the primary factor determining the quality and economic value of recyclates.
+* The selection of the plastic waste recycling route usually depends upon factors such as {{< hl-text blue>}}location{{< /hl-text >}}, {{< hl-text blue>}}polymer type{{< /hl-text >}}, {{< hl-text blue>}}product type{{< /hl-text >}}, {{< hl-text blue>}}method of collection{{< /hl-text >}}, {{< hl-text blue>}}presence of impurities{{< /hl-text >}}, {{< hl-text blue>}}desired quality of the product{{< /hl-text >}} and {{< hl-text blue>}}raw material prices offered by companies sorting or recycling the waste{{< /hl-text >}} (Ragaert et al., 2017; Valentino et al., 2016; Yu et al., 2016). 
 
 
 
