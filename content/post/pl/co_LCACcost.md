@@ -28,12 +28,17 @@ Technical University of Denmark, Department of Environmental Engineering, Miljø
 * Only hard plastic waste (rigid products such as bottles and containers, pots, pipes, crates, toys, etc.; see definition in Appendix B) is generally recycled in Denmark.
 * Recycling processes for plastic waste have been classified by the scientific literature and legislation standards as a) primary (re-extrusion), b) secondary (mechanical recycling), c) tertiary (feedstock or chemical recycling) and d) quaternary (energy recovery) routes, according to the technology used and the output produced by the process (e.g. ASTM Standard D5033, 2000; Brems et al., 2012; Ignatyev et al., 2014).[^astm]
 * The presence of impurities in plastic waste makes recycling difficult differentiating with glass and metals.
-* The purity of plastic waste is the primary factor determining the quality and economic value of recyclates.
+* The purity of plastic waste is the primary factor determining the quality and economic value of recyclables.
+* Impurities in plastic waste may be grouped into {{< hl-text blue>}}three classes{{< /hl-text >}}: {{< hl-text blue>}}non-plastic components{{< /hl-text >}} (foreign materials), {{< hl-text blue>}}non-targeted plastic{{< /hl-text >}} (different polymers than the one targeted for reprocessing, including multi-plastic products and polymer blends) and {{< hl-text blue>}}chemical impurities{{< /hl-text >}} (bound to the plastic matrix, such as pigments, additives, stabilizers, etc).
 * The selection of the plastic waste recycling route usually depends upon factors such as {{< hl-text blue>}}location{{< /hl-text >}}, {{< hl-text blue>}}polymer type{{< /hl-text >}}, {{< hl-text blue>}}product type{{< /hl-text >}}, {{< hl-text blue>}}method of collection{{< /hl-text >}}, {{< hl-text blue>}}presence of impurities{{< /hl-text >}}, {{< hl-text blue>}}desired quality of the product{{< /hl-text >}} and {{< hl-text blue>}}raw material prices offered by companies sorting or recycling the waste{{< /hl-text >}} (Ragaert et al., 2017; Valentino et al., 2016; Yu et al., 2016).
 
 > The export of recyclables is common in Europe, as the plastic recycling industry is characterised by a large number of entities, each performing a certain role in the recycling chain, linked by market agreements which are very volatile and depend on “who-offers-more” as well as the price of virgin materials (Villanueva and Eder, 2014). The main European importers of plastic waste are Germany, the Netherlands, and Italy (EC, 2018). Although an international market for recyclables may promote more recycling, international exchange of recyclable materials may also reduce transparency and traceability of waste materials, thereby making more difficult the accounting of environmental impacts and total management costs.
 
 * However, as the net environmental benefits provided by recycling processes cannot stand alone as a basis for decision-making, an evaluation of financial considerations is also required.
+
+## 2. Materials and methods
+* In an eLCC a financial analysis is complemented by an LCA for the same system. Therefore {{< hl-text orange>}}goal, scope, functional unit (FU) and system boundaries of the LCA and LCC must be identical (Hunkeler et al., 2008){{< /hl-text >}}.
+
 
 
 # Life cycle costing of waste management systems: Overview, calculation principles and case studies
