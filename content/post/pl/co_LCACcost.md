@@ -39,12 +39,11 @@ Technical University of Denmark, Department of Environmental Engineering, Miljø
 ## 2. Materials and methods
 * In an eLCC a financial analysis is complemented by an LCA for the same system. Therefore {{< hl-text orange>}}goal, scope, functional unit (FU) and system boundaries of the LCA and LCC must be identical (Hunkeler et al., 2008){{< /hl-text >}}.
 
-
-
 # Life cycle costing of waste management systems: Overview, calculation principles and case studies
 [Waste Management](https://www.sciencedirect.com/science/article/pii/S0956053X14005224?via%3Dihub#!)
 Veronica Martinez-Sanchez
 Received 29 July 2014, Accepted 31 October 2014
 Technical University of Denmark, Department of Environmental Engineering, Miljoevej, Building 113, 2800 Kgs. Lyngby, Denmark
+
 
 [^astm]: Primary recycling, often referred to as “closed loop recycling”, is when recyclable materials are mechanically processed to create a product that serves a similar function. Secondary recycling is still a mechanical recycling process, but it uses recycled materials to make a new product. This new product typically does not have the same physical demands as the original product and is often less recyclable. The tertiary recycling is using recyclabeles as a feedstock in a process to create chemicals and fuels. These chemicals can then be used to create new materials. [the Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fboroughofambler.com%2Fdownload%2Ftrash__recycling%2FPRIMARY-SECONDARY-TERTIARY-RECYCLING-ARTICLE.pdf)
