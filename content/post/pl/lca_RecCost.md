@@ -45,5 +45,10 @@ Veronica Martinez-Sanchez
 Received 29 July 2014, Accepted 31 October 2014
 Technical University of Denmark, Department of Environmental Engineering, Miljoevej, Building 113, 2800 Kgs. Lyngby, Denmark
 
+# Appendices
+## C. Review of recycling configurations in literature
+Table C.1. Configuration of recycling processes investigated in literature. ECS: eddy-current separation[^eddy]; ELV: end-of-life vehicles; FR: feedstock recycling; HH: household; MR: mechanical recycling; MRF: material recovery facility; NIR: near infra-red scanner; PMD: plastic, metals and drink packages; WEEE: waste electrical and electronic equipment.
+
 
 [^astm]: Primary recycling, often referred to as “closed loop recycling”, is when recyclable materials are mechanically processed to create a product that serves a similar function. Secondary recycling is still a mechanical recycling process, but it uses recycled materials to make a new product. This new product typically does not have the same physical demands as the original product and is often less recyclable. The tertiary recycling is using recyclabeles as a feedstock in a process to create chemicals and fuels. These chemicals can then be used to create new materials. [the Link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fboroughofambler.com%2Fdownload%2Ftrash__recycling%2FPRIMARY-SECONDARY-TERTIARY-RECYCLING-ARTICLE.pdf)
+[^eddy]: [Eddy current separation](https://www.doitpoms.ac.uk/tlplib/recycling-metals/eddy_current.php) takes the principles of electromagnetic induction in conducting materials, to separate non-ferrous metals by their different electric conductivities.
