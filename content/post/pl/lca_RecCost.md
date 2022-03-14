@@ -21,7 +21,7 @@ Giorgia Faraca
 Technical University of Denmark, Department of Environmental Engineering, Miljøvej, 2800, Kgs. Lyngby, Denmark
 {{< toc >}}
 
-## 1. Introduction
+# 1. Introduction
 * An environmental and financial assessment was conducted on one tonne of hard plastic waste collected at Danish recycling centres.
 * The European demand for plastic in 2016 was 57 million tonnes (EC, 2018), of which 70% was made of {{< hl-text blue>}}six main polymers{{< /hl-text >}}: {{< hl-text blue>}}polyethylene terephthalate (PET), high- and low-density polyethylene (HDPE and LDPE), polyvinyl chloride (PVC), polypropylene (PP) and polystyrene (PS){{< /hl-text >}}.
 * In Denmark, around 20% of post-consumer plastic waste is recycled, while the rest is incinerated (less than 5% is landfilled; Plastic Europe, 2016).
@@ -36,14 +36,9 @@ Technical University of Denmark, Department of Environmental Engineering, Miljø
 
 * However, as the net environmental benefits provided by recycling processes cannot stand alone as a basis for decision-making, an evaluation of financial considerations is also required.
 
-## 2. Materials and methods
+# 2. Materials and methods
 * In an eLCC a financial analysis is complemented by an LCA for the same system. Therefore {{< hl-text orange>}}goal, scope, functional unit (FU) and system boundaries of the LCA and LCC must be identical (Hunkeler et al., 2008){{< /hl-text >}}.
 
-# Life cycle costing of waste management systems: Overview, calculation principles and case studies
-[Waste Management](https://www.sciencedirect.com/science/article/pii/S0956053X14005224?via%3Dihub#!)
-Veronica Martinez-Sanchez
-Received 29 July 2014, Accepted 31 October 2014
-Technical University of Denmark, Department of Environmental Engineering, Miljoevej, Building 113, 2800 Kgs. Lyngby, Denmark
 
 # Appendices
 [The link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fars.els-cdn.com%2Fcontent%2Fimage%2F1-s2.0-S092134491930014X-mmc1.pdf&clen=986132&chunk=true)
