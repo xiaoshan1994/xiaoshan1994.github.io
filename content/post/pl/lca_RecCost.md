@@ -40,8 +40,7 @@ Technical University of Denmark, Department of Environmental Engineering, Miljø
 * In an eLCC a financial analysis is complemented by an LCA for the same system. Therefore {{< hl-text orange>}}goal, scope, functional unit (FU) and system boundaries of the LCA and LCC must be identical (Hunkeler et al., 2008){{< /hl-text >}}.
 
 
-# Appendices
-[The link](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fars.els-cdn.com%2Fcontent%2Fimage%2F1-s2.0-S092134491930014X-mmc1.pdf&clen=986132&chunk=true)
+# [Appendices](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fars.els-cdn.com%2Fcontent%2Fimage%2F1-s2.0-S092134491930014X-mmc1.pdf&clen=986132&chunk=true)
 ## C. Review of recycling configurations in literature
 Table C.1. Configuration of recycling processes investigated in literature. ECS: eddy-current separation[^eddy]; ELV: end-of-life vehicles; FR: feedstock recycling; HH: household; MR: mechanical recycling; MRF: material recovery facility; NIR: near infra-red scanner; PMD: plastic, metals and drink packages; WEEE: waste electrical and electronic equipment.
 Mechanical recycling:
