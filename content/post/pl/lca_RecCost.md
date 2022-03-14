@@ -53,11 +53,20 @@ Mechanical recycling:
 * Grinding, granulation
 * Shredding, cleaning
 * Extruding
+Tertiary recycling (also termed chemical or feedstock recycling[^ter]):
+* Hydrolysis, pyrolysis, hydrocracking and gasification
 
 
 
 
-[^astm]: [Primary recycling](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fboroughofambler.com%2Fdownload%2Ftrash__recycling%2FPRIMARY-SECONDARY-TERTIARY-RECYCLING-ARTICLE.pdf), often referred to as “closed loop recycling”, is when recyclable materials are mechanically processed to create a product that serves a similar function. Secondary recycling is still a mechanical recycling process, but it uses recycled materials to make a new product. This new product typically does not have the same physical demands as the original product and is often less recyclable. The tertiary recycling is using recyclabeles as a feedstock in a process to create chemicals and fuels. These chemicals can then be used to create new materials. 
+
+[^astm]: [Primary recycling](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/viewer.html?pdfurl=https%3A%2F%2Fboroughofambler.com%2Fdownload%2Ftrash__recycling%2FPRIMARY-SECONDARY-TERTIARY-RECYCLING-ARTICLE.pdf), often referred to as “closed loop recycling”, is when recyclable materials are mechanically processed to create a product that serves a similar function. Secondary recycling is still a mechanical recycling process, but it uses recycled materials to make a new product. This new product typically does not have the same physical demands as the original product and is often less recyclable. The tertiary recycling is using recyclabeles as a feedstock in a process to create chemicals and fuels. These chemicals can then be used to create new materials.
 [^eddy]: [Eddy current separation](https://www.doitpoms.ac.uk/tlplib/recycling-metals/eddy_current.php) takes the principles of electromagnetic induction in conducting materials, to separate non-ferrous metals by their different electric conductivities.
 [^bal]: The ballistic separator separates the material based on the climbing ability and the irregular ballistic behaviour of the components.
 [^sif]: A method of separating waste based on the density of material using the principles of controlled air. The input material is separated into two fractions varying from light to heavy.
+[^ter]: It indicates processes based on breaking down the polymer chains to smaller molecules. Some technologies (like hydrolysis, pyrolysis, hydrocracking and gasification) produce liquids and gasses that can be used in the production of new plastics, synthetic fibres, lubricants and fuels or other products used by the chemical industries. Other processes (e.g. glycolysis, methanolysis etc.) depolymerise plastic waste into its smallest components (the monomers) that are then repolymerised into new products. This last class of processes is less often performed because some polymers (like PP and PE) cannot be easily depolymerized. 
+## D. Probability distributions of parameters used in the modelling
+D.1 Operational data
+* NIR sorting efficiency for various polymers
+* Manual sorting efficiency for various polymers
+* Technical substitution factor (yield)
