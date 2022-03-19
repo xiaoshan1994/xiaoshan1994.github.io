@@ -56,6 +56,12 @@ Mechanical recycling:
 Tertiary recycling (also termed chemical or feedstock recycling[^ter]):
 * Hydrolysis, pyrolysis, hydrocracking and gasification
 
+## D. Probability distributions of parameters used in the modelling
+D.1 Operational data
+* NIR sorting efficiency for various polymers
+* Manual sorting efficiency for various polymers
+* Technical substitution factor (yield)
+
 ## Table D.2 Detailed inventory of simple mechanical recycling (sMR) scenario
 **Transfer to material recovery facility (MRF)**
 Input: plastic waste (1000kg), diesel (2.57kg)
@@ -86,8 +92,3 @@ Output: Recycled PE granules Kg 114, Residues to incineration kg 36
 [^bal]: The ballistic separator separates the material based on the climbing ability and the irregular ballistic behaviour of the components.
 [^sif]: A method of separating waste based on the density of material using the principles of controlled air. The input material is separated into two fractions varying from light to heavy.
 [^ter]: It indicates processes based on breaking down the polymer chains to smaller molecules. Some technologies (like hydrolysis, pyrolysis, hydrocracking and gasification) produce liquids and gasses that can be used in the production of new plastics, synthetic fibres, lubricants and fuels or other products used by the chemical industries. Other processes (e.g. glycolysis, methanolysis etc.) depolymerise plastic waste into its smallest components (the monomers) that are then repolymerised into new products. This last class of processes is less often performed because some polymers (like PP and PE) cannot be easily depolymerized.
-## D. Probability distributions of parameters used in the modelling
-D.1 Operational data
-* NIR sorting efficiency for various polymers
-* Manual sorting efficiency for various polymers
-* Technical substitution factor (yield)
