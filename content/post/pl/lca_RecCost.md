@@ -56,6 +56,25 @@ Mechanical recycling:
 Tertiary recycling (also termed chemical or feedstock recycling[^ter]):
 * Hydrolysis, pyrolysis, hydrocracking and gasification
 
+## Table D.2 Detailed inventory of simple mechanical recycling (sMR) scenario
+**Transfer to material recovery facility (MRF)**
+Input: plastic waste (1000kg), diesel (2.57kg)
+Output: Plastic waste (1000kg)
+**Material recovery facility (MRF) phase**
+Input: plastic waste (1000kg), electricity (32kWh), Waste preparation facility
+construction (Process from ecoinvent v3.5, RoW)
+Output: PP plastic waste to recycling (340kg), PE plastic waste to recycling(150kg),
+Mixed plastic to incineration (510kg)
+**Transfer to recycling facility**
+Input: Plastic waste (490kg), diesel(0.63kg)
+Output: Plastic waste (490kg)
+**Recycling of PP plastic waste**
+Input: PP plastic waste (340 Kg), Electricity (284kWh), Water (3706 Kg), Sodium hydroxide (0.079kg), Heat (80MJ), plastic processing factory construction (process from ecoinvent v3.5, RER)
+Output: Recycled PP granules Kg 235, Residues to incineration kg 105
+**Recycling of PE plastic waste**
+Input: PE plastic waste Kg 150, Electricity kWh 109, Water kg 1635, Sodium hydroxide kg 0.035, Heat MJ 35, Plastic processing factory construction (process from ecoinvent v3.5, RER)
+Output: Recycled PE granules Kg 114, Residues to incineration kg 36
+
 
 
 
@@ -64,7 +83,7 @@ Tertiary recycling (also termed chemical or feedstock recycling[^ter]):
 [^eddy]: [Eddy current separation](https://www.doitpoms.ac.uk/tlplib/recycling-metals/eddy_current.php) takes the principles of electromagnetic induction in conducting materials, to separate non-ferrous metals by their different electric conductivities.
 [^bal]: The ballistic separator separates the material based on the climbing ability and the irregular ballistic behaviour of the components.
 [^sif]: A method of separating waste based on the density of material using the principles of controlled air. The input material is separated into two fractions varying from light to heavy.
-[^ter]: It indicates processes based on breaking down the polymer chains to smaller molecules. Some technologies (like hydrolysis, pyrolysis, hydrocracking and gasification) produce liquids and gasses that can be used in the production of new plastics, synthetic fibres, lubricants and fuels or other products used by the chemical industries. Other processes (e.g. glycolysis, methanolysis etc.) depolymerise plastic waste into its smallest components (the monomers) that are then repolymerised into new products. This last class of processes is less often performed because some polymers (like PP and PE) cannot be easily depolymerized. 
+[^ter]: It indicates processes based on breaking down the polymer chains to smaller molecules. Some technologies (like hydrolysis, pyrolysis, hydrocracking and gasification) produce liquids and gasses that can be used in the production of new plastics, synthetic fibres, lubricants and fuels or other products used by the chemical industries. Other processes (e.g. glycolysis, methanolysis etc.) depolymerise plastic waste into its smallest components (the monomers) that are then repolymerised into new products. This last class of processes is less often performed because some polymers (like PP and PE) cannot be easily depolymerized.
 ## D. Probability distributions of parameters used in the modelling
 D.1 Operational data
 * NIR sorting efficiency for various polymers
