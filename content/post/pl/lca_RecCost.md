@@ -75,6 +75,8 @@ Output: Recycled PP granules Kg 235, Residues to incineration kg 105
 Input: PE plastic waste Kg 150, Electricity kWh 109, Water kg 1635, Sodium hydroxide kg 0.035, Heat MJ 35, Plastic processing factory construction (process from ecoinvent v3.5, RER)
 Output: Recycled PE granules Kg 114, Residues to incineration kg 36
 
+{{< alert info >}} Whether labour cost and land cost (possibly included in construction cost) is missing here? {{< /alert >}}
+
 
 
 
