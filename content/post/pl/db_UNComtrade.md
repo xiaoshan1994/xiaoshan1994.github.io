@@ -36,7 +36,7 @@ https://unstats.un.org/wiki/display/comtrade/World+Trade+Flows%3A+1962-2000
 https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2020/mtg1/4.1_Globalization_TT_UNECE_valuation2020.pdf
  * System of National Accounts 2008 (2008 SNA) recommends recording of imports and exports of goods at FOB value.
  * the FOB valuation seems to not be fully reconciled with the general conceptual principle of recording output at basic prices[^ba]:
-  - FOB valuation principle : goods are valued excluding freight and insurance services between the exporting and importing countries (i.e., at a point of uniform valuation).
+  - FOB valuation principle : goods are valued excluding freight and insurance services between the exporting and importing countries (i.e., at a point of {{< hl-text blue>}}**uniform valuation**{{< /hl-text >}}).
   - basic price valuation principle : goods are valued at the **{{< hl-text blue>}}observed transaction price{{< /hl-text >}}** receivable by the producer (freight and insurance services are included or excluded depending on if these services are separately invoiced by the producer).
 * Imports of goods are to be recorded in the supply and use tables at basic prices:
  - CIF to FOB adjustment is needed, if FOBtype data detailed by product group are not available for imports.
