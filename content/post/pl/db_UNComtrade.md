@@ -45,11 +45,12 @@ Balance of Payments and Int. Inv. Position Manual 6th ed. (BPM6)
 * recommends recording of imports and exports of goods at FOB value:
  - principle for valuation of general merchandise: market value of goods, at the point of uniform valuation, that is at the customs frontier of the economy from which the goods are first exported (FOB).
  - allows for partitioning and rerouting of transactions when transaction prices (as agreed between exporters and importers) include varying amounts of distribution costs.  
-* use International Merchandise Trade Statistics (IMTS) as main data source for goods:
+* use International Merchandise Trade Statistics (IMTS)[^imts] as main data source for goods:
  - IMTS use a CIF type valuation for imports.
  - to derive FOB values, it is necessary to exclude freight and insurance costs incurred between the customs frontier of the exporter and the customs frontier of the importer.
  - CIF to FOB adjustment should be obtained at a detailed level, and CIF to FOB ratios change over time.
 
-For detailed examples of CIF to FOB adjustments and implications, see this pdf by [The United Nations Statistics Division](https://unstats.un.org/unsd/nationalaccount/aeg/2020/M14_4_2_Import_Export_Valuation.pdf). 
+For detailed examples of CIF to FOB adjustments and implications, see this pdf by [The United Nations Statistics Division](https://unstats.un.org/unsd/nationalaccount/aeg/2020/M14_4_2_Import_Export_Valuation.pdf).
 [^fob]: The abbreviation CIF stands for "cost, insurance and freight," and FOB means "free on board."
 [^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output {{< hl-text orange>}}minus any tax payable, and plus any subsidy receivable{{< /hl-text >}}, on that unit as a consequence of its production or sale; {{< hl-text orange>}}it excludes any transport charges invoiced separately by the producer{{< /hl-text >}}.
+[^imts]: Trade Statistics Branch of UN Statistics Division is responsible for the development and maintenance of the methodological guidelines on IMTS, including the Standard International Trade Classification (SITC) and related correspondence tables. As part of this work several surveys of national practices have been conducted.
