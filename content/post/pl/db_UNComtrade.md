@@ -34,11 +34,12 @@ https://unstats.un.org/wiki/display/comtrade/World+Trade+Flows%3A+1962-2000
 > Note in particular that the NBER-UN country code for Taiwan is ‘454900’.  This code corresponds to the UN country code of  ‘458960’ and the UN country description of  ‘Asia Othr. NS’, so we are imputing Taiwan trade from that classified as ‘Asia other not specified’ by the United Nations
 
 https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2020/mtg1/4.1_Globalization_TT_UNECE_valuation2020.pdf
- * System of National Accounts 2008 (2008 SNA) recommends recording of imports and exports of goods at FOB value.
+ * System of National Accounts 2008 (2008 SNA) recommends recording of imports and exports of goods at FOB value[^fob].
  * the FOB valuation seems to not be fully reconciled with the general conceptual principle of recording output at basic prices[^ba]:
-  - FOB valuation principle : goods are valued excluding freight and insurance services between the exporting and importing countries (i.e., at a point of {{< hl-text blue>}}**uniform valuation**{{< /hl-text >}}).
+  - FOB valuation principle : goods are valued excluding freight and insurance services between the exporting and importing countries (i.e., at a point of uniform valuation).
   - basic price valuation principle : goods are valued at the **{{< hl-text blue>}}observed transaction price{{< /hl-text >}}** receivable by the producer (freight and insurance services are included or excluded depending on if these services are separately invoiced by the producer).
 * Imports of goods are to be recorded in the supply and use tables at basic prices:
  - CIF to FOB adjustment is needed, if FOBtype data detailed by product group are not available for imports.
-
+ 
+[^fob]: The abbreviation CIF stands for "cost, insurance and freight," and FOB means "free on board."
 [^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output {{< hl-text orange>}}minus any tax payable, and plus any subsidy receivable{{< /hl-text >}}, on that unit as a consequence of its production or sale; {{< hl-text orange>}}it excludes any transport charges invoiced separately by the producer{{< /hl-text >}}.
