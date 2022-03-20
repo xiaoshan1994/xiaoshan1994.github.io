@@ -40,6 +40,16 @@ https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2020/mtg1/4.1_
   - basic price valuation principle : goods are valued at the **{{< hl-text blue>}}observed transaction price{{< /hl-text >}}** receivable by the producer (freight and insurance services are included or excluded depending on if these services are separately invoiced by the producer).
 * Imports of goods are to be recorded in the supply and use tables at basic prices:
  - CIF to FOB adjustment is needed, if FOBtype data detailed by product group are not available for imports.
- 
+
+Balance of Payments and Int. Inv. Position Manual 6th ed. (BPM6)
+* recommends recording of imports and exports of goods at FOB value:
+ - principle for valuation of general merchandise: market value of goods, at the point of uniform valuation, that is at the customs frontier of the economy from which the goods are first exported (FOB).
+ - allows for partitioning and rerouting of transactions when transaction prices (as agreed between exporters and importers) include varying amounts of distribution costs.  
+* use International Merchandise Trade Statistics (IMTS) as main data source for goods:
+ - IMTS use a CIF type valuation for imports.
+ - to derive FOB values, it is necessary to exclude freight and insurance costs incurred between the customs frontier of the exporter and the customs frontier of the importer.
+ - CIF to FOB adjustment should be obtained at a detailed level, and CIF to FOB ratios change over time.
+
+For detailed examples of CIF to FOB adjustments and implications, see this pdf by [The United Nations Statistics Division](https://unstats.un.org/unsd/nationalaccount/aeg/2020/M14_4_2_Import_Export_Valuation.pdf). 
 [^fob]: The abbreviation CIF stands for "cost, insurance and freight," and FOB means "free on board."
 [^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output {{< hl-text orange>}}minus any tax payable, and plus any subsidy receivable{{< /hl-text >}}, on that unit as a consequence of its production or sale; {{< hl-text orange>}}it excludes any transport charges invoiced separately by the producer{{< /hl-text >}}.
