@@ -41,4 +41,4 @@ https://www.unece.org/fileadmin/DAM/stats/documents/ece/ces/ge.20/2020/mtg1/4.1_
 * Imports of goods are to be recorded in the supply and use tables at basic prices:
  - CIF to FOB adjustment is needed, if FOBtype data detailed by product group are not available for imports.
 
-[^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output minus any tax payable, and plus any subsidy receivable, on that unit as a consequence of its production or sale; it excludes any transport charges invoiced separately by the producer.
+[^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output {{< hl-text orange>}}minus any tax payable, and plus any subsidy receivable{{< /hl-text >}}, on that unit as a consequence of its production or sale; {{< hl-text orange>}}it excludes any transport charges invoiced separately by the producer{{< /hl-text >}}.
