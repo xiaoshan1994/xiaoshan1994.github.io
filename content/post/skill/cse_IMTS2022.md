@@ -27,7 +27,7 @@ Dates/Description
 * at 9 AM CEST and
 * at 3 PM CEST.
 
-The recommended reading material: [](https://unstats.un.org/unsd/trade/EG-IMTS/IMTS2010-CM%20-%20white%20cover%20version.pdf)
+The recommended reading material: [International Merchandise Trade Statistics: Compilers Manual, Revision 1 (IMTS 2010-CM)](https://unstats.un.org/unsd/trade/EG-IMTS/IMTS2010-CM%20-%20white%20cover%20version.pdf)
 
 # Module 1 - Conceptual Framework
 ## Participants Manual Module 1
