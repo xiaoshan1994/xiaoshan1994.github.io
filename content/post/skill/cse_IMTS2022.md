@@ -37,7 +37,9 @@ Dates/Description
 For IMTS 2010 purposes, {{< hl-text orange>}}any installation or equipment, mobile or not, located outside the geographical territory of a country, owned by the country resident(s) and remaining under the country’s jurisdiction, is treated as if it were a part of its economic territory. This applies, for example, to drilling rigs, ships, aircraft, space stations, etc.{{< /hl-text >}}
 
 [IMTS Compilers Manual 2010](https://unstats.un.org/unsd/trade/EG-IMTS/IMTS2010-CM%20-%20white%20cover%20version.pdf)
-![image](https://user-images.githubusercontent.com/65668613/159291439-acab8ec9-db1e-4b54-9318-8801ece49b69.png)
+![Table XIV.1  Adjustments to the invoice price required to obtain CIF-type value of imported goods](https://user-images.githubusercontent.com/65668613/159291439-acab8ec9-db1e-4b54-9318-8801ece49b69.png)
+
+![Table XIV.2 Adjustments to the invoice price required to obtain FOB-type value of imported goods ](https://user-images.githubusercontent.com/65668613/159292373-19d41f86-e504-43c5-bf6b-f0c674fea326.png)
 
 ## Optional Non-evaluated Module 1 Quiz
 1. What is the CIF value for this import transaction? A = place of dispatch; B = border of the importing Country; C = destination. Import with Terms of delivery DDU 'C' (invoiced amount includes freight costs from the place of dispatch to the destination). Invoiced amount for two items: Invoiced value of item 1 (100 kg) is $1,500. Invoiced value of item 2 (50 kg) is $2,240. Total: $3,740. Total Freight costs from the border of the importing country to the destination are assumed to be $300.
