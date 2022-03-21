@@ -18,7 +18,7 @@ Math: True
 The United Nations Conference on Trade and Development (UNCTAD) was established in 1964 as an intergovernmental organization intended to promote the interests of developing states in world trade.
 <!--more-->
 {{< toc >}}
-[UNCTAD](https://unctad.org/) is the part of the **United Nations Secretariat** dealing with trade, investment, and development issues.
+[UNCTAD](https://unctad.org/) is the part of the [**United Nations Secretariat**](https://www.un.org/en/about-us/secretariat) dealing with trade, investment, and development issues.
 NCTAD was established by the **United Nations General Assembly** in 1964 and it reports to the **UN General Assembly** and **United Nations Economic and Social Council**.
 [Data centre of UNCTAD STAT](https://unctadstat.unctad.org/wds/ReportFolders/reportFolders.aspx?sCS_ChosenLang=en)
 Plastic trade ->:
