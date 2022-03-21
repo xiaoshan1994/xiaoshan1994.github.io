@@ -44,7 +44,6 @@ Dates/Description
 1. What is the CIF value for this import transaction? A = place of dispatch; B = border of the importing Country; C = destination. Import with Terms of delivery DDU 'C' (invoiced amount includes freight costs from the place of dispatch to the destination). Invoiced amount for two items: Invoiced value of item 1 (100 kg) is $1,500. Invoiced value of item 2 (50 kg) is $2,240. Total: $3,740. Total Freight costs from the border of the importing country to the destination are assumed to be $300.
 {{< alert success >}}The correct answer is: Item 2: $2,140. CIF counting: A to C. The rule to split the freight is the weight principle as standard freight pricing is based on weight rather than value.{{< /alert >}}
 
-
 2. What is the FOB value for this export transaction? A = place of dispatch; B = border of the exporting country; C = destination. Export with Terms of delivery DDU 'C' (invoiced amount includes freight costs from the place of dispatch to the destination). Total invoiced amount: $5,600. Calculated freight costs from the border of the exporting Country to C: $1,200.
 {{< alert success >}}The correct answer is: $4,400{{< /alert >}}
 
@@ -61,3 +60,17 @@ The correct answer is: $5,850
 
 7. What is the CIF value for this import transaction? A = place of dispatch; B = border of the exporting country; C = border of importing country; D =destination. Import with Terms of delivery EXW 'A' (invoiced amount excludes freight costs from the place of dispatch to the destination). Total invoiced amount: $3,200. Commission costs = $240. Freight costs from A to D: $2,000. Total distance = 2,000 km (distance A->B = 500 km, distance B->C = 1,000 km and distance C->D = 500 km).
 {{< alert success >}}The correct answer is: 4,940 {{< hl-text orange>}}The commission costs are counted within CIF.{{< /hl-text >}}{{< /alert >}}
+
+# Module 3 - Production and Compilation
+
+![image](https://user-images.githubusercontent.com/65668613/159305026-622422aa-03b4-40c8-be67-5024b95e3ae1.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159305296-e8ca62d5-557b-4541-93a3-b8b0ed5d897b.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159305673-8e5a797e-27c1-4499-b1be-0c75f9fda0c2.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159306191-9f0619d5-f48d-4207-bb0c-c78681d805fb.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159308142-e4ebd92a-90b5-420b-bea3-f49a95e0330a.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159310393-526be2d2-0828-4ac6-be53-9769b3f8e363.png)
