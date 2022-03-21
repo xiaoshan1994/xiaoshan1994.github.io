@@ -48,3 +48,7 @@ The correct answer is: $4,450
 6. A satellite is produced and launched in country B. The owner of the satellite is in country A. What is the appropriate treatment in trade statistics of country A?
 The correct answer is: import with value limited to the satellite (excluding the launcher)
 {{< hl-text orange>}} All goods which add to or subtract from {{< hl-text blue>}}the stock of material resources of a country{{< /hl-text >}} by entering (imports) or leaving (exports) its {{< hl-text blue>}}economic territory{{< /hl-text >}} (para. 1.2). Change of ownership: Use as criteria for recording of certain goods {{< hl-text blue>}}only in exceptional cases when the general guideline is not applicable or not sufficient{{< /hl-text >}}{{< /hl-text >}}.
+
+7. What is the CIF value for this import transaction? A = place of dispatch; B = border of the exporting country; C = border of importing country; D =destination. Import with Terms of delivery EXW 'A' (invoiced amount excludes freight costs from the place of dispatch to the destination). Total invoiced amount: $3,200. Commission costs = $240. Freight costs from A to D: $2,000. Total distance = 2,000 km (distance A->B = 500 km, distance B->C = 1,000 km and distance C->D = 500 km).
+The correct answer is: 4,940
+{{< hl-text orange>}}The commission costs are counted within CIF.{{< /hl-text >}}
