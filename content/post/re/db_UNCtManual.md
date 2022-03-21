@@ -3,7 +3,7 @@ title: "A manual of Cometrade Plus "
 date: 2022-01-27T20:01:16+01:00
 description: ""
 categories:
-- Plastic
+- Research
 - Database
 tags:
 - abbreviation
