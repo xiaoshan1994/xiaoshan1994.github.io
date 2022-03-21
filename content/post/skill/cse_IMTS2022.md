@@ -26,6 +26,9 @@ Dates/Description
 12 April:	**2 webinars** (90") on Tuesday 12 April:
 * at 9 AM CEST and
 * at 3 PM CEST.
+
+The recommended reading material: [](https://unstats.un.org/unsd/trade/EG-IMTS/IMTS2010-CM%20-%20white%20cover%20version.pdf)
+
 # Module 1 - Conceptual Framework
 ## Participants Manual Module 1
 ### 3. SCOPE AND TIME OF RECORDING
