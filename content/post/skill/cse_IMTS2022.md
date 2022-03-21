@@ -65,12 +65,20 @@ The correct answer is: $5,850
 
 ![image](https://user-images.githubusercontent.com/65668613/159305026-622422aa-03b4-40c8-be67-5024b95e3ae1.png)
 
+38. Use of customs records: Use customs records as the main and normally
+preferred data source (para. 8.2). New recommendation
+
 ![image](https://user-images.githubusercontent.com/65668613/159305296-e8ca62d5-557b-4541-93a3-b8b0ed5d897b.png)
 
+
 ![image](https://user-images.githubusercontent.com/65668613/159305673-8e5a797e-27c1-4499-b1be-0c75f9fda0c2.png)
+
+Information available at customs is not limited to the customs declaration since supportive documentation, such as the commercial invoice, transport documents, import licenses and certificate of origin, usually accompanies the customs declaration. Compilers should make arrangements with customs authorities to have access to these documents, as required (e.g., to solve gaps and quality concerns) and as permitted by law and to use them as additional sources of information.
 
 ![image](https://user-images.githubusercontent.com/65668613/159306191-9f0619d5-f48d-4207-bb0c-c78681d805fb.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/159308142-e4ebd92a-90b5-420b-bea3-f49a95e0330a.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/159310393-526be2d2-0828-4ac6-be53-9769b3f8e363.png)
+
+![image](https://user-images.githubusercontent.com/65668613/159356291-16f61968-1235-4753-a84b-3b8d06bcf731.png)
