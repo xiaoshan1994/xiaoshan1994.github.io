@@ -2,7 +2,7 @@
 title: "UN Comtrade Database"
 date: 2022-01-18T09:32:42+01:00
 categories:
-- Plastic
+- Research
 - Database
 keywords:
 - tech
