@@ -1,5 +1,5 @@
 ---
-title: "A manual of Cometrade Plus "
+title: "A manual of Cometrade Plus database "
 date: 2022-01-27T20:01:16+01:00
 description: ""
 categories:
