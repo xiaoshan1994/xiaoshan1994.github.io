@@ -42,7 +42,6 @@ Dates/Description
 
 ## Optional Non-evaluated Module 1 Quiz
 1. What is the CIF value for this import transaction? A = place of dispatch; B = border of the importing Country; C = destination. Import with Terms of delivery DDU 'C' (invoiced amount includes freight costs from the place of dispatch to the destination). Invoiced amount for two items: Invoiced value of item 1 (100 kg) is $1,500. Invoiced value of item 2 (50 kg) is $2,240. Total: $3,740. Total Freight costs from the border of the importing country to the destination are assumed to be $300.
-
 {{< alert success >}}The correct answer is: Item 2: $2,140. CIF counting: A to C. The rule to split the freight is the weight principle as standard freight pricing is based on weight rather than value.{{< /alert >}}
 
 
