@@ -28,6 +28,17 @@ Dates/Description
 * at 3 PM CEST.
 # Module 1 - Conceptual Framework
 ## Participants Manual Module 1
+3. SCOPE AND TIME OF RECORDING
+1. As a general guideline, record {{< hl-text orange>}}all goods which add to or subtract from the stock of material resources of a country by entering (imports) or leaving (exports) its economic territory (para. 1.2). {{< /hl-text >}}
+2. Trade below customs and statistical thresholds: Estimate and include if economically significant (para. 1.3)
+3. Change of ownership: Use as criteria for recording of certain goods only in exceptional cases when the general guideline is not applicable or not sufficient (para. 1.4).
+4. Time of recording: As a general guideline, record goods at the time when they enter or leave the economic territory of a country (para. 1.8). In the case of customs-based data collection systems, this time can be frequently approximated by the date of lodgement of the customs declaration (para. 2.22).
+
+For IMTS 2010 purposes, {{< hl-text orange>}}any installation or equipment, mobile or not, located outside the geographical territory of a country, owned by the country resident(s) and remaining under the country’s jurisdiction, is treated as if it were a part of its economic territory. This applies, for example, to drilling rigs, ships, aircraft, space stations, etc.{{< /hl-text >}}
+
+![image](https://user-images.githubusercontent.com/65668613/159291439-acab8ec9-db1e-4b54-9318-8801ece49b69.png)
+
+
 ## Optional Non-evaluated Module 1 Quiz
 1. What is the CIF value for this import transaction? A = place of dispatch; B = border of the importing Country; C = destination. Import with Terms of delivery DDU 'C' (invoiced amount includes freight costs from the place of dispatch to the destination). Invoiced amount for two items: Invoiced value of item 1 (100 kg) is $1,500. Invoiced value of item 2 (50 kg) is $2,240. Total: $3,740. Total Freight costs from the border of the importing country to the destination are assumed to be $300.
 
