@@ -12,7 +12,7 @@ tags:
 - Jeroen
 Categories:
 - Research
-- Life Cycle Assessment (Re)
+- Life Cycle Assessment (Training)
 ---
 
 ## Session 3

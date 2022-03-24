@@ -12,7 +12,7 @@ tags:
 - Jeroen
 Categories:
 - Research
-- Life Cycle Assessment (Re)
+- Life Cycle Assessment (Training)
 ---
 
 https://link.springer.com/content/pdf/10.1007/s11367-021-01955-5.pdf

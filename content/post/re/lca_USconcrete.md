@@ -3,7 +3,7 @@ title: "The role of concrete in life cycle greenhouse gas emissions of US buildi
 date: 2021-11-16T17:03:34+01:00
 categories:
 - Research
-- Life cycle assessment
+- Life cycle assessment (Re)
 tags:
 - concrete
 - buildings

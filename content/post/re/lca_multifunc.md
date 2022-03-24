@@ -11,7 +11,7 @@ tags:
 - Jeroen
 Categories:
 - Research
-- Life Cycle Assessment (Re)
+- Life Cycle Assessment (Training)
 ---
 
 * Avoided burden[^bur]

@@ -3,7 +3,7 @@ title: "The CML Story: How Environmental Sciences Entered the Debate on LCA"
 date: 2021-12-27T11:59:33+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Training)
 tags:
 - history
 - cml
