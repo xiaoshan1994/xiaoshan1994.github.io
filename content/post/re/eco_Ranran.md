@@ -1,12 +1,12 @@
 ---
 title: "Energy system decarbonization and productivity gains reduced the coupling of CO2 emissions and economic growth in 73 countries between 1970 and 2016"
 date: 2021-11-01T21:28:41+01:00
-description: ""
 categories:
 - Research
 - Economics
 tags:
-- carbon mitigation
+- CML
+- Ranran
 keywords:
 - tech
 thumbnailImage: https://pbs.twimg.com/profile_images/1220401796725854208/-cuJ-hzz_400x400.jpg
