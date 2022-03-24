@@ -3,11 +3,10 @@ title: "A combined GIS-archetype approach to model residential space heating ene
 date: 2021-11-10T09:16:00+01:00
 categories:
 - Research
-- Material Flow Analysis
+- Material Flow Analysis (Re)
 tags:
 - Xining
 - GIS
-- building stock
 keywords:
 - tech
 coverImage: https://ars.els-cdn.com/content/image/1-s2.0-S0306261920314082-gr1_lrg.jpg
