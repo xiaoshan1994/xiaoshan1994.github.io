@@ -4,7 +4,7 @@ date: 2021-11-28T10:58:55+01:00
 description: "新华社北京3月12日电"
 categories:
 - Research
-- Life Cycle Assessment
+- Policy
 tags:
 - China
 keywords:

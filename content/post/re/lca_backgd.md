@@ -3,7 +3,7 @@ title: "When the Background Matters: Using Scenarios from Integrated Assessment 
 date: 2021-11-20T10:38:58+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 tags:
 - IMAGE
 keywords:
