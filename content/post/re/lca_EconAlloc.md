@@ -7,30 +7,23 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //1businessworld.com/wp-content/uploads/2020/06/17/Screen-Shot-2020-06-17-at-4.55.08-PM.png
 tags:
-- LCA
 - CML
 - Jeroen
 Categories:
 - Research
 - Life Cycle Assessment
 ---
-
-https://link.springer.com/content/pdf/10.1007/BF02978533.pdf
-
-# Economic Allocation: Examples and Derived Decision Tree
-
+[The International Journal of Life Cycle Assessment volume](https://link.springer.com/article/10.1007/BF02978533)
 Jeroen B. Guinde*, Reinout Heijungs and Gjah Huppes
-Institute of Environmental Sciences (CML), Leiden University, P.O. Box 9518, 2300 RA Leiden, The Netherlands
-Int J LCA 9 (1) 23 - 33 (2004)
-
-## Abstract
+2004
+<!--more-->
+# Abstract
 
 Goal, Scope and Background. In the recently published (Dutch) Handbook on LCA, **economic allocation** is advised as baseline method for most allocation situations in a detailed LCA. Although the Handbook on LCA aimed to provide a 'cookbook' with operational guidelines for conducting each step of an LCA, this was not completely achieved for the allocation step. The guidelines for allocation largely remained at the level of principles. This restricted elaboration of economic allocation may hamper application in practice. Therefore, this paper elaborates some examples applying economic allocation.
 
-Method. Two concepts are of particular importance when applying economic allocation: **functional flow** and **multi-functional process**. The definitions of these concepts are presented and discussed. The basic principle of economic allocation is that having determined the various functional flows of a multi-functional process, all other flows need to be allocated to these functional flows according to their shares in the total proceeds [^pro]. Proceeds are based on prices and these are not always easy to determine for a process. A summary of possible solutions for
-different problems when determining prices is given.
+Method. Two concepts are of particular importance when applying economic allocation: {{< hl-text blue>}}functional flow{{< /hl-text >}} and {{< hl-text blue>}}multi-functional process{{< /hl-text >}}. The definitions of these concepts are presented and discussed. The basic principle of economic allocation is that having determined the various functional flows of a multi-functional process, all other flows need to be allocated to these functional flows according to their shares in the total proceeds [^pro]. Proceeds are based on prices and these are not always easy to determine for a process. A summary of possible solutions for different problems when determining prices is given.
 
-Results and Discussion. The examples presented focus on **coproduction** and various **recycling situations**. All examples are hypothetical in order to avoid discussions on the data. The examples show that the prices of the functional flows determine the allocation results. It is of importance to have correct information on the relative prices of the functional flows at stake, especially whether they are negative or positive. Learning from these examples, we establish a decision tree for economic allocation. The decision tree is meant for identifying and handling multi-functionality situations starting from a defined (product) system. This decision tree is with minor adaptations also applicable to other allocation methods and has a more general value than for the economic allocation method only.
+Results and Discussion. The examples presented focus on {{< hl-text blue>}}coproduction{{< /hl-text >}} and various {{< hl-text blue>}}recycling situations{{< /hl-text >}}. All examples are hypothetical in order to avoid discussions on the data. The examples show that the prices of the functional flows determine the allocation results. It is of importance to have correct information on the relative prices of the functional flows at stake, especially whether they are negative or positive. Learning from these examples, we establish {{< hl-text blue>}}a decision tree{{< /hl-text >}} for economic allocation. The decision tree is meant for identifying and handling multi-functionality situations starting from a defined (product) system. This decision tree is with minor adaptations also applicable to other allocation methods and has a more general value than for the economic allocation method only.
 
 Conclusions and perspective. The examples have helped us to establish a decision tree for handling the multi-functionality problem by economic allocation. The examples can be broadened to other materials and allocation situations. We would encourage others to provide other examples and experiences as we expect that these will help to further improve and refine the guidelines and decision tree for economic allocation in future.
 
