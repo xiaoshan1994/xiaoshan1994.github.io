@@ -7,9 +7,8 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //images-na.ssl-images-amazon.com/images/I/61lVDLu0YYL.jpg
 tags:
-- Energy
 - Paul Behrens
-- Renewable energy
+- CML
 Categories:
 - Research
 - Economics
