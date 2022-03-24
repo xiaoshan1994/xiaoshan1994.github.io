@@ -7,7 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //1businessworld.com/wp-content/uploads/2020/06/17/Screen-Shot-2020-06-17-at-4.55.08-PM.png
 tags:
-- LCA
 - CML
 - commentary
 - Jeroen
