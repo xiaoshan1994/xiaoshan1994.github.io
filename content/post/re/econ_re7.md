@@ -7,8 +7,6 @@ categories:
 - Economics
 tags:
 - regression
-- R-squared
-- Goodness-of-Fit
 keywords:
 - tech
 thumbnailImage: https://datascience696.files.wordpress.com/2016/08/regressioncurv.png

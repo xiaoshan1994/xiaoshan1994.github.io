@@ -6,6 +6,7 @@ categories:
 - Research
 - Economics
 tags:
+- regression
 keywords:
 - tech
 thumbnailImage: https://datapott.com/wp-content/uploads/2015/12/Adjusted-R-Squared-Formula.jpg

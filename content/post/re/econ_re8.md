@@ -7,7 +7,6 @@ categories:
 - Economics
 tags:
 - regression
-- R-squared
 keywords:
 - tech
 coverImage:

@@ -6,7 +6,6 @@ categories:
 - Economics
 tags:
 - regression
-- R-squared
 keywords:
 - tech
 thumbnailImage: https://blog.minitab.com/hubfs/Imported_Blog_Media/rsq_shrinkage_w640.png

@@ -6,6 +6,7 @@ categories:
 - Research
 - Economics
 tags:
+- regression
 keywords:
 - tech
 coverImage: https://s6.favim.com/orig/150824/dice-luck-numbers-probability-Favim.com-3173606.jpg

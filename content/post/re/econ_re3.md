@@ -6,6 +6,7 @@ categories:
 - Research
 - Economics
 tags:
+- regression
 keywords:
 - tech
 metaAlignment: center

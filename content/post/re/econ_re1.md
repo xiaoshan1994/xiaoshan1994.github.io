@@ -3,8 +3,9 @@ title: "When Should I Use Confidence Intervals, Prediction Intervals, and Tolera
 date: 2021-10-26T22:54:00+02:00
 categories:
 - Research
-- Economics 
+- Economics
 tags:
+- regression
 keywords:
 - tech
 metaAlignment: center
