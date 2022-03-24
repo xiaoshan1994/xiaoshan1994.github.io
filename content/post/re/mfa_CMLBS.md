@@ -3,10 +3,9 @@ title: "Modelling global material stocks and flows for residential and service s
 date: 2021-11-02T10:04:18+01:00
 categories:
 - Research
-- Material Flow Analysis
+- Material Flow Analysis (Re)
 tags:
-- material stocks and flows
-- buildings
+- CML
 keywords:
 - tech
 thumbnailImage: https://kumarken.com/wp/wp-content/uploads/2021/02/COVER-JournalCleanerProd_AcceptedMSS_JCLP2.bmp
