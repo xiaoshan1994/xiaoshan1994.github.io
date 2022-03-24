@@ -7,11 +7,9 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //ars.els-cdn.com/content/image/1-s2.0-S0960852417303516-gr2.jpg
 tags:
-- GIS
-- LCA
 Categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 ---
 https://www.sciencedirect.com/science/article/pii/S0960852417303516#f0010
 
