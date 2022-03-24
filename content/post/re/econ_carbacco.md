@@ -7,10 +7,9 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //meetgreen.com/wordpress/wp-content/uploads/2020/10/Curiosity-Carbon-Accounting-And-Our-Climate.jpg
 tags:
-- carbon neutral
-- carbon accounting
 Categories:
 - Research
+- Economics
 ---
 On March 29, 2021, the promulgation of the "Guidelines for the Verification of Corporate Greenhouse Gas Emissions Reporting (Trial)" means the further improvement of the methodology of China's monitorable-reportable-verifiable (MRV) system.
 
