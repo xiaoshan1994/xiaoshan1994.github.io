@@ -11,7 +11,7 @@ tags:
 - Jeroen
 Categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 ---
 [The International Journal of Life Cycle Assessment volume](https://link.springer.com/article/10.1007/BF02978533)
 Jeroen B. Guinde*, Reinout Heijungs and Gjah Huppes
