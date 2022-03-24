@@ -1,5 +1,5 @@
 ---
-title: "Guide to OECD’sTrade in Value Added (TiVA)Indicators, 2018 edition"
+title: "Guide to OECD’sTrade in Value Added (TiVA) Indicators, 2018 edition"
 date: 2021-09-17T10:05:28+02:00
 description:
 images:
