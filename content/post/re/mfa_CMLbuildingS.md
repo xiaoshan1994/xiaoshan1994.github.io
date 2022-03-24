@@ -3,12 +3,9 @@ title: "Global construction materials database and stock analysis of residential
 date: 2021-11-03T09:47:42+01:00
 categories:
 - Research
-- Material Flow Analysis
+- Material Flow Analysis (Re)
 tags:
-- material stocks and flows
-- buildings
-- material intensity
-- floor space
+- CML
 keywords:
 - tech
 thumbnailImage: https://kumarken.com/wp/wp-content/uploads/2021/02/COVER-JournalCleanerProd_AcceptedMSS_JCLP2.bmp
