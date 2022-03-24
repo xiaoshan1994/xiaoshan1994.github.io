@@ -5,6 +5,7 @@ categories:
 - Research
 - Life Cycle Assessment (Re)
 tags:
+- CML
 - Sangwon Suh
 keywords:
 - tech

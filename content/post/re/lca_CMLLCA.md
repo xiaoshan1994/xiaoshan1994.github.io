@@ -5,8 +5,7 @@ categories:
 - Research
 - Life Cycle Assessment (Training)
 tags:
-- history
-- cml
+- CML
 keywords:
 - tech
 coverImage: https://images.prismic.io/climeworkscom/59b5a416-63d6-4436-a9f8-50762502a5b7_Life_cycle_assessment.jpg?auto=compress,format&rect=0,25,2844,1600&w=1920&h=1080
