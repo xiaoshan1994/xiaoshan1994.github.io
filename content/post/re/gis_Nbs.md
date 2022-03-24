@@ -7,9 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.pbl.nl/sites/default/files/styles/image_6_col/public/photographs/img-20200722-wa0024-glo2foto.jpg?itok=cYXgDJPM
 tags:
-- NbS
-- PBL
-- land use
 Categories:
 - Research
 - GIS

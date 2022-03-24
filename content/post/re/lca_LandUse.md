@@ -7,12 +7,9 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //1businessworld.com/wp-content/uploads/2020/06/17/Screen-Shot-2020-06-17-at-4.55.08-PM.png
 tags:
-- land use
-- LCA
-- research proposal
 Categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 ---
 
 ## Principles for life cycle inventories of land use on a global scale
