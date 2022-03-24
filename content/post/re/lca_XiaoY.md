@@ -5,7 +5,7 @@ categories:
 - Research
 - Life Cycle Assessment (Re)
 tags:
-- Xiaoyang Zhong
+- Xiaoyang 
 keywords:
 - tech
 thumbnailImage: https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/social-and-behavioural-sciences/psychologie/sociale-en-organisatiepsychologie/nature-communications.jpg

@@ -5,8 +5,8 @@ categories:
 - Research
 - Material Flow Analysis (Re)
 tags:
+- CML
 - Xining
-- GIS
 keywords:
 - tech
 coverImage: https://ars.els-cdn.com/content/image/1-s2.0-S0306261920314082-gr1_lrg.jpg

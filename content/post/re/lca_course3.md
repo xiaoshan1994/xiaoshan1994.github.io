@@ -7,7 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //user-images.githubusercontent.com/65668613/129578026-ec0940d3-30b7-4b94-82b2-366cf33db933.png
 tags:
-- LCA
 - CML
 - Jeroen
 Categories:

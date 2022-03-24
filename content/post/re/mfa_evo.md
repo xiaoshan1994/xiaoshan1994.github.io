@@ -5,8 +5,6 @@ categories:
 - Research
 - Material Flow Analysis (Re)
 tags:
-- review
-- ES&T
 keywords:
 - tech
 coverImage: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2019/esthag.2019.53.issue-21/acs.est.9b03413/20191028/images/large/es9b03413_0007.jpeg

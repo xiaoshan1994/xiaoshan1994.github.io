@@ -5,9 +5,6 @@ categories:
 - Research
 - Material flow Analysis (Re)
 tags:
-- Leiden
-- waste
-- Supervision
 keywords:
 - tech
 thumbnailImage: https://www.scholarshipsads.com/files/2018/08/Leiden-University-Scholarships.png

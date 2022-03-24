@@ -5,8 +5,6 @@ categories:
 - Research
 - Life cycle assessment (Re)
 tags:
-- concrete
-- buildings
 keywords:
 - tech
 metaAlignment: left

@@ -5,7 +5,6 @@ categories:
 - Research
 - Life Cycle Assessment (Re)
 tags:
-- history
 keywords:
 - tech
 coverImage: https://media.springernature.com/full/springer-static/image/art%3A10.1007%2Fs11367-021-01893-2/MediaObjects/11367_2021_1893_Fig4_HTML.png?as=webp
