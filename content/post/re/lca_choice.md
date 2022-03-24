@@ -3,10 +3,9 @@ title: "Stochastic Technology Choice Model for Consequential Life Cycle Assessme
 date: 2021-12-23T11:36:41+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 tags:
-- model
-- method
+- Sangwon Suh
 keywords:
 - tech
 coverImage: https://pubs.acs.org/na101/home/literatum/publisher/achs/journals/content/esthag/2016/esthag.2016.50.issue-23/acs.est.6b04270/20161201/images/large/es-2016-042708_0006.jpeg

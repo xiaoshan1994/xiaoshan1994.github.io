@@ -3,7 +3,7 @@ title: "Life cycle assessment needs predictive spatial modelling for biodiversit
 date: 2021-12-01T12:02:01+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 keywords:
 - tech
 coverMeta: out
