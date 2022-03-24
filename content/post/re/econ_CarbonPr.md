@@ -7,9 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //convergentbsi.org/wp-content/uploads/2018/11/nature_sustainability_logo_2_0-2.png
 tags:
-- nature
-- carbon pricing
-- Hauke
 Categories:
 - Research
 - Economics
