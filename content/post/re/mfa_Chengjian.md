@@ -3,10 +3,10 @@ title: "Future material demand for automotive lithium-based batteries"
 date: 2021-11-08T15:49:08+01:00
 categories:
 - Research
-- Material Flow Analysis
+- Material Flow Analysis (Re)
 tags:
 - battery
-- electric vehicles
+- Chengjian
 keywords:
 - tech
 coverImage: https://car-images.bauersecure.com/pagefiles/94766/bmw_i3_battery_electric.jpg
