@@ -3,10 +3,8 @@ title: "Building stock energy modeling considering building system composition a
 date: 2021-11-03T20:48:15+01:00
 categories:
 - Research
-- Material Flow Analysis
+- Material Flow Analysis (Re)
 tags:
-- buildings
-- material stocks and flows
 keywords:
 - tech
 thumbnailImage: https://www.iot-lab.ch/wp-content/uploads/2020/05/applied_energy_2020_short.jpg
