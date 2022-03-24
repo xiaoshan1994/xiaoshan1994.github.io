@@ -3,7 +3,7 @@ title: "André Stephan"
 date: 2021-11-10T22:07:27+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 tags:
 - André Stephan
 metaAlignment: left
