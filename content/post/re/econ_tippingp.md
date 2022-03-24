@@ -7,7 +7,6 @@ categories:
 - Economics
 tags:
 - OECD
-- workshop
 keywords:
 - tech
 thumbnailImage: https://www.oecd.org/media/oecdorg/directorates/environmentdirectorate/2021-2/LOGO%20OECD%20ICER-500x130.png
