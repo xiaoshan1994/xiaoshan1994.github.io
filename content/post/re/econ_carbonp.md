@@ -7,9 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //foreignpolicy.com/wp-content/uploads/2018/12/gettyimages-1051414312.jpg?quality=90
 tags:
-- carbon pricing
-- William Nordhaus
-- The Climate Casino
 Categories:
 - Research
 - Economics
