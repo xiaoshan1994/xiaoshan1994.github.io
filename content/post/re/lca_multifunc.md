@@ -7,7 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.setac.org/resource/resmgr/science-corner/lca-setac-book-graphic.jpg
 tags:
-- LCA
 - CML
 - Jeroen
 Categories:
