@@ -3,7 +3,7 @@ title: "The evolution of life cycle assessment in European policies over three d
 date: 2021-12-28T09:38:17+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 tags:
 - history
 keywords:
