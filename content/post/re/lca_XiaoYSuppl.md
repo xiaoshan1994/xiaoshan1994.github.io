@@ -3,9 +3,9 @@ title: "Global greenhouse gas emissions from residential and commercial building
 date: 2021-11-03T20:58:00+01:00
 categories:
 - Research
-- Life Cycle Assessment
+- Life Cycle Assessment (Re)
 tags:
-- Xiaoyang Zhong
+- Xiaoyang
 keywords:
 - tech
 thumbnailImage: https://www.universiteitleiden.nl/binaries/content/gallery/ul2/main-images/social-and-behavioural-sciences/psychologie/sociale-en-organisatiepsychologie/nature-communications.jpg
