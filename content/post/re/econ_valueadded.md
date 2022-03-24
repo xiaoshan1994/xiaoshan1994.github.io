@@ -7,9 +7,7 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //cybertechaccord.org/uploads/prod/2020/01/OECD_logo_new.svg_.png
 tags:
-- OCED
-- value added
-- IOA
+- OECD
 Categories:
 - Research
 - Environmentally Extended Input–Output Analysis
