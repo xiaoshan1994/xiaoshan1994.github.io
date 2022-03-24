@@ -7,8 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.solarfeeds.com/mag/wp-content/uploads/2019/05/alternative-alternative-energy-blue-411592-640x360.jpg
 tags:
-- solar power
-- energy
 Categories:
 - Research
 - Economics
