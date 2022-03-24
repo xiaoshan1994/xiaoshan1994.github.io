@@ -8,7 +8,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //i.ytimg.com/vi/QQYgCxu988s/maxresdefault.jpg
 tags:
-- EEIOA
 - Daniel
 Categories:
 - Research

@@ -7,8 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //ars.els-cdn.com/content/image/1-s2.0-S0959378020307536-gr3.jpg
 tags:
-- land use
-- GIS
 Categories:
 - Research
 - GIS

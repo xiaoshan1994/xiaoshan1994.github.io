@@ -7,8 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //exiobase.eu/images/mr_iot_v5_900px.png
 tags:
-- EEIOA
-- Exiobase
 Categories:
 - Research
 - Environmentally Extended Input–Output Analysis

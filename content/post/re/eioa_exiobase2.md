@@ -7,8 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //exiobase.eu/images/sliderafbeeldingen/slider_global_consumption.PNG
 tags:
-- EIOA
-- Exiobase
 Categories:
 - Research
 - Environmentally Extended Input–Output Analysis
