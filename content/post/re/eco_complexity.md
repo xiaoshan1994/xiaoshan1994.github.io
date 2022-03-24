@@ -7,10 +7,7 @@ coverSize: partial
 thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/d/de/Complex_systems_organizational_map.jpg
 thumbnailImagePosition: left
 metaAlignment: center
-tags:
-- energy economics
-- complexity economics
-- complexity science
+tags
 Categories:
 - Research
 - Economics
