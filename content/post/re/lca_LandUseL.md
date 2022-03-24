@@ -7,8 +7,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //ars.els-cdn.com/content/image/X13640321.jpg
 tags:
-- land use
-- LCA
 Categories:
 - Research
 ---
