@@ -6,11 +6,11 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.healio.com/~/media/slack-news/stock-images/endocrinology/r/research-files-adobe.jpeg
 tags:
-- research proposal
-- EIOA
 - Paul Behrens
+- CML
 Categories:
-- research
+- Research
+- Report
 ---
 
 *“Someone’s sitting in the shade today because someone planted a tree a long time ago” ---Warren Buffett.*

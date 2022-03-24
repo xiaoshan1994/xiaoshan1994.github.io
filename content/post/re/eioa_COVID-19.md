@@ -6,9 +6,6 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.oxfordmartin.ox.ac.uk/images/Logos/_1200x630_crop_center-center_82_none/nature-climatechange.jpg?mtime=1558191728
 tags:
-- EEIOA
-- IGA
-- economics
 Categories:
 - Research
 - Environmentally Extended Input–Output Analysis

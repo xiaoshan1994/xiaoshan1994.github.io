@@ -7,9 +7,8 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //i.ytimg.com/vi/Bye-XjYGOzM/maxresdefault.jpg
 tags:
-- EEIOA
-- agriculture
 - Zhongxiao
+- CML
 Categories:
 - Research
 - Environmentally Extended Input–Output Analysis
