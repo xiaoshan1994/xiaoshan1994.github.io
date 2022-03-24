@@ -5,10 +5,8 @@ categories:
 - Research
 - Environmentally Extended Input–Output Analysis
 tags:
-- cml
-- food
+- CML
 - Paul Behrens
-- Arnold Tukker
 keywords:
 - tech
 thumbnailImage: https://pbs.twimg.com/profile_images/1186998575731003394/oqYAZvdk_400x400.jpg
