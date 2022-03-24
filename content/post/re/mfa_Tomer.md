@@ -7,13 +7,11 @@ images:
 thumbnailImagePosition: left
 thumbnailImage: //www.aje.com/dist/img/arc/preprint_post_thumbnail.png
 tags:
-- MFA
-- building
-- vehicle
-- material efficiency
+- Tomer
+- CML
 Categories:
-- research
-- Material Flow Analysis
+- Research
+- Material Flow Analysis (Re)
 ---
 
 ## Abstract
