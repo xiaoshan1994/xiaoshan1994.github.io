@@ -8,10 +8,10 @@ tags:
 - Leiden
 keywords:
 - tech
-thumbnailImage: https://euskampus.eus/en/info/news/conference-on-multilingualism-leiden-netherlands/@@images/image
+thumbnailImage: 
 thumbnailImagePosition: left
 metaAlignment: left
-Math: True
+Math: False
 ---
 <!--more-->
 {{< toc >}}
@@ -36,7 +36,7 @@ Plagiarism Spectrum:
 
 1. Clone: submitting another’s work, word-for-word, as one’s own.
 2. Ctrl-c: contains significant portions of text from a single source without alterations.
-3. Find – Replace changing key words and phrase but retaining the essential content of the source.
+3. Find: Replace changing key words and phrase but retaining the essential content of the source.
 4. Remix: Paraphrases from multiple sources, made to fit together.
 5. Recycle: borrows generously from the writer’s previous work without citation.
 6. Hybrid: Combines perfectly cited sources with copied passages without citation.
