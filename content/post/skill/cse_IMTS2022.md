@@ -6,7 +6,7 @@ categories:
 - Course
 tags:
 - United Nations
-thumbnailImage: https://learn.unctad.org/pluginfile.php/56091/course/section/1852/IMTS.logo.cours.2022.v1.light.png
+thumbnailImage: https://www.fao.org/fileadmin/user_upload/faoweb/statistics/images/small_IMTS-banner-2022.png
 thumbnailImagePosition: left
 metaAlignment: left
 Math: False
