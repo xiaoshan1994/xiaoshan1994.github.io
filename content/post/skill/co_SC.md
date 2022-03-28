@@ -8,7 +8,7 @@ tags:
 - Leiden
 keywords:
 - tech
-thumbnailImage: 
+thumbnailImage: https://euskampus.eus/en/info/news/conference-on-multilingualism-leiden-netherlands/@@images/image
 thumbnailImagePosition: left
 metaAlignment: left
 Math: False
