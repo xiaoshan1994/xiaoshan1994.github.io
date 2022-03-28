@@ -11,7 +11,7 @@ thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-[The International Journal of Life Cycle Assessment](https://link.springer.com/article/10.1007/s11367-008-0007-y)
+[The International Journal of Life Cycle Assessment](https://media.springernature.com/lw150/springer-static/cover/journal/11367/27/2.jpg?as=jpg)
 Marlies A. Thomassen et al.
 Animal Production Systems Group, Wageningen University and Research Centre, P.O. Box 338, 6700 AH, Wageningen, The Netherlands
 Published: 01 May 2008
