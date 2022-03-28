@@ -7,7 +7,7 @@ categories:
 keywords:
 - tech
 thumbnailImage: https://images.lavoisier.net/couvertures/1317609769.jpg
-thumbnailImagePosition: left/bottom
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
