@@ -31,7 +31,9 @@ Derivatives:
 
 Plagiarism means the use of another person’s ideas, work methods, results or texts without appropriate acknowledgement.
 
+
 Plagiarism Spectrum:
+
 1. Clone: submitting another’s work, word-for-word, as one’s own.
 2. Ctrl-c: contains significant portions of text from a single source without alterations.
 3. Find – Replace changing key words and phrase but retaining the essential content of the source.
