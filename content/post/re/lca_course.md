@@ -8,8 +8,8 @@ tags:
 - CML
 keywords:
 - tech
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+thumbnailImage: https://icct.nl/app/uploads/2021/03/Universiteit-leiden-1.png
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
