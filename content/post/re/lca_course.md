@@ -1,5 +1,5 @@
 ---
-title: "(course)LCA Practice & Reporting 21-22"
+title: "(course) LCA Practice & Reporting 21-22"
 date: 2022-03-29T09:05:04+02:00
 categories:
 - Research
@@ -124,6 +124,28 @@ Don’t forget to add how you solved the multifunctionality of these processes a
 11. References: Use the format of the Journal of Industrial Ecology (Harvard style) to organize your references (https://jie.yale.edu/jie-style-guide-accepted-manuscripts) and/or use a reference manager using the correct (JIE) export setting or Word import settings. Include relevant and sufficient references.
 12. Appendices / Supporting information
 ## 2. LCA-PR_History_of_LCA
+[Life Cycle Assessment: Past, Present, and Future](https://pubs.acs.org/doi/10.1021/es101316v)
+Jeroen B. Guinée
+Environ. Sci. Technol. September 2, 2010
+* The study of environmental impacts of consumer products has a history that dates back to the 1960s and 1970s. Especially in a comparative context (“Is product A better than product B?”).
+### The Past of LCA (1970−2000)
+1970−1990: Decades of Conception
+
+* One of the first (unfortunately unpublished) studies quantifying the resource requirements, emission loadings, and waste flows of different beverage containers was conducted by Midwest Research Institute (MRI) for the Coca Cola Company in 1969.
+* During the 1970s and the 1980s LCAs were performed using different methods and without a common theoretical framework. LCA was repeatedly applied by firms to substantiate market claims.
+
+1990−2000: Decade of Standardization
+* The period of 1990−2000 can therefore be characterized as a period of convergence through SETAC’s coordination (“Code of Practice”) and ISO’s standardization activities (1994)
+* A key result of ISO’s standardization work has been the definition of a general methodological framework.
+
+![image](https://user-images.githubusercontent.com/65668613/160800982-ca2b675a-87f9-4435-9060-33acdd3af9cf.png
+
+### The Present of LCA: Decade of Elaboration
+Diverging approaches have been developed with respect to system boundaries and allocation methods, dynamic LCA, spatially differentiated LCA, risk-based LCA, and environmental input-output based LCA (EIO-LCA) and hybrid LCA (69-71) that may have a tense relation with some of the basic principles of the ISO standards.
+
+### LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
+### Discussion
+## 3. LCA-PR_Glossary-Flowchart-Unitprocess
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
