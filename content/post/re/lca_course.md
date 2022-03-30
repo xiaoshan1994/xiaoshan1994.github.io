@@ -150,39 +150,165 @@ Diverging approaches have been developed with respect to system boundaries and a
 From LCA Handbook (Guinée et al. 2002).
 Terms:
 **abiotic resource** /ˌeɪbaɪ'ɒtɪk/:
-a natural resource (including energy resources) regarded as non-living, e.g. zinc ore, crude oil, wind energy
+a natural resource (including energy resources) regarded as non-living, e.g. zinc ore, crude oil, wind energy.
 **allocation**
-→ multifunctionality and allocation
+→ multifunctionality and allocation.
 **alternative**
-one of a set of product systems studied in a particular LCA, e.g. for comparison (note: some LCA steps are carried out for all alternatives together (e.g. selection of impact categories), while others are repeated for each alternative (e.g. characterisation)
+one of a set of product systems studied in a particular LCA, e.g. for comparison (note: some LCA steps are carried out for all alternatives together (e.g. selection of impact categories), while others are repeated for each alternative (e.g. characterisation).
 **area of protection**
-a cluster of category endpoints of recognisable value to society, viz. human health, natural resources, natural environment and man-made environment
+a cluster of category endpoints of recognisable value to society, viz. human health, natural resources, natural environment and man-made environment.
 **average modeling**
-→ proportional modeling
+→ proportional modeling.
 **background system/process**
-a system or process for which secondary data, viz. databases, public references,
-estimated data based on input-output analysis, are used in an LCA
-baseline method (model, impact category, LCA, etc.)
+a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references,
+estimated data based on input-output analysis, are used in an LCA.  
+**baseline method (model, impact category, LCA, etc.)**
 a method (etc.) recommended in this Guide for operationalising an LCA or methodological
-step
-biotic resource
-a natural resource (including energy resources) regarded as living, e.g. rainforests,
-elephants
-casualty
+step.
+**biotic resource**
+a natural resource (including energy resources) regarded as living, e.g. rainforests, elephants.
+**casualty**
 human injury or death due to direct, physical cause, e.g. explosion or traffic collision (but
-not indirect casualties, e.g. due to toxics)
-category endpoint *
+not indirect casualties, e.g. due to toxics).
+**category endpoint ***
 an attribute or aspect of the natural environment, human health, natural resources or the
 man-made environment identifying an issue of concern, e.g. loss of coral reefs or crops,
 damage to buildings
-category indicator *
-a quantifiable representation of an impact category, e.g. infrared radiative forcing for
-climate change
-category indicator result *
+**category indicator ***
+a quantifiable representation of an impact category, e.g. infrared radiative forcing for climate change
+**category indicator result ***
 → indicator result
-cause-effect network
+**cause-effect network**
 → environmental mechanism
-
+**change-oriented LCA (consequential LCA (CLCA))**
+a type of LCA focusing on the environmental changes resulting from a switch to or from a
+particular product system or an extra functional unit of a particular product system.
+**characterisation ***
+a step of Impact assessment, in which the environmental interventions assigned qualitatively to a particular impact category (in classification) are quantified in terms of a common unit for that category, allowing aggregation into a single score: {{< hl-text blue>}}the indicator result{{< /hl-text >}}; these scores together constitute the environmental profile.
+**characterisation factor ***
+a factor derived from a characterisation model for expressing a particular environmental intervention in terms of the common unit of the category indicator, e.g. POCPmethanol (photochemical ozone creation potential of methanol)
+**characterisation method**
+a method for quantifying the impact of environmental interventions with respect to a particular impact category; it comprises a category indicator, a characterisation model and characterisation factors derived from the model.
+**characterisation model**
+a mathematical model of the impact of environmental interventions with respect to a particular category indicator.
+**characterisation result**
+→ environmental profile
+**classification ***
+a step of Impact assessment, in which environmental interventions are assigned to predefined impact categories on a purely qualitative basis.
+**closed loop recycling ***
+recycling of material within one and the same product system.
+**combined waste processing**
+a method of waste processing in which more than one form of waste is processed simultaneously.
+**comparative assertion ***
+an environmental claim regarding the superiority or equivalence of one product relative to
+a competing product performing the same function; particular requirements are set by ISO
+on comparative assertions disclosed to the public.
+**completeness check ***
+a step of the Interpretation phase to verify whether the information yielded by the preceding
+phases is adequate for drawing conclusions in accordance with the Goal and scope definition
+**consistency check ***
+a step of the Interpretation phase to verify whether assumptions, methods and data have
+been applied consistently throughout the study and in accordance with the Goal and scope
+definition.
+**contribution analysis ***
+a step of the Interpretation phase to assess the contributions of individual life cycle stages,
+(groups of) processes, environmental interventions and indicator results to the overall LCA
+result (e.g. as a percentage).
+**co-product ***
+any of two or more functional flows from a co-production process.
+**co-production process**
+a unit process having more than one functional flow, e.g. crude oil refining.
+**critical review ***
+an expert (internal or external) review of an LCA, designed to ensure validity, consistency, transparency and credibility of results.
+**damage approach**
+definition of category indicators close to areas of protection.
+**data category ***
+a heading for classifying data in an LCA, e.g. energy inputs, raw material inputs, ancillary inputs, other physical inputs, products, emissions to air, emissions to water, emissions to land, other environmental aspects.
+**data quality ***
+a data characteristic relevant for the capacity of the data to satisfy stated requirements.
+**data quality requirements ***
+specification, in general terms, of the quality criteria to be satisfied by the data used in an
+LCA.
+**depletion**
+a decrease in the stock of a biotic or abiotic resource due to extraction thereof.
+**descriptive LCA (attributional LCA (ALCA))**
+a type of LCA focusing on the contribution of a particular way of fulfilling a certain function to the entire spectrum of environmental problems as they currently exist or are being created.
+**detailed LCA**
+the baseline LCA elaborated in this Guide, complying with the ISO 1404X standards and representative of studies typically requiring between 20 and 200 person-days of work.
+**difference analysis**
+a type of LCA focusing on the differences between two alternative product systems, thus ignoring those unit processes that are qualitatively and quantitatively identical.
+**economic flow**
+a flow of goods, materials, services, energy or waste from one unit process to another; with either a positive (e.g. steel, transportation) or zero/negative (e.g. waste) economic value.
+**economic process**
+→ unit process
+**economy-environment boundary**
+see also: system boundary
+**elementary flow ***
+matter or energy entering or leaving the product system under study that has been extracted from the environment without previous human transformation (e.g. timber, water, iron ore, coal) or is emitted or discarded into the environment without subsequent human transformation (e.g. CO2 or noise emissions, wastes discarded in nature)
+see also: environmental intervention
+**emission**
+a chemical or physical discharge (of a substance, heat, noise, etc.) into the environment, considered as an environmental intervention
+endpoint
+→ category endpoint
+endpoint approach
+→ damage approach
+environment system
+the natural environment and its constituent processes
+environmental effect
+→ environmental impact
+environmental impact
+a consequence of an environmental intervention in the environment system
+environmental intervention
+a human intervention in the environment, either physical, chemical or biological; in
+particular resource extraction, emissions (incl. noise and heat) and land use; the term is
+thus broader than (‘elementary flow’
+environmental life cycle assessment *
+→ life cycle assessment
+environmental mechanism *
+for a given impact category, the chain of environmental processes linking
+interventions to impacts; modeled in LCA (usually only partially) to one or more category
+endpoints by means of a characterisation model
+environmental process
+a physical, chemical or biological process in the environment system that is identified as
+part of the causal chain linking a particular environmental intervention to a particular
+impact, e.g. pollution leaching or bioaccumulation; for a given impact category, the
+environmental processes together form the environmental mechanism
+environmental profile
+the overall result of the characterisation step: a table showing the indicator results for all
+the predefined impact categories, supplemented by any other relevant information
+environmental relevance *
+the degree of linkage between a category indicator and category endpoint
+expert review *
+→ critical review
+extraction
+withdrawal of a biotic or abiotic resource from the environment in a unit process,
+considered as an environmental intervention
+final product
+a product requiring no additional transformation prior to use
+flow diagram
+a graphic representation of the interlinked unit processes comprising the product system
+foreground system/process
+a system or process for which primary, site-specific data are used in an LCA, for whatever
+reason
+format
+a structured framework for representing and possibly processing unit process data as well
+as any relevant remarks
+function
+a service provided by a product system or unit process
+functional flow
+any of the flows of a unit process that constitute its goal, viz. the product outflows of a
+production process and the waste inflows of a waste treatment process
+functional unit *
+the quantified function provided by the product system(s) under study, for use as a
+reference basis in an LCA, e.g. 1000 hours of light (adapted from ISO)
+goal and scope definition *
+the first phase of an LCA, establishing the aim of the intended study, the functional unit,
+the reference flow, the product system(s) under study and the breadth and depth of the
+study in relation to this aim
+grouping *
+a step of Impact assessment in which impact categories are aggregated in one or more
+sets defined in the Goal and scope definition phase; it may take the form of sorting and/or
+ranking
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
