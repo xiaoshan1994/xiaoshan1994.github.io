@@ -146,6 +146,42 @@ Diverging approaches have been developed with respect to system boundaries and a
 ### LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
 ### Discussion
 ## 3. LCA-PR_Glossary-Flowchart-Unitprocess
+### Glossary
+From LCA Handbook (Guinée et al. 2002).
+Terms:
+**abiotic resource** /ˌeɪbaɪ'ɒtɪk/:
+a natural resource (including energy resources) regarded as non-living, e.g. zinc ore, crude oil, wind energy
+**allocation**
+→ multifunctionality and allocation
+**alternative**
+one of a set of product systems studied in a particular LCA, e.g. for comparison (note: some LCA steps are carried out for all alternatives together (e.g. selection of impact categories), while others are repeated for each alternative (e.g. characterisation)
+**area of protection**
+a cluster of category endpoints of recognisable value to society, viz. human health, natural resources, natural environment and man-made environment
+**average modeling**
+→ proportional modeling
+**background system/process**
+a system or process for which secondary data, viz. databases, public references,
+estimated data based on input-output analysis, are used in an LCA
+baseline method (model, impact category, LCA, etc.)
+a method (etc.) recommended in this Guide for operationalising an LCA or methodological
+step
+biotic resource
+a natural resource (including energy resources) regarded as living, e.g. rainforests,
+elephants
+casualty
+human injury or death due to direct, physical cause, e.g. explosion or traffic collision (but
+not indirect casualties, e.g. due to toxics)
+category endpoint *
+an attribute or aspect of the natural environment, human health, natural resources or the
+man-made environment identifying an issue of concern, e.g. loss of coral reefs or crops,
+damage to buildings
+category indicator *
+a quantifiable representation of an impact category, e.g. infrared radiative forcing for
+climate change
+category indicator result *
+→ indicator result
+cause-effect network
+→ environmental mechanism
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
