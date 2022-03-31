@@ -328,34 +328,28 @@ An environmental study in which LCA methodology is employed, performed by
 practitioners who may or may not be affiliated to the party or parties commissioning the study.
 **life cycle /***
 The consecutive, interlinked stages of a product system, {{< hl-text orange>}}from raw materials acquisition or natural resource extraction through to final waste disposal{{< /hl-text >}}.
-life cycle assessment (LCA)
-compilation and evaluation of the inputs, outputs and potential environmental impacts of a
-product system throughout its life cycle; the term may refer to either a procedural method
-or a specific study
-life cycle impact assessment *
+**life cycle assessment (LCA)**
+{{< hl-text orange>}}Compilation and evaluation of the inputs, outputs and potential environmental impacts of a product system throughout its life cycle;{{< /hl-text >}} the term may refer to either a procedural method or a specific study.
+**life cycle impact assessment \***
 → impact assessment
-life cycle impact category indicator *
+**life cycle impact category indicator \***
 → category indicator
-life cycle interpretation *
+**life cycle interpretation \***
 → interpretation
-life cycle inventory analysis *
+**life cycle inventory analysis \***
 → inventory analysis
-life cycle inventory analysis result *
+**life cycle inventory analysis result \***
 → inventory table
-life support functions
-the ecological structures and processes that sustain the productivity, adaptability and
-capacity for renewal of lands, water and/or the biosphere as a whole
-marginal modeling
-a type of modeling whereby changes in inputs and outputs are modeled on a marginal
-basis (e.g. full attribution to one additional train passenger of the extra power consumption
-required for transporting that passenger). Note: use of the word marginal is sometimes
-ambiguous; see section 1.2.3.4 of Part 3 for more details
-midpoint approach
+**life support functions**
+the ecological structures and processes that sustain the productivity, adaptability and capacity for renewal of lands, water and/or the biosphere as a whole.
+**marginal modeling**
+a type of modeling whereby changes in inputs and outputs are modeled on a marginal basis (e.g. full attribution to one additional train passenger of the extra power consumption required for transporting that passenger). Note: use of the word marginal is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details.
+**midpoint approach**
 → problem-oriented approach
-multifunctional process
+**multifunctional process**
 a unit process yielding more than one functional flow, e.g. co-production, combined waste
 processing, recycling
-multifunctionality and allocation *
+multifunctionality and allocation \***
 a step of the Inventory analysis in which the inventory model is refined and the input and
 output flows of multifunctional processes are partitioned to the functional flows of those
 processes
@@ -364,7 +358,7 @@ a biotic or abiotic resource that can be extracted from the environment in a uni
 non-functional flow
 any of the flows of a unit process that are not the goal of that process, viz. product inflows,
 waste outflows and environmental interventions
-normalisation *
+normalisation \***
 a step of Impact assessment in which the indicator results are expressed relative to welldefined
 reference information, e.g. relative to the indicator results for global interventions
 in 1995
