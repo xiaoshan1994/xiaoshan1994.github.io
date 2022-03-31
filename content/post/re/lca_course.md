@@ -214,7 +214,7 @@ definition.
 a step of the Interpretation phase to assess the contributions of individual life cycle stages,
 (groups of) processes, environmental interventions and indicator results to the overall LCA
 result (e.g. as a percentage).
-**co-product ***
+**co-product \***
 any of two or more functional flows from a co-production process.
 **co-production process**
 a unit process having more than one functional flow, e.g. crude oil refining.
