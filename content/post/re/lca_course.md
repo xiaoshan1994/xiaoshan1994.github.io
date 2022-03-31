@@ -244,13 +244,13 @@ a flow of goods, materials, services, energy or waste from one unit process to a
 **economy-environment boundary**
 see also: system boundary
 **elementary flow ***
-matter or energy entering or leaving the product system under study that has been extracted from the environment without previous human transformation (e.g. timber, water, iron ore, coal) or is emitted or discarded into the environment without subsequent human transformation (e.g. CO2 or noise emissions, wastes discarded in nature)
+matter or energy entering or leaving the product system under study that has been {{< hl-text blue>}}extracted from the environment without previous human transformation{{< /hl-text >}} (e.g. timber, water, iron ore, coal) or {{< hl-text blue>}}is emitted or discarded into the environment without subsequent human transformation{{< /hl-text >}} (e.g. CO2 or noise emissions, wastes discarded in nature)
 see also: environmental intervention
 **emission**
 a chemical or physical discharge (of a substance, heat, noise, etc.) into the environment, considered as an environmental intervention
-endpoint
+**endpoint**
 → category endpoint
-endpoint approach
+**endpoint approach**
 → damage approach
 environment system
 the natural environment and its constituent processes
