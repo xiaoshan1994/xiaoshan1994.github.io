@@ -224,7 +224,7 @@ an expert (internal or external) review of an LCA, designed to ensure validity, 
 definition of category indicators close to areas of protection.
 **data category\***
 a heading for classifying data in an LCA, e.g. energy inputs, raw material inputs, ancillary inputs, other physical inputs, products, emissions to air, emissions to water, emissions to land, other environmental aspects.
-##data quality *##
+**data quality\***
 a data characteristic relevant for the capacity of the data to satisfy stated requirements.
 **data quality requirements\***
 specification, in general terms, of the quality criteria to be satisfied by the data used in an
