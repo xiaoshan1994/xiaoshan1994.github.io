@@ -345,11 +345,11 @@ the ecological structures and processes that sustain the productivity, adaptabil
 **marginal modeling**
 a type of modeling whereby changes in inputs and outputs are modeled on a marginal basis (e.g. full attribution to one additional train passenger of the extra power consumption required for transporting that passenger). Note: use of the word marginal is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details.
 **midpoint approach**
-→ problem-oriented approach
+→ problem-oriented approachengro
 **multifunctional process**
 a unit process yielding more than one functional flow, e.g. co-production, combined waste
 processing, recycling
-multifunctionality and allocation \***
+**multifunctionality and allocation \***
 a step of the Inventory analysis in which the inventory model is refined and the input and
 output flows of multifunctional processes are partitioned to the functional flows of those
 processes
