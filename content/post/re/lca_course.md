@@ -170,22 +170,22 @@ a natural resource (including energy resources) regarded as living, e.g. rainfor
 **casualty**
 human injury or death due to direct, physical cause, e.g. explosion or traffic collision (but
 not indirect casualties, e.g. due to toxics).
-**category endpoint ***
+**category endpoint\***
 an attribute or aspect of the natural environment, human health, natural resources or the
 man-made environment identifying an issue of concern, e.g. loss of coral reefs or crops,
 damage to buildings
-**category indicator ***
+**category indicator\***
 a quantifiable representation of an impact category, e.g. infrared radiative forcing for climate change
-**category indicator result ***
+**category indicator result\***
 → indicator result
 **cause-effect network**
 → environmental mechanism
 **change-oriented LCA (consequential LCA (CLCA))**
 a type of LCA focusing on the environmental changes resulting from a switch to or from a
 particular product system or an extra functional unit of a particular product system.
-**characterisation ***
+**characterisation\***
 a step of Impact assessment, in which the environmental interventions assigned qualitatively to a particular impact category (in classification) are quantified in terms of a common unit for that category, allowing aggregation into a single score: {{< hl-text blue>}}the indicator result{{< /hl-text >}}; these scores together constitute the environmental profile.
-**characterisation factor ***
+**characterisation factor\***
 a factor derived from a characterisation model for expressing a particular environmental intervention in terms of the common unit of the category indicator, e.g. POCPmethanol (photochemical ozone creation potential of methanol)
 **characterisation method**
 a method for quantifying the impact of environmental interventions with respect to a particular impact category; it comprises a category indicator, a characterisation model and characterisation factors derived from the model.
@@ -193,40 +193,40 @@ a method for quantifying the impact of environmental interventions with respect 
 a mathematical model of the impact of environmental interventions with respect to a particular category indicator.
 **characterisation result**
 → environmental profile
-**classification ***
+**classification\***
 a step of Impact assessment, in which environmental interventions are assigned to predefined impact categories on a purely qualitative basis.
-**closed loop recycling ***
+**closed loop recycling\***
 recycling of material within one and the same product system.
 **combined waste processing**
 a method of waste processing in which more than one form of waste is processed simultaneously.
-**comparative assertion ***
+**comparative assertion\***
 an environmental claim regarding the superiority or equivalence of one product relative to
 a competing product performing the same function; particular requirements are set by ISO
 on comparative assertions disclosed to the public.
-**completeness check ***
+**completeness check\***
 a step of the Interpretation phase to verify whether the information yielded by the preceding
 phases is adequate for drawing conclusions in accordance with the Goal and scope definition
-**consistency check ***
+**consistency check\***
 a step of the Interpretation phase to verify whether assumptions, methods and data have
 been applied consistently throughout the study and in accordance with the Goal and scope
 definition.
-**contribution analysis ***
+**contribution analysis\***
 a step of the Interpretation phase to assess the contributions of individual life cycle stages,
 (groups of) processes, environmental interventions and indicator results to the overall LCA
 result (e.g. as a percentage).
-**co-product \***
+**co-product\***
 any of two or more functional flows from a co-production process.
 **co-production process**
 a unit process having more than one functional flow, e.g. crude oil refining.
-**critical review ***
+**critical review\***
 an expert (internal or external) review of an LCA, designed to ensure validity, consistency, transparency and credibility of results.
 **damage approach**
 definition of category indicators close to areas of protection.
-**data category ***
+**data category\***
 a heading for classifying data in an LCA, e.g. energy inputs, raw material inputs, ancillary inputs, other physical inputs, products, emissions to air, emissions to water, emissions to land, other environmental aspects.
 ##data quality *##
 a data characteristic relevant for the capacity of the data to satisfy stated requirements.
-**data quality requirements ***
+**data quality requirements\***
 specification, in general terms, of the quality criteria to be satisfied by the data used in an
 LCA.
 **depletion**
@@ -243,7 +243,7 @@ a flow of goods, materials, services, energy or waste from one unit process to a
 → unit process
 **economy-environment boundary**
 see also: system boundary
-**elementary flow ***
+**elementary flow\***
 matter or energy entering or leaving the product system under study that has been {{< hl-text blue>}}extracted from the environment without previous human transformation{{< /hl-text >}} (e.g. timber, water, iron ore, coal) or {{< hl-text blue>}}is emitted or discarded into the environment without subsequent human transformation{{< /hl-text >}} (e.g. CO2 or noise emissions, wastes discarded in nature)
 see also: environmental intervention
 **emission**
