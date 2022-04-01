@@ -381,7 +381,7 @@ an economic flow (e.g. energy, waste for treatment) or environmental interventio
 any of the four basic elements of an LCA, viz. Goal and scope definition, Inventory analysis, Impact assessment and Interpretation.
 **pollution**
 a change in the state of the environment due to emissions.
-**practitioner /***
+**practitioner \***
 an individual group or organisation conducting an LCA.
 **primary function**
 the main function delivered by the product system under study.
