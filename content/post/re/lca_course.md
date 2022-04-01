@@ -449,7 +449,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 ![image](https://user-images.githubusercontent.com/65668613/161239544-d4db65eb-d1f8-4696-be85-f2881b3b9880.png)
 
 **Figure 2: Main sequence of phases and steps of an LCA, as set out in this Guide, showing respective results. Phases (in capitals) and steps (lower case) are shown as grey boxes, results as white ‘forms’. The dashed line around ‘weighting’ indicates that this is an optional step which according to ISO 14042 “shall not be used for comparative assertions disclosed to the public”.**
-![image](https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png)
+{{< wide-image src="//https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png" >}}
 
 
 
