@@ -148,6 +148,8 @@ Diverging approaches have been developed with respect to system boundaries and a
 ## 3. LCA-PR_Glossary-Flowchart-Unitprocess
 ### Glossary
 From LCA Handbook (Guinée et al. 2002).
+This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
+indicated by an arrow (→), point to the preferred terms used in the LCA Handbook.
 Terms:
 **abiotic resource** /ˌeɪbaɪ'ɒtɪk/:
 a natural resource (including energy resources) regarded as non-living, e.g. zinc ore, crude oil, wind energy.
@@ -350,24 +352,63 @@ a type of modeling whereby changes in inputs and outputs are modeled on a margin
 a unit process yielding more than one functional flow, e.g. co-production, combined waste
 processing, recycling
 **multifunctionality and allocation \***
-a step of the Inventory analysis in which the inventory model is refined and the input and
-output flows of multifunctional processes are partitioned to the functional flows of those
-processes
-natural resource
-a biotic or abiotic resource that can be extracted from the environment in a unit process
-non-functional flow
-any of the flows of a unit process that are not the goal of that process, viz. product inflows,
-waste outflows and environmental interventions
-normalisation \***
-a step of Impact assessment in which the indicator results are expressed relative to welldefined
-reference information, e.g. relative to the indicator results for global interventions
-in 1995
-normalisation factor
-the reciprocal of the indicator result for a particular impact category and reference system;
-used in the normalisation step
-normalisation result
+{{< hl-text orange>}}a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes. {{< /hl-text >}}
+**natural resource**
+a biotic or abiotic resource that can be extracted from the environment in a unit process.
+**non-functional flow**
+any of the flows of a unit process that are not the goal of that process, viz. product inflows, waste outflows and environmental interventions.
+**normalisation \***
+{{< hl-text orange>}}a step of Impact assessment in which the indicator results are expressed relative to well-defined reference information, e.g. relative to the indicator results for global interventions in 1995. {{< /hl-text >}}
+**normalisation factor**
+the reciprocal of the indicator result for a particular impact category and reference system; used in the normalisation step.
+**normalisation result**
 → normalised environmental profile
-
+**normalised environmental profile**
+the result of the normalisation step: a table showing the normalised indicator results for all the selected impact categories, supplemented by any other relevant information.
+**normalised indicator result**
+the numerical result of normalisation for a particular impact category, e.g. 0.02 yr for climate change.
+**open loop recycling \***
+{{< hl-text orange>}}Recycling of material generated in one product system in a different product system.{{< /hl-text >}}
+**optional extension**
+an option for enhancing the quality of a detailed LCA to address any obvious shortcomings.
+**outflow**
+→ output
+**output**
+an economic flow (e.g. energy, waste for treatment) or environmental intervention (e.g. pollutant or noise emission) modeled as ‘leaving’ a unit process (adapted from ISO)
+**perturbation analysis** /ˌpɜːtəˈbeɪʃən/
+{{< hl-text orange>}}a step of the Interpretation phase to identify any process data in which minor changes may significantly alter the inventory table, the (normalised) environmental profile or the weighting result, to identify efficient options for product improvement or to focus attention on sensitive items.{{< /hl-text >}}
+**phase**
+any of the four basic elements of an LCA, viz. Goal and scope definition, Inventory
+analysis, Impact assessment and Interpretation
+pollution
+a change in the state of the environment due to emissions
+practitioner *
+an individual group or organisation conducting an LCA
+primary function
+the main function delivered by the product system under study
+problem-oriented approach
+definition of category indicators close to environmental interventions
+procedure
+the rules and arrangements adopted to manage an LCA study
+process
+→ unit process
+see also: environmental process
+product
+a positively valued economic flow of goods, materials, energy or services produced in a
+unit process and possibly serving as an input to another unit process
+product system *
+a set of unit processes interlinked by material, energy, product, waste or service flows and
+performing one or more defined functions
+proportional modeling
+a type of modeling whereby changes in inputs and outputs are modeled proportionally (e.g.
+equal attribution to all passengers of the increase in power consumption needed for
+transporting one additional passenger). Note: use of the word proportional (and average)
+is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details
+prospective LCA
+→ change-oriented LCA
+ranking *
+a grouping method whereby impact categories are hierarchically ranked (e.g. high,
+medium, and low priority), applying value choices
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
