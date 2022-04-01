@@ -378,37 +378,80 @@ an economic flow (e.g. energy, waste for treatment) or environmental interventio
 **perturbation analysis** /ˌpɜːtəˈbeɪʃən/
 {{< hl-text orange>}}a step of the Interpretation phase to identify any process data in which minor changes may significantly alter the inventory table, the (normalised) environmental profile or the weighting result, to identify efficient options for product improvement or to focus attention on sensitive items.{{< /hl-text >}}
 **phase**
-any of the four basic elements of an LCA, viz. Goal and scope definition, Inventory
-analysis, Impact assessment and Interpretation
-pollution
-a change in the state of the environment due to emissions
-practitioner *
-an individual group or organisation conducting an LCA
-primary function
-the main function delivered by the product system under study
-problem-oriented approach
-definition of category indicators close to environmental interventions
-procedure
-the rules and arrangements adopted to manage an LCA study
-process
+any of the four basic elements of an LCA, viz. Goal and scope definition, Inventory analysis, Impact assessment and Interpretation.
+**pollution**
+a change in the state of the environment due to emissions.
+**practitioner /***
+an individual group or organisation conducting an LCA.
+**primary function**
+the main function delivered by the product system under study.
+**problem-oriented approach**
+definition of category indicators close to environmental interventions.
+**procedure**
+the rules and arrangements adopted to manage an LCA study.
+**process**
 → unit process
 see also: environmental process
-product
-a positively valued economic flow of goods, materials, energy or services produced in a
-unit process and possibly serving as an input to another unit process
-product system *
-a set of unit processes interlinked by material, energy, product, waste or service flows and
-performing one or more defined functions
-proportional modeling
-a type of modeling whereby changes in inputs and outputs are modeled proportionally (e.g.
-equal attribution to all passengers of the increase in power consumption needed for
-transporting one additional passenger). Note: use of the word proportional (and average)
-is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details
-prospective LCA
+**product**
+a positively valued economic flow of goods, materials, energy or services produced in a unit process and possibly serving as an input to another unit process.
+**product system \***
+{{< hl-text orange>}}a set of unit processes interlinked by material, energy, product, waste or service flows and performing one or more defined functions.{{< /hl-text >}}
+**proportional modeling**
+a type of modeling whereby changes in inputs and outputs are modeled proportionally (e.g. equal attribution to all passengers of the increase in power consumption needed for transporting one additional passenger). Note: use of the word proportional (and average) is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details
+**prospective LCA**
 → change-oriented LCA
-ranking *
-a grouping method whereby impact categories are hierarchically ranked (e.g. high,
-medium, and low priority), applying value choices
+**ranking \***
+a grouping method whereby impact categories are hierarchically ranked (e.g. high, medium, and low priority), applying value choices.
+**recycling**
+{{< hl-text orange>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
+**reference flow**
+quantified flow generally connected to the use phase of a product system and representing
+one way (i.e. by a specific product alternative) of obtaining the functional unit
+release
+→ emission
+retrospective LCA
+→ descriptive LCA
+sensitivity and uncertainty analysis
+a step of the Interpretation phase to assess the robustness of the overall LCA results with
+respect to variations and uncertainties in the methods and data used
+sensitivity check *
+an ISO step included in this Guide as part of sensitivity and uncertainty analysis
+simplified LCA
+a simplified variety of detailed LCA conducted according to guidelines not in full compliance
+with the ISO 1404X standards and representative of studies typically requiring from 1 to
+20 person-days of work
+sorting *
+a grouping method whereby impact categories are sorted on a nominal basis, e.g. by
+characteristics such as emissions and resource use, or global, regional and local spatial
+scales
+stakeholder *
+an individual group or organisation concerned about or affected by the environmental
+performance of a product system or the outcome of an LCA. Note: the LCA commissioner
+is also a stakeholder
+step
+a discrete element of any of the four phases of an LCA; some steps (e.g. data format,
+calculation method) are areas of concern rather than actions
+subcategory
+a subdivision of an impact category, e.g. freshwater aquatic ecotoxicity as a subcategory
+of ecotoxicity
+system boundary *
+the interface between a product system and the environment system or other product
+systems
+third party *
+a critical reviewer or a stakeholder other than the LCA commissioner or practitioner
+transparency *
+open, comprehensive and understandable presentation of information
+unit process *
+the smallest portion of a product system for which data are collected in an LCA
+use process
+a unit process in which the final product is consumed, thereby delivering the function under
+study
+waste (for treatment)
+an economic flow with a zero or negative value produced in a unit process and serving as
+an input to another unit process (note: materials such as waste paper and scrap metals
+with a positive economic, i.e. market value are thus not wastes but products) (adapted
+from ISO)
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
