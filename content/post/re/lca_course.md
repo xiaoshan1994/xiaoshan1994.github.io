@@ -452,8 +452,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png" >}}
 
 ### Flowchart
-
-{{< wide-image src="![image](https://user-images.githubusercontent.com/65668613/161244906-ccc23020-91be-4223-b3d1-93c45c157773.png)" >}}
+{{< wide-image src="https://user-images.githubusercontent.com/65668613/161244906-ccc23020-91be-4223-b3d1-93c45c157773.png">}}
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
