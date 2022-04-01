@@ -405,52 +405,54 @@ a grouping method whereby impact categories are hierarchically ranked (e.g. high
 **recycling**
 {{< hl-text orange>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
 **reference flow**
-quantified flow generally connected to the use phase of a product system and representing
-one way (i.e. by a specific product alternative) of obtaining the functional unit
-release
+{{< hl-text orange>}}quantified flow generally connected to the use phase of a product system and representing one way (i.e. by a specific product alternative) of obtaining the functional unit. {{< /hl-text >}}
+**release**
 → emission
-retrospective LCA
+**retrospective LCA**
 → descriptive LCA
-sensitivity and uncertainty analysis
-a step of the Interpretation phase to assess the robustness of the overall LCA results with
-respect to variations and uncertainties in the methods and data used
-sensitivity check *
-an ISO step included in this Guide as part of sensitivity and uncertainty analysis
-simplified LCA
-a simplified variety of detailed LCA conducted according to guidelines not in full compliance
-with the ISO 1404X standards and representative of studies typically requiring from 1 to
-20 person-days of work
-sorting *
-a grouping method whereby impact categories are sorted on a nominal basis, e.g. by
-characteristics such as emissions and resource use, or global, regional and local spatial
-scales
-stakeholder *
-an individual group or organisation concerned about or affected by the environmental
-performance of a product system or the outcome of an LCA. Note: the LCA commissioner
-is also a stakeholder
-step
-a discrete element of any of the four phases of an LCA; some steps (e.g. data format,
-calculation method) are areas of concern rather than actions
-subcategory
-a subdivision of an impact category, e.g. freshwater aquatic ecotoxicity as a subcategory
-of ecotoxicity
-system boundary *
-the interface between a product system and the environment system or other product
-systems
-third party *
-a critical reviewer or a stakeholder other than the LCA commissioner or practitioner
-transparency *
-open, comprehensive and understandable presentation of information
-unit process *
-the smallest portion of a product system for which data are collected in an LCA
-use process
-a unit process in which the final product is consumed, thereby delivering the function under
-study
-waste (for treatment)
-an economic flow with a zero or negative value produced in a unit process and serving as
-an input to another unit process (note: materials such as waste paper and scrap metals
-with a positive economic, i.e. market value are thus not wastes but products) (adapted
-from ISO)
+**sensitivity and uncertainty analysis**
+{{< hl-text orange>}}a step of the Interpretation phase to assess the robustness of the overall LCA results with respect to variations and uncertainties in the methods and data used. {{< /hl-text >}}
+**sensitivity check \***
+an ISO step included in this Guide as part of sensitivity and uncertainty analysis.
+**simplified LCA**
+a simplified variety of detailed LCA conducted according to guidelines not in full compliance with the ISO 1404X standards and representative of studies typically requiring from 1 to 20 person-days of work.
+**sorting \***
+a grouping method whereby impact categories are sorted on a nominal basis, e.g. by characteristics such as emissions and resource use, or global, regional and local spatial scales.
+**stakeholder \***
+an individual group or organisation concerned about or affected by the environmental performance of a product system or the outcome of an LCA. Note: the LCA commissioner is also a stakeholder.
+**step**
+a discrete element of any of the four phases of an LCA; some steps (e.g. data format, calculation method) are areas of concern rather than actions.
+**subcategory**
+a subdivision of an impact category, e.g. freshwater aquatic ecotoxicity as a subcategory of ecotoxicity.
+**system boundary \***
+the interface between a product system and the environment system or other product systems. 
+**third party \***
+a critical reviewer or a stakeholder other than the LCA commissioner or practitioner.
+**transparency \***
+open, comprehensive and understandable presentation of information.
+**unit process \***
+{{< hl-text orange>}}the smallest portion of a product system for which data are collected in an LCA{{< /hl-text >}}.
+**use process**
+{{< hl-text orange>}}a unit process in which the final product is consumed, thereby delivering the function under study. {{< /hl-text >}}
+**waste (for treatment)**
+An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text orange>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
+**weighting \***
+a step of Impact assessment in which the (normalised) indicator results for each impact category assessed are assigned numerical factors according to their relative importance, multiplied by these factors and possibly aggregated; {{< hl-text orange>}}weighting is based on value-choices (e.g. monetary values, standards, expert panel). {{< /hl-text >}}
+**weighting factor**
+a factor obtained with a weighting method and used to express a particular (normalised) indicator result in terms of the common unit of the weighting result.
+**weighting profile \***
+the result of the weighting step: a table showing all the weighting results, supplemented by any other relevant information.
+**weighting result**
+the numerical part of the result of weighting and aggregation of all (normalised) indicator results, e.g. 0.08 yr (note: the result may be expressed as more than one numerical value)
+
+**Figure 1: Basic structure of a unit process (or product system) in terms of its inputs and outputs.**
+![image](https://user-images.githubusercontent.com/65668613/161239544-d4db65eb-d1f8-4696-be85-f2881b3b9880.png)
+
+**Figure 2: Main sequence of phases and steps of an LCA, as set out in this Guide, showing respective results. Phases (in capitals) and steps (lower case) are shown as grey boxes, results as white ‘forms’. The dashed line around ‘weighting’ indicates that this is an optional step which according to ISO 14042 “shall not be used for comparative assertions disclosed to the public”.**
+![image](https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png)
+
+
+
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
