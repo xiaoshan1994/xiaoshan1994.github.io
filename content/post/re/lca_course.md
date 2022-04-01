@@ -148,7 +148,7 @@ Diverging approaches have been developed with respect to system boundaries and a
 ## 3. LCA-PR_Glossary-Flowchart-Unitprocess
 ### Glossary
 From LCA Handbook (Guinée et al. 2002).
-This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
+This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (\*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
 indicated by an arrow (→), point to the preferred terms used in the LCA Handbook.
 Terms:
 **abiotic resource** /ˌeɪbaɪ'ɒtɪk/:
@@ -328,7 +328,7 @@ A project that seeks to obtain particular results by means of an LCA study and L
 **LCA study**
 An environmental study in which LCA methodology is employed, performed by
 practitioners who may or may not be affiliated to the party or parties commissioning the study.
-**life cycle /***
+**life cycle \***
 The consecutive, interlinked stages of a product system, {{< hl-text orange>}}from raw materials acquisition or natural resource extraction through to final waste disposal{{< /hl-text >}}.
 **life cycle assessment (LCA)**
 {{< hl-text orange>}}Compilation and evaluation of the inputs, outputs and potential environmental impacts of a product system throughout its life cycle;{{< /hl-text >}} the term may refer to either a procedural method or a specific study.
