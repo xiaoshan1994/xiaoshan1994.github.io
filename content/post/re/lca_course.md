@@ -259,7 +259,7 @@ the natural environment and its constituent processes.
 **environmental impact**
 a consequence of an environmental intervention in the environment system.
 **environmental intervention**
-a human intervention in the environment, either physical, chemical or biological; in particular resource extraction, emissions (incl. noise and heat) and land use; the term is thus broader than (‘elementary flow’).  
+{{< hl-text orange>}}a human intervention in the environment, either physical, chemical or biological; in particular resource extraction, emissions (incl. noise and heat) and land use; the term is thus broader than (‘elementary flow’).{{< /hl-text >}}  
 **environmental life cycle assessment \***
 → life cycle assessment
 **environmental mechanism \***
@@ -425,7 +425,7 @@ a discrete element of any of the four phases of an LCA; some steps (e.g. data fo
 **subcategory**
 a subdivision of an impact category, e.g. freshwater aquatic ecotoxicity as a subcategory of ecotoxicity.
 **system boundary \***
-the interface between a product system and the environment system or other product systems. 
+the interface between a product system and the environment system or other product systems.
 **third party \***
 a critical reviewer or a stakeholder other than the LCA commissioner or practitioner.
 **transparency \***
