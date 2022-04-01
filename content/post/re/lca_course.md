@@ -271,7 +271,7 @@ a physical, chemical or biological process in the environment system that is ide
 the overall result of the characterisation step: a table showing the indicator results for all the predefined impact categories, supplemented by any other relevant information.
 **environmental relevance \***
 the degree of linkage between a category indicator and category endpoint
-**expert review*/**
+**expert review\***
 → critical review
 **extraction**
 withdrawal of a biotic or abiotic resource from the environment in a unit process, considered as an environmental intervention.
