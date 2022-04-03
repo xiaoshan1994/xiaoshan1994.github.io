@@ -151,296 +151,285 @@ From LCA Handbook (Guinée et al. 2002).
 This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (\*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
 indicated by an arrow (→), point to the preferred terms used in the LCA Handbook.
 Terms:
-**abiotic resource** /ˌeɪbaɪ'ɒtɪk/:
+**{{< hl-text orange>}}abiotic resource{{< /hl-text >}}** /ˌeɪbaɪ'ɒtɪk/:
 a natural resource (including energy resources) regarded as non-living, e.g. zinc ore, crude oil, wind energy.
-**allocation**
+**{{< hl-text orange>}}allocation{{< /hl-text >}}**
 → multifunctionality and allocation.
-**alternative**
+**{{< hl-text orange>}}alternative{{< /hl-text >}}**
 one of a set of product systems studied in a particular LCA, e.g. for comparison (note: some LCA steps are carried out for all alternatives together (e.g. selection of impact categories), while others are repeated for each alternative (e.g. characterisation).
-**area of protection**
+**{{< hl-text orange>}}area of protection{{< /hl-text >}}**
 a cluster of category endpoints of recognisable value to society, viz. human health, natural resources, natural environment and man-made environment.
-**average modeling**
+**{{< hl-text orange>}}average modeling{{< /hl-text >}}**
 → proportional modeling.
-**background system/process**
+**{{< hl-text orange>}}background system/process{{< /hl-text >}}**
 a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references, estimated data based on input-output analysis, are used in an LCA.  
-**baseline method (model, impact category, LCA, etc.)**
-a method (etc.) recommended in this Guide for operationalising an LCA or methodological
-step.
-**biotic resource**
+**{{< hl-text orange>}}baseline method (model, impact category, LCA, etc.){{< /hl-text >}}**
+a method (etc.) recommended in this Guide for operationalising an LCA or methodological step.
+**{{< hl-text orange>}}biotic resource{{< /hl-text >}}**
 a natural resource (including energy resources) regarded as living, e.g. rainforests, elephants.
-**casualty**
-human injury or death due to direct, physical cause, e.g. explosion or traffic collision (but
-not indirect casualties, e.g. due to toxics).
-**category endpoint\***
+**{{< hl-text orange>}}casualty{{< /hl-text >}}**
+human injury or death due to direct, physical cause, e.g. explosion or traffic collision (but not indirect casualties, e.g. due to toxics).
+**{{< hl-text orange>}}category endpoint\*{{< /hl-text >}}**
 an attribute or aspect of the natural environment, human health, natural resources or the man-made environment identifying an issue of concern, e.g. loss of coral reefs or crops, damage to buildings.
-**category indicator\***
+**{{< hl-text orange>}}category indicator\*{{< /hl-text >}}**
 a quantifiable representation of an impact category, e.g. infrared radiative forcing for climate change
-**category indicator result\***
+**{{< hl-text orange>}}category indicator result\*{{< /hl-text >}}**
 → indicator result
-**cause-effect network**
+**{{< hl-text orange>}}cause-effect network{{< /hl-text >}}**
 → environmental mechanism
-**change-oriented LCA (consequential LCA (CLCA))**
-a type of LCA focusing on the environmental changes resulting from a switch to or from a
-particular product system or an extra functional unit of a particular product system.
-**characterisation\***
+**{{< hl-text orange>}}change-oriented LCA (consequential LCA (CLCA)){{< /hl-text >}}**
+a type of LCA focusing on the environmental changes resulting from a switch to or from a particular product system or an extra functional unit of a particular product system.
+**{{< hl-text orange>}}characterisation\*{{< /hl-text >}}**
 a step of Impact assessment, in which the environmental interventions assigned qualitatively to a particular impact category (in classification) are quantified in terms of a common unit for that category, allowing aggregation into a single score: {{< hl-text blue>}}the indicator result{{< /hl-text >}}; these scores together constitute the environmental profile.
-**characterisation factor\***
+**{{< hl-text orange>}}characterisation factor\*{{< /hl-text >}}**
 a factor derived from a characterisation model for expressing a particular environmental intervention in terms of the common unit of the category indicator, e.g. POCPmethanol (photochemical ozone creation potential of methanol)
-**characterisation method**
+**{{< hl-text orange>}}characterisation method{{< /hl-text >}}**
 a method for quantifying the impact of environmental interventions with respect to a particular impact category; it comprises a category indicator, a characterisation model and characterisation factors derived from the model.
-**characterisation model**
+**{{< hl-text orange>}}characterisation model{{< /hl-text >}}**
 a mathematical model of the impact of environmental interventions with respect to a particular category indicator.
-**characterisation result**
+**{{< hl-text orange>}}characterisation result{{< /hl-text >}}**
 → environmental profile
-**classification\***
+**{{< hl-text orange>}}classification\*{{< /hl-text >}}**
 a step of Impact assessment, in which environmental interventions are assigned to predefined impact categories on a purely qualitative basis.
-**closed loop recycling\***
+**{{< hl-text orange>}}closed loop recycling\*{{< /hl-text >}}**
 recycling of material within one and the same product system.
-**combined waste processing**
+**{{< hl-text orange>}}combined waste processing{{< /hl-text >}}**
 a method of waste processing in which more than one form of waste is processed simultaneously.
-**comparative assertion\***
-an environmental claim regarding the superiority or equivalence of one product relative to
-a competing product performing the same function; particular requirements are set by ISO
-on comparative assertions disclosed to the public.
-**completeness check\***
-a step of the Interpretation phase to verify whether the information yielded by the preceding
-phases is adequate for drawing conclusions in accordance with the Goal and scope definition
-**consistency check\***
-a step of the Interpretation phase to verify whether assumptions, methods and data have
-been applied consistently throughout the study and in accordance with the Goal and scope
-definition.
-**contribution analysis\***
-a step of the Interpretation phase to assess the contributions of individual life cycle stages,
-(groups of) processes, environmental interventions and indicator results to the overall LCA
-result (e.g. as a percentage).
-**co-product\***
+**{{< hl-text orange>}}comparative assertion\*{{< /hl-text >}}**
+an environmental claim regarding the superiority or equivalence of one product relative to a competing product performing the same function; particular requirements are set by ISO on comparative assertions disclosed to the public.
+**{{< hl-text orange>}}completeness check\*{{< /hl-text >}}**
+a step of the Interpretation phase to verify whether the information yielded by the preceding phases is adequate for drawing conclusions in accordance with the Goal and scope definition
+**{{< hl-text orange>}}consistency check\*{{< /hl-text >}}**
+a step of the Interpretation phase to verify whether assumptions, methods and data have been applied consistently throughout the study and in accordance with the Goal and scope definition.
+**{{< hl-text orange>}}contribution analysis\*{{< /hl-text >}}**
+a step of the Interpretation phase to assess the contributions of individual life cycle stages, (groups of) processes, environmental interventions and indicator results to the overall LCA result (e.g. as a percentage).
+**{{< hl-text orange>}}co-product\*{{< /hl-text >}}**
 any of two or more functional flows from a co-production process.
-**co-production process**
+**{{< hl-text orange>}}co-production process{{< /hl-text >}}**
 a unit process having more than one functional flow, e.g. crude oil refining.
-**critical review\***
+**{{< hl-text orange>}}critical review\*{{< /hl-text >}}**
 an expert (internal or external) review of an LCA, designed to ensure validity, consistency, transparency and credibility of results.
-**damage approach**
+**{{< hl-text orange>}}damage approach{{< /hl-text >}}**
 definition of category indicators close to areas of protection.
-**data category\***
+**{{< hl-text orange>}}data category\*{{< /hl-text >}}**
 a heading for classifying data in an LCA, e.g. energy inputs, raw material inputs, ancillary inputs, other physical inputs, products, emissions to air, emissions to water, emissions to land, other environmental aspects.
-**data quality\***
+**{{< hl-text orange>}}data quality\*{{< /hl-text >}}**
 a data characteristic relevant for the capacity of the data to satisfy stated requirements.
-**data quality requirements\***
-specification, in general terms, of the quality criteria to be satisfied by the data used in an
-LCA.
-**depletion**
+**{{< hl-text orange>}}data quality requirements\*{{< /hl-text >}}**
+specification, in general terms, of the quality criteria to be satisfied by the data used in an LCA.
+**{{< hl-text orange>}}depletion{{< /hl-text >}}**
 a decrease in the stock of a biotic or abiotic resource due to extraction thereof.
-**descriptive LCA (attributional LCA (ALCA))**
+**{{< hl-text orange>}}descriptive LCA (attributional LCA (ALCA)){{< /hl-text >}}**
 a type of LCA focusing on the contribution of a particular way of fulfilling a certain function to the entire spectrum of environmental problems as they currently exist or are being created.
-**detailed LCA**
+**{{< hl-text orange>}}detailed LCA{{< /hl-text >}}**
 the baseline LCA elaborated in this Guide, complying with the ISO 1404X standards and representative of studies typically requiring between 20 and 200 person-days of work.
-**difference analysis**
+**{{< hl-text orange>}}difference analysis{{< /hl-text >}}**
 a type of LCA focusing on the differences between two alternative product systems, thus ignoring those unit processes that are qualitatively and quantitatively identical.
-**economic flow**
+**{{< hl-text orange>}}economic flow{{< /hl-text >}}**
 a flow of goods, materials, services, energy or waste from one unit process to another; with either a positive (e.g. steel, transportation) or zero/negative (e.g. waste) economic value.
-**economic process**
+**{{< hl-text orange>}}economic process{{< /hl-text >}}**
 → unit process
-**economy-environment boundary**
+**{{< hl-text orange>}}economy-environment boundary{{< /hl-text >}}**
 see also: system boundary
-**elementary flow\***
+**{{< hl-text orange>}}elementary flow\*{{< /hl-text >}}**
 matter or energy entering or leaving the product system under study that has been {{< hl-text blue>}}extracted from the environment without previous human transformation{{< /hl-text >}} (e.g. timber, water, iron ore, coal) or {{< hl-text blue>}}is emitted or discarded into the environment without subsequent human transformation{{< /hl-text >}} (e.g. CO2 or noise emissions, wastes discarded in nature)
 see also: environmental intervention
-**emission**
+**{{< hl-text orange>}}emission{{< /hl-text >}}**
 a chemical or physical discharge (of a substance, heat, noise, etc.) into the environment, considered as an environmental intervention.
-**endpoint**
+**{{< hl-text orange>}}endpoint{{< /hl-text >}}**
 → category endpoint
-**endpoint approach**
+**{{< hl-text orange>}}endpoint approach{{< /hl-text >}}**
 → damage approach
-**environment system**
+**{{< hl-text orange>}}environment system{{< /hl-text >}}**
 the natural environment and its constituent processes.
-**environmental effect**
+**{{< hl-text orange>}}environmental effect{{< /hl-text >}}**
 → environmental impact
-**environmental impact**
+**{{< hl-text orange>}}environmental impact{{< /hl-text >}}**
 a consequence of an environmental intervention in the environment system.
-**environmental intervention**
-{{< hl-text orange>}}a human intervention in the environment, either physical, chemical or biological; in particular resource extraction, emissions (incl. noise and heat) and land use; the term is thus broader than (‘elementary flow’).{{< /hl-text >}}  
-**environmental life cycle assessment \***
+**{{< hl-text orange>}}environmental intervention{{< /hl-text >}}**
+{{< hl-text blue>}}a human intervention in the environment, either physical, chemical or biological; in particular resource extraction, emissions (incl. noise and heat) and land use; the term is thus broader than (‘elementary flow’).{{< /hl-text >}}  
+**{{< hl-text orange>}}environmental life cycle assessment \*{{< /hl-text >}}**
 → life cycle assessment
-**environmental mechanism \***
+**{{< hl-text orange>}}environmental mechanism \*{{< /hl-text >}}**
 for a given impact category, the chain of environmental processes linking
 interventions to impacts; modeled in LCA (usually only partially) to one or more category endpoints by means of a characterisation model.
-**environmental process**
+**{{< hl-text orange>}}environmental process{{< /hl-text >}}**
 a physical, chemical or biological process in the environment system that is identified as part of the causal chain linking a particular environmental intervention to a particular impact, e.g. pollution leaching or bioaccumulation; for a given impact category, the environmental processes together form the environmental mechanism.
-**environmental profile**
+**{{< hl-text orange>}}environmental profile{{< /hl-text >}}**
 the overall result of the characterisation step: a table showing the indicator results for all the predefined impact categories, supplemented by any other relevant information.
-**environmental relevance \***
+**{{< hl-text orange>}}environmental relevance \*{{< /hl-text >}}**
 the degree of linkage between a category indicator and category endpoint
-**expert review\***
+**{{< hl-text orange>}}expert review\*{{< /hl-text >}}**
 → critical review
-**extraction**
+**{{< hl-text orange>}}extraction{{< /hl-text >}}**
 withdrawal of a biotic or abiotic resource from the environment in a unit process, considered as an environmental intervention.
-**final product**
+**{{< hl-text orange>}}final product{{< /hl-text >}}**
 a product requiring no additional transformation prior to use
-**flow diagram**
+**{{< hl-text orange>}}flow diagram{{< /hl-text >}}**
 a graphic representation of the interlinked unit processes comprising the product system.
-**foreground system/process**
-{{< hl-text orange>}}a system or process for which primary, site-specific data are used in an LCA, for whatever reason.{{< /hl-text >}}
-**format**
+**{{< hl-text orange>}}foreground system/process{{< /hl-text >}}**
+{{< hl-text blue>}}a system or process for which primary, site-specific data are used in an LCA, for whatever reason.{{< /hl-text >}}
+**{{< hl-text orange>}}format{{< /hl-text >}}**
 a structured framework for representing and possibly processing unit process data as well as any relevant remarks.
-**function**
+**{{< hl-text orange>}}function{{< /hl-text >}}**
 a service provided by a product system or unit process
-**functional flow**
-{{< hl-text orange>}}any of the flows of a unit process that constitute its goal, viz. the product outflows of a production process and the waste inflows of a waste treatment process. {{< /hl-text >}}
-**functional unit\***
+**{{< hl-text orange>}}functional flow{{< /hl-text >}}**
+{{< hl-text blue>}} any of the flows of a unit process that constitute its goal, viz. the product outflows of a production process and the waste inflows of a waste treatment process. {{< /hl-text >}}
+**{{< hl-text orange>}}functional unit\*{{< /hl-text >}}**
 the quantified function provided by the product system(s) under study, for use as a reference basis in an LCA, e.g. 1000 hours of light (adapted from ISO).
-**goal and scope definition \***
+**{{< hl-text orange>}}goal and scope definition \*{{< /hl-text >}}**
 the first phase of an LCA, establishing the aim of the intended study, the functional unit, the reference flow, the product system(s) under study and the breadth and depth of the study in relation to this aim.
-**grouping \***
+**{{< hl-text orange>}}grouping \*{{< /hl-text >}}**
 a step of Impact assessment in which impact categories are aggregated in one or more sets defined in the Goal and scope definition phase; it may take the form of sorting and/or ranking.
-**impact assessment \***
+**{{< hl-text orange>}}impact assessment \*{{< /hl-text >}}**
 the third phase of an LCA, concerned with understanding and evaluating the magnitude and significance of the potential environmental impacts of the product system(s) under study.
-**impact category \***
+**{{< hl-text orange>}}impact category \*{{< /hl-text >}}**
 a class representing environmental issues of concern to which environmental interventions are assigned, e.g. climate change, loss of biodiversity
-**impact score**
+**{{< hl-text orange>}}impact score**
 → indicator result
-**indicator result \***
+**{{< hl-text orange>}}indicator result \*{{< /hl-text >}}**
 the numerical result of the characterisation step for a particular impact category, e.g. 12 kg CO2-equivalents for climate change.
-**inflow**
+**{{< hl-text orange>}}inflow{{< /hl-text >}}**
 → input
-**input**
+**{{< hl-text orange>}}input{{< /hl-text >}}**
 a product (goods, materials, energy and services), waste for treatment or environmental intervention (including resource extraction, land use, etc.) modeled as ‘entering’ a unit process (adapted from ISO)
-**interested party**
+**{{< hl-text orange>}}interested party{{< /hl-text >}}**
 → stakeholder
-**intermediate product \***
+**{{< hl-text orange>}}intermediate product \*{{< /hl-text >}}**
 An input or output from a unit process which undergoes further transformation before consumptive use.
-**interpretation \***
+**{{< hl-text orange>}}interpretation \*{{< /hl-text >}}**
 the fourth phase of an LCA, in which the results of the Inventory analysis and/or Impact assessment are interpreted in the light of the Goal and scope definition (e.g. by means of contribution, perturbation and uncertainty analysis, comparison with other studies) in order to draw up conclusions and recommendations.
-**intervention**
+**{{< hl-text orange>}}intervention{{< /hl-text >}}**
 → environmental intervention
-**inventory analysis \***
+**{{< hl-text orange>}}inventory analysis \*{{< /hl-text >}}**
 the second phase of an LCA, in which the relevant inputs and outputs of the product system(s) under study throughout the life cycle are, as far as possible, compiled and quantified.
-**inventory table**
+**{{< hl-text orange>}}inventory table{{< /hl-text >}}**
 the result of the Inventory analysis phase: a table showing all the environmental interventions associated with a product system, supplemented by any other relevant information (adapted from ISO).
-**land occupation**
+**{{< hl-text orange>}}land occupation**
 the unavailability of a given plot of land for alternative uses for a certain period of time.
-**land transformation**
+**{{< hl-text orange>}}land transformation{{< /hl-text >}}**
 the change in the quality of a given plot of land due to a particular mode of human use, measured in terms of changes in biodiversity and life support functions.
-**LCA process**
+**{{< hl-text orange>}}LCA process{{< /hl-text >}}**
 the integral series of exchanges among the individuals and organisations participating in an LCA project, from project initiation and guidance through to interpretation and discussion of the results.
-**LCA project**
+**{{< hl-text orange>}}LCA project{{< /hl-text >}}**
 A project that seeks to obtain particular results by means of an LCA study and LCA process; besides commissioning parties and practitioners, it may also involve other organizations and individuals, in the capacity of data supplier, peer reviewer or interest group, for example.
-**LCA study**
+**{{< hl-text orange>}}LCA study{{< /hl-text >}}**
 An environmental study in which LCA methodology is employed, performed by
 practitioners who may or may not be affiliated to the party or parties commissioning the study.
-**life cycle \***
-The consecutive, interlinked stages of a product system, {{< hl-text orange>}}from raw materials acquisition or natural resource extraction through to final waste disposal{{< /hl-text >}}.
-**life cycle assessment (LCA)**
-{{< hl-text orange>}}Compilation and evaluation of the inputs, outputs and potential environmental impacts of a product system throughout its life cycle;{{< /hl-text >}} the term may refer to either a procedural method or a specific study.
-**life cycle impact assessment \***
+**{{< hl-text orange>}}life cycle \*{{< /hl-text >}}**
+The consecutive, interlinked stages of a product system, {{< hl-text blue >}}from raw materials acquisition or natural resource extraction through to final waste disposal{{< /hl-text >}}.
+**{{< hl-text orange>}}life cycle assessment (LCA){{< /hl-text >}}**
+{{< hl-text blue>}}Compilation and evaluation of the inputs, outputs and potential environmental impacts of a product system throughout its life cycle;{{< /hl-text >}} the term may refer to either a procedural method or a specific study.
+**{{< hl-text orange>}}life cycle impact assessment \*{{< /hl-text >}}**
 → impact assessment
-**life cycle impact category indicator \***
+**{{< hl-text orange>}}life cycle impact category indicator \*{{< /hl-text >}}**
 → category indicator
-**life cycle interpretation \***
+**{{< hl-text orange>}}life cycle interpretation \*{{< /hl-text >}}**
 → interpretation
-**life cycle inventory analysis \***
+**{{< hl-text orange>}}life cycle inventory analysis \*{{< /hl-text >}}**
 → inventory analysis
-**life cycle inventory analysis result \***
+**{{< hl-text orange>}}life cycle inventory analysis result \*{{< /hl-text >}}**
 → inventory table
-**life support functions**
+**{{< hl-text orange>}}life support functions{{< /hl-text >}}**
 the ecological structures and processes that sustain the productivity, adaptability and capacity for renewal of lands, water and/or the biosphere as a whole.
-**marginal modeling**
+**{{< hl-text orange>}}marginal modeling{{< /hl-text >}}**
 a type of modeling whereby changes in inputs and outputs are modeled on a marginal basis (e.g. full attribution to one additional train passenger of the extra power consumption required for transporting that passenger). Note: use of the word marginal is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details.
-**midpoint approach**
+**{{< hl-text orange>}}midpoint approach{{< /hl-text >}}**
 → problem-oriented approachengro
-**multifunctional process**
+**{{< hl-text orange>}}multifunctional process{{< /hl-text >}}**
 a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
-**multifunctionality and allocation \***
-{{< hl-text orange>}}a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes. {{< /hl-text >}}
-**natural resource**
+**{{< hl-text orange>}}multifunctionality and allocation \*{{< /hl-text >}}**
+{{< hl-text blue>}}a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes. {{< /hl-text >}}
+**{{< hl-text orange>}}natural resource{{< /hl-text >}}**
 a biotic or abiotic resource that can be extracted from the environment in a unit process.
-**non-functional flow**
+**{{< hl-text orange>}}non-functional flow{{< /hl-text >}}**
 any of the flows of a unit process that are not the goal of that process, viz. product inflows, waste outflows and environmental interventions.
-**normalisation \***
-{{< hl-text orange>}}a step of Impact assessment in which the indicator results are expressed relative to well-defined reference information, e.g. relative to the indicator results for global interventions in 1995. {{< /hl-text >}}
-**normalisation factor**
+**{{< hl-text orange>}}normalisation \*{{< /hl-text >}}**
+{{< hl-text blue>}}a step of Impact assessment in which the indicator results are expressed relative to well-defined reference information, e.g. relative to the indicator results for global interventions in 1995. {{< /hl-text >}}
+**{{< hl-text orange>}}normalisation factor{{< /hl-text >}}**
 the reciprocal of the indicator result for a particular impact category and reference system; used in the normalisation step.
-**normalisation result**
+**{{< hl-text orange>}}normalisation result{{< /hl-text >}}**
 → normalised environmental profile
-**normalised environmental profile**
+**{{< hl-text orange>}}normalised environmental profile{{< /hl-text >}}**
 the result of the normalisation step: a table showing the normalised indicator results for all the selected impact categories, supplemented by any other relevant information.
-**normalised indicator result**
+**{{< hl-text orange>}}normalised indicator result{{< /hl-text >}}**
 the numerical result of normalisation for a particular impact category, e.g. 0.02 yr for climate change.
-**open loop recycling \***
-{{< hl-text orange>}}Recycling of material generated in one product system in a different product system.{{< /hl-text >}}
-**optional extension**
+**{{< hl-text orange>}}open loop recycling \*{{< /hl-text >}}**
+{{< hl-text blue>}}Recycling of material generated in one product system in a different product system.{{< /hl-text >}}
+**{{< hl-text orange>}}optional extension{{< /hl-text >}}**
 an option for enhancing the quality of a detailed LCA to address any obvious shortcomings.
-**outflow**
+**{{< hl-text orange>}}outflow{{< /hl-text >}}**
 → output
-**output**
+**{{< hl-text orange>}}output{{< /hl-text >}}**
 an economic flow (e.g. energy, waste for treatment) or environmental intervention (e.g. pollutant or noise emission) modeled as ‘leaving’ a unit process (adapted from ISO)
-**perturbation analysis** /ˌpɜːtəˈbeɪʃən/
-{{< hl-text orange>}}a step of the Interpretation phase to identify any process data in which minor changes may significantly alter the inventory table, the (normalised) environmental profile or the weighting result, to identify efficient options for product improvement or to focus attention on sensitive items.{{< /hl-text >}}
-**phase**
+**{{< hl-text orange>}}perturbation analysis{{< /hl-text >}}** /ˌpɜːtəˈbeɪʃən/
+{{< hl-text blue>}}a step of the Interpretation phase to identify any process data in which minor changes may significantly alter the inventory table, the (normalised) environmental profile or the weighting result, to identify efficient options for product improvement or to focus attention on sensitive items.{{< /hl-text >}}
+**{{< hl-text orange>}}phase{{< /hl-text >}}**
 any of the four basic elements of an LCA, viz. Goal and scope definition, Inventory analysis, Impact assessment and Interpretation.
-**pollution**
+**{{< hl-text orange>}}pollution{{< /hl-text >}}**
 a change in the state of the environment due to emissions.
-**practitioner \***
+**{{< hl-text orange>}}practitioner \*{{< /hl-text >}}**
 an individual group or organisation conducting an LCA.
-**primary function**
+**{{< hl-text orange>}}primary function{{< /hl-text >}}**
 the main function delivered by the product system under study.
-**problem-oriented approach**
+**{{< hl-text orange>}}problem-oriented approach{{< /hl-text >}}**
 definition of category indicators close to environmental interventions.
-**procedure**
+**{{< hl-text orange>}}procedure{{< /hl-text >}}**
 the rules and arrangements adopted to manage an LCA study.
-**process**
+**{{< hl-text orange>}}process{{< /hl-text >}}**
 → unit process
 see also: environmental process
-**product**
+**{{< hl-text orange>}}product{{< /hl-text >}}**
 a positively valued economic flow of goods, materials, energy or services produced in a unit process and possibly serving as an input to another unit process.
-**product system \***
+**{{< hl-text orange>}}product system \*{{< /hl-text >}}**
 {{< hl-text orange>}}a set of unit processes interlinked by material, energy, product, waste or service flows and performing one or more defined functions.{{< /hl-text >}}
-**proportional modeling**
+**{{< hl-text orange>}}proportional modeling{{< /hl-text >}}**
 a type of modeling whereby changes in inputs and outputs are modeled proportionally (e.g. equal attribution to all passengers of the increase in power consumption needed for transporting one additional passenger). Note: use of the word proportional (and average) is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details
-**prospective LCA**
+**{{< hl-text orange>}}prospective LCA{{< /hl-text >}}**
 → change-oriented LCA
-**ranking \***
+**{{< hl-text orange>}}ranking \*{{< /hl-text >}}**
 a grouping method whereby impact categories are hierarchically ranked (e.g. high, medium, and low priority), applying value choices.
-**recycling**
+**{{< hl-text orange>}}recycling{{< /hl-text >}}**
 {{< hl-text orange>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
-**reference flow**
+**{{< hl-text orange>}}reference flow{{< /hl-text >}}**
 {{< hl-text orange>}}quantified flow generally connected to the use phase of a product system and representing one way (i.e. by a specific product alternative) of obtaining the functional unit. {{< /hl-text >}}
-**release**
+**{{< hl-text orange>}}release**
 → emission
-**retrospective LCA**
+**{{< hl-text orange>}}retrospective LCA{{< /hl-text >}}**
 → descriptive LCA
-**sensitivity and uncertainty analysis**
+**{{< hl-text orange>}}sensitivity and uncertainty analysis{{< /hl-text >}}**
 {{< hl-text orange>}}a step of the Interpretation phase to assess the robustness of the overall LCA results with respect to variations and uncertainties in the methods and data used. {{< /hl-text >}}
-**sensitivity check \***
+**{{< hl-text orange>}}sensitivity check \*{{< /hl-text >}}**
 an ISO step included in this Guide as part of sensitivity and uncertainty analysis.
-**simplified LCA**
+**{{< hl-text orange>}}simplified LCA{{< /hl-text >}}**
 a simplified variety of detailed LCA conducted according to guidelines not in full compliance with the ISO 1404X standards and representative of studies typically requiring from 1 to 20 person-days of work.
-**sorting \***
+**{{< hl-text orange>}}sorting \*{{< /hl-text >}}**
 a grouping method whereby impact categories are sorted on a nominal basis, e.g. by characteristics such as emissions and resource use, or global, regional and local spatial scales.
-**stakeholder \***
+**{{< hl-text orange>}}stakeholder \*{{< /hl-text >}}**
 an individual group or organisation concerned about or affected by the environmental performance of a product system or the outcome of an LCA. Note: the LCA commissioner is also a stakeholder.
-**step**
+**{{< hl-text orange>}}step{{< /hl-text >}}**
 a discrete element of any of the four phases of an LCA; some steps (e.g. data format, calculation method) are areas of concern rather than actions.
-**subcategory**
+**{{< hl-text orange>}}subcategory{{< /hl-text >}}**
 a subdivision of an impact category, e.g. freshwater aquatic ecotoxicity as a subcategory of ecotoxicity.
-**system boundary \***
+**{{< hl-text orange>}}system boundary \*{{< /hl-text >}}**
 the interface between a product system and the environment system or other product systems.
-**third party \***
+**{{< hl-text orange>}}third party \*{{< /hl-text >}}**
 a critical reviewer or a stakeholder other than the LCA commissioner or practitioner.
-**transparency \***
+**{{< hl-text orange>}}transparency \*{{< /hl-text >}}**
 open, comprehensive and understandable presentation of information.
-**unit process \***
+**{{< hl-text orange>}}unit process \*{{< /hl-text >}}**
 {{< hl-text orange>}}the smallest portion of a product system for which data are collected in an LCA{{< /hl-text >}}.
-**use process**
+**{{< hl-text orange>}}use process{{< /hl-text >}}**
 {{< hl-text orange>}}a unit process in which the final product is consumed, thereby delivering the function under study. {{< /hl-text >}}
-**waste (for treatment)**
+**{{< hl-text orange>}}waste (for treatment){{< /hl-text >}}**
 An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text orange>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
-**weighting \***
+**{{< hl-text orange>}}weighting \*{{< /hl-text >}}**
 a step of Impact assessment in which the (normalised) indicator results for each impact category assessed are assigned numerical factors according to their relative importance, multiplied by these factors and possibly aggregated; {{< hl-text orange>}}weighting is based on value-choices (e.g. monetary values, standards, expert panel). {{< /hl-text >}}
-**weighting factor**
+**{{< hl-text orange>}}weighting factor**
 a factor obtained with a weighting method and used to express a particular (normalised) indicator result in terms of the common unit of the weighting result.
-**weighting profile \***
+**{{< hl-text orange>}}weighting profile \*{{< /hl-text >}}**
 the result of the weighting step: a table showing all the weighting results, supplemented by any other relevant information.
-**weighting result**
+**{{< hl-text orange>}}weighting result{{< /hl-text >}}**
 the numerical part of the result of weighting and aggregation of all (normalised) indicator results, e.g. 0.08 yr (note: the result may be expressed as more than one numerical value)
 
 **Figure 1: Basic structure of a unit process (or product system) in terms of its inputs and outputs.**
