@@ -453,7 +453,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161422282-bb8ba0fb-14b2-4562-a030-5c7d05fab963.jpg">}}
 
-**flow diagram**: a graphic representation of the interlinked unit processes comprising the product system.
+**Flow diagram**: a graphic representation of the interlinked unit processes comprising the product system.
 
 **Foreground system/process**: a system or process for which {{< hl-text blue>}}primary, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
 
