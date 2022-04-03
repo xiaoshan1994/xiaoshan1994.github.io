@@ -128,7 +128,7 @@ Don’t forget to add how you solved the multifunctionality of these processes a
 Jeroen B. Guinée
 Environ. Sci. Technol. September 2, 2010
 * The study of environmental impacts of consumer products has a history that dates back to the 1960s and 1970s. Especially in a comparative context (“Is product A better than product B?”).
-### The Past of LCA (1970−2000)
+## The Past of LCA (1970−2000)
 1970−1990: Decades of Conception
 
 * One of the first (unfortunately unpublished) studies quantifying the resource requirements, emission loadings, and waste flows of different beverage containers was conducted by Midwest Research Institute (MRI) for the Coca Cola Company in 1969.
@@ -140,11 +140,11 @@ Environ. Sci. Technol. September 2, 2010
 
 ![image](https://user-images.githubusercontent.com/65668613/160800982-ca2b675a-87f9-4435-9060-33acdd3af9cf.png)
 
-### The Present of LCA: Decade of Elaboration
+## The Present of LCA: Decade of Elaboration
 Diverging approaches have been developed with respect to system boundaries and allocation methods, dynamic LCA, spatially differentiated LCA, risk-based LCA, and environmental input-output based LCA (EIO-LCA) and hybrid LCA (69-71) that may have a tense relation with some of the basic principles of the ISO standards.
 
-### LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
-### Discussion
+## LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
+## Discussion
 # 3. LCA-PR_Glossary-Flowchart-Unitprocess
 ## Glossary
 From LCA Handbook (Guinée et al. 2002).
