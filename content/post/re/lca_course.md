@@ -454,7 +454,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161422282-bb8ba0fb-14b2-4562-a030-5c7d05fab963.jpg">}}
 
-**Foreground system/process**: a system or process for which {{< hl-text blue>}}primary{{< /hl-text >}}, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
+**Foreground system/process**: a system or process for which {{< hl-text blue>}}primary, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
 
 **Background system/process**: a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references, estimated data based on input-output analysis, are used in an LCA.
 
