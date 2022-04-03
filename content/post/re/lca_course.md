@@ -382,7 +382,7 @@ see also: environmental process
 **{{< hl-text orange>}}product{{< /hl-text >}}**
 a positively valued economic flow of goods, materials, energy or services produced in a unit process and possibly serving as an input to another unit process.
 **{{< hl-text orange>}}product system \*{{< /hl-text >}}**
-{{< hl-text orange>}}a set of unit processes interlinked by material, energy, product, waste or service flows and performing one or more defined functions.{{< /hl-text >}}
+{{< hl-text blue>}}a set of unit processes interlinked by material, energy, product, waste or service flows and performing one or more defined functions.{{< /hl-text >}}
 **{{< hl-text orange>}}proportional modeling{{< /hl-text >}}**
 a type of modeling whereby changes in inputs and outputs are modeled proportionally (e.g. equal attribution to all passengers of the increase in power consumption needed for transporting one additional passenger). Note: use of the word proportional (and average) is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details
 **{{< hl-text orange>}}prospective LCA{{< /hl-text >}}**
@@ -390,15 +390,15 @@ a type of modeling whereby changes in inputs and outputs are modeled proportiona
 **{{< hl-text orange>}}ranking \*{{< /hl-text >}}**
 a grouping method whereby impact categories are hierarchically ranked (e.g. high, medium, and low priority), applying value choices.
 **{{< hl-text orange>}}recycling{{< /hl-text >}}**
-{{< hl-text orange>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
+{{< hl-text blue>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
 **{{< hl-text orange>}}reference flow{{< /hl-text >}}**
-{{< hl-text orange>}}quantified flow generally connected to the use phase of a product system and representing one way (i.e. by a specific product alternative) of obtaining the functional unit. {{< /hl-text >}}
+{{< hl-text blue>}}quantified flow generally connected to the use phase of a product system and representing one way (i.e. by a specific product alternative) of obtaining the functional unit. {{< /hl-text >}}
 **{{< hl-text orange>}}release**
 → emission
 **{{< hl-text orange>}}retrospective LCA{{< /hl-text >}}**
 → descriptive LCA
 **{{< hl-text orange>}}sensitivity and uncertainty analysis{{< /hl-text >}}**
-{{< hl-text orange>}}a step of the Interpretation phase to assess the robustness of the overall LCA results with respect to variations and uncertainties in the methods and data used. {{< /hl-text >}}
+{{< hl-text blue>}}a step of the Interpretation phase to assess the robustness of the overall LCA results with respect to variations and uncertainties in the methods and data used. {{< /hl-text >}}
 **{{< hl-text orange>}}sensitivity check \*{{< /hl-text >}}**
 an ISO step included in this Guide as part of sensitivity and uncertainty analysis.
 **{{< hl-text orange>}}simplified LCA{{< /hl-text >}}**
@@ -418,9 +418,9 @@ a critical reviewer or a stakeholder other than the LCA commissioner or practiti
 **{{< hl-text orange>}}transparency \*{{< /hl-text >}}**
 open, comprehensive and understandable presentation of information.
 **{{< hl-text orange>}}unit process \*{{< /hl-text >}}**
-{{< hl-text orange>}}the smallest portion of a product system for which data are collected in an LCA{{< /hl-text >}}.
+{{< hl-text blue>}}the smallest portion of a product system for which data are collected in an LCA{{< /hl-text >}}.
 **{{< hl-text orange>}}use process{{< /hl-text >}}**
-{{< hl-text orange>}}a unit process in which the final product is consumed, thereby delivering the function under study. {{< /hl-text >}}
+{{< hl-text blue>}}a unit process in which the final product is consumed, thereby delivering the function under study. {{< /hl-text >}}
 **{{< hl-text orange>}}waste (for treatment){{< /hl-text >}}**
 An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text orange>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
 **{{< hl-text orange>}}weighting \*{{< /hl-text >}}**
