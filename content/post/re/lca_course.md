@@ -285,7 +285,7 @@ a step of Impact assessment in which impact categories are aggregated in one or 
 the third phase of an LCA, concerned with understanding and evaluating the magnitude and significance of the potential environmental impacts of the product system(s) under study.
 **{{< hl-text orange>}}impact category \*{{< /hl-text >}}**
 a class representing environmental issues of concern to which environmental interventions are assigned, e.g. climate change, loss of biodiversity
-**{{< hl-text orange>}}impact score**
+**{{< hl-text orange>}}impact score{{< /hl-text >}}**
 → indicator result
 **{{< hl-text orange>}}indicator result \*{{< /hl-text >}}**
 the numerical result of the characterisation step for a particular impact category, e.g. 12 kg CO2-equivalents for climate change.
