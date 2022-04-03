@@ -461,17 +461,17 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 **Background processes**: can also be depicted with arrows only (thus no boxes); the advantage is that diagrams get less cluttered; the disadvantage that the information on the producing activity is lost; the choice is yours; you do not need to report all inputs from background processes, but only those that are important for your system.
 
-**Environmental flows**: While these are part of unit processes, they are typically not shown in flowcharts.
+**{{< hl-text orange>}}Environmental flows{{< /hl-text >}}**: While these are part of unit processes, they are typically not shown in flowcharts.
 
-**Fore- vs. Background systems**: FG is what you model yourself (also when you adapt background processes); background processes are “untouched” from an LCI database untouched” from an LCI database.
+**{{< hl-text orange>}}Fore- vs. Background systems{{< /hl-text >}}**: FG is what you model yourself (also when you adapt background processes); background processes are “untouched” from an LCI database untouched” from an LCI database.
 
-**Cut-offs**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to cut cut-offs also reference flows and co-products will leave the SB.
+**{{< hl-text orange>}}Cut-offs{{< /hl-text >}}**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to cut cut-offs also reference flows and co-products will leave the SB.
 
-**Multifunctionality**: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
+**{{< hl-text orange>}}Multifunctionality**{{< /hl-text >}}: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
 
-**multifunctional process**: a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
+**{{< hl-text orange>}}multifunctional process**{{< /hl-text >}}: a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
 
-**multifunctionality and allocation \***: a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes.
+**{{< hl-text orange>}}multifunctionality and allocation \***{{< /hl-text >}}: a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes.
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
