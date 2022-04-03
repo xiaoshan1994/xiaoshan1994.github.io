@@ -15,8 +15,8 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
-# 2122-S1 LCA Practice & Reporting - Theory Week: Lectures
-## 1. Introduction LCA-PR
+2122-S1 LCA Practice & Reporting - Theory Week: Lectures
+# 1. Introduction LCA-PR
 
 **Overall aim**: provide sufficient scientific basis and practical skills to perform an attributional life cycle assessment (ALCA) study.
 
@@ -34,15 +34,15 @@ literature review
 
 Proposals should demonstrate the {{< hl-text blue>}}environmental relevance{{< /hl-text >}} of the chosen case study with existing literature as well as provide {{< hl-text blue>}}justification{{< /hl-text >}} for the use of LCA in their specific applications. The goal of the research proposal is for students to formulate the research question (including a hot spot analysis), identify challenges and make a work plan.
 
-### Research proposal requirements and guidelines
+## Research proposal requirements and guidelines
 
 As preparation for drafting the research proposal, students are required to read the article by Hengl and Gould (2002): https://www.itc.nl/library/papers/hengl_rules.pdf. Proposals are graded according to how well the student follows the requirements below.
 
-### Format and submission requirements:
+## Format and submission requirements:
 • Proposals must be submitted through Brightspace (Leiden) / Assignments (use the similarity check to resolve any outstanding issues prior to the due date).
 • Max. 2000 words including a maximum 300 words abstract, Tables, Figures, frontpages, etc., while excluding only references and appendices.
 
-### Content requirements:
+## Content requirements:
 • **Title** and **student name**
 • **Abstract** (300 words): Define the research question(s), propose an LCA case study, describe the scope and discuss your approach. Tell us why the case study is important and why a life cycle approach is necessary. The abstract at this point should make your audience want to know more about your study without necessarily having the final results.
 • **Introduction** (problem statement, literature review, research question, …. ): Include background information, previous research on the topic (including LCA literature). Here, you will use existing literature (at least 2 reference LCA studies) to construct the problem statement and identify a knowledge gap. For example, “all studies so far focus on the comparative advantages at the use phase, while neglecting manufacturing and processing which may not compensate for gains in efficiency. This study takes a life cycle approach to evaluate the systemic environmental implications of A and B and determine if there is an environmental advantage to either one. Moreover, hot spots are identified for both alternatives”.
@@ -54,19 +54,19 @@ As preparation for drafting the research proposal, students are required to read
 • **Planning**: Provide a schedule for the work plan. This should include all phases of LCA as presented during the Theory Week as well as the milestones (assignments) and possible periods that you will not be able to work on your case study.
 • **References**: Use the format of the Journal of Industrial Ecology (Harvard style) to organize your references (https://jie.yale.edu/jie-style-guide-accepted-manuscripts) and/or use a reference manager using the correct (JIE) export settings or Word import settings. Include relevant and sufficient
 
-### Advice
+## Advice
 Use the theory week to think, talk and discuss your ideas with the group;
 Use the terminology you learned during the theory week (glossary);
 Time is limited, focus on the course requirements and don’t set your additional requirements too high. For example, leave the “Life Cycle Stage contribution analysis” for the end.
 While waiting for our feedback you can already start doing your research, use all the time you have.
 
-**Assignment 2: Presentation**
-**Assignment 3: Final report**
+## **Assignment 2: Presentation**
+## **Assignment 3: Final report**
 For the LCA-PR course the student is expected to perform a methodologically consistent and proper LCA case study based on what has been taught during the Theory Week. The student needs to submit a properly structured and type-written report, along with the CMLCA-file (‘model’) that is created for the LCA study. Through the report and the CMLCA-file, the student should convince the course instructors that (s)he understands the LCA theory, how to apply the theory in practice in a case study, and how to interpret an LCA study’s results taking into account the proper use and constraints of LCA.
 
 The results of the case study performed during the course cannot generally classify as a full LCA. Instead, this is more of an educational exercise. Please have this in mind when performing your case study.
 
-**Model requirements (Mandatory!):**
+## **Model requirements (Mandatory!):**
 
 In addition to the use of the background ecoinvent v3.4 database, the student should model (in CMLCA) at least 5 foreground unit processes including:
 
@@ -80,12 +80,12 @@ The closed loop process also needs allocation but this does NOT count as the mul
 
 Next to the modeling the work should also include a comparison of (at least) two product alternatives, a full impact assessment (not just a couple of impact categories) selecting two families (at least the PEF as baseline, and the CML or ReCiPe family as sensitivity analysis), at least two types of contribution analysis (applying the built-in functions of CMLCA, e.g., at the level of process contributions to category indicator results and at the level of process-emissions contributing to category indicator results for all impact categories, optionally grouping processes manually into stages (which is not the same as a contribution analysis by life cycle stage (LCS or ‘big ship’ analysis), etc.; applying the LCS (or ‘big ship’) contribution analysis is optional, not (!!) mandatory but can deliver extra points when properly performed) and several sensitivity analyses (at least three: one on allocation (see above), one on characterization families (see above); and one free choice, preferably based and justified by your contribution analysis results). Finally, the student should report in a short table how these model requirements have been dealt with in the report.
 
-### Reporting
+## Reporting
 Students should use the mandatory report lay-out presented below. Next to that the ISO 14040 guidelines should be followed to report the LCA work done. Additional guidance on reporting can be found in the Handbook on LCA, which includes elaborated reporting guidelines on the basis of these ISO reporting guidelines. It is strongly recommended to use the Handbook for this. The abstract should not exceed 300 words. The main report should not exceed 6000 words (no range; 6000 is the limit), including Tables, Figures, frontpages, etc., while excluding only references and appendices. but excluding references and supporting information. Any text beyond 6000 words will not be taken into account for grading, although appendix/appendices may be provided in which the student provides supporting information (no page limit). Don’t forget to insert page numbers in your report! Data reporting is crucial! Students should use the CMLCA unit process data format to present the data for their foreground processes, and in the main report and appendices (supporting information) they should clearly document how they got from the raw literature/internet data to the eventual unit process data implemented in their CMLCA file, including all assumptions, calculations and sources used.
 
 Finally, you need to carefully think what to put in the main report with the word limit, and what to put in Appendices. You cannot "outsource" important information to the annexes. All important information needs to be in the main text, and appendices should be made for the inventory table, classification tables and further detailing of information (e.g., of process data) included in the main report. Teachers should be basically able to understand your case study, assumptions, data, results etc. by reading the main report only.
 
-### Mandatory report lay-out
+## Mandatory report lay-out
 
 All points below should be addressed in your final report. You can add other topics (for example, contribution analysis by life cycle phase and/or uncertainty analysis) but these need to be covered at the correct location in your report according to the ISO14040 structure and the LCA Handbook. Instructions on how to describe specific topics can be found in the LCA Handbook.
 
@@ -123,7 +123,7 @@ Don’t forget to add how you solved the multifunctionality of these processes a
 10. Conclusions and recommendations
 11. References: Use the format of the Journal of Industrial Ecology (Harvard style) to organize your references (https://jie.yale.edu/jie-style-guide-accepted-manuscripts) and/or use a reference manager using the correct (JIE) export setting or Word import settings. Include relevant and sufficient references.
 12. Appendices / Supporting information
-## 2. LCA-PR_History_of_LCA
+# 2. LCA-PR_History_of_LCA
 [Life Cycle Assessment: Past, Present, and Future](https://pubs.acs.org/doi/10.1021/es101316v)
 Jeroen B. Guinée
 Environ. Sci. Technol. September 2, 2010
@@ -145,8 +145,8 @@ Diverging approaches have been developed with respect to system boundaries and a
 
 ### LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
 ### Discussion
-## 3. LCA-PR_Glossary-Flowchart-Unitprocess
-### Glossary
+# 3. LCA-PR_Glossary-Flowchart-Unitprocess
+## Glossary
 From LCA Handbook (Guinée et al. 2002).
 This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (\*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
 indicated by an arrow (→), point to the preferred terms used in the LCA Handbook.
@@ -451,7 +451,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 **Figure 2: Main sequence of phases and steps of an LCA, as set out in this Guide, showing respective results. Phases (in capitals) and steps (lower case) are shown as grey boxes, results as white ‘forms’. The dashed line around ‘weighting’ indicates that this is an optional step which according to ISO 14042 “shall not be used for comparative assertions disclosed to the public”.**
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png" >}}
 
-### Flowchart
+## Flowchart
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161421653-86e4c7a2-9c30-4ca8-904d-eb8d3e44ae9f.png">}}
 
