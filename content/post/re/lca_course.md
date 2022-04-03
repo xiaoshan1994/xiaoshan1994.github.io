@@ -138,7 +138,7 @@ Environ. Sci. Technol. September 2, 2010
 * The period of 1990−2000 can therefore be characterized as a period of convergence through SETAC’s coordination (“Code of Practice”) and ISO’s standardization activities (1994)
 * A key result of ISO’s standardization work has been the definition of a general methodological framework.
 
-![image](https://user-images.githubusercontent.com/65668613/160800982-ca2b675a-87f9-4435-9060-33acdd3af9cf.png
+![image](https://user-images.githubusercontent.com/65668613/160800982-ca2b675a-87f9-4435-9060-33acdd3af9cf.png)
 
 ### The Present of LCA: Decade of Elaboration
 Diverging approaches have been developed with respect to system boundaries and allocation methods, dynamic LCA, spatially differentiated LCA, risk-based LCA, and environmental input-output based LCA (EIO-LCA) and hybrid LCA (69-71) that may have a tense relation with some of the basic principles of the ISO standards.
