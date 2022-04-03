@@ -422,9 +422,9 @@ open, comprehensive and understandable presentation of information.
 **{{< hl-text orange>}}use process{{< /hl-text >}}**
 {{< hl-text blue>}}a unit process in which the final product is consumed, thereby delivering the function under study. {{< /hl-text >}}
 **{{< hl-text orange>}}waste (for treatment){{< /hl-text >}}**
-An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text orange>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
+An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text blue>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
 **{{< hl-text orange>}}weighting \*{{< /hl-text >}}**
-a step of Impact assessment in which the (normalised) indicator results for each impact category assessed are assigned numerical factors according to their relative importance, multiplied by these factors and possibly aggregated; {{< hl-text orange>}}weighting is based on value-choices (e.g. monetary values, standards, expert panel). {{< /hl-text >}}
+a step of Impact assessment in which the (normalised) indicator results for each impact category assessed are assigned numerical factors according to their relative importance, multiplied by these factors and possibly aggregated; {{< hl-text blue>}}weighting is based on value-choices (e.g. monetary values, standards, expert panel). {{< /hl-text >}}
 **{{< hl-text orange>}}weighting factor**
 a factor obtained with a weighting method and used to express a particular (normalised) indicator result in terms of the common unit of the weighting result.
 **{{< hl-text orange>}}weighting profile \*{{< /hl-text >}}**
