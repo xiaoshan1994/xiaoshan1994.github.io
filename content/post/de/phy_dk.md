@@ -43,4 +43,10 @@ nature—spontaneously and intuitively. That in turn entails acting without desi
 # Number is the ruler of forms and ideas Pythagoras C.570 - 495 BCE
 /pai'θæɡəræs/ 毕达哥拉斯
 
-Pythagoras’s Theorem showed that shapes and ratios are governed by principles that can be discovered. This suggested that it might be possible, in time, to work out the structure of the entire cosmos.
+Pythagoras was also, however, a deeply religious and superstitious man. He believed in {{< hl-text blue>}}reincarnation /ˌriːɪnkɑː'neɪʃ(ə)n/ and the transmigration of souls{{< /hl-text >}}, and he established a religious cult, with himself cast as a virtual messiah, in Croton, southern Italy. His disciples lived in a collective commune, following strict behavioral and dietary rules, while studying his religious and philosophical theories.
+
+Pythagoras’s Theorem showed that shapes and ratios are governed by principles that can be discovered. This suggested that it might be possible, in time, to work out the structure of the entire cosmos. He does not totally dismiss the Milesian idea that the universe is made up of one fundamental substance, but he shifts the enquiry from substance to form.
+
+Pythagoras also established the principle of deductive reasoning (演绎推理), which is the step-by-step process of starting with self-evident axioms /ˈæksiəm/ (such as “2 + 2 = 4”) to build toward a new conclusion or fact. Deductive reasoning was later reﬁned by Euclid /ˈju:klid/, and it formed the basis of mathematical thinking into medieval times and beyond. 
+
+One of Pythagoras’s most important contributions to the development of philosophy was the idea that abstract thinking is superior to the evidence of the senses.
