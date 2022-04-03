@@ -454,10 +454,21 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161422282-bb8ba0fb-14b2-4562-a030-5c7d05fab963.jpg">}}
 
-Foreground system/process: a system or process for which {{< hl-text blue>}}primary{{< /hl-text >}}, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
-Background system/process: a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references, estimated data based on input-output analysis, are used in an LCA.
+**Foreground system/process**: a system or process for which {{< hl-text blue>}}primary{{< /hl-text >}}, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
 
+**Background system/process**: a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references, estimated data based on input-output analysis, are used in an LCA.
 
+**Background processes**: can also be depicted with arrows only (thus no boxes); the advantage is that diagrams get less cluttered; the disadvantage that the information on the producing activity is lost; the choice is yours; you do not need to report all inputs from background processes, but only those that are important for your system.
+
+**Environmental flows?**: While these are part of unit processes, they are
+typically not shown in flowcharts.
+
+**Fore- vs. Background systems**: FG is what you model yourself (also when you adapt background processes); background processes are “untouched” from an LCI database untouched” from an LCI database.
+
+**Cut-offs**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to cut cut-offs also
+reference flows and co-products will leave the SB.
+
+**Multifunctionality**: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
