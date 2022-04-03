@@ -146,7 +146,7 @@ Diverging approaches have been developed with respect to system boundaries and a
 ## LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
 ## Discussion
 # 3. LCA-PR_Glossary-Flowchart-Unitprocess
-## Glossary
+## 3.1 Glossary
 From LCA Handbook (Guinée et al. 2002).
 This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (\*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
 indicated by an arrow (→), point to the preferred terms used in the LCA Handbook.
@@ -451,7 +451,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 **Figure 2: Main sequence of phases and steps of an LCA, as set out in this Guide, showing respective results. Phases (in capitals) and steps (lower case) are shown as grey boxes, results as white ‘forms’. The dashed line around ‘weighting’ indicates that this is an optional step which according to ISO 14042 “shall not be used for comparative assertions disclosed to the public”.**
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png" >}}
 
-## Flowchart
+## 3.2 Flowchart
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161421653-86e4c7a2-9c30-4ca8-904d-eb8d3e44ae9f.png">}}
 
