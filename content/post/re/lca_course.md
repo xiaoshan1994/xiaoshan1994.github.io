@@ -467,7 +467,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 **{{< hl-text orange>}}Cut-offs{{< /hl-text >}}**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to {{< hl-text blue>}}cut-offs{{< /hl-text >}} also {{< hl-text blue>}}reference flows{{< /hl-text >}} and {{< hl-text blue>}}co-products{{< /hl-text >}} will leave the SB.
 
-**{{< hl-text orange>}}Multifunctionality**{{< /hl-text >}}: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
+**{{< hl-text orange>}}Multifunctionality{{< /hl-text >}}**: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
 
 **multifunctional process**: a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
 
