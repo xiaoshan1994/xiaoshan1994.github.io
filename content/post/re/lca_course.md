@@ -453,19 +453,22 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161422282-bb8ba0fb-14b2-4562-a030-5c7d05fab963.jpg">}}
 
-**Foreground system/process**: a system or process for which {{< hl-text blue>}}primary, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.
+**flow diagram**
+a graphic representation of the interlinked unit processes comprising the product system.
+
+{{< hl-text orange>}}**Foreground system/process**: a system or process for which {{< hl-text blue>}}primary, site-specific data{{< /hl-text >}} are used in an LCA, for whatever reason.{{< /hl-text >}}
 
 **Background system/process**: a system or process for which {{< hl-text blue>}}secondary data{{< /hl-text >}}, viz. databases, public references, estimated data based on input-output analysis, are used in an LCA.
 
-**Background processes**: can also be depicted with arrows only (thus no boxes); the advantage is that diagrams get less cluttered; the disadvantage that the information on the producing activity is lost; the choice is yours; you do not need to report all inputs from background processes, but only those that are important for your system.
+{{< hl-text orange>}}**Background processes**: can also be depicted with arrows only (thus no boxes); the advantage is that diagrams get less cluttered; the disadvantage that the information on the producing activity is lost; the choice is yours; you do not need to report all inputs from background processes, but only those that are important for your system.{{< /hl-text >}}
 
-**Environmental flows?**: While these are part of unit processes, they are typically not shown in flowcharts.
+{{< hl-text orange>}}**Environmental flows?**: While these are part of unit processes, they are typically not shown in flowcharts.{{< /hl-text >}}
 
 **Fore- vs. Background systems**: FG is what you model yourself (also when you adapt background processes); background processes are “untouched” from an LCI database untouched” from an LCI database.
 
-**Cut-offs**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to cut cut-offs also reference flows and co-products will leave the SB.
+{{< hl-text orange>}}**Cut-offs**: flows that are not considered in your system are described by entering or leaving the system boundaries. In addition to cut cut-offs also reference flows and co-products will leave the SB.{{< /hl-text >}}
 
-**Multifunctionality**: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.
+{{< hl-text orange>}}**Multifunctionality**: how co-products are dealt with does not need to be described at the level of the flowchart ( e.g. system expansion vs. allocation), but it is good to indicate such processes.{{< /hl-text >}}
 
 **multifunctional process**
 a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
