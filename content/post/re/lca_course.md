@@ -393,7 +393,7 @@ a grouping method whereby impact categories are hierarchically ranked (e.g. high
 {{< hl-text blue>}}a unit process, or set of processes, for collecting and/or treating waste from a unit process for useful application in the same or in a different product system (closed and open loop recycling, respectively).{{< /hl-text >}}
 **{{< hl-text orange>}}reference flow{{< /hl-text >}}**
 {{< hl-text blue>}}quantified flow generally connected to the use phase of a product system and representing one way (i.e. by a specific product alternative) of obtaining the functional unit. {{< /hl-text >}}
-**{{< hl-text orange>}}release**
+**{{< hl-text orange>}}release{{< /hl-text >}}**
 → emission
 **{{< hl-text orange>}}retrospective LCA{{< /hl-text >}}**
 → descriptive LCA
@@ -425,7 +425,7 @@ open, comprehensive and understandable presentation of information.
 An economic flow with a zero or negative value produced in a unit process and serving as an input to another unit process ({{< hl-text blue>}}note: materials such as waste paper and scrap metals with a positive economic, i.e. market value are thus not wastes but products{{< /hl-text >}}) (adapted from ISO).
 **{{< hl-text orange>}}weighting \*{{< /hl-text >}}**
 a step of Impact assessment in which the (normalised) indicator results for each impact category assessed are assigned numerical factors according to their relative importance, multiplied by these factors and possibly aggregated; {{< hl-text blue>}}weighting is based on value-choices (e.g. monetary values, standards, expert panel). {{< /hl-text >}}
-**{{< hl-text orange>}}weighting factor**
+**{{< hl-text orange>}}weighting factor{{< /hl-text >}}**
 a factor obtained with a weighting method and used to express a particular (normalised) indicator result in terms of the common unit of the weighting result.
 **{{< hl-text orange>}}weighting profile \*{{< /hl-text >}}**
 the result of the weighting step: a table showing all the weighting results, supplemented by any other relevant information.
