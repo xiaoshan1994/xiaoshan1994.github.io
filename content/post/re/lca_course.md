@@ -466,6 +466,24 @@ the numerical part of the result of weighting and aggregation of all (normalised
 
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161586200-d3271425-12d7-492a-b580-8f5f21a217ed.png">}}
 
+## 3.4 LCA-PR_GoalScopeDefinition_Part1-3
+### Part 1: ISO, GSD definition &ALCA vs. CLCA
+**LCA: ISO definition**
+Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
+
+Unresolved discussion on 2 modes of LCA:
+- attributional LCA (ALCA); impacts of current demand as it is (ceteris paribus)
+for the FU
+- consequential LCA (CLCA); impacts as consequence of a change in demand for
+the FU
+
+Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
+
+Consequential LCA (CLCA): to provide information on the environmental burdens that occur, directly or indirectly, as a consequence of a decision (usually represented by changes in demand for a product).
+
+Source: Section 1.5.2 of “Global Guidance Principles for Life Cycle Assessment Databases” (UNEP 2011)
+
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
