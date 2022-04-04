@@ -504,9 +504,20 @@ product system
 
 ![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png)
 
-Read more: [Digesting the alphabet soup of LCA](https://link.springer.com/article/10.1007/s11367-018-1478-0)
+{{< hl-text orange>}}Read more{{< /hl-text >}}: [Digesting the alphabet soup of LCA](https://link.springer.com/article/10.1007/s11367-018-1478-0)
 Jeroen B. Guinée
 The International Journal of Life Cycle Assessment, 2018
+
+Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory LCA (NLCA), Prospective LCA (PLCA), Scenario-based LCA (SLCA). 
+
+**Table 1 Examples of questions addressed by different modes of LCA**
+![image](https://user-images.githubusercontent.com/65668613/161623935-252e0283-05ae-405b-b604-9e7f9e233e2c.png)
+
+**Table 2 Key characteristics of modes of LCA**
+![image](https://user-images.githubusercontent.com/65668613/161624248-a4f3782e-a592-47eb-ba66-2faf7573daf5.png)
+
+
+
 
 
 
