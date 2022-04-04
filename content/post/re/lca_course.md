@@ -508,7 +508,7 @@ product system
 Jeroen B. Guinée
 The International Journal of Life Cycle Assessment, 2018
 
-Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory LCA (NLCA), Prospective LCA (PLCA), Scenario-based LCA (SLCA). 
+Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory LCA (NLCA), Prospective LCA (PLCA), Scenario-based LCA (SLCA).
 
 **Table 1 Examples of questions addressed by different modes of LCA**
 ![image](https://user-images.githubusercontent.com/65668613/161623935-252e0283-05ae-405b-b604-9e7f9e233e2c.png)
