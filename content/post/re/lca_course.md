@@ -479,7 +479,6 @@ the FU
 
 * Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
 * Consequential LCA (CLCA): to provide information on the environmental burdens that occur, directly or indirectly, as a consequence of a decision (usually represented by changes in demand for a product).
-
 Source: Section 1.5.2 of “Global Guidance Principles for Life Cycle Assessment Databases” (UNEP 2011)
 
 * CLCA differs in two ways from ALCA (Weidema, 2003):
@@ -497,14 +496,21 @@ product system
 --- [Source: JH Schmidt Int J Life Cycle Assess(15)2:183–197](https://link.springer.com/article/10.1007/s11367-009-0142-0)
 
 * However:
-- main body of knowledge (“95-99%”) is exactly the same for ALCA and CLCA;
-- our conviction that you can only learn and understand CLCA/ALCA if you first have good knowledge on LCA
-- there are many more (scenario-based) modes of LCA;
-- unclear as yet which questions are more appropriate for different modes of LCA;
-- there is no superior approach;
-- ……
+ - main body of knowledge (“95-99%”) is exactly the same for ALCA and CLCA;
+ - our conviction that you can only learn and understand CLCA/ALCA if you first have good knowledge on LCA
+ - there are many more (scenario-based) modes of LCA;
+ - unclear as yet which questions are more appropriate for different modes of LCA;
+ - there is no superior approach;
+ - ……
 
-![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png)
+![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png
+
+Read more: [Digesting the alphabet soup of LCA](https://link.springer.com/article/10.1007/s11367-018-1478-0)
+Jeroen B. Guinée
+The International Journal of Life Cycle Assessment, 2018
+
+
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
