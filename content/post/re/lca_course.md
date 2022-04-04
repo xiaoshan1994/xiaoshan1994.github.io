@@ -511,7 +511,16 @@ The International Journal of Life Cycle Assessment, 2018
 Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory LCA (NLCA), Prospective LCA (PLCA), Scenario-based LCA (SLCA).
 
 **Table 1 Examples of questions addressed by different modes of LCA**
-![image](https://user-images.githubusercontent.com/65668613/161623935-252e0283-05ae-405b-b604-9e7f9e233e2c.png)
+|  | Question | Reference |
+|---|---|---|
+| ALCA | What is the life-cycle impact of 1 kWh of electricity at grid in France in 2006? | (Frischknecht and Stucki 2010) |
+| BLCA | What is the maximum attainable affluence for the EU27 in 2020 and 2050 to meet related EU GHG target? | (Heijungs et al. 2014) |
+| CLCA | What are the consequences of an increased demand of wheat in Denmark? Which effect does the decision to purchase an additional kWh of electricity have on the electricity market and/or on the environmental impacts? | (Schmidt 2010) (Frischknecht and Stucki 2010) |
+| DLCA | Which effect does the decision to purchase an additional kWh of electricity have on the electricity market and/or on the environmental impacts? | (Frischknecht and Stucki 2010) |
+| ILCA | What are the system-wide life-cycle impacts of a specific energy transition? | (Hertwich et al. 2014) |
+| NLCA | What are the future environmental burdens associated with an emerging technology for both reasonable and extreme-case scenarios? | (Wender et al. 2014) |
+| PLCA | What are the environmental benefits and impacts of nanosilver T-shirts compared with conventional T-shirts and T-shirts treated with triclosan? | (Walser et al. 2011) |
+| SLCA | What is the best scenario for improving the life-cycle environmental performance of a car? | (Fukushima and Hirao 2002) |
 
 **Table 2 Key characteristics of modes of LCA**
 |  | Question addressed | Key method | Object of analysis | Scope |  |  | Other methods/models used | Allocation method |
@@ -526,6 +535,7 @@ Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory
 | PLCA | What are the expected environmental impacts of an emerging product system? | LCA | Emerging product system | Future | All | SDb and TI, F,B (optional) | Learning curves; technology and chemical models | Variable |
 | SLCA | What are the expected environmental impacts of a certain future scenario of a product system? | LCA | Emerging product system | Dynamic, from past to future | All | Calculated | Life-cycle modeling language | Variable |
 
+n.a. not applicable; product system (or technology system) a set of unit processes interlinked by material, energy, product, waste, or service flows and performing one or more defined functions (Guinée et al. 2002); SDb standard LCA data(bases), such as ecoinvent, GaBi, ILCD, and USDA; TI assumptions on technical improvements in key energy and material production technologies (Hertwich et al. 2014); F foreground processes; B background processes; CGEM computable and partial general equilibrium model; PGEM partial general equilibrium model; IAM integrated assessment model; LOM linear optimization model; All all processes included for supplying the functional unit; All sectors all industry sectors included for supplying the region’s/global consumption; Marginal processes actually affected by the decision; Market affected processes are determined by using market information and price elasticities; B2B affected processes are determined by factual or anticipated economic business-to-business relationship
 
 
 
