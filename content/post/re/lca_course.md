@@ -502,7 +502,7 @@ product system
   - there is no superior approach;
   - ……
 
-![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png
+![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png)
 
 Read more: [Digesting the alphabet soup of LCA](https://link.springer.com/article/10.1007/s11367-018-1478-0)
 Jeroen B. Guinée
