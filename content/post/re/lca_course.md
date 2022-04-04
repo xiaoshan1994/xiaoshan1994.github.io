@@ -487,6 +487,24 @@ Source: Section 1.5.2 of “Global Guidance Principles for Life Cycle Assessment
 - included processes are those which are expected to be affected by a change in demand, i.e. processes supplying the marginal product instead of processes supplying the average products used in ALCA models.
 [See also](https://consequential-lca.org/clca/marginal-suppliers/the-special-case-of-electricity/example-marginal-electricity-in-denmark/)
 
+* Several other modes of LCA exist to model life-cycle impacts of possible future product systems (Guinée et al. 2018)
+
+* ALCA & CLCA may show (highly) different results for the same
+product system
+- reason: (scenario-)assumptions !!
+
+> “[…] this article compares rapeseed oil and palm oil as a local and a global alternative for meeting the increasing demand for these products in the EU. By using detailed life cycle assessment (LCA), this study compares the environmental impacts and identifies alternative ways of producing rapeseed oil and palm oil to the EU market in order to reduce environmental impacts”. […] “Some, until recently, blind spots in agricultural LCAs are (1) the identification of the marginal/actually affected crops and regions, (2) the identification of how increased demand for an agricultural product is met and (3) avoided environmental interventions from transformation of non-productive land into agricultural land (Schmidt 2008a). Relating to (1), increased demand for rapeseed in the EU {{< hl-text blue>}}may{{< /hl-text >}} lead to either increased import or increased cultivation or a combination. {{< hl-text blue>}}If{{< /hl-text >}} cultivation is increased, it is important to clarify if this affects the area cultivated with other crops in the region. For example, in Denmark where the total agricultural area has been declining in the last decades, it is {{< hl-text blue>}}likely{{< /hl-text >}} that increased cultivation of rapeseed will cause less area available for other crops. Thus, the marginal crop will be displaced. {{< hl-text blue>}}If{{< /hl-text >}} it is {{< hl-text blue>}}assumed{{< /hl-text >}} that increased production of rapeseed does not affect the overall food security in the world, the displaced crop will be compensated for in the region representing the marginal supplier of that crop. Relating to (2), it is relevant to clarify {{< hl-text blue>}}if{{< /hl-text >}} increased agricultural production is met by increased yield or by increased area, i.e. transformation of non-productive land into agricultural land. This may include intermediate crop displacement; e.g. increased rapeseed in Denmark displaces barley; this ‘missing’ barley {{< hl-text blue>}}may{{< /hl-text >}} be produced in Canada either by intensification or by expanding the agricultural land. […]”
+- Source: JH Schmidt Int J Life Cycle Assess(15)2:183–197
+
+* However:
+- main body of knowledge (“95-99%”) is exactly the same for ALCA and CLCA;
+- our conviction that you can only learn and understand CLCA/ALCA if you first have good knowledge on LCA
+- there are many more (scenario-based) modes of LCA;
+- unclear as yet which questions are more appropriate for different modes of LCA;
+- there is no superior approach;
+- ……
+
+![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
