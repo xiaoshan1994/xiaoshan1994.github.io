@@ -472,9 +472,8 @@ the numerical part of the result of weighting and aggregation of all (normalised
 Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
 
 * Unresolved discussion on 2 modes of LCA:
-- attributional LCA (ALCA); impacts of current demand as it is (ceteris paribus)
-for the FU
-- consequential LCA (CLCA); impacts as consequence of a change in demand for
+  - attributional LCA (ALCA); impacts of current demand as it is (ceteris paribus) for the FU
+  - consequential LCA (CLCA); impacts as consequence of a change in demand for
 the FU
 
 * Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
@@ -482,26 +481,26 @@ the FU
 Source: Section 1.5.2 of “Global Guidance Principles for Life Cycle Assessment Databases” (UNEP 2011)
 
 * CLCA differs in two ways from ALCA (Weidema, 2003):
-- co-product allocation is avoided by system expansion instead of applying allocation factors; and
-- included processes are those which are expected to be affected by a change in demand, i.e. processes supplying the marginal product instead of processes supplying the average products used in ALCA models.
+  - co-product allocation is avoided by system expansion instead of applying allocation factors; and
+  - included processes are those which are expected to be affected by a change in demand, i.e. processes supplying the marginal product instead of processes supplying the average products used in ALCA models.
 [See also](https://consequential-lca.org/clca/marginal-suppliers/the-special-case-of-electricity/example-marginal-electricity-in-denmark/)
 
 * Several other modes of LCA exist to model life-cycle impacts of possible future product systems (Guinée et al. 2018)
 
 * ALCA & CLCA may show (highly) different results for the same
 product system
-- reason: (scenario-)assumptions !!
+  - reason: (scenario-)assumptions !!
 
 > “[…] this article compares rapeseed oil and palm oil as a local and a global alternative for meeting the increasing demand for these products in the EU. By using detailed life cycle assessment (LCA), this study compares the environmental impacts and identifies alternative ways of producing rapeseed oil and palm oil to the EU market in order to reduce environmental impacts”. […] “Some, until recently, blind spots in agricultural LCAs are (1) the identification of the marginal/actually affected crops and regions, (2) the identification of how increased demand for an agricultural product is met and (3) avoided environmental interventions from transformation of non-productive land into agricultural land (Schmidt 2008a). Relating to (1), increased demand for rapeseed in the EU {{< hl-text blue>}}may{{< /hl-text >}} lead to either increased import or increased cultivation or a combination. {{< hl-text blue>}}If{{< /hl-text >}} cultivation is increased, it is important to clarify if this affects the area cultivated with other crops in the region. For example, in Denmark where the total agricultural area has been declining in the last decades, it is {{< hl-text blue>}}likely{{< /hl-text >}} that increased cultivation of rapeseed will cause less area available for other crops. Thus, the marginal crop will be displaced. {{< hl-text blue>}}If{{< /hl-text >}} it is {{< hl-text blue>}}assumed{{< /hl-text >}} that increased production of rapeseed does not affect the overall food security in the world, the displaced crop will be compensated for in the region representing the marginal supplier of that crop. Relating to (2), it is relevant to clarify {{< hl-text blue>}}if{{< /hl-text >}} increased agricultural production is met by increased yield or by increased area, i.e. transformation of non-productive land into agricultural land. This may include intermediate crop displacement; e.g. increased rapeseed in Denmark displaces barley; this ‘missing’ barley {{< hl-text blue>}}may{{< /hl-text >}} be produced in Canada either by intensification or by expanding the agricultural land. […]”
 --- [Source: JH Schmidt Int J Life Cycle Assess(15)2:183–197](https://link.springer.com/article/10.1007/s11367-009-0142-0)
 
 * However:
- - main body of knowledge (“95-99%”) is exactly the same for ALCA and CLCA;
- - our conviction that you can only learn and understand CLCA/ALCA if you first have good knowledge on LCA
- - there are many more (scenario-based) modes of LCA;
- - unclear as yet which questions are more appropriate for different modes of LCA;
- - there is no superior approach;
- - ……
+  - main body of knowledge (“95-99%”) is exactly the same for ALCA and CLCA;
+  - our conviction that you can only learn and understand CLCA/ALCA if you first have good knowledge on LCA
+  - there are many more (scenario-based) modes of LCA;
+  - unclear as yet which questions are more appropriate for different modes of LCA;
+  - there is no superior approach;
+  - ……
 
 ![image](https://user-images.githubusercontent.com/65668613/161620980-af29d664-d1e9-473e-be6f-1dabf5d58d49.png
 
