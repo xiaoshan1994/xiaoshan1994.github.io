@@ -514,7 +514,7 @@ Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory
 ![image](https://user-images.githubusercontent.com/65668613/161623935-252e0283-05ae-405b-b604-9e7f9e233e2c.png)
 
 **Table 2 Key characteristics of modes of LCA**
-| Scope                        |                  |                             | Other methods/models used                       | Allocation method |
+|      | Question addressed | Key method | Object of analysis   | Scope    | | | Other methods/models used | Allocation method |
 |------|---------------------------------------------------------------------------------------------------------------------------------------|------------|-----------------------------------------------------------------------|------------------------------|------------------|-----------------------------|-------------------------------------------------|-------------------|
 |      |                                                                                                                                       |            |                                                                       | Temporal                     | Processes        | Data                        |                                                 |                   |
 | ALCA | What are the environmental impacts of a product system as it currently functions?                                                     | LCA        | Commercially existing product system; as it is or was                 | Present, past                | All              | SDb                         | n.a.                                            | Variable          |
