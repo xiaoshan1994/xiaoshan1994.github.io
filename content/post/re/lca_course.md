@@ -471,17 +471,21 @@ the numerical part of the result of weighting and aggregation of all (normalised
 **LCA: ISO definition**
 Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
 
-Unresolved discussion on 2 modes of LCA:
+* Unresolved discussion on 2 modes of LCA:
 - attributional LCA (ALCA); impacts of current demand as it is (ceteris paribus)
 for the FU
 - consequential LCA (CLCA); impacts as consequence of a change in demand for
 the FU
 
-Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
-
-Consequential LCA (CLCA): to provide information on the environmental burdens that occur, directly or indirectly, as a consequence of a decision (usually represented by changes in demand for a product).
+* Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
+* Consequential LCA (CLCA): to provide information on the environmental burdens that occur, directly or indirectly, as a consequence of a decision (usually represented by changes in demand for a product).
 
 Source: Section 1.5.2 of “Global Guidance Principles for Life Cycle Assessment Databases” (UNEP 2011)
+
+* CLCA differs in two ways from ALCA (Weidema, 2003):
+- co-product allocation is avoided by system expansion instead of applying allocation factors; and
+- included processes are those which are expected to be affected by a change in demand, i.e. processes supplying the marginal product instead of processes supplying the average products used in ALCA models.
+[See also](https://consequential-lca.org/clca/marginal-suppliers/the-special-case-of-electricity/example-marginal-electricity-in-denmark/)
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
