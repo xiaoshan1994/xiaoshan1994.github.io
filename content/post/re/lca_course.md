@@ -335,8 +335,7 @@ the ecological structures and processes that sustain the productivity, adaptabil
 **{{< hl-text orange>}}marginal modeling{{< /hl-text >}}**
 a type of modeling whereby changes in inputs and outputs are modeled on a marginal basis (e.g. full attribution to one additional train passenger of the extra power consumption required for transporting that passenger). Note: use of the word marginal is sometimes ambiguous; see section 1.2.3.4 of Part 3 for more details.
 **{{< hl-text orange>}}midpoint approach{{< /hl-text >}}**
-→ problem-oriented approachengro
-**{{< hl-text orange>}}multifunctional process{{< /hl-text >}}**
+→ problem-oriented approachengroMerijn Tinga
 a unit process yielding more than one functional flow, e.g. co-production, combined waste processing, recycling.
 **{{< hl-text orange>}}multifunctionality and allocation \*{{< /hl-text >}}**
 {{< hl-text blue>}}a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes. {{< /hl-text >}}
@@ -467,7 +466,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161586200-d3271425-12d7-492a-b580-8f5f21a217ed.png">}}
 
 ## 3.4 LCA-PR_GoalScopeDefinition_Part1-3
-### Part 1: ISO, GSD definition &ALCA vs. CLCA
+### Part 1: ISO, GSD definition & ALCA vs. CLCA
 **LCA: ISO definition**
 Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
 
