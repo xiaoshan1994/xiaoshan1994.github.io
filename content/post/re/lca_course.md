@@ -1,4 +1,4 @@
----
+£---
 title: "(course) LCA Practice & Reporting 21-22"
 date: 2022-03-29T09:05:04+02:00
 categories:
@@ -540,9 +540,11 @@ Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory
 | PLCA | What are the expected environmental impacts of an emerging product system? | LCA | Emerging product system | Future | All | SDb and TI, F,B (optional) | Learning curves; technology and chemical models | Variable |
 | SLCA | What are the expected environmental impacts of a certain future scenario of a product system? | LCA | Emerging product system | Dynamic, from past to future | All | Calculated | Life-cycle modeling language | Variable |
 
-n.a. not applicable; product system (or technology system) a set of unit processes interlinked by material, energy, product, waste, or service flows and performing one or more defined functions (Guinée et al. 2002); SDb standard LCA data(bases), such as ecoinvent, GaBi, ILCD, and USDA; TI assumptions on technical improvements in key energy and material production technologies (Hertwich et al. 2014); F foreground processes; B background processes; CGEM computable and partial general equilibrium model; PGEM partial general equilibrium model; IAM integrated assessment model; LOM linear optimization model; All all processes included for supplying the functional unit; All sectors all industry sectors included for supplying the region’s/global consumption; Marginal processes actually affected by the decision; Market affected processes are determined by using market information and price elasticities; B2B affected processes are determined by factual or anticipated economic business-to-business relationship
+n.a. not applicable; product system (or technology system) a set of unit processes interlinked by material, energy, product, waste, or service flows and performing one or more defined functions (Guinée et al. 2002); SDb standard LCA data(bases), such as ecoinvent, GaBi, ILCD, and USDA; TI assumptions on technical improvements in key energy and material production technologies (Hertwich et al. 2014); F foreground processes; B background processes; CGEM computable and partial general equilibrium model; PGEM partial general equilibrium model; IAM integrated assessment model; LOM linear optimization model; All all processes included for supplying the functional unit; All sectors all industry sectors included for supplying the region’s/global consumption; Marginal processes actually affected by the decision; Market affected processes are determined by using market information and price elasticities; B2B affected processes are determined by factual or anticipated economic business-to-business relationship. 
 
+### Part 2: Goal definition
 
+![image](https://user-images.githubusercontent.com/65668613/162011892-3495fa0f-8319-4ff4-9b99-35db0af74a21.png)
 
 
 
