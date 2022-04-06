@@ -552,6 +552,12 @@ The {{< hl-text blue>}}goal{{< /hl-text >}} of the LCA is to {{< hl-text blue>}}
 
 The study is {{< hl-text blue>}}performed by{{< /hl-text >}} Pro-Duct Consultancy Ltd, a moderate-size private engineering bureau. The {{< hl-text blue>}}commissioner{{< /hl-text >}} is Bag-Away, a large producer of plastic throwaway bags. Interested parties are mainly plastics industry, bakeries and shops. A {{< hl-text blue>}}steering committee{{< /hl-text >}} with representatives from producer, ministry of environment and academia will be formed. Finally, an {{< hl-text blue>}}expert review{{< /hl-text >}} will be carried out at NILCAR, the National Institute for LCA Research.
 
+Is LCA the right tool?
+What are the environmental impacts of farming fish in Vietnam in the Mekong Delta?
+- Risk Assessment rather than LCA …?
+What are the environmental impacts related to consuming fish species x cultivated in Viet Nam compared to the same fish species x cultivated in Thailand?
+- LCA rather than RA …?
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN=OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
