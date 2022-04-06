@@ -472,8 +472,7 @@ Compilation and evaluation of the inputs, outputs and the potential environmenta
 
 * Unresolved discussion on 2 modes of LCA:
   - attributional LCA (ALCA); impacts of current demand as it is (ceteris paribus) for the FU
-  - consequential LCA (CLCA); impacts as consequence of a change in demand for
-the FU
+  - consequential LCA (CLCA); impacts as consequence of a change in demand for the FU
 
 * Attributional LCA (ALCA): to provide information on what portion of global burdens can be associated with a specific product life cycle.
 * Consequential LCA (CLCA): to provide information on the environmental burdens that occur, directly or indirectly, as a consequence of a decision (usually represented by changes in demand for a product).
