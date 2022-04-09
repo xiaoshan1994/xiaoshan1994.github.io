@@ -586,11 +586,39 @@ What are the environmental impacts related to consuming fish species x cultivate
   - “Ideally, the product system should be modeled in such a manner that all the inputs and outputs at its boundary are environmental interventions. It is an iterative process to identify the inputs and outputs that should be traced to the environment, i.e. to identify which unit processes producing the inputs (or which unit processes receiving the outputs) should be included in the product system under study. The initial identification is made using available data. Inputs and outputs should be more fully identified after additional data are collected during the course of the study, and then subjected to a sensitivity analysis.”
 * Coverage of elementary flows (environmental interventions) and impact categories:
   - “It shall be determined which impact categories, category indicators and characterization models are included within the LCA study. The selection of impact categories, category indicators and characterization models used in the LCIA methodology shall be consistent with the goal of the study”.
-
 * Special case of “coverage of processes”:
   - Exclude life cycle stages or subsystems that are qualitatively and quantitatively similar for each of the (product) systems analysed.
   - Only if focus is on assessing differences between alternative (product) systems.
   - Example: if filling and distribution processes for, e.g., two types of beverage bottles are exactly same.
+
+**Scope definition: example**
+
+“The LCA is carried out to identify hot spots for improvement of processes in the Netherlands, therefore data should be representative of the present state of technology in that country. In this study, we used the most recent data that were available, mainly from 1999.
+We have adopted an attributional approach, which may later be extended to a consequential
+approach. For the goal of the study simplified guidelines will suffice for most steps.
+Total size of the study is 8 man-months. A large amount of this time will be devoted to the collection of representative data of the most important production, recycling and upgrading processes.”
+
+### Function, functional unit and reference flow
+**1. Function: definition**
+* A service provided by a product system or unit process, e.g. lighting, transport, enjoying a film, nourishment, etc.
+- Or better and more specific: lighting a room of X m2 with light of 1250 lumen
+- Etc.
+**2. Functional unit: definition**
+* The quantified function provided by the product system(s) under study for use as a reference basis in an LCA, e.g. 1000 hours of light (of 1250 lumen)
+- Adapted from ISO
+- Original ISO 14040 definition: “{{< hl-text blue>}}quantified performance of a product system for use as a reference unit{{< /hl-text >}}”
+
+**3. Generic or strict FU**
+* The more strictly the functional unit is described, the fewer alternatives will be left to compare ...
+- The functional unit ‘watching TV for 1 hour’ may be specified to include more and more functions, as in ‘watching colour TV for 1 hour’, ‘watching 55 inch screen
+colour TV for 1 hour’, ‘watching 55 inch screen colour TV with remote control for 1
+hour’, etc.,
+* … until there are no product alternatives left to compare.
+
+**4. Reference flows**
+* Definition:
+  - “quantified flow generally connected to the use phase of a product system and representing one way of obtaining the functional unit”
+  - Ref. flow = FU + specific product alternative supplying FU
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
