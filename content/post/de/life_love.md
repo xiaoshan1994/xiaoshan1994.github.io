@@ -30,18 +30,3 @@ When you remember that men are from Mars and women are from Venus, everything ca
 Chapter 5 Speaking Different Languages
 > To fully express their feelings, women assume poetic license and use various superlatives, metaphors, and generalizations. Men mistakenly take these expressions literally.
 > Women think out loud, sharing their process of inner discovery with an interested listener. Even today, a woman often discovers what she wants to say through the process of just talking. This process of just letting thoughts flow freely and expressing them out loud helps her to tap into her intuition. This process is perfectly normal and especially necessary sometimes.
-
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 1314-1315). HarperCollins. Kindle Edition.
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 1313-1314). HarperCollins. Kindle Edition.
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 1176-1177). HarperCollins. Kindle Edition.
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Location 1151). HarperCollins. Kindle Edition.  
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 348-349). HarperCollins. Kindle Edition.
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 346-347). HarperCollins. Kindle Edition.
-
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Location 347). HarperCollins. Kindle Edition.
-John Gray. Men Are from Mars, Women Are from Venus (Kindle Locations 47-48). HarperCollins. Kindle Edition.
