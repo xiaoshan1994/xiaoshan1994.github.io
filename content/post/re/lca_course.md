@@ -680,7 +680,7 @@ Exercise:
 3) What are the alternatives; and
 4) What are the reference flows for:
 
-* Providing coal-, oil- or wind-based electricity.
+## Providing coal-, oil- or wind-based electricity.
 * Function:
   - to provide electricity to the grid
   - Energy supply
@@ -703,7 +703,7 @@ Exercise:
 
   - ….
 
-* Using one-way or reusable beverage containers
+## Using one-way or reusable beverage containers
 * Function:
   - Containing ~~1L of~~ water
   - Providing portable liquid
@@ -725,7 +725,7 @@ Exercise:
   - 1 liter of beverage transported from supermarket to your home by cardboard bottle system, …. glass bottle; one-way glass bottle, one-way cardboard bottle, reusable cardboard bottle, reusable glass bottle
   - 1L of milk in tetrapak/plastic
 
-* Consuming traditional or organic potatoes
+## Consuming traditional or organic potatoes
 * Function:
   - providing a calorific amount of potatoes grown in the NL to the Dutch market
   - Consumption of potatoes grown in the NL
@@ -741,7 +741,7 @@ Exercise:
   - Consumption of 1 serving of organic/traditional potatoes grown in the NL
   - to supply 1 kg of organically/traditionally cultivated potatoes to your home, … etc.
 
-* Communicating by paper, telephone, or e-mail
+## Communicating by paper, telephone, or e-mail
 Function:
   - Transmitting information
   - Story telling
@@ -760,6 +760,7 @@ Function:
   - Transmitting 100 kb of data from NL to … with telephone/email/paper
   - ……
 
+* 5.
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
