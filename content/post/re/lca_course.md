@@ -466,7 +466,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161586200-d3271425-12d7-492a-b580-8f5f21a217ed.png">}}
 
 ## 3.4 LCA-PR_GoalScopeDefinition_Part1-3
-### Part 1: ISO, GSD definition & ALCA vs. CLCA
+### 3.4.1 Part 1: ISO, GSD definition & ALCA vs. CLCA
 **LCA: ISO definition**
 Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
 
@@ -541,7 +541,7 @@ Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory
 
 n.a. not applicable; product system (or technology system) a set of unit processes interlinked by material, energy, product, waste, or service flows and performing one or more defined functions (Guinée et al. 2002); SDb standard LCA data(bases), such as ecoinvent, GaBi, ILCD, and USDA; TI assumptions on technical improvements in key energy and material production technologies (Hertwich et al. 2014); F foreground processes; B background processes; CGEM computable and partial general equilibrium model; PGEM partial general equilibrium model; IAM integrated assessment model; LOM linear optimization model; All all processes included for supplying the functional unit; All sectors all industry sectors included for supplying the region’s/global consumption; Marginal processes actually affected by the decision; Market affected processes are determined by using market information and price elasticities; B2B affected processes are determined by factual or anticipated economic business-to-business relationship.
 
-### Part 2: Goal definition
+### 3.4.2 Part 2: Goal definition
 
 ![image](https://user-images.githubusercontent.com/65668613/162011892-3495fa0f-8319-4ff4-9b99-35db0af74a21.png)
 
@@ -558,7 +558,7 @@ What are the environmental impacts of farming fish in Vietnam in the Mekong Delt
 What are the environmental impacts related to consuming fish species x cultivated in Viet Nam compared to the same fish species x cultivated in Thailand?
 - LCA rather than RA …?
 
-### Part 3: Scope definition
+### 3.4.3 Part 3: Scope definition
 
 * ALCA or CLCA (or LCA)?
 * Detailed LCA?
@@ -598,7 +598,7 @@ We have adopted an attributional approach, which may later be extended to a cons
 approach. For the goal of the study simplified guidelines will suffice for most steps.
 Total size of the study is 8 man-months. A large amount of this time will be devoted to the collection of representative data of the most important production, recycling and upgrading processes.”
 
-### Function, functional unit and reference flow
+### 3.4.4 Function, functional unit and reference flow
 **1. Function: definition**
 * A service provided by a product system or unit process, e.g. lighting, transport, enjoying a film, nourishment, etc.
 - Or better and more specific: lighting a room of X m2 with light of 1250 lumen
@@ -619,6 +619,57 @@ hour’, etc.,
 * Definition:
   - “quantified flow generally connected to the use phase of a product system and representing one way of obtaining the functional unit”
   - Ref. flow = FU + specific product alternative supplying FU
+* Examples (FU “1000 hours light of 1250 lumen” can be supplied by several different reference flows):
+  - 1000 hours tube light of 1250 lumen
+  - 1000 hours fluorescent light of 1250 lumen
+  - 1000 hours incandescent light of 1250 lumen
+  - 1000 hours LED light of 1250 lumen
+
+**Schematically**
+focusing on fluorescent and incandescent lamp for reasons of space …
+• function: lighting a (specific) room
+• functional unit: 1000 hours of light
+• alternatives: incandescent lamp and fluorescent lamp
+• reference flow for system 1:
+1000 hours of light with an incandescent lamp
+• reference flow for system 2: 1000 hours of light with a fluorescent lamp
+
+  ![image](https://user-images.githubusercontent.com/65668613/162588033-7d3d1573-791e-45de-9fb5-91d7eb8d73c4.png)
+
+**More examples**
+* Functional unit:
+  - 1 l of orange juice at the point of sale
+* Reference flows:
+  - 1 l of orange juice at the point of sale adopting PEF technology;
+  - 1 l of orange juice at the point of sale adopting NFC technology;
+  - 1 l of orange juice at the point of sale adopting FS technology.
+
+* Functional unit:
+  - Colouring 20 m2 of wall type X with opacity 98% and durability of 5 years
+
+* Reference flows:
+  - Colouring 20 m2 of wall type X with
+  opacity 98% and durability of 5
+  years using paint A;
+  - Colouring 20 m2 of wall type X with
+  opacity 98% and durability of 5
+  years using paint B;
+  - Colouring 20 m2 of wall type X with
+  opacity 98% and durability of 5
+  years using paint C.
+
+**CMLCA®**
+* Just for tomorrow afternoon and for your case study:
+In CMLCA software the reference flow is the "Alternative".
+
+**Lessons learned**
+* Provide a ‘function’
+* {{< hl-text blue>}}FU = ‘function’ + quantification: don’t forget either one{{< /hl-text >}}
+* {{< hl-text blue>}}Reference flow = FU + alternative{{< /hl-text >}}
+* Define as many separate reference flows as you have alternatives.
+* Formulate consistently throughout ‘function’, ‘functional unit’, and ‘reference flows’
+
+The above poses a nice metaphor to some of the existing LCA so far : very exact answers are given to imprecise or vague questions.
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
