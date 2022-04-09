@@ -671,6 +671,94 @@ In CMLCA software the reference flow is the "Alternative".
 
 The above poses a nice metaphor to some of the existing LCA so far : very exact answers are given to imprecise or vague questions.
 
+# 4. GSD exercise
+Exercise on Function, FU, Alternatives and Reference flows.
+Exercise:
+(work in virtual groups or do this exercise on your own for all items listed below):
+1) What is the function of;
+2) What is an appropriate FU for;
+3) What are the alternatives; and
+4) What are the reference flows for:
+
+* Providing coal-, oil- or wind-based electricity.
+* Function:
+  - to provide electricity to the grid
+  - Energy supply
+  - Lighting
+  - ……..
+* Functional unit:
+  - to provide elect to 100 Dutch households at peak hr for 1 yr
+  - to provide 1 kWh electricity to your home … in the night time … ac dc, peak …, efficiency %, in NL/DLD/…,
+  - kWh
+  - ……
+* Alternatives:
+  - Coal comb/ horizontal wind turb./oil
+* Reference flows:
+  - coal to provide elect to 100NL houses at peak hr for 1 yr
+  - to provide 1 kWh electricity to your home … in the night time … ac/dc, peak …, efficiency %, in NL/DLD/…, by coal power plant; etc.
+  - Diff of producing lighting from coal/wind/oil
+  - ~~Impact of Coal/oil/wind to produce x kWh~~
+
+  {{< alert warning >}}NO! Impact is not the function but the environmental consequence …{{< /alert >}}
+
+  - ….
+
+* Using one-way or reusable beverage containers
+* Function:
+  - Containing ~~1L of~~ water
+  - Providing portable liquid
+  - to supply certain volume of beverage, … in 1.5 litre bottles, … transported from supermarket to your home, …
+  - ~~Contain and maintain milk~~  
+* Functional unit:
+  - Containing 1L of water ~~through distribution system, 10 times~~
+  - Providing portable liq. 1 week
+  - 1 liter of beverage transported from supermarket to your home
+  - 1L milk
+* Alternatives:
+  - disposable carton container, reusable glass
+  - Disposable vs reusable
+  - one-way, reusable
+  - tetrapak, plastic
+* Reference flows:
+  - containing 1L of water through distribution system for 10times with carton/glass
+  - containing liq for 1 wk by X, X
+  - 1 liter of beverage transported from supermarket to your home by cardboard bottle system, …. glass bottle; one-way glass bottle, one-way cardboard bottle, reusable cardboard bottle, reusable glass bottle
+  - 1L of milk in tetrapak/plastic
+
+* Consuming traditional or organic potatoes
+* Function:
+  - providing a calorific amount of potatoes grown in the NL to the Dutch market
+  - Consumption of potatoes grown in the NL
+  - food/nourishment; providing energy; nutritional value; potato tasting food
+* Functional unit:
+  - Providing 500cal of potatoes grown in the NL
+  - Consumption of 1 serving of potatoes grown in the NL
+  - to supply 1 kg of potatoes to your home; fulfilling dietary needs of 1 kg of calories; kcalories; recommended daily intake
+* Alternatives:
+  - Organic and traditional
+* Reference flows:
+  - Providing 500cal of organic/traditional potatoes grown in the NL
+  - Consumption of 1 serving of organic/traditional potatoes grown in the NL
+  - to supply 1 kg of organically/traditionally cultivated potatoes to your home, … etc.
+
+* Communicating by paper, telephone, or e-mail
+Function:
+  - Transmitting information
+  - Story telling
+  - Transmitting data from NL to …
+  - …..
+* Functional unit:
+  - transmitting information in 1000 words to 1000 people
+  - to provide story x to person y
+  - Transmitting 100 kb of data from NL to …
+  - ….
+* Alternatives:
+  - Email, telephone, paper, sms, ….
+* Reference flows:
+  - Transmitting info in in 1000 words to 1000 people by email/paper/…
+  - to provide story x to person y by paper/telephone/e-mail (PC, tablet, phone,…)
+  - Transmitting 100 kb of data from NL to … with telephone/email/paper
+  - ……
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
