@@ -574,6 +574,18 @@ What are the environmental impacts related to consuming fish species x cultivate
 
 ![image](https://user-images.githubusercontent.com/65668613/162566230-663047c5-1628-41f3-b823-6f1575476192.png)
 
+* Detailed LCA (LCA Handbook, Part 3, p. 464-467):
+  - This is not defined by ISO but added in the LCA Handbook (Guinée et al. 2002) to determine the appropriate level of sophistication (simplified, detailed, …) of the LCA study in relation to its goal and application.
+* Temporal coverage:
+  - The desired age of data (e.g. within the last five years) and the minimum length of time over which data should be collected (e.g. one year).
+* Geographical coverage
+  - Geographical area from which data for unit processes should be collected to satisfy the goal of the study (e.g. local, regional, national, continental, global).
+* Technology coverage
+  - Technology mix (e.g. weighted average of the actual process mix, best available technology or worst-operating unit).
+* Coverage of economic processes (initial system boundaries):
+  - “Ideally, the product system should be modeled in such a manner that all the inputs and outputs at its boundary are environmental interventions. It is an iterative process to identify the inputs and outputs that should be traced to the environment, i.e. to identify which unit processes producing the inputs (or which unit processes receiving the outputs) should be included in the product system under study. The initial identification is made using available data. Inputs and outputs should be more fully identified after additional data are collected during the course of the study, and then subjected to a sensitivity analysis.”
+* Coverage of elementary flows (environmental interventions) and impact categories:
+  - “It shall be determined which impact categories, category indicators and characterization models are included within the LCA study. The selection of impact categories, category indicators and characterization models used in the LCIA methodology shall be consistent with the goal of the study”.
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
