@@ -793,8 +793,7 @@ TV -> transformer -> ~~copper wire~~ -> ~~copper~~ -> ~~copper ore~~
 TV -> electricity -> ~~coal, gas, etc~~.
 TV -> electronic equipment waste -> removal of precious and recyclable materials -> dump site -> ~~toxins~~
 
-The System Boundary is the demarcation between what is
-included in the product system and what is excluded (cut off).
+The System Boundary is the demarcation between what is included in the product system and what is excluded (cut off).
 
 ![image](https://user-images.githubusercontent.com/65668613/162698165-5b157f88-a08e-4615-bdc8-edd9fa5a0199.png)
 
@@ -810,8 +809,7 @@ included in the product system and what is excluded (cut off).
 ![image](https://user-images.githubusercontent.com/65668613/162700449-416c961c-2018-4cb9-beee-338bbafec7e6.png)
 ![image](https://user-images.githubusercontent.com/65668613/162700621-6fade6b4-118d-4118-a831-6448c1634b2d.png)
 
-> “The principles of system boundary definition
-are decided during the GSD. However , one may have to wait to decide the exact details until enough information has been collected during inventory analysis”[Hitchhikers guide, page 79]
+> “The principles of system boundary definition are decided during the GSD. However , one may have to wait to decide the exact details until enough information has been collected during inventory analysis”[Hitchhikers guide, page 79]
 
 **{{< hl-text orange>}}Flow diagrams{{< /hl-text >}}**
 
@@ -840,9 +838,107 @@ are decided during the GSD. However , one may have to wait to decide the exact d
 * Reference flow crossing the system boundary
 * Legend
 * No numbers
-* Is it legible?
+* Is it legible?  /ˈledʒəbəl/
 
 ![image](https://user-images.githubusercontent.com/65668613/162706195-5d55009e-b475-4aad-b471-4642b16a47ec.png)
+
+**{{< hl-text orange>}}Data collection and reporting{{< /hl-text >}}**
+{{< hl-text orange>}}Data Collection{{< /hl-text >}}
+Incremental steps.
+Start with main components, **THEN** add detail.
+LCAs require attention to detail **AND** the bigger picture.
+
+{{< hl-text orange>}}Format and data categories (1){{< /hl-text >}}
+**Central entity in LCA: “Unit process”**
+**General considerations:**
+- processes have inputs and outputs
+- processes have economic flows and environmental/elementary flows
+- several types of each (e.g., materials, energy, atmospheric emissions)
+- symmetry in economic flows (output of one process is input of another process)
+
+**{{< hl-text orange>}}Unit process{{< /hl-text >}}**
+> "smallest element considered in the life cycle inventory analysis for which input and output data are quantified"
+
+![image](https://user-images.githubusercontent.com/65668613/162711705-bb80fd16-5138-4219-b6ed-e1470d9159c3.png)
+
+**{{< hl-text orange>}}Data sources{{< /hl-text >}}**
+**Primary data:**
+- measurements
+- stoichiometric calculation /ˌstɔikiə'metrik/化学当量的;化学计算的
+- expert interviews
+**Secondary data:**
+* (scientific) literature
+* reports
+* **LCI databases** for basic processes and materials (e.g. ecoinvent)
+
+{{< hl-text orange>}}What if we don’t have primary /
+secondary data?{{< /hl-text >}}
+**Possible solutions:**
+- Background (database)
+- Provide estimations Proxies
+- Omitting mass flows < 1 or 5%, (but check if they could be environmentally relevant, e.g. rare earths)
+i.e. Cut off certain flows (Last resource OK as starting point). Report the influence/existence/justification of cut offs.
+
+![image](https://user-images.githubusercontent.com/65668613/162713324-847c8443-e527-4265-8d71-02878ec952bc.png)
+molecular /məˈlekjələ $ -ər/, stoichiometry/ˌstɒɪkɪ'ɒmɪtrɪ/ n. 化学计算(法);化学计量学
+
+**{{< hl-text orange>}}Data quality{{< /hl-text >}}**
+Crucial to address data quality
+- precision
+- completeness
+- representativeness (temporal, geographical, technology)
+- consistency
+- reproducibility
+No standardised method for overall assessment of data
+quality available (Pedigree matrix used in ecoinvent to quantify uncertainty /'pedɪgriː/).
+
+{{< hl-text orange>}}Data Reporting{{< /hl-text >}}
+- Report: Assumptions, Calculations (equations, units), and Modifications to database.
+- Keep a logbook/ Excel (reproducible results).
+
+{{< hl-text orange>}}Unit process data reporting{{< /hl-text >}}
+Example
+![image](https://user-images.githubusercontent.com/65668613/162715031-cb8f863a-8772-49aa-bf0b-9c6dd52bb357.png)
+{{< hl-text blue>}}Best report unit process data similar to this. One table per unit process you model (either in Inventory Analysis section or Appendix of your report).{{< /hl-text >}}
+
+Inventory table (or LCI = life cycle inventory)
+{{< hl-text blue>}}List of all physical interactions between a product system and the environment.{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162715654-aa65ea31-5360-4fdf-b39e-43e61d5a89d3.png)
+![image](https://user-images.githubusercontent.com/65668613/162715837-47409c5b-9f7f-4096-990a-39e2fc195852.png)
+![image](https://user-images.githubusercontent.com/65668613/162716005-127aa1e9-b82a-42e9-a641-41d4fde53797.png)
+
+{{< hl-text orange>}}Calculation of LCI analysis results{{< /hl-text >}}
+**Relating unit processes to reference flow(s)**
+- Based on linear scaling of processes
+{{< alert info >}} You never need to scale your product system manually! The computer does this for you…{{< /alert >}}
+- Matrix algebra solution available
+- Take account for (feedback) loops
+
+**Calculation only works, if:**
+- One unique supplier for every product
+- Multi functionality is resolved
+
+{{< hl-text orange>}}Pitfalls{{< /hl-text >}}
+**Data pitfalls**
+- Errors are easily introduced …
+  * errors in measurements
+  - errors in data entry
+  - errors with units (litre versus gallon)
+  - errors with prefixes (mg versus mcg)
+  - errors with nomenclature (N2O versus NO2)
+-… and can sometimes easily be detected
+  - comparative analysis of different data sources
+  - {{< hl-text blue>}}mass and energy balances{{< /hl-text >}}
+    * {{< hl-text blue>}}Recycling{{< /hl-text >}}
+
+**Missing data**: blank, “99”, “0”, “#N/A”.
+**Notation**: thousands separator, keyboard settings.
+**Units**: SI units (m, kg, s, K)
+**Prefixes**:
+![image](https://user-images.githubusercontent.com/65668613/162719954-852036ec-fd39-4b4c-97ce-03fabd1c05ab.png)
+**Significant digits** : don’t claim to be more precise than you are able to
+
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
