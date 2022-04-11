@@ -938,7 +938,112 @@ Inventory table (or LCI = life cycle inventory)
 ![image](https://user-images.githubusercontent.com/65668613/162719954-852036ec-fd39-4b4c-97ce-03fabd1c05ab.png)
 **Significant digits** : don’t claim to be more precise than you are able to
 
+# 6. LCA-PR_CMLCA_intro
+Exercises using CMLCA and ecoinvent
+**{{< hl-text orange>}}CMLCA: Scientific software for LCA, IOA, EIOA and more{{< /hl-text >}}**
+* Intended to support the technical steps of LCA
+* Doesn’t support procedural aspects, like peer review, etc.
+* Assumption: user is aware of basic LCA principles
+* Just one of many software tools that are available
+* Its philosophy is probably somewhat different
+* The program develops continuously
+* Available through the MST “CMLCA download” channel
+and http://cmlca.eu/cmlca61.zip
+  - Also see the CMLCA pdf file in the same channel for more info
 
+{{< hl-text orange>}}7 reasons for using CMLCA{{< /hl-text >}}
+- free
+- flexible
+- perfect for use in class room
+- perfect for use by scientists
+- compatible with ISO framework and terminology
+- does not require an administrator for installation & can be transferred online
+- Advanced settings
+
+{{< hl-text orange>}}7 reasons for not using CMLCA{{< /hl-text >}}
+- has no helpdesk
+- contains no process data (but we will import ecoinvent)
+- contains no impact assessment data (“but we will import these with you”)
+- not so good for consultants
+- no graphical interface for constructing flow diagrams
+- only available in English
+- only available for Windows (!!) (but there is a CMLCA-FAQ including “Mac-problems” in the MST “CMLCA download” channel; see “CMLCA Troubleshooting and FAQs.pdf” )
+
+# 7. Refreshing CMLCA_LCA-PR
+Introduction to CMLCA software
+CMLCA and corresponding documentation is available at our separate www.cmlca.eu website. For the LCA-PR course we use the CMLCA version that is available through the Blackboard page of the course.
+
+On the other hand, it is developed with the principles of LCA, IOA, etc. in mind, so that it is quite accurate and up-to-date as to methodological details. It is, for example, fully based on {{< hl-text blue>}}matrix algebra{{< /hl-text >}}, although the user may be unaware of that whilst using the program. This implies that process trees with {{< hl-text blue>}}a recursive flow structures{{< /hl-text >}} (steel production needing coal and coal production needing steel), provide no computational problems and are exactly solved. Moreover, the program is very flexible in dealing with {{< hl-text blue>}}allocation of multiple processes{{< /hl-text >}}. In contrast with some other programs, such processes need not be allocated prior to their entry in the database, and the allocation method (substitution, partitioning, or no allocation at all) may be defined for each individual unit process. The program also supports fully hybrid inventories, consisting of process-based and IO-based data. It is rich in its analytical possibilities.
+
+8. Case study brainstorm session
+{{< hl-text orange>}}Reflect on a possible topic{{< /hl-text >}}
+* Given the case study requirements, think of a topic (either your own or from the list of previous topics) and elaborate, briefly:
+  1. Establish relevance. Why should we care about the topic?
+  2. Justify the use of LCA for the case study. Why is it necessary to evaluate life cycles?
+    1. What's the comparison
+
+* Helpful to think about the following when selecting a topic
+  - WHY: Relevance and LCA justification
+  - HOW: How you may approach this (scope)
+  - WHAT: what may you obtain from results
+
+{{< hl-text orange>}}Common environmental dilemmas{{< /hl-text >}}
+1. Single use vs reusable
+2. Bio vs fossil
+3. Local vs foreign
+4. … others?
+
+{{< hl-text orange>}}Selecting a case study:{{< /hl-text >}}
+1. Make sure to involve a comparison
+2. Keep it simple; learning LCA is already challenging enough!
+For example: cloud vs HD storage, Spotify vs CDs, is too abstract and lacks clear boundaries (e.g., what is the Spotify system and where does it stop? Before you know you need to model all servers behind this system which is practically not feasible)
+
+**{{< hl-text orange>}}Previous case-study topics{{< /hl-text >}}**
+* Almond vs Dairy milk
+* Bamboo vs oak flooring
+* Plastic bags or a lunchbox for your lunch
+* Closed- vs open-loop hydroponics
+* Using pig manure to power pig farms in Taiwan
+* E-reader vs paper book
+* Importing tomatoes from Spain or growing in NL
+* Olive oil production in Turkey or Greece?
+* Waste management options in Bangladesh
+* Plastic bottles vs cans
+* Newspaper waste management
+* Using cotton or nylon for clothing
+* Led bulbs vs incandescent bulbs
+* Couscous vs Quinoa
+* Genuine vs synthetic leather
+* Sheep wool vs acrylic wool
+* Fresh vs canned pineapple
+* Honey vs sugar as a sweetener
+* Textile dying with supercritical CO2
+* Filter drip vs instant coffee
+* Clay bricks vs sand-lime bricks
+* Copper telluride production
+* Cooking on gas or cooking on electricity
+* Beer vs wine
+* Bio-composites
+* Plastic vs metal cutlery
+
+{{< hl-text orange>}}Do’s and don’ts{{< /hl-text >}}
+* Do select an ‘easy topic’!
+* Don’t do an LCA on a waste management system: too
+complex!!
+* Don’t do a case for a commissioner:
+  - you won’t often get the data needed, even when ‘promised’ …..
+  - LCA-PR case study results are too uncertain
+  - the course is about learning LCA, and that’s already challenging enough.
+
+{{< hl-text orange>}}And don’t forget the model requirements{{< /hl-text >}}
+* At least 5 Foreground Unit processes
+* 1 disposal process;
+* 1 closed-loop (reuse or closed-loop recycling);
+* 1 multifunctional process (reporting on all 4 steps as learned during the Theory Week; see last slide of the Allocation presentation); {{< hl-text blue>}}economic allocation mandatory{{< /hl-text >}}
+* 1 unit process with at least 3 environmental emissions (extensions) calculated by the student;
+* 1 additional unit process free of choice.
+
+9. LCA-PR topics database
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
