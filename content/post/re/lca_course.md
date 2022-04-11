@@ -760,6 +760,89 @@ Function:
   - Transmitting 100 kb of data from NL to … with telephone/email/paper
   - ……
 # 5. Inventory analysis
+“Phase of life cycle assessment involving the compilation and quantification of inputs and outputs, for a given product system throughout its life cycle” [ISO 14040]
+Steps involved:
+- Refining of system boundaries / determination of cut offs
+- Drawing a flow chart / product system
+- Collecting unit process data
+- Dealing with multi functional processes
+- Calculating the life cycle inventory analysis result
+
+Goal: to determine the environmental flows related to a
+product system (Life Cycle Inventory)
+
+![image](https://user-images.githubusercontent.com/65668613/162694280-3b11619b-de64-49c8-9b71-c853920a8893.png)
+**Economic and environmental flows and the economy environment system boundary**
+
+**{{< hl-text orange>}}Economic vs. environmental flows{{< /hl-text >}}**
+{{< hl-text orange>}}Economic flows:{{< /hl-text >}} Products, services, and wastes produced and managed by humans. For example: steel, electricity, and wastewater
+{{< hl-text orange>}}Environmental flows:{{< /hl-text >}} 1) Flows entering the product system without prior human transformation , e. land use, freshwater use, metal extraction all resource extraction. 2) Flows leaving the product system without subsequent human transformation , e.g.: emissions (air, soil, water)
+
+**{{< hl-text orange>}}Unit processes{{< /hl-text >}}**
+> "smallest element considered in the life cycle inventory analysis for which input and output data are quantified"
+
+![image](https://user-images.githubusercontent.com/65668613/162695944-80e990f1-2996-4715-9955-6a32bb9e1d19.png)
+
+![image](https://user-images.githubusercontent.com/65668613/162696301-0f42e0bc-ba98-4091-ba9e-ad889bbdff72.png)
+
+**{{< hl-text orange>}}Cut-offs{{< /hl-text >}}**
+{{< hl-text orange>}}Cut offs and system boundaries{{< /hl-text >}}
+Rule: {{< hl-text blue>}}Each economic input or output of a unit process should be followed until it has been translated into environmental flows ( e.g. resource extractions and emissions){{< /hl-text >}}
+{{< hl-text orange>}}Examples:{{< /hl-text >}}
+TV -> transformer -> ~~copper wire~~ -> ~~copper~~ -> ~~copper ore~~
+TV -> electricity -> ~~coal, gas, etc~~.
+TV -> electronic equipment waste -> removal of precious and recyclable materials -> dump site -> ~~toxins~~
+
+The System Boundary is the demarcation between what is
+included in the product system and what is excluded (cut off).
+
+![image](https://user-images.githubusercontent.com/65668613/162698165-5b157f88-a08e-4615-bdc8-edd9fa5a0199.png)
+
+{{< hl-text orange>}}Reasons for cut offs{{< /hl-text >}}
+* Practical constraints: Lack of data, time/funds
+* Ignorance: We may not be aware of certain process inputs/outputs
+* Predefined criteria
+  - Purpose/motivation of study or leverage of commissioner: e.g. water flows not included
+  - Difference analysis: we may leave out certain parts of a system as it is the same for all compared alternatives.
+
+{{< hl-text orange>}}Common system boundaries / cut offs {{< /hl-text >}}
+{{< hl-text orange>}}Example: T shirt{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162700449-416c961c-2018-4cb9-beee-338bbafec7e6.png)
+![image](https://user-images.githubusercontent.com/65668613/162700621-6fade6b4-118d-4118-a831-6448c1634b2d.png)
+
+> “The principles of system boundary definition
+are decided during the GSD. However , one may have to wait to decide the exact details until enough information has been collected during inventory analysis”[Hitchhikers guide, page 79]
+
+**{{< hl-text orange>}}Flow diagrams{{< /hl-text >}}**
+
+**What is it?**
+- Simplified graphical representation of a product system
+- Showing interdependence of economic processes
+
+**Why do we need it?**
+- Useful for modeling a product system
+- Great communication tool showing others what your LCA is about
+
+> Constructing a flow diagram is a “cumulative and iterative process with revisions and elaboration as more is learned about the modelled system [...]”
+[Hitchhikers guide to LCA: p98]
+
+{{< hl-text orange>}}In reality, supply chains are complex ….{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162702313-73269d15-2896-4c72-8c1a-16c1166598e3.png)
+![image](https://user-images.githubusercontent.com/65668613/162702429-c8c26926-a8c5-4028-a7f1-ba2d4ef50ee4.png)
+![image](https://user-images.githubusercontent.com/65668613/162702546-dfa4c293-0c6c-49b3-bcda-f0700862de2d.png)
+
+**{{< hl-text orange>}}Flow diagram checklist{{< /hl-text >}}**
+* Show system boundaries
+* Unit processes (boxes)
+* Economic flows (arrows) No environmental flows
+* Distinguish between foreground & background
+* Show cutoffs
+* Reference flow crossing the system boundary
+* Legend
+* No numbers
+* Is it legible?
+
+![image](https://user-images.githubusercontent.com/65668613/162706195-5d55009e-b475-4aad-b471-4642b16a47ec.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
