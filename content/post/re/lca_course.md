@@ -926,7 +926,7 @@ Inventory table (or LCI = life cycle inventory)
   - errors with units (litre versus gallon)
   - errors with prefixes (mg versus mcg)
   - errors with nomenclature (N2O versus NO2)
--… and can sometimes easily be detected
+- … and can sometimes easily be detected
   - comparative analysis of different data sources
   - {{< hl-text blue>}}mass and energy balances{{< /hl-text >}}
     * {{< hl-text blue>}}Recycling{{< /hl-text >}}
