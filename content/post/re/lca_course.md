@@ -772,20 +772,20 @@ Goal: to determine the environmental flows related to a
 product system (Life Cycle Inventory)
 
 ![image](https://user-images.githubusercontent.com/65668613/162694280-3b11619b-de64-49c8-9b71-c853920a8893.png)
-**Economic and environmental flows and the economy environment system boundary**
+**5.1 Economic and environmental flows and the economy environment system boundary**
 
 **{{< hl-text orange>}}Economic vs. environmental flows{{< /hl-text >}}**
 {{< hl-text orange>}}Economic flows:{{< /hl-text >}} Products, services, and wastes produced and managed by humans. For example: steel, electricity, and wastewater
 {{< hl-text orange>}}Environmental flows:{{< /hl-text >}} 1) Flows entering the product system without prior human transformation , e. land use, freshwater use, metal extraction all resource extraction. 2) Flows leaving the product system without subsequent human transformation , e.g.: emissions (air, soil, water)
 
-**{{< hl-text orange>}}Unit processes{{< /hl-text >}}**
+**5.2 {{< hl-text orange>}}Unit processes{{< /hl-text >}}**
 > "smallest element considered in the life cycle inventory analysis for which input and output data are quantified"
 
 ![image](https://user-images.githubusercontent.com/65668613/162695944-80e990f1-2996-4715-9955-6a32bb9e1d19.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/162696301-0f42e0bc-ba98-4091-ba9e-ad889bbdff72.png)
 
-**{{< hl-text orange>}}Cut-offs{{< /hl-text >}}**
+**5.3 {{< hl-text orange>}}Cut-offs{{< /hl-text >}}**
 {{< hl-text orange>}}Cut offs and system boundaries{{< /hl-text >}}
 Rule: {{< hl-text blue>}}Each economic input or output of a unit process should be followed until it has been translated into environmental flows ( e.g. resource extractions and emissions){{< /hl-text >}}
 {{< hl-text orange>}}Examples:{{< /hl-text >}}
@@ -811,7 +811,7 @@ The System Boundary is the demarcation between what is included in the product s
 
 > “The principles of system boundary definition are decided during the GSD. However , one may have to wait to decide the exact details until enough information has been collected during inventory analysis”[Hitchhikers guide, page 79]
 
-**{{< hl-text orange>}}Flow diagrams{{< /hl-text >}}**
+**5.4 {{< hl-text orange>}}Flow diagrams{{< /hl-text >}}**
 
 **What is it?**
 - Simplified graphical representation of a product system
@@ -842,7 +842,7 @@ The System Boundary is the demarcation between what is included in the product s
 
 ![image](https://user-images.githubusercontent.com/65668613/162706195-5d55009e-b475-4aad-b471-4642b16a47ec.png)
 
-**{{< hl-text orange>}}Data collection and reporting{{< /hl-text >}}**
+**5.5 {{< hl-text orange>}}Data collection and reporting{{< /hl-text >}}**
 {{< hl-text orange>}}Data Collection{{< /hl-text >}}
 Incremental steps.
 Start with main components, **THEN** add detail.
@@ -919,7 +919,7 @@ Inventory table (or LCI = life cycle inventory)
 - Multi functionality is resolved
 
 {{< hl-text orange>}}Pitfalls{{< /hl-text >}}
-**Data pitfalls**
+**5.6 Data pitfalls**
 - Errors are easily introduced …
   * errors in measurements
   - errors in data entry
