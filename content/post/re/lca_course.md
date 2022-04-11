@@ -1043,8 +1043,116 @@ complex!!
 * 1 unit process with at least 3 environmental emissions (extensions) calculated by the student;
 * 1 additional unit process free of choice.
 
-9. LCA-PR topics database
-
+# 9. LCA-PR topics database
+LCA of textiles: cotton vs. nylon /'naɪlɒn/
+2nd Generation Nest Learning Thermostat and the Honeywell Round CT-87N /ˈθɜːməstæt/
+a cup of filter drip coffee compared to a cup of freeze dried instant coffee
+Advancing sustainable urban farming: a comparative LCA of aquaponics vs. aeroponics
+Almond Milk or Dairy Milk /'ɑːmənd//'deərɪ/
+animal feed from food waste as compared to producing animal feed from grains
+Are glasses more sustainable or contact lenses, a case study of LCA
+Ballpoint pen versus fountain pen
+bamboo versus cotton clothing
+Beef and Chicken Meat in the Netherlands
+beef burger and a soy based burger
+biodiesel production from two available feedstocks in Mexico: CLORELLA VULGARIS & JATROPHA CURCAS
+Bottled versus tapped water at festivals
+Butter and Margarine
+BUTTER versus olive oil for frying
+cashew nuts and chicken fillet /'kæʃuː/
+Cement production
+Ceramic mug compared to a plastic cup /sɪ'ræmɪk/
+Ceramic plates or paper plates?
+Chicken vs Mealworm protein production
+Chalkboard vs. whiteboard
+clay brick or sand-lime brick in Indonesia
+Horticulture tomatoes in the Netherlands
+Cocaine Production in Colombia to supply for the European Market
+Colombian bananas: Organic vs. Conventional Production systems
+Comparative LCA of copper telluride production
+Comparative LCA on constructing a tower from ABS LEGO bricks vs. cherry wooden Eco-Bricks
+Comparative LCA study of wooden and cellulose-acetate spectacle frames
+Comparative Life Cycle Assessment of NiMH and Li-Ion Batteries in Electric Vehicles
+Comparative life cycle assessment of two steak dinner alternatives
+Comparing Capsule, Pod and Drip Filter Coffee
+comparison of microalgae culture coupled to biodiesel and biogas production
+Concrete and asphalt pavements
+Conventional versus organic beef
+Conventional versus organic milk
+Cooking on gas versus cooking on electricity
+Copper cathode production technologies
+Dishwasher versus Hand-washing
+Dopper versus PET-bottle
+dried pulses versus canned pulses
+drought lager beer and white wine
+Dutch- and Spanish tomatoes sold in the Netherlands
+Dutch greenhouse operation heated by CHP and geothermal doublets
+Egg consumption in the Netherlands
+Electric and Conventional Car Use in Different European Countries
+Electric Vehicles using Lithium-Ion Batteries and Nickel-Metal Hydride Batteries
+Electricity from wind turbines in the Netherlands located offshore vs. onshore
+E-reader v. Conventional Paperback Novel
+espresso served by a Nespresso versus semi-automatic espresso machine
+feeding a cow with silage maize from Industrial Production and Organic Production in Switzerland
+Flax Fibre and Cellulose Fibre Insulation in Finland
+Flax fibre-epoxy composite versus Glass fibre-epoxy composite
+Fresh (CR) & Canned (PH) Pineapple
+Fresh mango or frozen mango
+fruit as a source of sulphur
+Genuine and Synthetic Leather
+Hand-drying system in China: Fold Tissue Towels vs. Cotton Roller Towels
+HDPE and steel drums as containers of chemical goods
+HDPE vs. organic cotton bags
+Honey or Sugar?
+Insectmeal vs. soymeal
+LCA of a T-shirt made of cotton and polyester in China
+LCA of avocado production at Michoacan, Mexico. A study case of organic vs. traditional avocados for local and
+LCA of batteries for household use
+LCA of beer
+LCA of biogas production from pig manure in Taiwan
+LCA of chrome-tanned and vegetable-tanned leather production in Italy
+LCA of electric bike
+LCA of municipal solid waste management in Chittagong, Bangladesh
+LCA of selected technologies for CCS of coal fired plants
+LCA on Isolating Existing pre-1970 dwellings in the Netherlands
+LCA on the use of olive oil
+Life Cycle assessment of HDPE and paper bags in Europe
+Locally produced grazing cattle milk vs. industrially manufactured soymilk in the Netherlands
+Management of the Organic Fraction of Municipal Solid Waste in South and Southeast Asia
+Mokumono Bicycles vs. “The conventional bike”
+Natural and synthetic dyed textiles: Cotton and polyester curtains
+natural-color
+sheep wool versus acrylic wool
+open-loop versus closed-loop hydroponics
+Organic and Conventional Coffee Production
+organic versus conventional meat
+Paper waste treatment in the Netherlands: incineration vs recycling
+PE plastic and stainless steel cutlery
+Pineapple leather and Bovine leather
+Plant factory
+Plastic bag versus plastic lunchbox
+Small scale batch roasting of organic coffee beans versus large scale continuous roasting of inorganic coffee be
+Soy versus beef burgers
+tampon and menstrual cup
+Textile dyeing with supercritical carbon dioxide
+The environmental benefits of locally produced surfboards: an ECO surfboard case study
+Tofu versus beef on protein content
+Tomatoes in the Dutch supermarket
+Traditional Bullets and “Green” Bullets
+Traditional flashlight versus a solar light for recreational purposes (wakawaka)
+Train ticket & OV- chipcard
+T-shirts made with Organic and Traditionally grown Cotton
+Using of Bamboo as an Alternative to Red Oak Flooring
+Vertical farming and open field lettuce cultivation, a comparative LCA study
+vinyl record (LP) and CDs
+water based paint and wallpaper covered by PVC
+Water Supply Options for Mining Operations in Chile
+Wheat and barley in producing flour
+Which chickpeas should I buy?
+wine from Napa Valley (USA) versus French Bordeaux wine
+wood and PVC window frames
+Yogi Tea and Lipton
+# 10.
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
