@@ -1345,12 +1345,13 @@ allocation doesn’t matter IF supply and demand balance
 
 {{< hl-text orange>}}Summary: 4 mandatory steps to report on for your LCA case study{{< /hl-text >}}
 **Report** for each (foreground) process:
-  1. Which flows are a good (G) or waste (W)?
+1. Which flows are a good (G) or waste (W)?
   - what criterion is applied for this distinction?
 2. What are the functional flow(s) (F)?
 3. Which processes are multi-functional?
-4. Which solution(s)/method(s) have been selected and applied including sensitivity analysesand why
-  - for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
+4. Which solution(s)/method(s) have been selected and applied including sensitivity analyses and why
+  - for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses.
+
 
 for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
 
