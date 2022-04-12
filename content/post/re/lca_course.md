@@ -1279,6 +1279,86 @@ but are you still doing a waste management LCA? (‘managing waste’, or ‘man
 * With consequences upstream and downstream
 ![image](https://user-images.githubusercontent.com/65668613/162929811-d544d17f-a06b-4053-b33d-dc275ab7c9d4.png)
 
+{{< hl-text orange>}}Substitution: another example{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162930852-0880f8a3-94b3-4fb4-aec1-66e6cb7c5547.png)
+
+{{< hl-text orange>}}System expansion ≠ substitution{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162931084-129b8b06-864c-46dc-8476-5017a267b69a.png)
+
+{{< hl-text orange>}}Solution 2: physical allocation/partitioning{{< /hl-text >}}
+* Effectively splitting the multi-functional process into several ‘virtual’ mono-functional processes
+
+![image](https://user-images.githubusercontent.com/65668613/162931749-73675123-c0b0-4eff-8565-38010625a331.png)
+but what is the basis for splitting? (how to determine x?)
+
+{{< hl-text orange>}}Basic principle of physical allocation{{< /hl-text >}}
+The basic principle of allocation is that having determined the various functional flows of a multi-functional process, all other (non-functional) flows need to be allocated to these functional flows according to some physical allocation principle.
+
+{{< hl-text orange>}}Physical allocation / partitioning{{< /hl-text >}}
+* Allocate only a part of the process to the function considered
+* With consequences upstream and downstream
+
+![image](https://user-images.githubusercontent.com/65668613/162933489-17082ead-e51d-4a11-aaed-479ed0d61538.png)
+**Energy based** physical allocation but can also be on basis of mass, volume, other…
+
+{{< hl-text orange>}}Solution 3: economic allocation{{< /hl-text >}}
+* We already used the price for distinguishing between goods & wastes
+  * a good is a flow between two processes with an economic value higher than or equal to zero
+  * a waste is a flow between two processes with an economic value smaller than zero
+* (Functional flows are either products produced by a process or wastes treated by a process)
+* So, why not use it for allocation too ….
+
+{{< hl-text orange>}}Basic principle of economic allocation{{< /hl-text >}}
+The basic principle of economic allocation is that having determined the various functional flows of a multi-functional process, all other (non-functional) flows need to be allocated to these functional flows according to their shares in the total proceeds.
+
+{{< hl-text orange>}}Proceeds{{< /hl-text >}}
+* Allocation factors based on shares in proceeds (total amount produced (unit) ×
+economic value (€/unit))
+  - no absolute values needed
+  - any monetary unit, if the same
+  - any base year, if the same
+
+{{< hl-text orange>}}Problems{{< /hl-text >}}
+* Market prices not known
+* Fluctuating prices
+* Inflation
+* Trends in real prices
+* Market distortions
+* Markets not yet existing
+* …
+
+{{< hl-text orange>}}Examples: tilapia{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162936051-7ed42ba3-6bd5-410f-a29f-379daaf38777.png)
+
+{{< hl-text orange>}}Discussion{{< /hl-text >}}
+Is there one correct solution?
+* Allocation problem is artefact of wishing to isolate 1 function out of the economic spider web
+* Artefacts can only be cured in an artificial way; there is no “correct” way, even not in theory
+* So what to do if different solutions result in highly different outcomes?
+  - **sensitivity analysis**
+
+{{< hl-text orange>}}Closed-loop modelling (special case){{< /hl-text >}}
+allocation doesn’t matter IF supply and demand balance
+![image](https://user-images.githubusercontent.com/65668613/162938843-be327e07-96de-4d5a-9aff-d7ee9635f14d.png)
+
+![image](https://user-images.githubusercontent.com/65668613/162938928-a4e69741-015f-44e1-bdc0-30f6a63297fb.png)
+
+{{< hl-text orange>}}Summary: 4 mandatory steps to report on for your LCA case study{{< /hl-text >}}
+**Report** for each (foreground) process:
+  1. Which flows are a good (G) or waste (W)?
+  - what criterion is applied for this distinction?
+2. What are the functional flow(s) (F)?
+3. Which processes are multi-functional?
+4. Which solution(s)/method(s) have been selected and applied including sensitivity analysesand why
+  - for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
+
+for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
+
+{{< hl-text orange>}}Finally, if you want to digest it once more{{< /hl-text >}}
+* Please read:
+* You can find it in the Brightspace under “Reading Materials” channel under files > Literature: “Ch4-LCI Compendium-Guinee_etal(2018)-Preprint.pdf”
+* There is also a video explaining once more explaining the importance of step 1-3: “IE-MF 3 steps LCA Compendium CE_Symbiosis” (see “Web Lectures”)
+![image](https://user-images.githubusercontent.com/65668613/162943808-074ea139-f9db-4a56-8ab5-dc70e484402a.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
