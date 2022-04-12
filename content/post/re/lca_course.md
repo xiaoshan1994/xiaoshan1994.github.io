@@ -1152,7 +1152,75 @@ Which chickpeas should I buy?
 wine from Napa Valley (USA) versus French Bordeaux wine
 wood and PVC window frames
 Yogi Tea and Lipton
-# 10.
+
+# 10. Multi-functionality
+## Part 1: The problem; Definitions & typologies
+{{< hl-text orange>}}The problem{{< /hl-text >}}
+* There are processes which have more than one function
+  - “multifunctional processes”
+
+![image](https://user-images.githubusercontent.com/65668613/162906779-ff6230b0-2855-40bf-a552-a2c3262c0ade.png)
+
+![image](https://user-images.githubusercontent.com/65668613/162908712-b357d40f-8ddf-41e8-9cc2-de61a7316314.png)
+
+![image](https://user-images.githubusercontent.com/65668613/162908810-dee5f95a-019b-4756-b63d-2021181a7fd5.png)
+
+{{< hl-text orange>}}Definitions and typologies{{< /hl-text >}}
+* Multi-functionality = the problem
+* Four steps to consistently address the MF problem
+  1. what are the good and waste flows of every process?
+  2. what are the functional flows of every process?
+  3. which processes are multi-functional processes?
+  4. how to resolve the problems related to that?
+* Allocation = one of the solutions
+  - partitioning (the inputs and outputs of) unit processes among product systems
+
+**Step 1: G and W flows**
+- Good/product (G) is a flow with an economic value ≥ 0
+- Waste is a flow with an economic value < 0
+
+**Step 2: Functional flow**
+Functional flow: any of the flows of a unit process that constitute its goal
+- good(or product) out flows of a production process
+- waste inflows of a waste treatment process
+- every process needs at least one functional flow
+
+* A flow is not intrinsicallya functional flow, but only with respect to a certain unit process
+* More specific:
+  * an outflow that is a functional flow for one unit process is a non-functional inflow for one or more other unit processes
+  - an inflow that is a functional flow for a specific unit process is a non-functional outflow for one or more other unit processes
+* Step 3: Multi-functional process
+* Multi-functional process: a unit process yielding more than one functional flow
+  - co-production: more than one functional outflow and no functional inflow (producing 2 or more goods)
+  - combined waste processing: no functional outflow and more than one functional inflow (processing 2 or more wastes)
+  - recycling: producing ≥1 good(s) + processing ≥1 waste(s)
+
+{{< hl-text blue>}}Mono-functional process{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162913820-cf991419-91b8-40ca-868f-9440b5c11fb4.png)
+![image](https://user-images.githubusercontent.com/65668613/162914255-1374e85b-42b6-4689-8350-7b931706ec91.png)
+
+{{< hl-text blue>}}Multi-functional process: co-production{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162914017-248c7d49-32c2-4341-a406-b1cbb0580fa7.png)
+
+{{< hl-text blue>}}Multi-functional process: combined waste processing{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162914463-ee5dfde9-c9f8-4df4-9a5b-43881ccb4eb1.png)
+
+{{< hl-text blue>}}Multi-functional process: recycling{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162914815-45ed090c-069b-4642-b3d8-a935495fe440.png)
+
+{{< hl-text blue>}}Closed-loop
+recycling{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162915044-aa61cbc7-4dfc-46ca-9949-6e20738584a2.png)
+
+{{< hl-text blue>}}Open-loop recycling{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162915244-a2d00a0a-6eeb-4cab-b8a3-6c374c6339cb.png)
+
+{{< hl-text blue>}}Multi-functional process: combined waste processing & recycling & co-production{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162915499-97112124-68ef-4c38-a21d-623252cd3a67.png)
+
+## Part 2:System boundary & multi-functionality;The price criterion
+
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
