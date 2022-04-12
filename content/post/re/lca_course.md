@@ -1218,7 +1218,56 @@ recycling{{< /hl-text >}}
 {{< hl-text blue>}}Multi-functional process: combined waste processing & recycling & co-production{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/162915499-97112124-68ef-4c38-a21d-623252cd3a67.png)
 
-## Part 2:System boundary & multi-functionality;The price criterion
+## Part 2: System boundary & multi-functionality; The price criterion
+{{< hl-text orange>}}In between conclusions{{< /hl-text >}}
+* Definition of G and W is important: may determine whether a process is multi-functional or not
+  - In case of recycling it matters at which point W flips to G as that determines how much impact is allocated to your product system (see Int J LCA article of allocation exercise later this afternoon)
+* Non-functional waste flows (waste outflows) should be traced down to a process that will manage this waste outflow (waste management process), and that non-functional good/product inflows should be traced up to a process that produced them
+  - both need to be included within the system boundaries of your ‘reference flow’.
+
+{{< hl-text orange>}}The price criterion{{< /hl-text >}}
+How to determine if flow is G or W:
+* Price/direction determines:
+  - if a process is to be included
+  - if a process is multi-functional
+  - extent to which a process is included in case of multi-functionality
+    - price<0: exclude
+    - price>0: include a bit
+    - price>>0: include a lot
+* Is there any other principle than “price” for determining if a flow is functional or not?
+
+## Part 3: Solutions to the MF problem; Discussion
+{{< hl-text orange>}}ISO’s solutions to the multi-functionality problem{{< /hl-text >}}
+Possible solutions:
+- more refined data collection
+- system expansion (accept extra functions as extra reference flow(s))
+- Substitution (Not mentioned by ISO)
+- partitioning (=allocation, get rid of extra functions by an extra modelling step)
+
+{{< hl-text orange>}}Allocation according to ISO{{< /hl-text >}}
+* Solution 1: Wherever possible, allocation should be avoided by:
+  - dividing the unit process to be allocated into two or more sub-processes and collecting the input and output data related to these sub-processes (“more refined data collection”)
+  - expanding the product system to include the additional functions related to the co-products (“system expansion”)
+* Solution 2: Partition inputs and outputs in a way which reflects the underlying physical relationships between them (“physical allocation”)
+* Solution 3: Partition inputs and outputs in a way which reflects other relationships between them
+  - e.g., in proportion to the economic value of the products (“economic allocation”)
+
+{{< hl-text orange>}}Example applying the ISO solutions{{< /hl-text >}}
+**Solution 1a: more refined data collection**
+{{< hl-text orange>}}Solving multi-functional “problem” by re-iteration of process specification & data collection{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/162926873-5304a0aa-caa4-420b-87b5-466ee4c71e4c.png)
+
+{{< hl-text orange>}}Solution 1b: system expansion{{< /hl-text >}}
+* E.g., comparing 2 ways of disposing 1 kg of plastics
+![image](https://user-images.githubusercontent.com/65668613/162927705-7acfb396-56f7-45e4-bbb8-57cebe9ab7e4.png)
+![image](https://user-images.githubusercontent.com/65668613/162927889-99fe185b-01fe-4301-af90-366fc43abe36.png)
+but are you still doing a waste management LCA? (‘managing waste’, or ‘managing waste + plastic + heat’)
+
+* Change system boundary
+* Include extra function(s) in functional unit
+* Must also do this for the other alternatives
+
+{{< hl-text orange>}}Solution 1b: “substitution”{{< /hl-text >}}
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
