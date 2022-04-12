@@ -1268,6 +1268,16 @@ but are you still doing a waste management LCA? (‘managing waste’, or ‘man
 * Must also do this for the other alternatives
 
 {{< hl-text orange>}}Solution 1b: “substitution”{{< /hl-text >}}
+* Defining an “avoided” process with subsequent “avoided” interventions/impacts
+  - also known as “avoided burden approach”
+* But which process is avoided?
+  - particularly important for energy substitution (coal, gas, hydro …)
+
+* Change system boundary
+* Add extra process
+* Subtract “avoided” process
+* With consequences upstream and downstream
+![image](https://user-images.githubusercontent.com/65668613/162929811-d544d17f-a06b-4053-b33d-dc275ab7c9d4.png)
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
