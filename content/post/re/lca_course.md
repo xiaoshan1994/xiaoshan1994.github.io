@@ -1154,7 +1154,7 @@ wood and PVC window frames
 Yogi Tea and Lipton
 
 # 10. Multi-functionality
-## Part 1: The problem; Definitions & typologies
+## 10.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
 * There are processes which have more than one function
   - “multifunctional processes”
@@ -1218,7 +1218,7 @@ recycling{{< /hl-text >}}
 {{< hl-text blue>}}Multi-functional process: combined waste processing & recycling & co-production{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/162915499-97112124-68ef-4c38-a21d-623252cd3a67.png)
 
-## Part 2: System boundary & multi-functionality; The price criterion
+## 10.2 System boundary & multi-functionality; The price criterion
 {{< hl-text orange>}}In between conclusions{{< /hl-text >}}
 * Definition of G and W is important: may determine whether a process is multi-functional or not
   - In case of recycling it matters at which point W flips to G as that determines how much impact is allocated to your product system (see Int J LCA article of allocation exercise later this afternoon)
@@ -1236,7 +1236,7 @@ How to determine if flow is G or W:
     - price>>0: include a lot
 * Is there any other principle than “price” for determining if a flow is functional or not?
 
-## Part 3: Solutions to the MF problem; Discussion
+## 10.3 Solutions to the MF problem; Discussion
 {{< hl-text orange>}}ISO’s solutions to the multi-functionality problem{{< /hl-text >}}
 Possible solutions:
 - more refined data collection
@@ -1352,14 +1352,89 @@ allocation doesn’t matter IF supply and demand balance
 4. Which solution(s)/method(s) have been selected and applied including sensitivity analyses and why
   - for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses.
 
-
-for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
-
 {{< hl-text orange>}}Finally, if you want to digest it once more{{< /hl-text >}}
 * Please read:
 * You can find it in the Brightspace under “Reading Materials” channel under files > Literature: “Ch4-LCI Compendium-Guinee_etal(2018)-Preprint.pdf”
 * There is also a video explaining once more explaining the importance of step 1-3: “IE-MF 3 steps LCA Compendium CE_Symbiosis” (see “Web Lectures”)
 ![image](https://user-images.githubusercontent.com/65668613/162943808-074ea139-f9db-4a56-8ab5-dc70e484402a.png)
+
+# 11. Life Cycle Impact Assessment (LCIA)
+## 11.1 Definition of LCIA
+* ISO: Phase of life cycle assessment aimed at understanding and evaluating the magnitude and significance of the potential environmental impacts of a product system.
+* Often abbreviated to LCIA
+for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
+## 11.2 The principle of characterization
+* ISO definition: factor derived from a characterization model which is applied to convert the assigned LCI results to the common unit of the category indicator.
+* Examples: GW{{< hl-text blue>}}P{{< /hl-text >}}, A{{< hl-text blue>}}P{{< /hl-text >}}
+
+* CO2 and CH4 both contribute to {{< hl-text blue>}}climate change (impact category){{< /hl-text >}}.
+* {{< hl-text blue>}}Global Warming Potential (GWP, characterization factor){{< /hl-text >}}: measure for climate change in terms of {{< hl-text blue>}}radiative forcing (category indicator){{< /hl-text >}} of a mass-unit of greenhouse gas.
+* Example calculation:
+  - 5 kg CO2, GWP = 1
+  - 3 kg CH4, GWP = 28
+  - 1 x 5 + 28 x 3 = {{< hl-text blue>}}89 kg CO2-eq (category indicator result){{< /hl-text >}}
+
+{{< hl-text orange>}}Simple conversion & aggregation{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163550462-2743a391-e949-4c60-9ff7-b564ca894c49.png)
+
+## 11.3 Selection of impact categories, category indicators and characterization models
+{{< hl-text orange>}}Defining impact categories: 2 main approaches{{< /hl-text >}}
+* Midpoint-oriented (CML-IA, EDIP, TRACI, …)
+* Endpoint-oriented: damage approaches (Eco-indicator 99, Ecoscarcity, EPS, …)
+* And hybrid approaches combining/harmonizing
+  - midpoint and endpoint (Impact 2002+, ReCiPe, ...)
+
+{{< hl-text orange>}}General structure LCIA framework{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163551767-47a66df9-0961-4818-acc6-559ec99b0a2a.png)
+
+{{< hl-text orange>}}Impact category{{< /hl-text >}}
+* ISO definition: class representing environmental issues of concern to which LCI results may be assigned.
+* Examples: climate change, acidification
+
+{{< hl-text orange>}}Category indicator{{< /hl-text >}}
+* ISO definition: quantifiable representation of an impact category
+* Examples: infrared radiative forcing, proton release
+
+{{< hl-text orange>}}Characterization model{{< /hl-text >}}
+* Non-ISO definition: mathematical model of the impact of elementary flows with respect to a particular category indicator
+* Examples: IPCC model for climate change, RAINS model for acidifying substances
+* Provides the basis for a characterisation factor
+
+{{< hl-text orange>}}More examples of characterization models{{< /hl-text >}}
+* Human toxicity, ecotoxicity: USEtox model (Rosenbaum et
+al, 2008)
+* PM/Respiratory inorganics: RiskPoll model (Rabl & Spadaro, 2004)
+* Eutrophication, aquatic: EUTREND model (Struijs et al, 2009b) in ReCiPe
+* Photochemical ozone formation: LOTOS-EUROS model (Van Zelm et al, 2008)
+
+{{< hl-text orange>}}Models{{< /hl-text >}}
+* We could spend weeks to discuss each of these models, but won’t do that
+  - there are (academic) institutes dedicated to developing & improving characterisation models only
+* Developing these models is hard work
+
+{{< hl-text orange>}}Some baseline examples{{< /hl-text >}}
+* Guinée et al. 2002: Handbook on Life Cycle Assessment (“CML 2002”)
+![image](https://user-images.githubusercontent.com/65668613/163555303-30e87f2e-04c8-4214-88b2-09275eb9a30a.png)
+
+## 11.4 Classification
+* ISO definition: assignment of LCI results to impact categories
+* Example: CO2 and CH4 are assigned to climate change
+![image](https://user-images.githubusercontent.com/65668613/163559158-02fd8788-7ca0-45ba-b8d6-6f88806d43a5.png)
+
+## 11.5 Characterization
+* ISO definition: calculation of category indicator results
+* Example: 5 kg CO2 and 3 kg CH4 yield 89 kg CO2-eq
+
+{{< hl-text orange>}}General equation{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163559315-1ffbd785-e185-47ae-8802-b63bfbd09bde.png)
+* Unit of (category) indicator result:
+  - kg CO2-eq (climate change)
+  - kg SO2-eq (acidification)
+
+{{< hl-text orange>}}Example of characterization table{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163559586-3e52886f-26d0-470c-add6-de9c57a73254.png)
+
+{{< hl-text orange>}}Models & characterization factors{{< /hl-text >}}
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
