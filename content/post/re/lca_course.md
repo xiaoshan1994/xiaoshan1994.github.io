@@ -13,6 +13,8 @@ thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
+Jeroen Guinee and Bernhard Steubing
+Intensive theory week (5 days; 9 to 5)
 <!--more-->
 {{< toc >}}
 2122-S1 LCA Practice & Reporting - Theory Week: Lectures
