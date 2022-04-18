@@ -1720,7 +1720,74 @@ packaging
 {{< hl-text orange>}}Example 1: Process contribution for fresh mussel processing and consumption{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163791918-ca203362-0ae5-474e-b481-b945f09edbe2.png)
 
+{{< hl-text orange>}}Example 2: Process contribution to impact categories of biomethane production from offshore-cultivated seaweed{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163792324-24dfec89-e418-4f6f-9909-b87bc479229c.png)
 
+{{< hl-text orange>}}Purpose{{< /hl-text >}}
+* Application-oriented:
+  - results of contribution analysis may provide opportunities for redesign, prevention strategies, etc.
+* Analysis-oriented:
+  - precise knowledge of data is more important for highest contributors, than for
+those that hardly contribute
+  - testing results against what one would intuitively expect
+
+{{< hl-text orange>}}Restrictions{{< /hl-text >}}
+* {{< hl-text blue>}}‘False negatives’{{< /hl-text >}} due to underestimated or missing flows cannot be identified with contribution analysis
+* Problems with “negative contributions” (due to negative emissions, e.g. CO2 uptake, applying ‘avoided burdens' approach, or a negative CF)
+![image](https://user-images.githubusercontent.com/65668613/163793965-78bc879d-5a27-422d-8eb8-bdd67143ed4f.png)
+* Results only indicate direct contributions of item (e.g., CO2 emission) analyzed
+  - use process expected to be dominant in LCA of TV
+  - however, TVs don’t emit themselves (‘clean’ process), but may use lot of kWh -> power generation dominant
+
+{{< hl-text orange>}}Only direct contributions: matrices{{< /hl-text >}}
+* Consult CMLCA -> Inventory results (-> v More) -> Matrices
+  - Technology (A) – Original: shows the economic process data of ecoinvent processes + added processes (and/or ecoinvent changes) by user
+  - Satellite (B) – Original: shows the environmental process data of ecoinvent processes + added processes (and/or ecoinvent changes) by user
+  - Transformed matrix: square A-matrix based on the results of cut-offs and allocation
+  - Scaled transformed technology (A) matrix: A-matrix times the scaling vector; for every row (product) you get exactly the final demand, which for most products is zero except for your FU/reference flow
+  - Scaled transformed satellite (B) matrix: B-matrix times the scaling vector; for every row (extension) you get exactly the inventory results for your FU; note that the results are provided per process which constitutes the basis of the CMLCA contribution analysis
+  - (Inverted technology matrix is the basis for calculating the scaling vector; see Tuesday’s
+lecture)
+
+![image](https://user-images.githubusercontent.com/65668613/163795236-bc811e08-6c32-483a-95fd-b1b88d1a2125.png)
+
+{{< hl-text orange>}}Contribution analysis{{< /hl-text >}}
+* The standard contribution analysis calculates the contributions by each process (≥ 14889 columns if ecoinvent is used!) to the total
+* Other analyses are possible but basically aggregate processes (columns) in groups:
+  - Stages
+  - Background/foreground
+  - Any label …
+  - Region
+  - Year
+* In scientific publications it’s often not explained how life cycle stage contribution analyses have been performed while these may contain a lot of choices
+
+{{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163817290-44b45636-8dd2-4c2c-9b74-e5aaec0cca8e.png)
+
+{{< hl-text orange>}}Perturbation analysis{{< /hl-text >}}
+* Also known as marginal analysis or sensitivity analysis: investigate inherently unstable items
+  - change data/factor with 1%, and determine how much a result is changed
+* Multiplier: extent to which perturbation of certain input parameter
+propagates into certain output result
+  - if an increase of 1% of an input parameter leads to an increase of 2% of an output result, multiplier 2
+  - if output result decreases by 2%, multiplier is -2
+  - multipliers restricted to marginally small changes
+
+{{< hl-text orange>}}Levels and items{{< /hl-text >}}
+* Can be performed at several (output) levels: inventory analysis; characterization; normalization; weighting
+* Can be performed at all (input) process data (technology matrix A)
+* No specification of parameter uncertainties needed
+* Contrary to contribution analysis, perturbation analysis covers both
+  economic and environmental flows
+
+{{< hl-text orange>}}Purposes & restrictions{{< /hl-text >}}
+* Purposes:
+  - application oriented: results of perturbation analysis may provide opportunities
+for redesign, prevention strategies, etc.
+  - analysis oriented: precise knowledge of data is most important for highest
+multipliers
+* Restrictions:
+  - time-consuming for numerical solutions; analytical solutions very fast
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
