@@ -1509,6 +1509,41 @@ further weighting!
 ![image](https://user-images.githubusercontent.com/65668613/163769719-1ce04c62-7ed2-417d-99cb-f6d7e7ee5c94.png)
 
 ## 11.7 Weighting
+* ISO definition: converting and possibly aggregating indicator results
+across impact categories using numerical factors, also called ‘weighting factors’
+  - based on value-choices
+  - ISO: “weighting shall not be used for comparative assertions disclosed to the
+public”
+
+{{< hl-text orange>}}Weighting factor{{< /hl-text >}}
+* Definition: a factor obtained with a weighting method and used to express a particular (normalised) indicator result in terms of the common unit of the weighting result.
+
+{{< hl-text orange>}}Basis for weighting factors{{< /hl-text >}}
+* Monetary values
+  - willingness-to-pay
+  - damage costs
+  - reduction costs
+* Distance-to-target methods
+* Panel methods
+  - expert panels
+  - non-expert panels
+* ...
+
+{{< hl-text orange>}}Equations{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163773283-fe594d8c-9125-46b3-b7f5-c5c508926a23.png)
+
+* Unit of weighted index:
+  - year (when based on normalized results)
+  - euro, dollar, etc. (when based on monetary valuation)
+  - but often renamed: ecopoints, millipoints, ELU, etc.
+
+{{< hl-text orange>}}Example methods including weighting{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163773950-c48175c4-82ae-4cb5-9204-18f547b92120.png)
+
+{{< hl-text orange>}}Example of the results of weighting{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163774208-de29c28f-16aa-4c0a-96f3-7ad0debe3c20.png)
+
+## 11.8 Practice of LCIA
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
