@@ -1784,10 +1784,14 @@ propagates into certain output result
 * Purposes:
   - application oriented: results of perturbation analysis may provide opportunities
 for redesign, prevention strategies, etc.
-  - analysis oriented: precise knowledge of data is most important for highest
-multipliers
+  - analysis oriented: precise knowledge of data is most important for highest multipliers
 * Restrictions:
   - time-consuming for numerical solutions; analytical solutions very fast
+
+{{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163822814-08123efe-02fc-402c-b0d1-658bdfb9edf1.png)
+
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
