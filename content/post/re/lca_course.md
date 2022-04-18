@@ -1791,6 +1791,56 @@ for redesign, prevention strategies, etc.
 {{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163822814-08123efe-02fc-402c-b0d1-658bdfb9edf1.png)
 
+{{< hl-text orange>}}Comparative analysis{{< /hl-text >}}
+* Systematic place to list the LCA results for different product alternatives simultaneously
+* Can be performed at several levels
+  - inventory analysis
+  - characterization
+  - normalization
+  - weighting
+
+{{< hl-text orange>}}Purposes & restrictions{{< /hl-text >}}
+* Purposes:
+  - to provide presentations of results on the basis of which different product alternatives can easily be compared
+* Restrictions:
+  - comparative analysis is seductively simple
+  - dangerous, because it may easily induce claims without a proper analysis of robustness of these claims with respect to influence of uncertainties
+
+{{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163824623-74764660-27cc-4fba-9e7e-0328822c080e.png)
+
+## 12.4 Concluding remarks
+{{< hl-text orange>}}Concluding remarks: future of interpretation{{< /hl-text >}}
+* Numerical approaches will win ground, particularly uncertainty and sensitivity analyses
+* Dilemma:
+  - need to improve LCA-software so that uncertainty estimates of input parameters
+can be handled
+  - need to add uncertainty estimates to LCA-databases (uncertainty data)
+  - most current LCA software cannot deal with them, lowering priority for collecting
+such data
+
+{{< hl-text orange>}}What should you do now?{{< /hl-text >}}
+* Use common sense to identify data quality issues
+* Apply contribution analysis to identify hot-spots
+* Apply sensitivity analysis
+* Identify limitations of:
+  - LCA as tool, and
+  - study at stake
+
+* Use common sense to formulate conclusions and recommendations properly reflecting potential data issues, hot-spots, and identified limitations.
+
+{{< hl-text orange>}}And … why are my results as they are?{{< /hl-text >}}
+* Always critically ask yourself “why are my results as they are?”
+  - Do they feel intuitively correct?
+  - If not, can you explain why they are counter-intuitive?
+  - What are the key processes or variables explaining differences between alternatives?
+  - ….
+
+* And thus ….:
+  - Can you explain them to third parties involved?
+  - Can you base correct and clear conclusions and recommendation on them?
+{{< alert warning >}}Don’t ever consider LCAs as a push on the button of CMLCA, SimaPro, OpenLCA, GaBi, …{{< /alert >}}
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
