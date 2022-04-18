@@ -1187,7 +1187,7 @@ Functional flow: any of the flows of a unit process that constitute its goal
 - waste inflows of a waste treatment process
 - every process needs at least one functional flow
 
-* A flow is not intrinsicallya functional flow, but only with respect to a certain unit process
+* A flow is not intrinsically a functional flow, but only with respect to a certain unit process
 * More specific:
   * an outflow that is a functional flow for one unit process is a non-functional inflow for one or more other unit processes
   - an inflow that is a functional flow for a specific unit process is a non-functional outflow for one or more other unit processes
@@ -1462,7 +1462,53 @@ Be like this:
 ![image](https://user-images.githubusercontent.com/65668613/163561096-c4026938-7624-4bd2-add5-42e39bf78d6e.png)
 
 ## 11.6 Normalization
+* ISO definition: calculation of the magnitude of category indicator results to reference information
+* Reference information (over a given period of time):
+  - area (e.g., France, Europe, the world)
+  - person (e.g., a Danish citizen)
+  - product (e.g., the most frequently used product)
 
+{{< hl-text orange>}}Aim of normalization{{< /hl-text >}}
+To better understand the relative magnitude for each indicator results
+of the product system under study.
+  - checking for inconsistencies
+  - providing and communicating information on the relative significance of the
+indicator results
+  - preparing for additional procedures
+
+{{< hl-text orange>}}Normalized indicator result{{< /hl-text >}}
+* Formula:
+![image](https://user-images.githubusercontent.com/65668613/163766216-135d8982-427e-480e-89ba-efd30a479f00.png)
+* Unit of normalization result: year
+
+{{< hl-text orange>}}Equation for calculating the category total{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163766302-7fcc4a92-f820-418a-a81f-52076a71bdcb.png)
+
+{{< hl-text orange>}}And …result only valid for one specific “emission – year – region – CF/method” combination: for example, GWGWP100 result ≠ GWGWP500 result{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163767019-eade347a-949c-4c44-874c-41eb7515bc92.png)
+
+{{< hl-text orange>}}Some categories constitute flawed normalization results{{< /hl-text >}}
+* Toxicity related categories:
+  - Missing global inventory results (emissions)
+  - Missing characterization factors
+* PEF category ionising radiation:
+  - For the PEF category ionising radiation, normalized indicator results are approximately 1000 times higher compared to results for other categories
+  - Again probably due to:
+    - Missing global inventory results (emissions)
+    - Missing characterization factors
+
+{{< hl-text orange>}}Limitations of normalization{{< /hl-text >}}
+* Normalization ≠ weighting !!!
+- Don’t aggregate normalization results over different impact categories without
+further weighting!
+* Category totals may have huge data gaps leading to flawed normalization (and related weighting) results.
+
+{{< hl-text orange>}}Example of a normalization table{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163767669-6c2f0b75-b0a6-460b-bddc-6e3ede61b521.png)
+
+![image](https://user-images.githubusercontent.com/65668613/163769719-1ce04c62-7ed2-417d-99cb-f6d7e7ee5c94.png)
+
+## 11.7 Weighting
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
