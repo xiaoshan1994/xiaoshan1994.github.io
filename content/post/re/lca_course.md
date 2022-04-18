@@ -1576,9 +1576,150 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Theory: complicated models, many substances, hard work by many model developers, …
 * Practice: complete sets implemented in software:
   - impact assessment = push of a button
-  
+
 # 12. Life Cycle Interpretation
 ## 12.1 Definition of life cycle interpretation
+* ISO: Phase of life cycle assessment in which the findings of either the inventory analysis or the impact assessment, or both, are combined consistent with the defined goal and scope in order to reach conclusions & recommendations
+* The fourth and last phase of an LCA
+  - no abbreviation like LCI or LCIA
+{{< hl-text orange>}}Procedural approaches: interpretation in ISO 14044{{< /hl-text >}}
+* Identification of significant issues
+* Evaluation
+  - completeness check
+  - sensitivity check
+  - consistency check
+* Conclusions, recommendations and reporting
+  - critical review
+
+## 11.2 Procedural approaches: interpretation in ISO 14044
+* Objective: to structure the results from LCI and/or LCIA in order to determine significant issues (‘hot spots’), e.g. certain:
+  - inventory data such as energy, emissions, waste, …
+  - impact categories such as resource use, climate change, …
+  - significant contributions from life cycle stages to total LCI or LCIA results such as individual unit processes or groups of processes, …
+
+{{< hl-text orange>}}Evaluation (ISO 14044){{< /hl-text >}}
+* Objective: to establish and enhance the confidence in and the reliability of the results:
+ - completeness check: to ensure that all relevant information and data are available and complete
+- sensitivity check: to assess the reliability of the final results and conclusions
+- consistency check: to determine whether the assumptions, methods and data are consistent with the goal and scope
+
+{{< hl-text orange>}}Examples of completeness checks (ISO 14044){{< /hl-text >}}
+
+* ISO: “The objective of the completeness check is to ensure that all relevant information and data needed for the interpretation are available and complete. If any relevant information is missing or incomplete, the necessity of such information for satisfying the goal and scope of the LCA shall be considered. This finding and its justification shall be recorded. If any relevant information, considered
+necessary for determining the significant issues, is missing or incomplete, the preceding phases (LCI, LCIA) should be revisited or, alternatively, the goal and scope definition should be adjusted. If the missing information is considered unnecessary, the reason for this should be recorded.”
+
+* Examination of difference in data completeness between alternatives compared, by expert judgment, intuition, reputation of data suppliers, …
+* Compare your study with other similar studies
+  - Note: no 2 LCAs are really comparable !
+* Check differences in completeness between alternatives compared
+  - E.g., differences in completeness of flowcharts, cut-offs made, ….
+* Identify differences in type and number of substances not captured by characterization between alternatives compared
+  - CMLCA: “Flows without characterization factors” in “Classification” menu
+![image](https://user-images.githubusercontent.com/65668613/163781478-010893c1-9a04-48de-8187-1ee6b5db96e6.png)
+
+{{< hl-text orange>}}Examples of sensitivity checks (ISO 14044){{< /hl-text >}}
+* Determining how final case study results are affected by data uncertainties, allocation methods, characterization methods, etc.
+* Sensitivity check shall include the results of sensitivity analysis and uncertainty analysis, if performed in the preceding phases (LCI, LCIA)
+
+{{< hl-text orange>}}Examples of consistency checks{{< /hl-text >}}
+* ISO: The objective of the consistency check is to determine whether the assumptions, methods and data are consistent with the goal and scope. If relevant to the LCA or LCI study the following questions shall be addressed.
+  - Are differences in data quality along a product system life cycle and between
+different product systems consistent with the goal and scope of the study?
+  - Have regional and/or temporal differences, if any, been consistently applied?
+  - Have allocation rules and the system boundary been consistently applied to all
+product systems?
+  - Have the elements of impact assessment been consistently applied?”
+
+{{< hl-text orange>}}Examples of consistency checks{{< /hl-text >}}
+* Differences in data sources, e.g.,
+  - product A literature; product B primary data
+* Differences in data accuracy, e.g.,
+- A detailed processes; B cumulated black-box system
+* Differences in technology coverage, e.g.,
+- A experimental data; B existing large-scale technology
+* Differences with time-related coverage, e.g.,
+- A brand-new technology; B outdated technology mix
+* Differences in data age, e.g.,
+- A 5-year old primary data; B recently collected data
+* Differences in geographical coverage, e.g.,
+- A repr. EU technology mix; B one EU member state
+
+![image](https://user-images.githubusercontent.com/65668613/163782300-821c35ec-9a14-4974-80a9-03aa8fc9006d.png)
+
+{{< hl-text orange>}}Discussion (for your case study report){{< /hl-text >}}
+* discuss consistency, completeness, sensitivity etc. in relation to goal of student's specific case study; not just in general terms repeating the
+theory
+* With everything you found, uncertainties, gaps you had, can you answer that RQ, what is the validity of that answer, importance of cutoffs, choices you made (e.g. FU), possibly putting your results in a bigger picture, ….
+
+{{< hl-text orange>}}Conclusions and recommendations{{< /hl-text >}}
+* Objective: to draw conclusions and make recommendations for the intended audience
+* Important topics:
+  - transparent reporting
+    - all ISO aspects (phases, steps, data, assumption, choices) can be easily found
+    - how to report results
+  - critical review
+    - role and exact form depend on goal of the study
+
+{{< hl-text orange>}}Examples of conclusions{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163783858-2d168bce-0f69-436f-991d-fc01f859a6f4.png)
+
+![image](https://user-images.githubusercontent.com/65668613/163783961-f88dd559-158c-433a-9bb1-a73ad4071483.png)
+
+* Conclusions should comprise of the main results and a discussion of its validity and reliability
+  - summary of significant issues
+  - evaluation of methodology and results applying consistency and completeness checks, and sensitivity and uncertainty analysis
+  - main conclusions as relate to goal and scope of study, data quality, assumptions,
+etc.
+
+{{< hl-text orange>}}Examples of conclusions: formulate carefully- consistent with goal and scope of study{{< /hl-text >}}
+* LCA focusing on climate change impacts only:
+  - you can’t formulate a conclusion as: “Product A performs environmentally better
+than product B …”.
+  - You can only conclude: “On climate change impacts, product A performs better
+that product B ….. Trade-offs to other impact categories have not been analysed”
+.. or something similar.
+
+* Conclusions are only valid for the systems analysed, and not for other systems!
+  - LCA results for 1 litre packaging do not automatically also apply to 1.5 litre
+packaging
+
+{{< hl-text orange>}}Formulate carefully – cont’d - include results of earlier steps from your LCA -{{< /hl-text >}}
+* Inconsistencies, incompleteness, sensitivities, uncertainties and errors (that cannot be repaired)
+  - should either be corrected or incorporated in conclusions & recommendations of the study
+* Studies often include sensitivity analyses
+  - but don’t mention their results in the conclusions
+
+## 11.3 Numerical approaches
+{{< hl-text orange>}}From ISO procedural to numerical approaches for practice{{< /hl-text >}}
+* ISO only provides procedural approaches, no guidance on numerical approaches
+* Numerical approaches have been added by LCA methodology developers to basically implement the ISO guidelines in practice!!
+* From ‘checks’ to ‘analysis’
+
+{{< hl-text orange>}}Numerical approaches{{< /hl-text >}}
+* Contribution analysis {{< hl-text blue>}}ISO: "identification of significant issues"{{< /hl-text >}}
+* Perturbation analysis {{< hl-text blue>}}ISO: "Sensitivity check"{{< /hl-text >}}
+* Comparative analysis
+* Other sensitivity (than perturbation) analysis (tomorrow)
+* Uncertainty analysis (optional; tomorrow)
+* Discernibility analysis (not treated)
+* Key issue analysis (not treated)
+* …..
+
+{{< hl-text orange>}}Contribution analysis{{< /hl-text >}}
+* Also known as dominance or hot-spot analysis: decompose results into contributing items (e.g. % of total)
+* Can be performed at several levels:
+  - inventory analysis
+  - characterization
+  - normalization
+  - weighting
+* Can be performed on different items:
+  - processes
+  - interventions
+  - impact categories
+
+{{< hl-text orange>}}Example 1: Process contribution for fresh mussel processing and consumption{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163791918-ca203362-0ae5-474e-b481-b945f09edbe2.png)
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
