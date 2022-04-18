@@ -1544,6 +1544,41 @@ public”
 ![image](https://user-images.githubusercontent.com/65668613/163774208-de29c28f-16aa-4c0a-96f3-7ad0debe3c20.png)
 
 ## 11.8 Practice of LCIA
+{{< hl-text orange>}}Practice of LCIA: from theory2practice{{< /hl-text >}}
+* Different methods and approaches
+* What are their real differences?
+* How to choose for an approach or method?
+  - matter of “taste” (e.g., midpoint/endpoint), update and representativeness
+
+{{< hl-text orange>}}Different methods and approaches{{< /hl-text >}}
+* CML 1992 and 2001 / 2002
+* Eco-indicator ’99
+* IMPACT 2002+
+* TRACI 2.0
+* LUCAS
+* EDIP 97 and 2003
+* EPS 2000
+* Ecopoints
+* LIME2
+* ReCiPe
+* Swiss Ecoscarcity 2006
+* ILCD LCIA recommended methods / PEF method
+* etc.
+
+For more details, please consult your reading material: [ILCD – Recommendation for Life Cycle Impact Assessment in the European Context](https://eplca.jrc.ec.europa.eu/uploads/ILCD-Handbook-Recommendations-for-Life-Cycle-Impact-Assessment-in-the-European-context.pdf)
+
+{{< hl-text orange>}}EU Product Environmental Footprint (PEF){{< /hl-text >}}
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
+![image](https://user-images.githubusercontent.com/65668613/163775289-e26cdb6b-29d0-43bc-a78e-3b8d31e223ed.png)
+* CMLCA file with three impact assessment families (CML-IA 2001/2002, ReCiPe and the PEF) will be developed and available for use in your case studies: “ecoinvent34_cutoff_LCIAfams_Norm_LCAPR.lca”
+
+{{< hl-text orange>}}LCIA: from theory2practice{{< /hl-text >}}
+* Theory: complicated models, many substances, hard work by many model developers, …
+* Practice: complete sets implemented in software:
+  - impact assessment = push of a button
+  
+# 12. Life Cycle Interpretation
+## 12.1 Definition of life cycle interpretation
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
