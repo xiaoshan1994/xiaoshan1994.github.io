@@ -40,11 +40,11 @@ Proposals should demonstrate the {{< hl-text blue>}}environmental relevance{{< /
 
 As preparation for drafting the research proposal, students are required to read the article by Hengl and Gould (2002): https://www.itc.nl/library/papers/hengl_rules.pdf. Proposals are graded according to how well the student follows the requirements below.
 
-## Format and submission requirements:
+## Format and submission requirements
 • Proposals must be submitted through Brightspace (Leiden) / Assignments (use the similarity check to resolve any outstanding issues prior to the due date).
 • Max. 2000 words including a maximum 300 words abstract, Tables, Figures, frontpages, etc., while excluding only references and appendices.
 
-## Content requirements:
+## Content requirements
 • **Title** and **student name**
 • **Abstract** (300 words): Define the research question(s), propose an LCA case study, describe the scope and discuss your approach. Tell us why the case study is important and why a life cycle approach is necessary. The abstract at this point should make your audience want to know more about your study without necessarily having the final results.
 • **Introduction** (problem statement, literature review, research question, …. ): Include background information, previous research on the topic (including LCA literature). Here, you will use existing literature (at least 2 reference LCA studies) to construct the problem statement and identify a knowledge gap. For example, “all studies so far focus on the comparative advantages at the use phase, while neglecting manufacturing and processing which may not compensate for gains in efficiency. This study takes a life cycle approach to evaluate the systemic environmental implications of A and B and determine if there is an environmental advantage to either one. Moreover, hot spots are identified for both alternatives”.
@@ -62,13 +62,13 @@ Use the terminology you learned during the theory week (glossary);
 Time is limited, focus on the course requirements and don’t set your additional requirements too high. For example, leave the “Life Cycle Stage contribution analysis” for the end.
 While waiting for our feedback you can already start doing your research, use all the time you have.
 
-## **Assignment 2: Presentation**
-## **Assignment 3: Final report**
+## Assignment 2: Presentation
+## Assignment 3: Final report
 For the LCA-PR course the student is expected to perform a methodologically consistent and proper LCA case study based on what has been taught during the Theory Week. The student needs to submit a properly structured and type-written report, along with the CMLCA-file (‘model’) that is created for the LCA study. Through the report and the CMLCA-file, the student should convince the course instructors that (s)he understands the LCA theory, how to apply the theory in practice in a case study, and how to interpret an LCA study’s results taking into account the proper use and constraints of LCA.
 
 The results of the case study performed during the course cannot generally classify as a full LCA. Instead, this is more of an educational exercise. Please have this in mind when performing your case study.
 
-## **Model requirements (Mandatory!):**
+## Model requirements (Mandatory!)
 
 In addition to the use of the background ecoinvent v3.4 database, the student should model (in CMLCA) at least 5 foreground unit processes including:
 
@@ -1591,7 +1591,7 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Conclusions, recommendations and reporting
   - critical review
 
-## 11.2 Procedural approaches: interpretation in ISO 14044
+## 12.2 Procedural approaches: interpretation in ISO 14044
 * Objective: to structure the results from LCI and/or LCIA in order to determine significant issues (‘hot spots’), e.g. certain:
   - inventory data such as energy, emissions, waste, …
   - impact categories such as resource use, climate change, …
@@ -1689,7 +1689,7 @@ packaging
 * Studies often include sensitivity analyses
   - but don’t mention their results in the conclusions
 
-## 11.3 Numerical approaches
+## 12.3 Numerical approaches
 {{< hl-text orange>}}From ISO procedural to numerical approaches for practice{{< /hl-text >}}
 * ISO only provides procedural approaches, no guidance on numerical approaches
 * Numerical approaches have been added by LCA methodology developers to basically implement the ISO guidelines in practice!!
