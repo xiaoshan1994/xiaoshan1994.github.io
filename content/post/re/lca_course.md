@@ -1997,6 +1997,25 @@ Perturbation Analysis in CMLCA
 * We should specify a probability distribution for 𝑌 (e.g., normal with
 mean 2 and standard deviation 0.1)
 * So, 𝑦 is a realization of 𝑌~𝑁 (2,0.1)
+
+{{< hl-text orange>}}Propagating to output uncertainties{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163985878-097af27a-d0d9-4654-b50f-a07de0abe415.png)
+* There is also no “true value” of 𝑧 etc.
+* The value of 𝑧 is a realization of a stochastic variable 𝑍; the value of 𝑢 is a realization of a stochastic variable 𝑈; etc.
+* We can use the methods of probability theory to calculate the distribution of 𝑍, 𝑈, etc., e.g. Monte Carlo simulation
+
+{{< hl-text orange>}}Monte Carlo (MC) simulation{{< /hl-text >}}
+* MC requirements: mean, variance and distribution for each unit process data point
+* In MC, values are randomly sampled from the unit process distributions over a
+fixed number of iterations and aggregated into LCA results using LCA calculation
+software
+![image](https://user-images.githubusercontent.com/65668613/163986599-13a9066e-0df6-400e-830a-f074fc046e2f.png)
+Useful intro to MC methods: https://www.youtube.com/watch?v=t0F3S-46bIQ
+
+{{< hl-text orange>}}Correlated data points: example{{< /hl-text >}}
+* By way of example
+![image](https://user-images.githubusercontent.com/65668613/163987028-7cfc87ed-5215-446e-b21c-8fff7a09e45b.png)
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
