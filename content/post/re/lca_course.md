@@ -1955,7 +1955,48 @@ Perturbation Analysis in CMLCA
   - state results in point values and many digits (e.g. 42.010347)
 
 {{< hl-text orange>}}But we all know LCA is uncertain{{< /hl-text >}}
+* LCAs and PCFs of identical products can deviate by an order of magnitude
+  - process data (empirical, modelled, from databases)
+  - choices on allocation
+  - characterization factors
+* However, several methods have been proposed to deal with uncertainties ….
+* and some data are available
+  - pedigree-based uncertainty
+  - different data sets for same unit process
+  - different LCIA methods
 
+{{< hl-text orange>}}Obtaining uncertainty data is still a huge challenge Pedigree Matrix: Data Quality Indicators{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163979946-abc5a34d-2b4d-4e14-9981-953c8607ec89.png)
+
+{{< hl-text orange>}}Pedigree matrix: quantifying Data Quality Indicators{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163982985-e373fe73-9b17-4189-a2a2-39052f0ef5d0.png)
+
+{{< hl-text orange>}}Treating uncertainty (for data){{< /hl-text >}}
+* By way of example
+![image](https://user-images.githubusercontent.com/65668613/163983484-ef65e143-d7b3-42f4-8d1d-8d86ed00d3c2.png)
+* The value of 𝑥 differs
+  - per car type
+    - may have to be averaged over different car types depending on G&S
+  - but even per car of the same type depending on:
+    - driver
+    - weather type
+    - day and time of the day
+    - ...
+
+{{< hl-text orange>}}Treating uncertainty (for data){{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163983484-ef65e143-d7b3-42f4-8d1d-8d86ed00d3c2.png)
+* Consequently, there is no “true value” of 𝑥
+* The value of 𝑥 is a realization of a stochastic variable 𝑋
+* We should specify a probability distribution for 𝑋
+* (e.g., normal with mean 5 and standard deviation 1)
+* So, 𝑥 is a realization of 𝑋~𝑁 (5,1)
+
+![image](https://user-images.githubusercontent.com/65668613/163984304-93c918b5-b7ae-47e3-b2b2-26b6020054f8.png)
+* There is also no “true value” of 𝑦
+* The value of 𝑦 is a realization of a stochastic variable 𝑌
+* We should specify a probability distribution for 𝑌 (e.g., normal with
+mean 2 and standard deviation 0.1)
+* So, 𝑦 is a realization of 𝑌~𝑁 (2,0.1)
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
