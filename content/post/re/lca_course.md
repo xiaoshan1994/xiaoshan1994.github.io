@@ -1900,6 +1900,7 @@ due to variation in data sample
 * Select sensitivity topics carefully
   - Use results of contribution analysis
   - Familiarize with literature
+
 {{< hl-text orange>}}Short software exercise: choice of allocation method{{< /hl-text >}}
 Open the file “allocation exercise3.lca” in CMLCA:
 * Calculate the inventory results and export them to an excel file for comparison
@@ -1911,6 +1912,7 @@ with your colleagues.
 
 {{< hl-text orange>}}Systematic OAT local sensitivity analysis (Perturbation Analysis){{< /hl-text >}}
 {{< hl-text orange>}}Perturbation analysis: recall yesterday’s example{{< /hl-text >}}
+
 ![image](https://user-images.githubusercontent.com/65668613/163963022-73635593-f5d4-49b1-9b64-805a9bdd4e2c.png)
 
 {{< hl-text orange>}}Wrap up{{< /hl-text >}}
@@ -1934,6 +1936,25 @@ Perturbation Analysis in CMLCA
 -How to use it in conclusions
 
 ## 13.3 Uncertainty analysis (Optional)
+{{< hl-text orange>}}Storyline in a nutshell{{< /hl-text >}}
+* Easy to understand that LCA results are uncertain
+* But today we can treat uncertainties
+* However, we need to understand that LCA is also relative: thus we need to properly combine uncertain and relative
+* And we need not only to include uncertainty on data but also for methodological choices
+* Let’s briefly discuss some lessons and principles
+
+{{< hl-text orange>}}Most LCA studies today{{< /hl-text >}}
+* Don’t consider uncertainty or mention it only a bit in the discussion
+* Check yourself: how many articles did you read in the past year in which
+  - histograms or standard deviations of LCA results appeared
+  - hypothesis test (“product A is better than product B”) appeared
+* Most studies
+  - mention some uncertain issues (“end-of-life data is quite uncertain”)
+  - do one or two scenarios (“we recalculated results with a much shorter life span”)
+  - ignore uncertainty whatsoever
+  - state results in point values and many digits (e.g. 42.010347)
+
+{{< hl-text orange>}}But we all know LCA is uncertain{{< /hl-text >}}
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
