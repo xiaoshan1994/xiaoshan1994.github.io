@@ -1857,7 +1857,81 @@ occasionally also GSA
 
 {{< hl-text orange>}}“Uncertainty” is the overall term for the topic of
 SA and UA; it can be subdivided into:{{< /hl-text >}}
+* Uncertainty
+due to lack of knowledge about a “true” value
+  - can be reduced by more / better knowledge or more accurate precise measurements
+  - Data uncertainty, model uncertainty, ….
+* Variability
+due to variation in data sample
+  - Cannot be reduced but better and more sampling can improve knowledge about the variability
+  - Spatial variability, Temporal variability, Variability between objects and sources
+* Uncertainty in this lecture now refers to both uncertainty and variability, and can either be approached by SA or UA
+  * Uncertainty and variability hard to distinguish in practice anyway, and often lumped (al
 
+{{< hl-text orange>}}Uncertainties in LCA - Example of a smartphone LCA {{< /hl-text >}}
+* Functional unit (SMS, call, email)
+* LCI (knowledge about the supply chain)
+  * Material inputs
+  * Manufacturing
+  * Distribution
+  * Use
+  * Disposal
+* Data Sources
+* Allocation Choice
+* Characterization (LCIA; e.g., fate & transport modelling)
+
+## 13.2 Local sensitivity analysis
+{{< hl-text orange>}}Ad-hoc one-at-a-time (OAT) local sensitivity analysis (common practice in LCA today){{< /hl-text >}}
+1. Define the subject of the sensitivity analysis:
+  - Ad hoc changing parameters, choices, … (“scenarios”)
+  - Systematic change of parameters (perturbation analysis; only parameters, not choices)
+2. Evaluate change in results
+3. If comparative, how does it affect conclusions & recommendations?
+![image](https://user-images.githubusercontent.com/65668613/163957365-6c233463-442e-492d-b909-a51073547164.png)
+
+{{< hl-text orange>}}Other example: choice of allocation method{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163957644-c02a6ca3-7047-4fc5-bfae-b39055529db7.png)
+
+{{< hl-text orange>}}Local sensitivity analysis (cont’d){{< /hl-text >}}
+* Most influential assumptions
+  - also use contribution analysis results for selecting subjects for sensitivity analyses
+* Define the conditions for environmental performance determined
+* Include them in conclusions: A>B if…
+* Select sensitivity topics carefully
+  - Use results of contribution analysis
+  - Familiarize with literature
+{{< hl-text orange>}}Short software exercise: choice of allocation method{{< /hl-text >}}
+Open the file “allocation exercise3.lca” in CMLCA:
+* Calculate the inventory results and export them to an excel file for comparison
+with results of two sensitivity analyses below.
+* Sensitivity analysis 1: {{< hl-text blue>}}change the allocation method{{< /hl-text >}} for P4 to “Equal”, calculate the inventory results, and export results to the same excel file for comparison.
+* Sensitivity analysis 2: {{< hl-text blue>}}Change the prices{{< /hl-text >}} for W3 ‘used engine’ from -100 -> -50 €/engine, and for G5 ‘aluminium scrap’ from 30 -> 50 €/kg, calculate the inventory results, and export results to the same excel file for comparison.
+* Sort out further details of how to do these sensitivity analyses yourself together
+with your colleagues.
+
+{{< hl-text orange>}}Systematic OAT local sensitivity analysis (Perturbation Analysis){{< /hl-text >}}
+{{< hl-text orange>}}Perturbation analysis: recall yesterday’s example{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163963022-73635593-f5d4-49b1-9b64-805a9bdd4e2c.png)
+
+{{< hl-text orange>}}Wrap up{{< /hl-text >}}
+{{< hl-text orange>}}Sensitivity & uncertainty analysis{{< /hl-text >}}
+* Sensitivity analysis in LCA: propagating/calculating the effect of a
+number of changes
+  - Focus on local sensitivity analysis here (OAT)
+    - ad hoc (scenarios)
+    - systematic (perturbation analysis)
+      - perturbation analysis: specific and automated sensitivity analysis changing, one at a time, technology matrix parameters by 1% and determining how that changes the results*
+* Uncertainty analysis (not mandatory)
+
+{{< hl-text orange>}}Closing remarks{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163966722-6e7a9a40-856c-4d85-a731-440e63856bc9.png)
+
+{{< hl-text orange>}}Exercise 6.1: Perturbation Analysis{{< /hl-text >}}
+Software Exercise
+Perturbation Analysis in CMLCA
+-steps in CMLCA
+-ways of graphing it
+-How to use it in conclusions
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
