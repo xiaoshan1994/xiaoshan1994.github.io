@@ -2035,6 +2035,38 @@ Useful intro to MC methods: https://www.youtube.com/watch?v=t0F3S-46bIQ
 {{< hl-text orange>}}Correlations between systems compared (shared processes){{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163987783-c0823d7e-3ac0-4194-ab40-573aa34ad494.png)
 
+{{< hl-text orange>}}LCA is uncertain and relative{{< /hl-text >}}
+{{< hl-text blue>}}MC dependent sampling & A-B comparison per MC{{< /hl-text >}}
+* Changing GWA=12.4±2.1 and GWB=11.8±1.9 into ΔGW=0.6±0.1
+* So, not 1000 MC runs for A and then 1000 MC runs for B; but 1000 simultaneous MC runs for A and B while calculating A-B for each run (since only for a specific MC run, the data for shared processes is similar for A and B)
+![image](https://user-images.githubusercontent.com/65668613/163989750-e9fa76cb-8395-4c8e-93fb-1c9150e99086.png)
+![image](https://user-images.githubusercontent.com/65668613/163989795-771f18ac-1423-427a-b839-2f2505b74aea.png)
+
+{{< hl-text orange>}}Similar approach for methodological choices{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163989859-a954c87d-82bd-4f3a-8547-ac1a59fe766f.png)
+[…] to simultaneously propagate uncertainty in unit process data and the sensitivity due to the choice of allocation methods […] to LCA results [..] with the potential to be applied to other methodological choices”.
+
+{{< hl-text orange>}}Interpretation of uncertainty results{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163990087-61270041-5dba-4c93-a3c9-d42c5c67d5f4.png)
+
+{{< hl-text orange>}}CML has a strong track record{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163990143-c58546f5-fc76-4652-85ee-fceddb3b08b2.png)
+
+![image](https://user-images.githubusercontent.com/65668613/163990202-1c1e814c-fc81-4718-a30e-78eee5819d0a.png)
+
+* Heijungs et al. (2019) Int. J. Life Cycle Assess. DOI 10.1007/s11367-019-01666-y
+* Mendoza Beltran et al. (2018). Environ. Sci. Technol. 52(4), 2152-2161
+* Groen & Heijungs (2017). Environ Impact Assess Rev 62, 98-109
+* Mendoza Beltran et al. (2016). Int. J. Life Cycle Assess. 21 (2), 252-264
+* Henriksson et al. (2015). PLOS ONE 10(3): e0121221
+* Henriksson et al. (2014). Int. J. Life Cycle Assess. 19 (2), 429-436
+* De Koning et al. (2010). Int. J. Life Cycle Assess. 15 (1), 79-89
+
+{{< hl-text orange>}}Exercise 6.2: Uncertainty Analysis (DQI) Optional software exercise (optional h☺mework){{< /hl-text >}}
+DQI in CMLCA
+1. Uncertainty analysis
+2. Histograms
+3. Discernibility Analysis
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
