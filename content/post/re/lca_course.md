@@ -1839,7 +1839,24 @@ such data
 * And thus ….:
   - Can you explain them to third parties involved?
   - Can you base correct and clear conclusions and recommendation on them?
-{{< alert warning >}}Don’t ever consider LCAs as a push on the button of CMLCA, SimaPro, OpenLCA, GaBi, …{{< /alert >}}
+{{< alert warning >}}Don’t ever consider LCAs as a push o n the button of CMLCA, SimaPro, OpenLCA, GaBi, …{{< /alert >}}
+
+# 13. Sensitivity and uncertainty analysis
+## 13.1 Difference between sensitivity analysis and uncertainty analysis
+What’s the difference?
+* Although closely related, sensitivity analysis and uncertainty analysis comprise of
+different techniques
+  - Local sensitivity analysis (one at a time (OAT)) assesses the changes in results due an arbitrary change in a single input parameter (ignoring its uncertainty)
+  - Global sensitivity analysis assesses the contributions of the inputs to the total uncertainty in analysis outcomes taking into account the simultaneous variation of (all) input variables
+  - Uncertainty analysis assesses the uncertainty in model outputs as a result of uncertainty in inputs
+
+What do they mean in LCA?
+* LCA practice so far has mainly focused on local SA (not needing any uncertainty
+data as input), but this is slowly changing to including uncertainty analysis and
+occasionally also GSA
+
+{{< hl-text orange>}}“Uncertainty” is the overall term for the topic of
+SA and UA; it can be subdivided into:{{< /hl-text >}}
 
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
