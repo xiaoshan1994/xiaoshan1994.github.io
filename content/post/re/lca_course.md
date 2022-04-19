@@ -2015,6 +2015,25 @@ Useful intro to MC methods: https://www.youtube.com/watch?v=t0F3S-46bIQ
 {{< hl-text orange>}}Correlated data points: example{{< /hl-text >}}
 * By way of example
 ![image](https://user-images.githubusercontent.com/65668613/163987028-7cfc87ed-5215-446e-b21c-8fff7a09e45b.png)
+* The value of 𝑢 differs, just as that of 𝑥
+  - per car type, etc.
+* But 𝑥 and 𝑢 do not vary independently
+  - more gas in, more CO2 out
+  - 𝑥 high, 𝑢 high
+* So, 𝑋 and 𝑈 are correlated
+
+{{< hl-text orange>}}LCA is relative{{< /hl-text >}}
+* OK, there are cases where LCA is absolute
+  - one stand-alone analysis, for finding hot-spots
+  - LCAbsolute, an initiative to reconcile LCA and planetary boundaries
+* but in the vast majority of cases the purpose is (comparative)
+  - GWA > GWB
+* rather than (absolute)
+  - GWA=12.4±2.1 and GWB=11.8±1.9
+* Comparative requires MC dependent sampling & A-B comparison per MC run
+
+{{< hl-text orange>}}Correlations between systems compared (shared processes){{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/163987783-c0823d7e-3ac0-4194-ab40-573aa34ad494.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
