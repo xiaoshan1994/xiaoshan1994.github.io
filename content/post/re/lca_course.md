@@ -2169,7 +2169,7 @@ You will be graded on:
 * Proper explanation of assumptions, allocation and modeling choices in your main report;
 * Consistent with flow chart in your report.
 ## 15.2 Frequently made modelling CMLCA mistakes
-{{< hl-text orange>}}Functional unit and reference flows{{< /hl-text >}}
+### 15.2.1 Functional unit and reference flows
 {{< hl-text orange>}}Example 1{{< /hl-text >}}
   - Function: the provision of electricity
   - FU: 1 kWh of net electricity produced
@@ -2198,6 +2198,25 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164200897-f3a86bd9-fb8b-4f23-8877-3034074852bc.png)
 ![image](https://user-images.githubusercontent.com/65668613/164201154-6411d780-2892-434b-9a39-f2476a293e0f.png)
 ![image](https://user-images.githubusercontent.com/65668613/164201371-6b303180-d8d6-4c41-8720-3ba13273ff9a.png)
+![image](https://user-images.githubusercontent.com/65668613/164201845-fb7456af-eb90-4672-a17d-67627f69ba2b.png)
+![image](https://user-images.githubusercontent.com/65668613/164201908-19b4cfe5-6afd-48c9-b2c6-b2816b55779b.png)
+
+### 15.2.2 Manipulating ecoinvent or connecting your processes to ecoinvent
+{{< hl-text orange>}}Example 1: OK?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164202431-1f33e02c-3834-4f05-83c6-3665ed27cdaf.png)
+
+{{< hl-text orange>}}Example 2: OK or not?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164202872-f852c265-6bdd-40c9-aeb3-e7fb59d8b560.png)
+
+{{< hl-text orange>}}Example 3: starts OK …{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164203288-d2cbb792-695e-41e5-802c-3eb9a3f57834.png)
+
+{{< hl-text orange>}}… but what goes wrong here?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164203491-b21edebb-5fc0-441e-a58d-c2f0fd462aac.png)
+![image](https://user-images.githubusercontent.com/65668613/164203893-e478d319-c13a-46f6-b4ac-afa5fd082090.png)
+
+### 15.2.3 Other more advanced implementation issues
+{{< hl-text orange>}}Example 1: study comparing beer and its packaging modeling and comparing the impacts of recycling beer bottles{{< /hl-text >}}
 
 
 
