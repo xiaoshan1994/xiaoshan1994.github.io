@@ -1746,8 +1746,8 @@ those that hardly contribute
   - Transformed matrix: square A-matrix based on the results of cut-offs and allocation
   - Scaled transformed technology (A) matrix: A-matrix times the scaling vector; for every row (product) you get exactly the final demand, which for most products is zero except for your FU/reference flow
   - Scaled transformed satellite (B) matrix: B-matrix times the scaling vector; for every row (extension) you get exactly the inventory results for your FU; note that the results are provided per process which constitutes the basis of the CMLCA contribution analysis
-  - (Inverted technology matrix is the basis for calculating the scaling vector; see Tuesday’s
-lecture)
+  - (Inverted technology matrix is the basis for calculating the scaling vector; see Tuesday’s lecture)
+
 
 ![image](https://user-images.githubusercontent.com/65668613/163795236-bc811e08-6c32-483a-95fd-b1b88d1a2125.png)
 
@@ -2109,7 +2109,76 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 * Accompany results with a comment/discussion
 * {{< hl-text blue>}}Sometimes tables are better than graphs{{< /hl-text >}}
 
-# 15.
+# 15. Case study design and reporting
+## 15.1 Reporting & writing tips
+{{< hl-text orange>}}Course study goals{{< /hl-text >}}
+* Write an LCA research proposal;
+* Conduct an LCA study;
+* Report LCA results in a reproducible manner;
+* Understand the possibilities and constraints of their LCA study.
+** Convince us that you understand LCA!**
+{{< hl-text orange>}}Scientific writing tips{{< /hl-text >}}
+* Follow our mandatory reporting guidelines!!
+* In addition: use LCA Handbook (structure)
+* {{< hl-text blue>}}One topic per paragraph{{< /hl-text >}}
+* {{< hl-text blue>}}Avoid long sentences{{< /hl-text >}}
+* Use proper and simple English (check synonyms, spelling, grammar, …)
+* Let someone (fellow student) else read your text before you submit it
+* Literature to be consulted optionally:
+  - Scientific writing: Hengl, T. and Gould, M., 2002. Rules of thumb for writing research articles
+  - Example of good LCA reporting: Hawkins, T.R., et al. (2013), Comparative Environmental Life Cycle Assessment of Conventional and Electric Vehicles, J ind Ecol 17(1): 53 - 64
+
+{{< hl-text orange>}}Proposal requirements{{< /hl-text >}}
+* Max. 2000 words incl. 300 word abstract (excl. references)
+* Problem statement (at least 2 LCA studies on your topic)
+* Research aim (why is LCA the right tool?)
+* Research question !!
+* Method
+  - 1 flowchart for each alternative (no copies from literature!)
+  - Function, FU, alternatives, reference flow
+* Data sources
+* Discussion (possible difficulties and their solutions)
+* Planning (including milestones etc.)
+
+* Proposal is like a preliminary GSD
+See also research proposal assignment, follow general report structure on the previous slide
+
+{{< hl-text orange>}}Proposal challenges{{< /hl-text >}}
+* Author name (also in the document name)
+* Page numbers (!!)
+* Captions (!!)
+* Abbreviations with explanation
+* Don’t forget a proper review of relevant LCA literature
+* Structure of your story
+* Avoiding extremely long sentences with difficult words (please, let someone else read your proposal before submitting)
+* Avoid data collection via interviews (or if really needed: report the interview appropriately)
+* Avoid using GWP as global warming, …etc.: terminology!!
+* Choose a topic you understand, learning LCA is difficult enough
+* Finding literature and referencing
+* Project planning!!!
+
+{{< hl-text orange>}}Final reporting requirements{{< /hl-text >}}
+{{< hl-text orange>}}Mandatory final report structure{{< /hl-text >}}
+{{< hl-text orange>}}LCA model requirements{{< /hl-text >}}
+You will be graded on:
+* A proper model that works;
+* Fulfills the modeling requirements (see Course Rules!!!)
+* Clear and organized labeling of processes and flows
+  - Matching process names between flow charts and CMLCA model;
+* Logical build up of your model;
+* Proper explanation of assumptions, allocation and modeling choices in your main report;
+* Consistent with flow chart in your report.
+## 15.2 Frequently made modelling CMLCA mistakes
+{{< hl-text orange>}}Functional unit and reference flows{{< /hl-text >}}
+Example 1
+  - Function: the provision of electricity
+  - FU: 1 kWh of net electricity produced
+  - Reference flows: 1kWh electricity produced by
+    - a coal power plant with oxyfuel combustion
+    - a coal power plant with MEA scrubbing
+    - a reference coal power plant in The Netherlands
+- Implementation in CMLCA:
+![image](https://user-images.githubusercontent.com/65668613/164198753-f5a9f623-39ba-40ba-b55f-278ff0fbccbf.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
