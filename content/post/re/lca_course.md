@@ -2241,6 +2241,23 @@ What we saw in previous courses…
 ![image](https://user-images.githubusercontent.com/65668613/164252968-a7ca8e31-251a-497b-983e-077fc77dc8ac.png)
 ![image](https://user-images.githubusercontent.com/65668613/164253128-89426d3c-a82f-467c-bde4-875d04bc9bbd.png)
 
+{{< hl-text orange>}}Goal and Scope reporting{{< /hl-text >}}
+{{< hl-text orange>}}What’s the difference between the left
+and right examples?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164253682-8deaf07d-5f7f-45c9-9c38-dd4175142283.png)
+
+{{< hl-text orange>}}Other reporting issues{{< /hl-text >}}
+{{< hl-text orange>}}Sloppy mistake{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164254061-4be1471c-833b-48c8-827f-7497794f34b0.png)
+This is unnecessary and very annoying for your readers, us.
+
+{{< hl-text orange>}}Huh?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164254369-67cd584e-25d0-4eae-b940-9fc8c94efc3b.png)
+![image](https://user-images.githubusercontent.com/65668613/164256050-da51b776-9191-461b-8062-54c8a2de6b02.png)
+![image](https://user-images.githubusercontent.com/65668613/164256211-c62c300b-12e0-4286-8947-23e96df0c9e9.png)
+
+{{< hl-text orange>}}Too long sentences{{< /hl-text >}}
+
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
