@@ -2069,7 +2069,7 @@ DQI in CMLCA
 3. Discernibility Analysis
 
 # 14. Graphing LCA results
-{{< hl-text orange>}}LCA results{{< /hl-text >}}
+## 14.1 LCA results
 ![image](https://user-images.githubusercontent.com/65668613/164173481-4e3418a4-e1b4-42ef-b73a-c8d12360fb2e.png)
 
 {{< hl-text orange>}}1. Comparative results at characterization{{< /hl-text >}}
@@ -2084,7 +2084,7 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 {{< hl-text orange>}}Normalization{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175318-2280834d-7c6b-463c-b524-85c4da645030.png)
 
-{{< hl-text orange>}}Critique the graph{{< /hl-text >}}
+## 14.2 Critique the graph
 {{< hl-text orange>}}Characterized results{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175796-691371c9-0e4f-4f9c-b818-c14115226810.png)
 ![image](https://user-images.githubusercontent.com/65668613/164175922-2a45b9fb-303b-414c-9dec-b9a68ac3971e.png)
