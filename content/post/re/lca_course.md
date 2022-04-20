@@ -2257,6 +2257,42 @@ This is unnecessary and very annoying for your readers, us.
 ![image](https://user-images.githubusercontent.com/65668613/164256211-c62c300b-12e0-4286-8947-23e96df0c9e9.png)
 
 {{< hl-text orange>}}Too long sentences{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164256418-f24f7b1c-ae2b-46a9-977f-60a6679e7163.png)
+
+{{< hl-text orange>}}Logic{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164256578-34fdd170-88e6-4f86-a990-a32dedcfdf82.png)
+
+{{< hl-text orange>}}What is wrong?{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164257644-01bfd8fd-80b5-4698-b380-ab0b1f1c908b.png)
+![image](https://user-images.githubusercontent.com/65668613/164258184-00d21e50-8c1a-4e49-bc5e-3f03bf8a3d7f.png)
+
+{{< hl-text orange>}}Using other databases than ecoinvent{{< /hl-text >}}
+{{< hl-text orange>}}Other LCA databases…{{< /hl-text >}}
+* We definitely advise you against importing other databases than
+ecoinvent
+  - Automatic import of other databases almost always goes wrong and leads to many
+of the abovementioned errors
+  - Better manually import some selected processes from these databases, as far as
+useful for your study
+
+{{< hl-text orange>}}Databases{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164259011-1fe32f92-50f7-483d-814e-e19dcf16fdb1.png)
+source: https://nexus.openlca.org/databases
+Nibe database for building sector (NL; free registration required): http://www.nibe.org/nl/diensten-en-producten/onderzoek/LCA
+
+{{< hl-text orange>}}https://nexus.openlca.org/{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164259254-8d30a672-0757-40ab-89a9-1c1f4c820fbe.png)
+
+{{< hl-text orange>}}Global LCA Data Access network (GLAD)!{{< /hl-text >}}
+https://www.globallcadataaccess.org/
+![image](https://user-images.githubusercontent.com/65668613/164259406-f9209bdd-9665-4f38-80bb-759506898604.png)
+
+{{< hl-text orange>}}Global CO2 Initiative{{< /hl-text >}}
+https://assessccus.globalco2initiative.org/lca/databases/
+![image](https://user-images.githubusercontent.com/65668613/164259653-cd0bedee-6a21-4838-b234-a1f290b94689.png)
+
+## 15.4 Further planning of the course
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
