@@ -2292,7 +2292,64 @@ https://assessccus.globalco2initiative.org/lca/databases/
 ![image](https://user-images.githubusercontent.com/65668613/164259653-cd0bedee-6a21-4838-b234-a1f290b94689.png)
 
 ## 15.4 Further planning of the course
+* Research proposal
+  - Deadline: October 4, before 9 AM
+  - Feedback: ~ within 5-10 working days
+  - No retake possibility
+* Presentation of preliminary findings and draft CMLCA model
+  - October 26, before 9 AM (!!) send in your draft CMLCA file
+  - October 29, send in your presentation and attend presentation day
+  - No retake possibility
+* Final case study report and LCA file
+  - Follow final report requirements!
+  - Due December 6, 9 AM!
+  - ~before X-mas (grades)
+  - 24th January (retake)
+* Communication:
+  - Post all your questions on Brightspace “Q & A: sessions, locations etc.”
+  - Help each other and learn from each other
+  - **Every Monday 10:00-11:30 during the course period – starting from October 1 onwards (with optional session on September 20) -, questions posted that week will be answered and discussed in class (see schedule on Brightspace)**
 
+{{< hl-text orange>}}Finally, …. once you are familiar with the basics of LCA, you may want to dive into ex-ante / prospective LCA in your thesis{{< /hl-text >}}
+
+{{< hl-text orange>}}Don’t claim … prove; but how?{{< /hl-text >}}
+* New technologies, chemicals, materials and products are proposed everyday
+* Many claims are made:
+  - “sustainable”, “safe”, “100% organic”, “green”, “recyclable”, “cradle2cradle”, “bio’, “bio-based”, “ecofriendly”, “natural”, ….
+* However, don’t claim but prove first
+  - Mostly used assessment method: environmental LCA
+* LCA works perfectly for existing systems, with known specs, processes and data
+(ex-post)
+* But how can we use LCA for emerging technologies with unknown specs, processes and data?
+* Upcoming: how can we use ex-ante RA and ex-ante LCA in combination to chemical safety issue (SSbD)
+  - SSbD refers to designing new chemicals, materials, products and processes (technologies) while including safety right from the beginning of R&D
+
+{{< hl-text orange>}}Ultimate goal: LCA insights guiding R&D{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164261727-449582a0-b997-4148-9741-15cdfa141c3a.png)
+* ex-ante LCA
+* anticipatory LCA
+* prospective LCA
+* early-on LCA
+
+{{< hl-text orange>}}Required skills for ex-ante/prospective LCA{{< /hl-text >}}
+* You have successfully completed the LCA-PR course ☺
+  - 4413LCA9EY LCA Practice & Reporting
+* Ex-ante LCA adopts the same LCA method as you learn in this course but with some additional challenges, see [van der Giesen et al. 2020](https://www.sciencedirect.com/science/article/pii/S0959652620309513)
+
+{{< hl-text orange>}}Selected recent publications{{< /hl-text >}}
+* Guinée, J.B. & R. Heijungs (2021). Waste is not a service. Accepted for publication in Int J Life Cycle Ass. DOI: 10.1007/s11367-021-01955-5
+* Blanco, C.F. et al. (2020). Environmental impacts of III-V/silicon photovoltaics: life cycle assessment and guidance for sustainable manufacturing. Energy Environ. Sci. 13. https://pubs.rsc.org/en/content/articlehtml/2020/ee/d0ee01039a
+* Giesen, C. van der et al. (2020). A critical view on the current application of LCA for new technologies and recommendations for improved practice. J Clean Prod 259, 120904. https://dx.doi.org/10.1016/j.jclepro.2020.120904
+* Tsoy, N. et al. (2020). Upscaling methods used in ex ante life cycle assessment of emerging technologies: a review. Int J Life Cycle Ass 25(9), 1680-1692. https://doi.org/10.1007/s11367-020-01796-8
+* Oers, Lauran van et al. (2020). Top-down characterization of resource use in LCA: from problem definition of resource use to operational characterization factors for dissipation of elements to the environment. Int J Life Cycle Ass (25)11, 2255–2273. https://doi.org/10.1007/s11367-020-01819-4
+* Guinée, Jeroen B., Stefano Cucurachi, Patrik J.G. Henriksson, and Reinout Heijungs (2018). Digesting the alphabet soup of LCA. Int J Life Cycle Ass 23(7), 1507-1511. https://link.springer.com/content/pdf/10.1007%2Fs11367-018-1478-0.pdf
+* Guinée, J.B. et al. (2017). Setting the stage for debating the roles of risk assessment and life-cycle assessment of engineered nanomaterials. Nat Nanotechnol 12, 727-733. https://www.nature.com/articles/nnano.2017.135
+* ………
+* Villares, M. et al. (2017). Does ex ante application enhance the usefulness of LCA? A case study on bioleaching of e-waste for metal recovery. Int J Life Cycle Ass 22(10), 1618-1633. https://link.springer.com/article/10.1007/s11367-017-1270-6
+* Villares, M. et al. (2016). Applying an ex-ante life cycle perspective to metal recovery from e-waste using bioleaching. J Clean
+
+{{< hl-text orange>}}Examples of recent master theses on ex-ante LCA{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164262871-20454cc5-fe2c-49ae-86b2-c0d555024fcb.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
