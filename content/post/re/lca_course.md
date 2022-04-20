@@ -2067,6 +2067,28 @@ DQI in CMLCA
 1. Uncertainty analysis
 2. Histograms
 3. Discernibility Analysis
+
+# 14. Graphing LCA results
+{{< hl-text orange>}}LCA results{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164173481-4e3418a4-e1b4-42ef-b73a-c8d12360fb2e.png)
+
+{{< hl-text orange>}}1. Comparative results at characterization{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164173779-79ccec25-ab52-4a0d-9cc6-7696962da455.png)
+Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-text >}} when reporting values and correct impact category names by {{< hl-text blue>}}removing “potential”{{< /hl-text >}}.
+
+![image](https://user-images.githubusercontent.com/65668613/164174553-49792bcc-f8e3-4848-9241-e600a1e70b80.png)
+
+{{< hl-text orange>}}Contribution Analysis{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164175114-8c13f8ff-bda2-4405-8c1b-9898cfe6440a.png)
+
+{{< hl-text orange>}}Normalization{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164175318-2280834d-7c6b-463c-b524-85c4da645030.png)
+
+{{< hl-text orange>}}Critique the graph{{< /hl-text >}}
+{{< hl-text orange>}}Characterized results{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164175796-691371c9-0e4f-4f9c-b818-c14115226810.png)
+![image](https://user-images.githubusercontent.com/65668613/164175922-2a45b9fb-303b-414c-9dec-b9a68ac3971e.png)
+![image](https://user-images.githubusercontent.com/65668613/164176140-3e2b5efa-f222-450f-b751-d25eb76c5ed6.png)
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
 [^3ex]: Three extensions should be calculated yourself, not taking them from literature. The idea behind this requirement is that you calculate, e.g., some emission values yourself from just looking at the composition of an economic flow and making mass balances. For example, the incineration of a product containing C, S and Cd will lead to emissions of CO, CO2, SO2 and Cd that can be estimated using assumptions from literature and applying mass balance principles and chemical reaction equations.
