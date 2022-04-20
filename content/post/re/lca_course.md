@@ -2217,8 +2217,20 @@ You will be graded on:
 
 ### 15.2.3 Other more advanced implementation issues
 {{< hl-text orange>}}Example 1: study comparing beer and its packaging modeling and comparing the impacts of recycling beer bottles{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164245440-072e2836-9395-423c-85a4-bd268ddc6edf.png)
+![image](https://user-images.githubusercontent.com/65668613/164247537-65f6c156-2608-46bb-9ea7-8e5216e1a406.png)
+![image](https://user-images.githubusercontent.com/65668613/164247619-1e9a2485-f2e4-44dd-87e3-b0ab9216c5f0.png)
+![image](https://user-images.githubusercontent.com/65668613/164247680-92a3b851-e399-42bd-aeb7-19b46ba883f1.png)
+![image](https://user-images.githubusercontent.com/65668613/164247748-dd7c067b-8450-463c-aa3a-dbcd617dc060.png)
 
+{{< hl-text orange>}}Example 2{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164248751-7937be9c-69c4-4244-a0fc-bbb046131c3a.png)
+![image](https://user-images.githubusercontent.com/65668613/164248880-50ced3bb-946a-46fc-becb-572b20d58240.png)
+![image](https://user-images.githubusercontent.com/65668613/164248935-c7e915a2-12f4-4565-9f20-57f5399a0f22.png)
+![image](https://user-images.githubusercontent.com/65668613/164248974-f0358b61-5d22-4c75-8aa2-d6d7db889b5b.png)
 
+{{< hl-text orange>}}Difference between unit process data and inventory table !!{{< /hl-text >}}
+{{< hl-text orange>}}Unit process data{{< /hl-text >}}
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
