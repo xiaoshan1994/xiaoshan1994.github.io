@@ -2164,13 +2164,13 @@ You will be graded on:
 * A proper model that works;
 * Fulfills the modeling requirements (see Course Rules!!!)
 * Clear and organized labeling of processes and flows
-  - Matching process names between flow charts and CMLCA model;
+  - {{< hl-text blue>}}Matching process names between flow charts and CMLCA model{{< /hl-text >}};
 * Logical build up of your model;
 * Proper explanation of assumptions, allocation and modeling choices in your main report;
 * Consistent with flow chart in your report.
 ## 15.2 Frequently made modelling CMLCA mistakes
 {{< hl-text orange>}}Functional unit and reference flows{{< /hl-text >}}
-Example 1
+{{< hl-text orange>}}Example 1{{< /hl-text >}}
   - Function: the provision of electricity
   - FU: 1 kWh of net electricity produced
   - Reference flows: 1kWh electricity produced by
@@ -2179,6 +2179,27 @@ Example 1
     - a reference coal power plant in The Netherlands
 - Implementation in CMLCA:
 ![image](https://user-images.githubusercontent.com/65668613/164198753-f5a9f623-39ba-40ba-b55f-278ff0fbccbf.png)
+![image](https://user-images.githubusercontent.com/65668613/164199142-2be23ce3-6343-4e72-962f-7451c7d41cd4.png)
+
+{{< hl-text orange>}}Example 2{{< /hl-text >}}
+* Function: ?
+* FU: 500ml of extra-virgin olive oil to be used as salad dressing or cooking
+* Reference flow: ?
+* Implementation in CMLCA:
+![image](https://user-images.githubusercontent.com/65668613/164199591-8ad53695-6847-4598-a216-19b5149970d9.png)
+![image](https://user-images.githubusercontent.com/65668613/164199694-abedd1ff-829e-41d8-ab40-4df81ce7d69f.png)
+
+{{< hl-text orange>}}Example 3{{< /hl-text >}}
+* Topic: plastic bottles vs cans
+* Function: ?
+* FU: distribution of soft drinks to consumers
+* Reference flow(s): 1500 liter of soft drinks to the consumers
+* Implementation in CMLCA:
+![image](https://user-images.githubusercontent.com/65668613/164200897-f3a86bd9-fb8b-4f23-8877-3034074852bc.png)
+![image](https://user-images.githubusercontent.com/65668613/164201154-6411d780-2892-434b-9a39-f2476a293e0f.png)
+![image](https://user-images.githubusercontent.com/65668613/164201371-6b303180-d8d6-4c41-8720-3ba13273ff9a.png)
+
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
