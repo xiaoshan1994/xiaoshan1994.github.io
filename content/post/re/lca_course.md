@@ -2096,6 +2096,19 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 {{< hl-text orange>}}Normalization{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164178707-050992c6-ce13-453c-b63f-e22db53207bb.png)
 ![image](https://user-images.githubusercontent.com/65668613/164180032-8b9a2e91-4a97-4cde-b1b7-a86264ee209d.png)
+![image](https://user-images.githubusercontent.com/65668613/164183360-69381018-e0a3-40bb-862b-ba3e6b2998b7.png)
+{{< hl-text orange>}}Contribution Analysis{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164184090-c325c9e4-1a5b-4ac0-9429-eb8e15cb6b00.png)
+![image](https://user-images.githubusercontent.com/65668613/164184299-3536632f-68c1-47af-a49a-79b280e9b102.png)
+![image](https://user-images.githubusercontent.com/65668613/164184675-6ec6126d-57e9-4083-911e-469ca3c62d80.png)
+
+{{< hl-text orange>}}Remarks{{< /hl-text >}}
+* Graphs should support interpretation of results, {{< hl-text blue>}}not complicate{{< /hl-text >}}
+* Clear graphs can enhance communication of results and overall quality of the report
+* Make sure to include: captions, axis labels, series labels, legend
+* Accompany results with a comment/discussion
+* {{< hl-text blue>}}Sometimes tables are better than graphs{{< /hl-text >}}
+
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
