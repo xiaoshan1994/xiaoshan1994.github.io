@@ -2231,6 +2231,15 @@ You will be graded on:
 
 {{< hl-text orange>}}Difference between unit process data and inventory table !!{{< /hl-text >}}
 {{< hl-text orange>}}Unit process data{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164252214-1dc0bfd9-ee8e-45c8-bcc1-d97966fbf2ba.png)
+![image](https://user-images.githubusercontent.com/65668613/164252293-930dfa58-d7d2-4bd0-930f-1c9e78d9807e.png)
+
+## 15.3 Frequently made reporting mistakes
+What we saw in previous courses…
+{{< hl-text orange>}}Content tables{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164252771-32ed39db-0f40-408a-a60a-96ddc3d7f67f.png)
+![image](https://user-images.githubusercontent.com/65668613/164252968-a7ca8e31-251a-497b-983e-077fc77dc8ac.png)
+![image](https://user-images.githubusercontent.com/65668613/164253128-89426d3c-a82f-467c-bde4-875d04bc9bbd.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
