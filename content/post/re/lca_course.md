@@ -995,9 +995,19 @@ Steam 3 MJ/kg steam
 |N2O| Kg|0.005*0.4 = 0.002 	|0.003|
 
 {{< hl-text orange>}}F. Now redraw the process flow diagram from assignment C, replacing the quantitative process data for ‘Power generation (using Cogeneration)’ by the quantities you have allocated to 500 kWh electric power in assignment E. {{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164462673-9b49a922-4272-4382-931c-8e7b7c175cc1.png)
 
+{{< hl-text orange>}}G. Calculate the scaling factors for the 3 processes. Scaling factors represent the fraction of the process that is needed to fulfil the functional unit defined. Note that you should use the flow diagram you drew in assignment F (including process data of the first Table) to determine how the scaling factor for the process of ‘Using the light bulb’ affects the other processes. Start from the functional unit, determining the reference flow from the use process, etc.{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164468245-4bcf3a35-47ec-4ed5-a33d-d602c5df9b9a.png)
 
+{{< hl-text orange>}}H.	Fill in the ‘inventory table’ below. Inventory table for 1000 hours of light (from a 450 Lumen LED light bulb){{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164468731-38adf170-1804-4846-8703-5374f3d27cb9.png)
 
+{{< hl-text orange>}}I. You can calculate the ‘climate change indicator’ result by multiplying the greenhouse gas emissions by their respective GWPs. Fill in the result in the table below.{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164468909-50e57c54-03f8-49c0-9922-2703a8815d6d.png)
+
+{{< hl-text orange>}}J.	Which emission from which process contributes most to the result for the climate change indicator?{{< /hl-text >}}
+CO2 emissions from power production
 # 7. CMLCA introduction
 ## 7.1 Introduction to CMLCA software
 CMLCA and corresponding documentation is available at our separate www.cmlca.eu website. For the LCA-PR course we use the CMLCA version that is available through the Blackboard page of the course.
