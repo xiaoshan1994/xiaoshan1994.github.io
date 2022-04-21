@@ -125,12 +125,14 @@ Don’t forget to add how you solved the multifunctionality of these processes a
 10. Conclusions and recommendations
 11. References: Use the format of the Journal of Industrial Ecology (Harvard style) to organize your references (https://jie.yale.edu/jie-style-guide-accepted-manuscripts) and/or use a reference manager using the correct (JIE) export setting or Word import settings. Include relevant and sufficient references.
 12. Appendices / Supporting information
-# 2. LCA-PR_History_of_LCA
+
+# 2. History of LCA
 [Life Cycle Assessment: Past, Present, and Future](https://pubs.acs.org/doi/10.1021/es101316v)
 Jeroen B. Guinée
 Environ. Sci. Technol. September 2, 2010
 * The study of environmental impacts of consumer products has a history that dates back to the 1960s and 1970s. Especially in a comparative context (“Is product A better than product B?”).
-## The Past of LCA (1970−2000)
+
+## 2.1 The Past of LCA (1970−2000)
 1970−1990: Decades of Conception
 
 * One of the first (unfortunately unpublished) studies quantifying the resource requirements, emission loadings, and waste flows of different beverage containers was conducted by Midwest Research Institute (MRI) for the Coca Cola Company in 1969.
@@ -142,12 +144,13 @@ Environ. Sci. Technol. September 2, 2010
 
 ![image](https://user-images.githubusercontent.com/65668613/160800982-ca2b675a-87f9-4435-9060-33acdd3af9cf.png)
 
-## The Present of LCA: Decade of Elaboration
+## 2.2 The Present of LCA: Decade of Elaboration
 Diverging approaches have been developed with respect to system boundaries and allocation methods, dynamic LCA, spatially differentiated LCA, risk-based LCA, and environmental input-output based LCA (EIO-LCA) and hybrid LCA (69-71) that may have a tense relation with some of the basic principles of the ISO standards.
 
-## LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
-## Discussion
-# 3. LCA-PR_Glossary-Flowchart-Unitprocess
+## 2.3 LCA Future (2010−2020): Decade of Life Cycle Sustainability Analysis
+## 2.4 Discussion
+
+# 3. Glossary, Flowchart, and Unit process
 ## 3.1 Glossary
 From LCA Handbook (Guinée et al. 2002).
 This glossary provides definitions of the key terms and abbreviations used in the MSc-IE LCAPR course. The glossary is copied from the LCA Handbook (Guinée et al. 2002). Terms marked with an asterisk (\*) are defined in accordance with the definitions given in the ISO 1404X series of standards, although not necessarily according to the letter. For reasons explained in the LCA Handbook, several definitions adopted here deviate substantively from those of ISO. In this Glossary these are marked as "adapted from ISO". Cross-references,
@@ -439,8 +442,7 @@ the numerical part of the result of weighting and aggregation of all (normalised
 **Figure 2: Main sequence of phases and steps of an LCA, as set out in this Guide, showing respective results. Phases (in capitals) and steps (lower case) are shown as grey boxes, results as white ‘forms’. The dashed line around ‘weighting’ indicates that this is an optional step which according to ISO 14042 “shall not be used for comparative assertions disclosed to the public”.**
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161240111-47cb79d2-1d18-4b9a-b108-0fa43abdb2f6.png" >}}
 
-## 3.2 Flowchart
-
+## 3.2 Flowchart (flow diagram, foreground and background system/process, cut-offs...)
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161422282-bb8ba0fb-14b2-4562-a030-5c7d05fab963.jpg">}}
 
 **Flow diagram**: a graphic representation of the interlinked unit processes comprising {{< hl-text blue>}}the product system{{< /hl-text >}}.
@@ -464,11 +466,10 @@ the numerical part of the result of weighting and aggregation of all (normalised
 **multifunctionality and allocation \***: a step of the Inventory analysis in which the inventory model is refined and the input and output flows of multifunctional processes are partitioned to the functional flows of those processes.
 
 ## 3.3 Unit process
-
 {{< wide-image src="https://user-images.githubusercontent.com/65668613/161586200-d3271425-12d7-492a-b580-8f5f21a217ed.png">}}
 
-## 3.4 LCA-PR_GoalScopeDefinition_Part1-3
-### 3.4.1 Part 1: ISO, GSD definition & ALCA vs. CLCA
+# 4. Goal and Scope Definition
+## 4.1 ISO, GSD definition, and ALCA vs.CLCA
 **LCA: ISO definition**
 Compilation and evaluation of the inputs, outputs and the potential environmental impacts of a product system throughout its life cycle.
 
@@ -543,7 +544,7 @@ Backcasting LCA (BLCA), Decision LCA (DLCA), Integrated LCA (ILCA), Anticipatory
 
 n.a. not applicable; product system (or technology system) a set of unit processes interlinked by material, energy, product, waste, or service flows and performing one or more defined functions (Guinée et al. 2002); SDb standard LCA data(bases), such as ecoinvent, GaBi, ILCD, and USDA; TI assumptions on technical improvements in key energy and material production technologies (Hertwich et al. 2014); F foreground processes; B background processes; CGEM computable and partial general equilibrium model; PGEM partial general equilibrium model; IAM integrated assessment model; LOM linear optimization model; All all processes included for supplying the functional unit; All sectors all industry sectors included for supplying the region’s/global consumption; Marginal processes actually affected by the decision; Market affected processes are determined by using market information and price elasticities; B2B affected processes are determined by factual or anticipated economic business-to-business relationship.
 
-### 3.4.2 Part 2: Goal definition
+## 4.2 Goal definition
 
 ![image](https://user-images.githubusercontent.com/65668613/162011892-3495fa0f-8319-4ff4-9b99-35db0af74a21.png)
 
@@ -560,8 +561,7 @@ What are the environmental impacts of farming fish in Vietnam in the Mekong Delt
 What are the environmental impacts related to consuming fish species x cultivated in Viet Nam compared to the same fish species x cultivated in Thailand?
 - LCA rather than RA …?
 
-### 3.4.3 Part 3: Scope definition
-
+## 4.3 Scope definition
 * ALCA or CLCA (or LCA)?
 * Detailed LCA?
 * Temporal coverage
@@ -600,24 +600,24 @@ We have adopted an attributional approach, which may later be extended to a cons
 approach. For the goal of the study simplified guidelines will suffice for most steps.
 Total size of the study is 8 man-months. A large amount of this time will be devoted to the collection of representative data of the most important production, recycling and upgrading processes.”
 
-### 3.4.4 Function, functional unit and reference flow
-**1. Function: definition**
+## 4.4 Function, functional unit, and reference flow
+### 4.4.1 Function
 * A service provided by a product system or unit process, e.g. lighting, transport, enjoying a film, nourishment, etc.
 - Or better and more specific: lighting a room of X m2 with light of 1250 lumen
 - Etc.
-**2. Functional unit: definition**
+### 4.4.2 Functional unit
 * The quantified function provided by the product system(s) under study for use as a reference basis in an LCA, e.g. 1000 hours of light (of 1250 lumen)
 - Adapted from ISO
 - Original ISO 14040 definition: “{{< hl-text blue>}}quantified performance of a product system for use as a reference unit{{< /hl-text >}}”
 
-**3. Generic or strict FU**
+### 4.4.3 Generic or strict FU
 * The more strictly the functional unit is described, the fewer alternatives will be left to compare ...
 - The functional unit ‘watching TV for 1 hour’ may be specified to include more and more functions, as in ‘watching colour TV for 1 hour’, ‘watching 55 inch screen
 colour TV for 1 hour’, ‘watching 55 inch screen colour TV with remote control for 1
 hour’, etc.,
 * … until there are no product alternatives left to compare.
 
-**4. Reference flows**
+### 4.4.4 Reference flows
 * Definition:
   - “quantified flow generally connected to the use phase of a product system and representing one way of obtaining the functional unit”
   - Ref. flow = FU + specific product alternative supplying FU
@@ -629,12 +629,11 @@ hour’, etc.,
 
 **Schematically**
 focusing on fluorescent and incandescent lamp for reasons of space …
-• function: lighting a (specific) room
-• functional unit: 1000 hours of light
-• alternatives: incandescent lamp and fluorescent lamp
-• reference flow for system 1:
-1000 hours of light with an incandescent lamp
-• reference flow for system 2: 1000 hours of light with a fluorescent lamp
+* function: lighting a (specific) room
+* functional unit: 1000 hours of light
+* alternatives: incandescent lamp and fluorescent lamp
+* reference flow for system 1: 1000 hours of light with an incandescent lamp
+* reference flow for system 2: 1000 hours of light with a fluorescent lamp
 
   ![image](https://user-images.githubusercontent.com/65668613/162588033-7d3d1573-791e-45de-9fb5-91d7eb8d73c4.png)
 
@@ -673,7 +672,7 @@ In CMLCA software the reference flow is the "Alternative".
 
 The above poses a nice metaphor to some of the existing LCA so far : very exact answers are given to imprecise or vague questions.
 
-# 4. GSD exercise
+# 5. Exercise on Function, FU, Alternatives and Reference flows
 Exercise on Function, FU, Alternatives and Reference flows.
 Exercise:
 (work in virtual groups or do this exercise on your own for all items listed below):
