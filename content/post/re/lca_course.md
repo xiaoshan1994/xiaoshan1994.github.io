@@ -993,6 +993,9 @@ Steam 3 MJ/kg steam
 |CH4|	Kg|	6*0.4 = 2.4	|3.6|
 |N2O| Kg|0.005*0.4 = 0.002 	|0.003|
 
+{{< hl-text orange>}}F. Now redraw the process flow diagram from assignment C, replacing the quantitative process data for ‘Power generation (using Cogeneration)’ by the quantities you have allocated to 500 kWh electric power in assignment E. {{< /hl-text >}}
+
+
 
 # 7. CMLCA introduction
 ## 7.1 Introduction to CMLCA software
