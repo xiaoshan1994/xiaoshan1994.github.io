@@ -681,7 +681,7 @@ Exercise:
 3) What are the alternatives; and
 4) What are the reference flows for:
 
-## Providing coal-, oil- or wind-based electricity.
+## 5.1 Providing coal-, oil- or wind-based electricity.
 * Function:
   - to provide electricity to the grid
   - Energy supply
@@ -704,7 +704,7 @@ Exercise:
 
   - ….
 
-## Using one-way or reusable beverage containers
+## 5.2 Using one-way or reusable beverage containers
 * Function:
   - Containing ~~1L of~~ water
   - Providing portable liquid
@@ -726,7 +726,7 @@ Exercise:
   - 1 liter of beverage transported from supermarket to your home by cardboard bottle system, …. glass bottle; one-way glass bottle, one-way cardboard bottle, reusable cardboard bottle, reusable glass bottle
   - 1L of milk in tetrapak/plastic
 
-## Consuming traditional or organic potatoes
+## 5.3 Consuming traditional or organic potatoes
 * Function:
   - providing a calorific amount of potatoes grown in the NL to the Dutch market
   - Consumption of potatoes grown in the NL
@@ -742,7 +742,7 @@ Exercise:
   - Consumption of 1 serving of organic/traditional potatoes grown in the NL
   - to supply 1 kg of organically/traditionally cultivated potatoes to your home, … etc.
 
-## Communicating by paper, telephone, or e-mail
+## 5.4 Communicating by paper, telephone, or e-mail
 Function:
   - Transmitting information
   - Story telling
@@ -760,7 +760,7 @@ Function:
   - to provide story x to person y by paper/telephone/e-mail (PC, tablet, phone,…)
   - Transmitting 100 kb of data from NL to … with telephone/email/paper
   - ……
-# 5. Inventory analysis
+# 6. Inventory analysis
 “Phase of life cycle assessment involving the compilation and quantification of inputs and outputs, for a given product system throughout its life cycle” [ISO 14040]
 Steps involved:
 - Refining of system boundaries / determination of cut offs
@@ -773,20 +773,20 @@ Goal: to determine the environmental flows related to a
 product system (Life Cycle Inventory)
 
 ![image](https://user-images.githubusercontent.com/65668613/162694280-3b11619b-de64-49c8-9b71-c853920a8893.png)
-## 5.1 Economic and environmental flows and the economy environment system boundary
+## 6.1 Economic and environmental flows and the economy environment system boundary
 
 **{{< hl-text orange>}}Economic vs. environmental flows{{< /hl-text >}}**
 {{< hl-text orange>}}Economic flows:{{< /hl-text >}} Products, services, and wastes produced and managed by humans. For example: steel, electricity, and wastewater
 {{< hl-text orange>}}Environmental flows:{{< /hl-text >}} 1) Flows entering the product system without prior human transformation , e. land use, freshwater use, metal extraction all resource extraction. 2) Flows leaving the product system without subsequent human transformation , e.g.: emissions (air, soil, water)
 
-## 5.2 Unit processes
+## 6.2 Unit processes
 > "smallest element considered in the life cycle inventory analysis for which input and output data are quantified"
 
 ![image](https://user-images.githubusercontent.com/65668613/162695944-80e990f1-2996-4715-9955-6a32bb9e1d19.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/162696301-0f42e0bc-ba98-4091-ba9e-ad889bbdff72.png)
 
-## 5.3 Cut-offs
+## 6.3 Cut-offs
 {{< hl-text orange>}}Cut offs and system boundaries{{< /hl-text >}}
 Rule: {{< hl-text blue>}}Each economic input or output of a unit process should be followed until it has been translated into environmental flows ( e.g. resource extractions and emissions){{< /hl-text >}}
 {{< hl-text orange>}}Examples:{{< /hl-text >}}
@@ -812,7 +812,7 @@ The System Boundary is the demarcation between what is included in the product s
 
 > “The principles of system boundary definition are decided during the GSD. However , one may have to wait to decide the exact details until enough information has been collected during inventory analysis”[Hitchhikers guide, page 79]
 
-## 5.4 Flow diagrams
+## 6.4 Flow diagrams
 
 **What is it?**
 - Simplified graphical representation of a product system
@@ -843,7 +843,7 @@ The System Boundary is the demarcation between what is included in the product s
 
 ![image](https://user-images.githubusercontent.com/65668613/162706195-5d55009e-b475-4aad-b471-4642b16a47ec.png)
 
-## 5.5 Data collection and reporting
+## 6.5 Data collection and reporting
 {{< hl-text orange>}}Data Collection{{< /hl-text >}}
 Incremental steps.
 Start with main components, **THEN** add detail.
@@ -920,7 +920,7 @@ Inventory table (or LCI = life cycle inventory)
 - Multi functionality is resolved
 
 {{< hl-text orange>}}Pitfalls{{< /hl-text >}}
-## 5.6 Data pitfalls
+## 6.6 Data pitfalls
 - Errors are easily introduced …
   * errors in measurements
   - errors in data entry
@@ -939,8 +939,13 @@ Inventory table (or LCI = life cycle inventory)
 ![image](https://user-images.githubusercontent.com/65668613/162719954-852036ec-fd39-4b4c-97ce-03fabd1c05ab.png)
 **Significant digits** : don’t claim to be more precise than you are able to
 
-# 6. LCA-PR_CMLCA_intro
-Exercises using CMLCA and ecoinvent
+# 7. CMLCA introduction
+## 7.1 Introduction to CMLCA software
+CMLCA and corresponding documentation is available at our separate www.cmlca.eu website. For the LCA-PR course we use the CMLCA version that is available through the Blackboard page of the course.
+
+On the other hand, it is developed with the principles of LCA, IOA, etc. in mind, so that it is quite accurate and up-to-date as to methodological details. It is, for example, fully based on {{< hl-text blue>}}matrix algebra{{< /hl-text >}}, although the user may be unaware of that whilst using the program. This implies that process trees with {{< hl-text blue>}}a recursive flow structures{{< /hl-text >}} (steel production needing coal and coal production needing steel), provide no computational problems and are exactly solved. Moreover, the program is very flexible in dealing with {{< hl-text blue>}}allocation of multiple processes{{< /hl-text >}}. In contrast with some other programs, such processes need not be allocated prior to their entry in the database, and the allocation method (substitution, partitioning, or no allocation at all) may be defined for each individual unit process. The program also supports fully hybrid inventories, consisting of process-based and IO-based data. It is rich in its analytical possibilities.
+
+## 7.2 Exercises using CMLCA and ecoinvent
 **{{< hl-text orange>}}CMLCA: Scientific software for LCA, IOA, EIOA and more{{< /hl-text >}}**
 * Intended to support the technical steps of LCA
 * Doesn’t support procedural aspects, like peer review, etc.
@@ -952,7 +957,7 @@ Exercises using CMLCA and ecoinvent
 and http://cmlca.eu/cmlca61.zip
   - Also see the CMLCA pdf file in the same channel for more info
 
-{{< hl-text orange>}}7 reasons for using CMLCA{{< /hl-text >}}
+## 7.3 7 reasons for using CMLCA
 - free
 - flexible
 - perfect for use in class room
@@ -961,7 +966,7 @@ and http://cmlca.eu/cmlca61.zip
 - does not require an administrator for installation & can be transferred online
 - Advanced settings
 
-{{< hl-text orange>}}7 reasons for not using CMLCA{{< /hl-text >}}
+## 7.4 7 reasons for not using CMLCA
 - has no helpdesk
 - contains no process data (but we will import ecoinvent)
 - contains no impact assessment data (“but we will import these with you”)
@@ -970,14 +975,8 @@ and http://cmlca.eu/cmlca61.zip
 - only available in English
 - only available for Windows (!!) (but there is a CMLCA-FAQ including “Mac-problems” in the MST “CMLCA download” channel; see “CMLCA Troubleshooting and FAQs.pdf” )
 
-# 7. Refreshing CMLCA_LCA-PR
-Introduction to CMLCA software
-CMLCA and corresponding documentation is available at our separate www.cmlca.eu website. For the LCA-PR course we use the CMLCA version that is available through the Blackboard page of the course.
-
-On the other hand, it is developed with the principles of LCA, IOA, etc. in mind, so that it is quite accurate and up-to-date as to methodological details. It is, for example, fully based on {{< hl-text blue>}}matrix algebra{{< /hl-text >}}, although the user may be unaware of that whilst using the program. This implies that process trees with {{< hl-text blue>}}a recursive flow structures{{< /hl-text >}} (steel production needing coal and coal production needing steel), provide no computational problems and are exactly solved. Moreover, the program is very flexible in dealing with {{< hl-text blue>}}allocation of multiple processes{{< /hl-text >}}. In contrast with some other programs, such processes need not be allocated prior to their entry in the database, and the allocation method (substitution, partitioning, or no allocation at all) may be defined for each individual unit process. The program also supports fully hybrid inventories, consisting of process-based and IO-based data. It is rich in its analytical possibilities.
-
-8. Case study brainstorm session
-{{< hl-text orange>}}Reflect on a possible topic{{< /hl-text >}}
+# 8. Case study brainstorm session and topics database
+## 8.1 Reflect on a possible topic
 * Given the case study requirements, think of a topic (either your own or from the list of previous topics) and elaborate, briefly:
   1. Establish relevance. Why should we care about the topic?
   2. Justify the use of LCA for the case study. Why is it necessary to evaluate life cycles?
@@ -999,7 +998,16 @@ On the other hand, it is developed with the principles of LCA, IOA, etc. in mind
 2. Keep it simple; learning LCA is already challenging enough!
 For example: cloud vs HD storage, Spotify vs CDs, is too abstract and lacks clear boundaries (e.g., what is the Spotify system and where does it stop? Before you know you need to model all servers behind this system which is practically not feasible)
 
-**{{< hl-text orange>}}Previous case-study topics{{< /hl-text >}}**
+{{< hl-text orange>}}Do’s and don’ts{{< /hl-text >}}
+* Do select an ‘easy topic’!
+* Don’t do an LCA on a waste management system: too
+complex!!
+* Don’t do a case for a commissioner:
+  - you won’t often get the data needed, even when ‘promised’ …..
+  - LCA-PR case study results are too uncertain
+  - the course is about learning LCA, and that’s already challenging enough.
+
+## 8.2 Previous case-study topics
 * Almond vs Dairy milk
 * Bamboo vs oak flooring
 * Plastic bags or a lunchbox for your lunch
@@ -1026,136 +1034,115 @@ For example: cloud vs HD storage, Spotify vs CDs, is too abstract and lacks clea
 * Beer vs wine
 * Bio-composites
 * Plastic vs metal cutlery
+* LCA of textiles: cotton vs. nylon /'naɪlɒn/
+* 2nd Generation Nest Learning Thermostat and the Honeywell Round CT-87N /ˈθɜːməstæt/
+* a cup of filter drip coffee compared to a cup of freeze dried instant coffee
+* Advancing sustainable urban farming: a comparative LCA of aquaponics vs. aeroponics
+* Almond Milk or Dairy Milk /'ɑːmənd//'deərɪ/
+* animal feed from food waste as compared to producing animal feed from grains
+* Are glasses more sustainable or contact lenses, a case study of LCA
+* Ballpoint pen versus fountain pen
+* bamboo versus cotton clothing
+* Beef and Chicken Meat in the Netherlands
+* beef burger and a soy based burger
+* biodiesel production from two available feedstocks in Mexico: CLORELLA VULGARIS & JATROPHA CURCAS
+* Bottled versus tapped water at festivals
+* Butter and Margarine
+* BUTTER versus olive oil for frying
+* cashew nuts and chicken fillet /'kæʃuː/
+* Cement production
+* Ceramic mug compared to a plastic cup /sɪ'ræmɪk/
+* Ceramic plates or paper plates?
+* Chicken vs Mealworm protein production
+* Chalkboard vs. whiteboard
+* clay brick or sand-lime brick in Indonesia
+* Horticulture tomatoes in the Netherlands
+* Cocaine Production in Colombia to supply for the European Market
+* Colombian bananas: Organic vs. Conventional Production systems
+* Comparative LCA of copper telluride production
+* Comparative LCA on constructing a tower from ABS LEGO bricks vs. cherry wooden Eco-Bricks
+* Comparative LCA study of wooden and cellulose-acetate spectacle frames
+* Comparative Life Cycle Assessment of NiMH and Li-Ion Batteries in Electric Vehicles
+* Comparative life cycle assessment of two steak dinner alternatives
+* Comparing Capsule, Pod and Drip Filter Coffee
+* comparison of microalgae culture coupled to biodiesel and biogas production
+* Concrete and asphalt pavements /'æsfɔlt/沥青
+* Conventional versus organic beef
+* Conventional versus organic milk
+* Cooking on gas versus cooking on electricity
+* Copper cathode production technologies
+* Dishwasher versus Hand-washing
+* Dopper versus PET-bottle
+* dried pulses versus canned pulses
+* drought lager beer and white wine
+* Dutch- and Spanish tomatoes sold in the Netherlands
+* Dutch greenhouse operation heated by CHP and geothermal doublets
+* Egg consumption in the Netherlands
+* Electric and Conventional Car Use in Different European Countries
+* Electricity from wind turbines in the Netherlands located offshore vs. onshore
+* E-reader v. Conventional Paperback Novel
+* espresso served by a Nespresso versus semi-automatic espresso machine
+* feeding a cow with silage maize from Industrial Production and Organic Production in Switzerland
+* Flax Fibre and Cellulose Fibre Insulation in Finland
+* Flax fibre-epoxy composite versus Glass fibre-epoxy composite
+* Fresh (CR) & Canned (PH) Pineapple
+* Fresh mango or frozen mango
+* fruit as a source of sulphur
+* Genuine and Synthetic Leather
+* Hand-drying system in China: Fold Tissue Towels vs. Cotton Roller Towels
+* HDPE and steel drums as containers of chemical goods
+* HDPE vs. organic cotton bags
+* Honey or Sugar?
+* Insectmeal vs. soymeal
+* LCA of a T-shirt made of cotton and polyester in China
+* LCA of avocado production at Michoacan, Mexico. A study case of organic vs. traditional avocados for local and
+* LCA of batteries for household use
+* LCA of beer
+* LCA of biogas production from pig manure in Taiwan
+* LCA of chrome-tanned and vegetable-tanned leather production in Italy
+* LCA of electric bike
+* LCA of municipal solid waste management in Chittagong, Bangladesh
+* LCA of selected technologies for CCS of coal fired plants
+* LCA on Isolating Existing pre-1970 dwellings in the Netherlands
+* LCA on the use of olive oil
+* Life Cycle assessment of HDPE and paper bags in Europe
+* Locally produced grazing cattle milk vs. industrially manufactured soymilk in the Netherlands
+* Management of the Organic Fraction of Municipal Solid Waste in South and Southeast Asia
+* Mokumono Bicycles vs. “The conventional bike”
+* Natural and synthetic dyed textiles: Cotton and polyester curtains
+* natural-color sheep wool versus acrylic wool /əˈkrɪlɪk/ 丙烯酸
+* open-loop versus closed-loop hydroponics
+* Organic and Conventional Coffee Production
+* organic versus conventional meat
+* Paper waste treatment in the Netherlands: incineration vs recycling
+* PE plastic and stainless steel cutlery
+* Pineapple leather and Bovine leather
+* Plant factory
+* Plastic bag versus plastic lunchbox
+* Small scale batch roasting of organic coffee beans versus large scale continuous roasting of inorganic coffee be
+* Soy versus beef burgers
+* tampon and menstrual cup
+* Textile dyeing with supercritical carbon dioxide
+* The environmental benefits of locally produced surfboards: an ECO surfboard case study
+* Tofu versus beef on protein content
+* Tomatoes in the Dutch supermarket
+* Traditional Bullets and “Green” Bullets
+* Traditional flashlight versus a solar light for recreational purposes (wakawaka)
+* Train ticket & OV- chipcard
+* T-shirts made with Organic and Traditionally grown Cotton
+* Using of Bamboo as an Alternative to Red Oak Flooring
+* Vertical farming and open field lettuce cultivation, a comparative LCA study
+* vinyl record (LP) and CDs
+* water based paint and wallpaper covered by PVC
+* Water Supply Options for Mining Operations in Chile
+* Wheat and barley in producing flour
+* Which chickpeas should I buy?
+* wine from Napa Valley (USA) versus French Bordeaux wine /bɔ:'dəu/
+* wood and PVC window frames
+* Yogi Tea and Lipton
 
-{{< hl-text orange>}}Do’s and don’ts{{< /hl-text >}}
-* Do select an ‘easy topic’!
-* Don’t do an LCA on a waste management system: too
-complex!!
-* Don’t do a case for a commissioner:
-  - you won’t often get the data needed, even when ‘promised’ …..
-  - LCA-PR case study results are too uncertain
-  - the course is about learning LCA, and that’s already challenging enough.
-
-{{< hl-text orange>}}And don’t forget the model requirements{{< /hl-text >}}
-* At least 5 Foreground Unit processes
-* 1 disposal process;
-* 1 closed-loop (reuse or closed-loop recycling);
-* 1 multifunctional process (reporting on all 4 steps as learned during the Theory Week; see last slide of the Allocation presentation); {{< hl-text blue>}}economic allocation mandatory{{< /hl-text >}}
-* 1 unit process with at least 3 environmental emissions (extensions) calculated by the student;
-* 1 additional unit process free of choice.
-
-# 9. LCA-PR topics database
-LCA of textiles: cotton vs. nylon /'naɪlɒn/
-2nd Generation Nest Learning Thermostat and the Honeywell Round CT-87N /ˈθɜːməstæt/
-a cup of filter drip coffee compared to a cup of freeze dried instant coffee
-Advancing sustainable urban farming: a comparative LCA of aquaponics vs. aeroponics
-Almond Milk or Dairy Milk /'ɑːmənd//'deərɪ/
-animal feed from food waste as compared to producing animal feed from grains
-Are glasses more sustainable or contact lenses, a case study of LCA
-Ballpoint pen versus fountain pen
-bamboo versus cotton clothing
-Beef and Chicken Meat in the Netherlands
-beef burger and a soy based burger
-biodiesel production from two available feedstocks in Mexico: CLORELLA VULGARIS & JATROPHA CURCAS
-Bottled versus tapped water at festivals
-Butter and Margarine
-BUTTER versus olive oil for frying
-cashew nuts and chicken fillet /'kæʃuː/
-Cement production
-Ceramic mug compared to a plastic cup /sɪ'ræmɪk/
-Ceramic plates or paper plates?
-Chicken vs Mealworm protein production
-Chalkboard vs. whiteboard
-clay brick or sand-lime brick in Indonesia
-Horticulture tomatoes in the Netherlands
-Cocaine Production in Colombia to supply for the European Market
-Colombian bananas: Organic vs. Conventional Production systems
-Comparative LCA of copper telluride production
-Comparative LCA on constructing a tower from ABS LEGO bricks vs. cherry wooden Eco-Bricks
-Comparative LCA study of wooden and cellulose-acetate spectacle frames
-Comparative Life Cycle Assessment of NiMH and Li-Ion Batteries in Electric Vehicles
-Comparative life cycle assessment of two steak dinner alternatives
-Comparing Capsule, Pod and Drip Filter Coffee
-comparison of microalgae culture coupled to biodiesel and biogas production
-Concrete and asphalt pavements
-Conventional versus organic beef
-Conventional versus organic milk
-Cooking on gas versus cooking on electricity
-Copper cathode production technologies
-Dishwasher versus Hand-washing
-Dopper versus PET-bottle
-dried pulses versus canned pulses
-drought lager beer and white wine
-Dutch- and Spanish tomatoes sold in the Netherlands
-Dutch greenhouse operation heated by CHP and geothermal doublets
-Egg consumption in the Netherlands
-Electric and Conventional Car Use in Different European Countries
-Electric Vehicles using Lithium-Ion Batteries and Nickel-Metal Hydride Batteries
-Electricity from wind turbines in the Netherlands located offshore vs. onshore
-E-reader v. Conventional Paperback Novel
-espresso served by a Nespresso versus semi-automatic espresso machine
-feeding a cow with silage maize from Industrial Production and Organic Production in Switzerland
-Flax Fibre and Cellulose Fibre Insulation in Finland
-Flax fibre-epoxy composite versus Glass fibre-epoxy composite
-Fresh (CR) & Canned (PH) Pineapple
-Fresh mango or frozen mango
-fruit as a source of sulphur
-Genuine and Synthetic Leather
-Hand-drying system in China: Fold Tissue Towels vs. Cotton Roller Towels
-HDPE and steel drums as containers of chemical goods
-HDPE vs. organic cotton bags
-Honey or Sugar?
-Insectmeal vs. soymeal
-LCA of a T-shirt made of cotton and polyester in China
-LCA of avocado production at Michoacan, Mexico. A study case of organic vs. traditional avocados for local and
-LCA of batteries for household use
-LCA of beer
-LCA of biogas production from pig manure in Taiwan
-LCA of chrome-tanned and vegetable-tanned leather production in Italy
-LCA of electric bike
-LCA of municipal solid waste management in Chittagong, Bangladesh
-LCA of selected technologies for CCS of coal fired plants
-LCA on Isolating Existing pre-1970 dwellings in the Netherlands
-LCA on the use of olive oil
-Life Cycle assessment of HDPE and paper bags in Europe
-Locally produced grazing cattle milk vs. industrially manufactured soymilk in the Netherlands
-Management of the Organic Fraction of Municipal Solid Waste in South and Southeast Asia
-Mokumono Bicycles vs. “The conventional bike”
-Natural and synthetic dyed textiles: Cotton and polyester curtains
-natural-color
-sheep wool versus acrylic wool
-open-loop versus closed-loop hydroponics
-Organic and Conventional Coffee Production
-organic versus conventional meat
-Paper waste treatment in the Netherlands: incineration vs recycling
-PE plastic and stainless steel cutlery
-Pineapple leather and Bovine leather
-Plant factory
-Plastic bag versus plastic lunchbox
-Small scale batch roasting of organic coffee beans versus large scale continuous roasting of inorganic coffee be
-Soy versus beef burgers
-tampon and menstrual cup
-Textile dyeing with supercritical carbon dioxide
-The environmental benefits of locally produced surfboards: an ECO surfboard case study
-Tofu versus beef on protein content
-Tomatoes in the Dutch supermarket
-Traditional Bullets and “Green” Bullets
-Traditional flashlight versus a solar light for recreational purposes (wakawaka)
-Train ticket & OV- chipcard
-T-shirts made with Organic and Traditionally grown Cotton
-Using of Bamboo as an Alternative to Red Oak Flooring
-Vertical farming and open field lettuce cultivation, a comparative LCA study
-vinyl record (LP) and CDs
-water based paint and wallpaper covered by PVC
-Water Supply Options for Mining Operations in Chile
-Wheat and barley in producing flour
-Which chickpeas should I buy?
-wine from Napa Valley (USA) versus French Bordeaux wine
-wood and PVC window frames
-Yogi Tea and Lipton
-
-# 10. Multi-functionality
-## 10.1 The problem; Definitions & typologies
+# 9. Multi-functionality
+## 9.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
 * There are processes which have more than one function
   - “multifunctional processes”
@@ -1219,7 +1206,7 @@ recycling{{< /hl-text >}}
 {{< hl-text blue>}}Multi-functional process: combined waste processing & recycling & co-production{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/162915499-97112124-68ef-4c38-a21d-623252cd3a67.png)
 
-## 10.2 System boundary & multi-functionality; The price criterion
+## 9.2 System boundary & multi-functionality; The price criterion
 {{< hl-text orange>}}In between conclusions{{< /hl-text >}}
 * Definition of G and W is important: may determine whether a process is multi-functional or not
   - In case of recycling it matters at which point W flips to G as that determines how much impact is allocated to your product system (see Int J LCA article of allocation exercise later this afternoon)
@@ -1237,7 +1224,7 @@ How to determine if flow is G or W:
     - price>>0: include a lot
 * Is there any other principle than “price” for determining if a flow is functional or not?
 
-## 10.3 Solutions to the MF problem; Discussion
+## 9.3 Solutions to the MF problem; Discussion
 {{< hl-text orange>}}ISO’s solutions to the multi-functionality problem{{< /hl-text >}}
 Possible solutions:
 - more refined data collection
@@ -1359,12 +1346,12 @@ allocation doesn’t matter IF supply and demand balance
 * There is also a video explaining once more explaining the importance of step 1-3: “IE-MF 3 steps LCA Compendium CE_Symbiosis” (see “Web Lectures”)
 ![image](https://user-images.githubusercontent.com/65668613/162943808-074ea139-f9db-4a56-8ab5-dc70e484402a.png)
 
-# 11. Life Cycle Impact Assessment (LCIA)
-## 11.1 Definition of LCIA
+# 10. Life Cycle Impact Assessment (LCIA)
+## 10.1 Definition of LCIA
 * ISO: Phase of life cycle assessment aimed at understanding and evaluating the magnitude and significance of the potential environmental impacts of a product system.
 * Often abbreviated to LCIA
 for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
-## 11.2 The principle of characterization
+## 10.2 The principle of characterization
 * ISO definition: factor derived from a characterization model which is applied to convert the assigned LCI results to the common unit of the category indicator.
 * Examples: GW{{< hl-text blue>}}P{{< /hl-text >}}, A{{< hl-text blue>}}P{{< /hl-text >}}
 
@@ -1378,7 +1365,7 @@ for co-production process: mandatory to apply economic partitioning and another 
 {{< hl-text orange>}}Simple conversion & aggregation{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163550462-2743a391-e949-4c60-9ff7-b564ca894c49.png)
 
-## 11.3 Selection of impact categories, category indicators and characterization models
+## 10.3 Selection of impact categories, category indicators and characterization models
 {{< hl-text orange>}}Defining impact categories: 2 main approaches{{< /hl-text >}}
 * Midpoint-oriented (CML-IA, EDIP, TRACI, …)
 * Endpoint-oriented: damage approaches (Eco-indicator 99, Ecoscarcity, EPS, …)
@@ -1417,12 +1404,12 @@ al, 2008)
 * Guinée et al. 2002: Handbook on Life Cycle Assessment (“CML 2002”)
 ![image](https://user-images.githubusercontent.com/65668613/163555303-30e87f2e-04c8-4214-88b2-09275eb9a30a.png)
 
-## 11.4 Classification
+## 10.4 Classification
 * ISO definition: assignment of LCI results to impact categories
 * Example: CO2 and CH4 are assigned to climate change
 ![image](https://user-images.githubusercontent.com/65668613/163559158-02fd8788-7ca0-45ba-b8d6-6f88806d43a5.png)
 
-## 11.5 Characterization
+## 10.5 Characterization
 * ISO definition: calculation of category indicator results
 * Example: 5 kg CO2 and 3 kg CH4 yield 89 kg CO2-eq
 
@@ -1460,7 +1447,7 @@ al, 2008)
 Be like this:
 ![image](https://user-images.githubusercontent.com/65668613/163561096-c4026938-7624-4bd2-add5-42e39bf78d6e.png)
 
-## 11.6 Normalization
+## 10.6 Normalization
 * ISO definition: calculation of the magnitude of category indicator results to reference information
 * Reference information (over a given period of time):
   - area (e.g., France, Europe, the world)
@@ -1507,7 +1494,7 @@ further weighting!
 
 ![image](https://user-images.githubusercontent.com/65668613/163769719-1ce04c62-7ed2-417d-99cb-f6d7e7ee5c94.png)
 
-## 11.7 Weighting
+## 10.7 Weighting
 * ISO definition: converting and possibly aggregating indicator results
 across impact categories using numerical factors, also called ‘weighting factors’
   - based on value-choices
@@ -1542,7 +1529,7 @@ public”
 {{< hl-text orange>}}Example of the results of weighting{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163774208-de29c28f-16aa-4c0a-96f3-7ad0debe3c20.png)
 
-## 11.8 Practice of LCIA
+## 10.8 Practice of LCIA
 {{< hl-text orange>}}Practice of LCIA: from theory2practice{{< /hl-text >}}
 * Different methods and approaches
 * What are their real differences?
@@ -1576,8 +1563,8 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Practice: complete sets implemented in software:
   - impact assessment = push of a button
 
-# 12. Life Cycle Interpretation
-## 12.1 Definition of life cycle interpretation
+# 11. Life Cycle Interpretation
+## 11.1 Definition of life cycle interpretation
 * ISO: Phase of life cycle assessment in which the findings of either the inventory analysis or the impact assessment, or both, are combined consistent with the defined goal and scope in order to reach conclusions & recommendations
 * The fourth and last phase of an LCA
   - no abbreviation like LCI or LCIA
@@ -1590,7 +1577,7 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Conclusions, recommendations and reporting
   - critical review
 
-## 12.2 Procedural approaches: interpretation in ISO 14044
+## 11.2 Procedural approaches: interpretation in ISO 14044
 * Objective: to structure the results from LCI and/or LCIA in order to determine significant issues (‘hot spots’), e.g. certain:
   - inventory data such as energy, emissions, waste, …
   - impact categories such as resource use, climate change, …
@@ -1688,7 +1675,7 @@ packaging
 * Studies often include sensitivity analyses
   - but don’t mention their results in the conclusions
 
-## 12.3 Numerical approaches
+## 11.3 Numerical approaches
 {{< hl-text orange>}}From ISO procedural to numerical approaches for practice{{< /hl-text >}}
 * ISO only provides procedural approaches, no guidance on numerical approaches
 * Numerical approaches have been added by LCA methodology developers to basically implement the ISO guidelines in practice!!
@@ -1808,7 +1795,7 @@ for redesign, prevention strategies, etc.
 {{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163824623-74764660-27cc-4fba-9e7e-0328822c080e.png)
 
-## 12.4 Concluding remarks
+## 11.4 Concluding remarks
 {{< hl-text orange>}}Concluding remarks: future of interpretation{{< /hl-text >}}
 * Numerical approaches will win ground, particularly uncertainty and sensitivity analyses
 * Dilemma:
@@ -1840,8 +1827,8 @@ such data
   - Can you base correct and clear conclusions and recommendation on them?
 {{< alert warning >}}Don’t ever consider LCAs as a push o n the button of CMLCA, SimaPro, OpenLCA, GaBi, …{{< /alert >}}
 
-# 13. Sensitivity and uncertainty analysis
-## 13.1 Difference between sensitivity analysis and uncertainty analysis
+# 12. Sensitivity and uncertainty analysis
+## 12.1 Difference between sensitivity analysis and uncertainty analysis
 What’s the difference?
 * Although closely related, sensitivity analysis and uncertainty analysis comprise of
 different techniques
@@ -1879,7 +1866,7 @@ due to variation in data sample
 * Allocation Choice
 * Characterization (LCIA; e.g., fate & transport modelling)
 
-## 13.2 Local sensitivity analysis
+## 12.2 Local sensitivity analysis
 {{< hl-text orange>}}Ad-hoc one-at-a-time (OAT) local sensitivity analysis (common practice in LCA today){{< /hl-text >}}
 1. Define the subject of the sensitivity analysis:
   - Ad hoc changing parameters, choices, … (“scenarios”)
@@ -1934,7 +1921,7 @@ Perturbation Analysis in CMLCA
 -ways of graphing it
 -How to use it in conclusions
 
-## 13.3 Uncertainty analysis (Optional)
+## 12.3 Uncertainty analysis (Optional)
 {{< hl-text orange>}}Storyline in a nutshell{{< /hl-text >}}
 * Easy to understand that LCA results are uncertain
 * But today we can treat uncertainties
@@ -2067,8 +2054,8 @@ DQI in CMLCA
 2. Histograms
 3. Discernibility Analysis
 
-# 14. Graphing LCA results
-## 14.1 LCA results
+# 13. Graphing LCA results
+## 13.1 LCA results
 ![image](https://user-images.githubusercontent.com/65668613/164173481-4e3418a4-e1b4-42ef-b73a-c8d12360fb2e.png)
 
 {{< hl-text orange>}}1. Comparative results at characterization{{< /hl-text >}}
@@ -2083,7 +2070,7 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 {{< hl-text orange>}}Normalization{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175318-2280834d-7c6b-463c-b524-85c4da645030.png)
 
-## 14.2 Critique the graph
+## 13.2 Critique the graph
 {{< hl-text orange>}}Characterized results{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175796-691371c9-0e4f-4f9c-b818-c14115226810.png)
 ![image](https://user-images.githubusercontent.com/65668613/164175922-2a45b9fb-303b-414c-9dec-b9a68ac3971e.png)
@@ -2108,8 +2095,8 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 * Accompany results with a comment/discussion
 * {{< hl-text blue>}}Sometimes tables are better than graphs{{< /hl-text >}}
 
-# 15. Case study design and reporting
-## 15.1 Reporting & writing tips
+# 14. Case study design and reporting
+## 14.1 Reporting & writing tips
 {{< hl-text orange>}}Course study goals{{< /hl-text >}}
 * Write an LCA research proposal;
 * Conduct an LCA study;
@@ -2167,8 +2154,8 @@ You will be graded on:
 * Logical build up of your model;
 * Proper explanation of assumptions, allocation and modeling choices in your main report;
 * Consistent with flow chart in your report.
-## 15.2 Frequently made modelling CMLCA mistakes
-### 15.2.1 Functional unit and reference flows
+## 14.2 Frequently made modelling CMLCA mistakes
+### 14.2.1 Functional unit and reference flows
 {{< hl-text orange>}}Example 1{{< /hl-text >}}
   - Function: the provision of electricity
   - FU: 1 kWh of net electricity produced
@@ -2200,7 +2187,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164201845-fb7456af-eb90-4672-a17d-67627f69ba2b.png)
 ![image](https://user-images.githubusercontent.com/65668613/164201908-19b4cfe5-6afd-48c9-b2c6-b2816b55779b.png)
 
-### 15.2.2 Manipulating ecoinvent or connecting your processes to ecoinvent
+### 14.2.2 Manipulating ecoinvent or connecting your processes to ecoinvent
 {{< hl-text orange>}}Example 1: OK?{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164202431-1f33e02c-3834-4f05-83c6-3665ed27cdaf.png)
 
@@ -2214,7 +2201,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164203491-b21edebb-5fc0-441e-a58d-c2f0fd462aac.png)
 ![image](https://user-images.githubusercontent.com/65668613/164203893-e478d319-c13a-46f6-b4ac-afa5fd082090.png)
 
-### 15.2.3 Other more advanced implementation issues
+### 14.2.3 Other more advanced implementation issues
 {{< hl-text orange>}}Example 1: study comparing beer and its packaging modeling and comparing the impacts of recycling beer bottles{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164245440-072e2836-9395-423c-85a4-bd268ddc6edf.png)
 ![image](https://user-images.githubusercontent.com/65668613/164247537-65f6c156-2608-46bb-9ea7-8e5216e1a406.png)
@@ -2233,7 +2220,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164252214-1dc0bfd9-ee8e-45c8-bcc1-d97966fbf2ba.png)
 ![image](https://user-images.githubusercontent.com/65668613/164252293-930dfa58-d7d2-4bd0-930f-1c9e78d9807e.png)
 
-## 15.3 Frequently made reporting mistakes
+## 14.3 Frequently made reporting mistakes
 What we saw in previous courses…
 {{< hl-text orange>}}Content tables{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164252771-32ed39db-0f40-408a-a60a-96ddc3d7f67f.png)
@@ -2290,7 +2277,7 @@ https://www.globallcadataaccess.org/
 https://assessccus.globalco2initiative.org/lca/databases/
 ![image](https://user-images.githubusercontent.com/65668613/164259653-cd0bedee-6a21-4838-b234-a1f290b94689.png)
 
-## 15.4 Further planning of the course
+## 14.4 Further planning of the course
 * Research proposal
   - Deadline: October 4, before 9 AM
   - Feedback: ~ within 5-10 working days
@@ -2350,7 +2337,7 @@ https://assessccus.globalco2initiative.org/lca/databases/
 {{< hl-text orange>}}Examples of recent master theses on ex-ante LCA{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164262871-20454cc5-fe2c-49ae-86b2-c0d555024fcb.png)
 
-# 16. Jumpstarting your LCA case study
+# 15. Jumpstarting your LCA case study
 {{< hl-text orange>}}Canned or fresh pineapples?{{< /hl-text >}}
 Is fresh the greener option?
 * Grown in Costa Rica and the Philippines, consumed in The Netherlands;
