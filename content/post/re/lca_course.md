@@ -983,6 +983,7 @@ Resource flow: 1000 hours of lighting with light of 450 lumen LED light bulb in 
 |Electric power|  500 kWh   |    2   |    0.4   |  
 |    Steam     |  1000 kg   |    3   |     0.6  |  
 |     Total    |            |        |     1    |  
+
 Electric power 4MJ/kWh electric power
 Steam 3 MJ/kg steam
 
