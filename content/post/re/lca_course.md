@@ -939,6 +939,61 @@ Inventory table (or LCI = life cycle inventory)
 ![image](https://user-images.githubusercontent.com/65668613/162719954-852036ec-fd39-4b4c-97ce-03fabd1c05ab.png)
 **Significant digits** : don’t claim to be more precise than you are able to
 
+## 6.7 Exercise
+Function: providing electricity
+Functional unit: producing 1kWh of electricity
+Alternatives: coal, oil and wind
+Resource flows: 	producing 1kWh of electricity from oil
+			producing 1kWh of electricity from coal
+			producing 1kWh of electricity from wind
+could include proper specification low Vol etc, location, (temporal scope), seasonal specification
+
+Function: packaging beverage => contain and maintain beverage
+Functional unit: packaging 1 litre of X
+Alternatives: reusable beverage container, one-way beverage containers
+Resource flows: 	packaging 1 litre of X in a reusable container
+			Packaging 1 litre of X in a one-way container
+Packaging here is very specific -> what is the function? Containing instead!
+
+Function: consumption of potatoes grown in the NL
+Functional unit: consumption of 1kg of potatoes grown in the NL
+Alternatives: organic, traditional
+Resource flows: 	
+
+Function: exchanging information
+Functional unit: 500 words of information to 1000 people for a specific distance? Instant paper? Then what about paper?
+Alternatives: email, telephone, paper, sms
+Resource flows: transmitting info in 500 words to 1000 people by email/...
+
+{{< hl-text orange>}}My first/second (hypothetical) LCA{{< /hl-text >}}
+
+{{< hl-text orange>}}A. What would be an appropriate function and functional unit for a comparison involving more types of lighting options?{{< /hl-text >}}
+Function: lighting
+Functional unit: 1000 hours of lighting
+
+{{< hl-text orange>}}B. Define the appropriate (more appropriate than the working-definition provided below) reference flow based on your functional unit for the system depicted above.{{< /hl-text >}}
+Resource flow: 1000 hours of lighting with light of 450 lumen LED light bulb in NL.
+
+{{< hl-text orange>}}C.	Redraw the process flow diagram, while omitting the ‘Glass manufacturing’ and ‘Waste disposal’ processes and without connecting to other processes (!!). Do this by drawing the remaining 3 processes as rectangles, then draw the arrows for inflows and outflow for each of the 3 processes (economic flows in vertical direction; environmental flows in horizontal direction) according to the specifications in the above table (but, as said, without connecting to other processes!!). Then insert the quantitative data from the table above next to each of the flows.{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164430880-ff210796-d1e7-4252-9afc-d7bae875be03.png)
+
+{{< hl-text orange>}}D.	Calculate the ‘allocation factors’ (which in this case means the share of each of the products in the total energy content), by filling in the table below.{{< /hl-text >}}
+|  Product  |  Outflow |  Energy content (GJ) | Allocation factor F1  |
+|---|---|---|---|
+|Electric power|  500 kWh   |    2   |    0.4   |  
+|    Steam     |  1000 kg   |    3   |     0.6  |  
+|     Total    |            |        |     1    |  
+Electric power 4MJ/kWh electric power
+Steam 3 MJ/kg steam
+
+{{< hl-text orange>}}E. Calculate the environmental outflows for the (mono-functional) processes of electric power generation (per 500 kWh electric power) and steam production (per 1000 kg steam):{{< /hl-text >}}
+|Environmental outflow|	unit|	Quantity allocated to 500 kWh| electric power	Quantity allocated to 1000 kg steam|
+|---|---|---|---|
+|CO2|	Kg|	400*0.4 = 160	|240|
+|CH4|	Kg|	6*0.4 = 2.4	|3.6|
+|N2O| Kg|0.005*0.4 = 0.002 	|0.003|
+
+
 # 7. CMLCA introduction
 ## 7.1 Introduction to CMLCA software
 CMLCA and corresponding documentation is available at our separate www.cmlca.eu website. For the LCA-PR course we use the CMLCA version that is available through the Blackboard page of the course.
