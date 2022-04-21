@@ -2352,6 +2352,60 @@ https://assessccus.globalco2initiative.org/lca/databases/
 ![image](https://user-images.githubusercontent.com/65668613/164262871-20454cc5-fe2c-49ae-86b2-c0d555024fcb.png)
 
 # 16. Jumpstarting your LCA case study
+{{< hl-text orange>}}Canned or fresh pineapples?{{< /hl-text >}}
+Is fresh the greener option?
+* Grown in Costa Rica and the Philippines, consumed in The Netherlands;
+* Of the fresh pineapple only 40-50% (by mass) can be eaten. So about half its weight is transported and then thrown away;
+* Fresh pineapple needs to be transported at 7°C;
+* Canned pineapple is more efficiently transported and has longer shelf life;
+* Canned pineapple needs processing and canning
+
+{{< hl-text orange>}}Data gathering{{< /hl-text >}}
+* Starts in your research proposal (see that as preliminary GSD)
+* Literature search and review
+  - Google / scholar.google (also look for other LCA studies on pineapples)
+  - Other search engines: f.e. web of science
+  - Annual reports (Dole and other suppliers?)
+  - ecoinvent (via CMLCA) and background reports
+  - Other search terms (canned fruit?....)
+
+{{< hl-text orange>}}Inventory phase{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164396373-f9ed8c26-1aea-4729-ba58-02b6cf538ca4.png)
+* Background and foreground processes
+* From general data (literature) to unit process data
+
+{{< hl-text orange>}}Pineapple cultivation{{< /hl-text >}}
+* Not in ecoinvent, assume no other process data available. Adjust existing ecoinvent process.
+* As a proxy use sugar cane [BR] (P2700)
+* What we do know
+- 1000 kg pineapple / 100m2 => 1 kg pineapple / 0,1 m2
+
+{{< hl-text orange>}}Can production (1){{< /hl-text >}}
+* Cans are not in ecoinvent
+* Search for data (provide references!)
+* Model yourself. Simple Assumptions cans are made of aluminum, you need electricity to produce them and they are produced in a building.
+* Pure hypothetical data
+  - Factory produces 1.000.000 cans / year
+  - Consumes 20.000 kWh electricity / year
+  - Consumes 30 tons aluminium / year
+  - Factory is 100 m2 with a lifetime is 20 years
+
+{{< hl-text orange>}}Can production (2){{< /hl-text >}}
+* Consumes 20.000 kWh electricity / year => 0,02 kWh electricity / can (G129)
+* Consumes 30 tons aluminium / year => 0,03 kg aluminium / can (G17)
+* Factory produces 1.000.000 cans / year, Factory is 100 m2 with lifetime of 20 years => 5 x 10-6 m2 of factory / can (G583)
+![image](https://user-images.githubusercontent.com/65668613/164404315-352e6c43-d2f7-4ee4-bd88-ab9419859a4d.png)
+
+{{< hl-text orange>}}Packaging{{< /hl-text >}}
+* 50% by mass is transported rest is waste
+* Needs pineapple (how much?)
+* Needs a can (how many?)
+
+{{< hl-text orange>}}Transport to consumer{{< /hl-text >}}
+* Transport is defined as service in ecoinvent (f.e. disposal as well)
+* Transport process => reference flow is [tkm]
+  - transporting 1000 kg over 200 km = 200 tkm
+![image](https://user-images.githubusercontent.com/65668613/164406834-c722c3b2-ac16-4d9a-af83-02561b2bae56.png)
 
 [^in]: There are basically 2 options for modelling your own disposal process: 1) connecting a waste flow out to an ecoinvent waste process (and accepting its data); 2) defining a new disposal process managing your specific waste, calculating 3 emissions yourself applying chemical reactions and mass balancing (IN = OUT) fulfilling the “3 emissions calculation requirement” below, and optionally copying data on economic inflows like electricity and fuel needs from an existing similar ecoinvent process.
 [^ec]: You cannot use the same process to fulfill the closed loop and the multifunctionality co-production requirements; you need separate processes for that. Closed loop also involves a multifunctional problem, but the solutions (either allocation or substitution) don’t change the results as will be/has been discussed in class. Therefore, you are also required to model a co-production process with at least one functional flow crossing the system boundary.
