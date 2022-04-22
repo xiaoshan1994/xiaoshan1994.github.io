@@ -719,7 +719,7 @@ Exercise:
   - disposable carton container, reusable glass
   - Disposable vs reusable
   - one-way, reusable
-  - tetrapak, plastic
+  - tetrapak, plasti
 * Reference flows:
   - containing 1L of water through distribution system for 10times with carton/glass
   - containing liq for 1 wk by X, X
@@ -1209,7 +1209,163 @@ complex!!
 * wine from Napa Valley (USA) versus French Bordeaux wine /bɔ:'dəu/
 * wood and PVC window frames
 * Yogi Tea and Lipton
+# 9. LCI databases and ecoinvent
+## 9.1 LCI database
+{{< hl-text orange>}}What is an LCI database{{< /hl-text >}}
+- A collection of datasets describing the inputs and outputs of economic activities
+  - E.g. material and energy flows , emissions , wastes
+  - And meta data process descriptions , modeling and
+assumptions , data sources and quality , uncertainties , etc
+- Main purpose : to provide « background data » to support LCA studies
+  - our economies are too complex for collecting such data from scratch for every LCA study
 
+{{< hl-text orange>}}Existing LCI databases{{< /hl-text >}}
+General purpose
+- Ecoinvent (non for profit)
+- GaBi sphera
+- USLCI database (US) and ELCD database (EU
+- Japanese , Chinese, Thai, Specific applications
+- World Food LCI Database
+- Agribalyse (French)
+- …
+- … many specialized databases (e.g. construction, carbon footprinting , water footprinting)
+
+{{< hl-text orange>}}Overview of existing datases{{< /hl-text >}}
+https://nexus.openlca.org/databases
+https://www.globallcadataaccess.org
+
+{{< hl-text orange>}}Some criteria for a good LCI database{{< /hl-text >}}
+- Coverage of activities
+- Completeness of description
+- Transparency e.g. unit processes
+- Documentation e.g. activity descriptions
+- Data quality guidelines consistency
+- Peer review
+- Regularly updates
+
+## 9.2 Introduction ecoinvent
+{{< hl-text orange>}}What is ecoinvent?{{< /hl-text >}}
+- ecoinvent is a non-for-profit association initially created by a network of Swiss research institutes
+- ecoinvent publishes the ecoinvent database
+- Goal: to publish useful and relevant life cycle inventory data in a centrally organized form
+- Origin in the 1990s (common need for background data)
+- Small, loosely connected pools of data
+- Unified database versions
+  - Version 1 published in 2003
+  - version 2 in 2008
+  - Version 3 in 2013 (now yearly updates, currently 3.7)
+- Version 3.7: around 20000 datasets
+  - 4 System models for different application scenarios
+  - Unit processes, aggregated LCIs, LCIA results
+  - ecospold2 is the main data format
+- Used by more than 6000 users in more than 40 countries (figure probably outdated…)
+- Included in or available for the leading LCA and eco design software tools
+- the database is used in many software tools, such as (and many more)
+![image](https://user-images.githubusercontent.com/65668613/164650554-cda43fed-4503-42d2-918b-8150129165f5.png)
+
+{{< hl-text orange>}}Data in ecoinvent{{< /hl-text >}}
+* v2.2: ~4000 inventories, V3: ~10000 inventories
+* New electricity data in v3: 90% produced electricity in the world
+* New data added to version 3.01: Passenger transport (road), Biofuels, Fruits and veggies, Chemicals, and Building materials, Freight transport by road, Wood sector: forestry, machinery, wood based products, wood preservation.
+* New data added to version 3.1: Aluminium supply chain, Cardboard, New tap water production activities
+in GLO, Québec, CH, Europe, Incineration
+Heat production, Dairy; Soja derivatives
+* New in ecoinvent v3.2: Complete update of the whole electricity sector (We are chopping China!), Refrigerated transport, Wood production, Aluminium, Clinker , cement , concrete, Agricultural production, many more...
+* New in 3.5: over 2'000 datasets on aquaculture and fish capture, waste treatment, aluminium, hard coal, pulp and containerboard
+* New in 3.6: …2,200 new and 2,500 updated datasets …
+
+{{< hl-text orange>}}Licence{{< /hl-text >}}
+You may ONLY use the ecoinvent database provided to you in this course within the context of this course and as long as you are a student at Leiden University or Leiden University College.
+
+## 9.3 Activities (Ecoinvent)
+{{< hl-text orange>}}Definition of Activity{{< /hl-text >}}
+- An Activity is a unit process that represents a human activity and its exchanges with the environment and with the products of other human activities (Technosphere).
+- We’ll focus on technosphere exchanges from now on.
+![image](https://user-images.githubusercontent.com/65668613/164659013-19316278-9c8e-4ae4-947e-9f787dfd27ee.png)
+
+* Activities when unallocated may produce two types of products:
+  - Reference product : the reason for carrying out this activity
+ - By product / waste : any other output of the activity (These definitions differ from those used in this course (good and waste) although this should not be of consequence for you
+ ![image](https://user-images.githubusercontent.com/65668613/164662667-3c4c4b27-324f-47aa-bfdd-8286f88f617e.png)
+
+{{< hl-text orange>}}Types of activities: overview{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164663913-7e9641ac-dc40-4a10-b8e8-a784f1d7713b.png)
+
+### 9.3.1 Transforming activities
+- Transforming activities are human activities that transform inputs, so that the output of the activity is different from the inputs
+![image](https://user-images.githubusercontent.com/65668613/164666070-e3e238e4-5fc2-4c95-94ae-8b54d2e270f1.png)
+
+- The same activity name, different geography
+![image](https://user-images.githubusercontent.com/65668613/164666835-2c245ed9-3f21-4a79-a4fe-6b473f676c76.png)
+
+- The same reference product, but different technology
+![image](https://user-images.githubusercontent.com/65668613/164667696-e53f2a54-02b9-41e2-ba3d-b6c400896495.png)
+
+- The same reference product, but different technology (and thus potentially also different by products)
+![image](https://user-images.githubusercontent.com/65668613/164669144-d70c2bc4-128d-478b-8c5d-9389715b1528.png)
+
+### 9.3.2 Transfering activities (markets)
+- Market activities are {{< hl-text blue>}}consumption mixes{{< /hl-text >}}.
+- They provide products from producing activities to the consuming activities that use them an inputs.
+![image](https://user-images.githubusercontent.com/65668613/164671717-cc2932f6-ac75-4ef9-bee8-539ea1b90cac.png)
+
+- They add information to the consumption mix:
+  - Default information relative to the {{< hl-text blue>}}transport of the product{{< /hl-text >}}
+  - {{< hl-text blue>}}Information about losses{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164673969-92ee7c9f-790b-4c3f-8d85-068a75fee707.png)
+
+* Markets for same product can have different geographical locations
+- If the location is not GLO (global), we call them {{< hl-text blue>}}regional markets{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164674859-2ff9accc-b1c7-4357-ae0e-5a1e03c4e4e1.png)
+
+{{< hl-text orange>}}To retain Activities and markets{{< /hl-text >}}
+- There are two basic types of activities in the database: transforming and transferring activities
+  - Transforming activities are production or treatment processes
+  - Transferring activities are markets
+- Market activities are consumption mixes and account
+also for transport and losses
+
+### 9.3.3 Treatment activities and markets
+{{< hl-text orange>}}Treatment activities{{< /hl-text >}}
+- A transforming activity with a reference product with a negative sign
+- A treatment activity “treats” (e.g. disposes) a given product
+![image](https://user-images.githubusercontent.com/65668613/164676527-a86e796b-2bff-479b-8aee-b60cfe063a2b.png)
+
+{{< hl-text orange>}}Treatment markets{{< /hl-text >}}
+- They also exist for wastes:
+- Representing the consumption mix of the waste treatment
+- Bearing as well default {{< hl-text blue>}}transport information{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164676739-509d8bcf-d942-4dbe-b3c7-4cefd90253a4.png)
+
+{{< hl-text orange>}}Another type of transforming
+activity: treatment activities{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164677500-71659e40-9a67-4e59-8274-16d0cf11e45e.png)
+
+{{< hl-text orange>}}Waste from a waste producer to a
+treatment activity{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164677642-e5d262cc-65db-4171-ae62-37e565cae716.png)
+
+{{< hl-text orange>}}Generation of consumption mixes of wastes{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164677942-309c1510-75a6-462e-a1fe-8a196e4d50ac.png)
+- Consumption mix market generation and use follow same rules as described
+  - based on geography
+  - based on product name (different technologies, same market)
+  - using production volumes to define market shares
+![image](https://user-images.githubusercontent.com/65668613/164678090-76b3e373-50d8-4e92-9d98-dc19cd6df67b.png)
+
+- Note that the same system looks like this if the arrows are flipped
+![image](https://user-images.githubusercontent.com/65668613/164678250-ffd56e7c-46f5-4668-b46f-bf852e002c5b.png)
+
+## 9.3.4 Consumption mixes (markets) Global geographical coverage
+{{< hl-text orange>}}Consistent generation and use
+of consumption mixes{{< /hl-text >}}
+- The transforming activities produce products that supply the markets, depending on their geographical localisation
+
+![image](https://user-images.githubusercontent.com/65668613/164678751-59b9124e-ab15-496c-ac64-48f9d0ab4fda.png)
+
+## 9.3 Transport in ecoinvent
+
+## 9.4 Waste treatment in CMLCA versus ecoinvent
 # 9. Multi-functionality
 ## 9.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
