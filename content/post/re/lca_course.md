@@ -1361,11 +1361,78 @@ treatment activity{{< /hl-text >}}
 of consumption mixes{{< /hl-text >}}
 - The transforming activities produce products that supply the markets, depending on their geographical localisation
 
-![image](https://user-images.githubusercontent.com/65668613/164678751-59b9124e-ab15-496c-ac64-48f9d0ab4fda.png)
+![image](https://user-images.githubusercontent.com/65668613/164883657-782af226-a025-4a6e-b46d-e5d7920062db.png)
 
-## 9.3 Transport in ecoinvent
+* There exists always at least one GLO market per product, but regional markets do also exist when it is necessary
+![image](https://user-images.githubusercontent.com/65668613/164883671-1209ffe0-0bf6-4e16-8464-8990a414429b.png)
 
-## 9.4 Waste treatment in CMLCA versus ecoinvent
+* Consuming activities of those products will get their inputs automatically from the markets that
+better cover their geography
+![image](https://user-images.githubusercontent.com/65668613/164883700-304881ee-b691-440c-b2b9-4521a5728003.png)
+
+* Direct links to producers can also be used instead of consumption mixes
+![image](https://user-images.githubusercontent.com/65668613/164883789-7c382d6a-07e3-4de9-8ced-f464ba59235b.png)
+
+{{< hl-text orange>}}To retain : markets consumption mixes{{< /hl-text >}}
+- Markets link producing and consuming activities in the geographical boundaries of the markets
+- As user, you can always choose to use the producing activities or the consumption mix (market)
+
+{{< hl-text orange>}}Global geographical coverage{{< hl-text orange>}}
+- All products in the ecoinvent database are covered globally
+  - either by 1 GLO activity
+  - or by at least 1 regional + 1 RoW activities
+
+- The same logic applies for markets
+- If available, regional activities use the inputs from regional markets (e.g. the input of tap water from NL, for a NL activity)
+
+{{< hl-text orange>}}Illustration for Global geographical activity coverage{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164883988-c626916a-8be1-4c9b-9efd-1f9677c0423b.png)
+
+## 9.4 Transport in ecoinvent
+{{< hl-text orange>}}Transport is modelled in market activities{{< /hl-text >}}
+- The transport of goods in ecoinvent version 3 is mainly included in market activities
+![image](https://user-images.githubusercontent.com/65668613/164884267-70797953-71b3-419e-8bd9-6aeafe7d0a0b.png)
+
+{{< hl-text orange>}}Modes of transport in ecoinvent{{< /hl-text >}}
+* Freight
+  * Trucks (3.5 -> 32t)
+  * Airplanes , helicopter
+  * Trains
+  * Ship
+* Passenger transport (ICVs, EVs)
+  - Personal: passenger car, scooter, bicycle
+  - Public transport : tram , train, airplane, bus, trolleybus
+
+{{< hl-text orange>}}Transport model simplified{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164884449-44b52db4-6d70-4aa0-a814-210f3955aeef.png
+* Return trip usually empty one way
+
+{{< hl-text orange>}}Global transport model ecoinvent v3{{< /hl-text >}}
+
+- Transport distances are based on a global model for transport distances based on EU,
+US, and other statistics, which provides:
+  - Product or product group specific transport distances
+  - Modes of transport
+
+**This may not always be accurate, especially for locally (not globally) traded products, e.g.:**
+  - Construction materials (gravel, concrete, stone)
+  - Products with low price and high volumes (tap water)
+  - Products which technically cannot be transported (electricity, steam)
+  - Waste products
+  - Infrastructure (buildings, landfills)
+
+{{< hl-text orange>}}How to model transport in your foreground system?{{< /hl-text >}}
+1. Define transport mode (truck, ship, etc)
+2. Calculate the transport distance
+  - no need to include return trip as this is already included in the ecoinvent datasets
+  - If the return trip is full as well, simply divide the one way distance by 2
+3. Calculate “load”: transport distance * weight
+4. {{< hl-text blue>}}Include the transport as a service (input){{< /hl-text >}} into your foreground system production activities (see example below)
+![image](https://user-images.githubusercontent.com/65668613/164884968-c862ea75-4051-47d9-b7d1-9c9205896bd3.png)
+
+Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
+
+## 9.5 Waste treatment in CMLCA versus ecoinvent
 # 9. Multi-functionality
 ## 9.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
