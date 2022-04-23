@@ -1356,6 +1356,32 @@ treatment activity{{< /hl-text >}}
 - Note that the same system looks like this if the arrows are flipped
 ![image](https://user-images.githubusercontent.com/65668613/164678250-ffd56e7c-46f5-4668-b46f-bf852e002c5b.png)
 
+{{< hl-text orange>}}To retain{{< /hl-text >}}
+* The negative signs allow to maintain the mass balance in the activities
+* As with regular products, markets are used to model geographically constrained consumption mixes
+* For example: MSW from different producers goes to the market for MSW and from there to different treatment processes (representing the share of treatment processes in a given region)
+
+{{< hl-text orange>}}How does this differ from the CMLCA approach{{< /hl-text >}}
+
+**{{< hl-text orange>}}Negative inputs are the same as positive outputs{{< /hl-text >}}**
+![image](https://user-images.githubusercontent.com/65668613/164885268-60948c9c-6e58-4789-988a-32ee1109c45c.png)
+
+{{< hl-text orange>}}Ecoinvent way{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164885614-988e663d-6bb0-4b97-94fc-6cbf023b0355.png)
+
+{{< hl-text orange>}}CML way{{< /hl-text >}}
+![image](https://user-images.githubusercontent.com/65668613/164885643-205e7d91-957f-4f77-a83b-3b1316f58426.png)
+
+{{< hl-text orange>}}Differences CMLCA -ecoinvent{{< /hl-text >}}
+* Ecoinvent models wastes like CMLCA as outputs of processes (in LCA software this can be displayed as negative inputs or positive outputs)
+* Waste treatment activities in ecoinvent usually have a negative reference product (i.e. they model the service of treating a waste)
+* Ecoinvent has a different product classification than CMLCA, e.g. (in the cut-off system model)
+  – **Allocatable by-products (BP)**: like goods in CMLCA
+  – **Wastes (W): cut-off approach** (waste treatment fully allocated to producing activity; co-products come FREE of burdens)
+  – **Recyclable materials (RM)**: RM come FREE of burdens, but environmental impacts from recycling accounted for
+
+{{< hl-text blue>}}In practice you don’t need to worry about this much, but just use the cut-off model like it is…{{< /hl-text >}}
+
 ## 9.3.4 Consumption mixes (markets) Global geographical coverage
 {{< hl-text orange>}}Consistent generation and use
 of consumption mixes{{< /hl-text >}}
@@ -1433,6 +1459,7 @@ US, and other statistics, which provides:
 Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
 
 ## 9.5 Waste treatment in CMLCA versus ecoinvent
+
 # 9. Multi-functionality
 ## 9.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
