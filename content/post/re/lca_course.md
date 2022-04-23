@@ -1430,7 +1430,7 @@ better cover their geography
   - Public transport : tram , train, airplane, bus, trolleybus
 
 {{< hl-text orange>}}Transport model simplified{{< /hl-text >}}
-![image](https://user-images.githubusercontent.com/65668613/164884449-44b52db4-6d70-4aa0-a814-210f3955aeef.png
+![image](https://user-images.githubusercontent.com/65668613/164884449-44b52db4-6d70-4aa0-a814-210f3955aeef.png)
 * Return trip usually empty one way
 
 {{< hl-text orange>}}Global transport model ecoinvent v3{{< /hl-text >}}
