@@ -1403,7 +1403,7 @@ better cover their geography
 - Markets link producing and consuming activities in the geographical boundaries of the markets
 - As user, you can always choose to use the producing activities or the consumption mix (market)
 
-{{< hl-text orange>}}Global geographical coverage{{< hl-text orange>}}
+{{< hl-text orange>}}Global geographical coverage{{< /hl-text >}}
 - All products in the ecoinvent database are covered globally
   - either by 1 GLO activity
   - or by at least 1 regional + 1 RoW activities
@@ -1457,8 +1457,6 @@ US, and other statistics, which provides:
 ![image](https://user-images.githubusercontent.com/65668613/164884968-c862ea75-4051-47d9-b7d1-9c9205896bd3.png)
 
 Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
-
-## 9.5 Waste treatment in CMLCA versus ecoinvent
 
 # 9. Multi-functionality
 ## 9.1 The problem; Definitions & typologies
