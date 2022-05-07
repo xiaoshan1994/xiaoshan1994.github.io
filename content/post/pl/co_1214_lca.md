@@ -28,7 +28,7 @@ $^b$ **School of Environmental Science and Engineering, Shanghai Jiao Tong Unive
 * Environmental impacts of {{< hl-text blue>}}EOL treatments{{< /hl-text >}} were assessed based on the components and treatment pattern of waste plastics.
 * EOL treatments of waste plastics bring environmental benefits to China.
 * **Mechanical recycling** plays the most beneficial role in EOL treatments.
-* Scenarios are set to analyze the potential reduction of environmental impacts for waste plastics.
+* Scenarios are set to analyse the potential reduction of environmental impacts for waste plastics.
 
 ## Abstract
 
@@ -88,6 +88,12 @@ Fig. 2. Demand for biomass and electricity to achieve net-zero emission plastics
 Received 4 November 2020, Revised 7 December 2020, Accepted 9 December 2020, Available online 5 January 2021.
 Harish Jeswani et al.
 Department of Chemical Engineering and Analytical Science, The University of Manchester, Sackville Street, M13 9PL, UK
+
+## Abstract
+A large portion of plastic produced each year is used to make single-use packaging and other short-lived consumer products that are discarded quickly, creating significant amounts of waste. It is important that such waste be managed appropriately in line with circular-economy principles. One option for managing plastic waste is chemical recycling via pyrolysis, which can convert it back into chemical feedstock that can then be used to manufacture virgin-quality polymers. However, given that this is an emerging technology not yet used widely in practice, it is not clear if pyrolysis of waste plastics is sustainable on a life cycle basis and how it compares to other plastics waste management options as well as to the production of virgin plastics. Therefore, this study uses life cycle assessment (LCA) to compare the environmental impacts of chemical recycling of mixed plastic waste (MPW) via pyrolysis with the established waste management alternatives: mechanical recycling and energy recovery. Three LCA studies have been carried out under three perspectives: waste, product and a combination of the two. To ensure robust comparisons, the impacts have been estimated using two impact assessment methods: Environmental footprint and ReCiPe. The results suggest that chemical recycling via pyrolysis has a 50% lower climate change impact and life cycle energy use than the energy recovery option. The climate change impact and energy use of pyrolysis and mechanical recycling of MPW are similar if the quality of the recyclate is taken into account. Furthermore, MPW recycled by pyrolysis has a significantly lower climate change impact (−0.45 vs 1.89 t CO2 eq./t plastic) than the equivalent made from virgin fossil resources. However, pyrolysis has significantly higher other impacts than mechanical recycling, energy recovery and production of virgin plastics. Sensitivity analyses show that some assumptions have notable effects on the results, including the assumed geographical region and its energy mix, carbon conversion efficiency of pyrolysis and recyclate quality. These results will be of interest to the chemical, plastics and waste industries, as well as to policy makers.
+
+## 2. Methods
+
 
 ## 1. Introduction
 * Currently only one-third of post-consumer plastic waste in Europe is collected for recycling, with the majority (43%) incinerated in waste-to-energy plants; the rest is still landfilled (PlasticsEurope, 2019).
