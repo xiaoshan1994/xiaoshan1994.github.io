@@ -29,3 +29,37 @@ In addition to mechanical recycling, chemical recycling is highlighted as one of
 
 ## CCU pathway
 **The CCU pathway establishes carbon loops via the incineration of plastic and the respective re-utilization of CO2.** The following high-TRL technologies are available: methanol and methane from CO2, direct air capture, and electrified steam production. Via methanol-to-olefins or methanol-to-aromatics, all plastic raw materials can be produced. The following low-TRL technologies are available: benzene, toluene, p-xylene, mixed xylenes, carbon monoxide, ethylene oxide, ethylene, propylene, and styrene from CO2, as well as the ohmic heating to provide high-temperature thermal energy.
+
+# Life cycle environmental impacts of chemical recycling via pyrolysis of mixed plastic waste in comparison with mechanical recycling and energy recovery
+[***Science of The Total Environment***](https://www.sciencedirect.com/science/article/pii/S0048969720380141?via%3Dihub)
+Received 4 November 2020, Available online **5 January 2021**.
+Harish Jeswani et al.
+Department of Chemical Engineering and Analytical Science, The University of Manchester, Sackville Street, M13 9PL, UK
+
+## Abstract
+* This study uses life cycle assessment (LCA) to compare the environmental impacts of chemical recycling of mixed plastic waste (MPW) via pyrolysis with the established waste management alternatives: mechanical recycling and energy recovery.
+* Three LCA studies have been carried out under three perspectives: waste, product and a combination of the two.
+* To ensure robust comparisons, the impacts have been estimated using two impact assessment methods: Environmental footprint and ReCiPe.
+* The results suggest that chemical recycling via pyrolysis has a 50% lower climate change impact and life cycle energy use than the energy recovery option. The climate change impact and energy use of pyrolysis and mechanical recycling of MPW are similar if the quality of the recyclate is taken into account.
+* Furthermore, MPW recycled by pyrolysis has a significantly lower climate change impact (−0.45 vs 1.89 t CO2 eq./t plastic) than the equivalent made from virgin fossil resources.
+* However, pyrolysis has significantly higher other impacts than mechanical recycling, energy recovery and production of virgin plastics.
+* Sensitivity analyses show that some assumptions have notable effects on the results, including the assumed geographical region and its energy mix, carbon conversion efficiency of pyrolysis and recyclate quality.
+
+## Methods
+1. Waste perspective
+* The functional unit is defined as the treatment of 1 t of MPW (mixed plastic waste).
+* Scope: collection and transportation of MPW from households, sorting and pyrolysis of MPW to produce pyrolysis oil, as the main product and char as a co-product.
+* System boundaries:
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr1_lrg.jpg)
+* In Germany, 30% of MPW is incinerated with MSW and 70% is used to produce RDF and recover energy (UBA, 2018).
+
+2. Product perspective
+* The functional unit: the production of 1 t of plastic granulate of virgin-grade quality.
+* Scope: collection and transportation of MPW to a sorting plant, sorting, pyrolysis, purification of pyrolysis oil and production of LDPE.
+* System boundaries:
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr2_lrg.jpg)
+* system expansion: accounting for the avoided impacts from incineration, RDF, and the loss of recovered energy, compared with the production of virgin LDPE produced from naphtha.
+
+3. Combined product and waste perspective
+* the functional unit is defined as the production of 1 t of mixed virgin plastics and their end-of-life treatment.
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr3_lrg.jpg)
