@@ -1891,7 +1891,7 @@ https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
   - Measures an average climate forcing effect of a single pulse emission over time but gives no indication of the climate impact at an end-point in time, or that of a sustained emission.
 * An increase in radiative forcing results in a temperature increase, where the degree of temperature rise is governed by the magnitude of emission (**emission quantity**) and **radiative efficiency**, as well as the existing atmospheric **concentration** of the GHG and the concentrations of **other gases** in the atmosphere (e.g.OH-and O3) .
 
-## 10.10 Cumulative Fossil Energy Demand (Energy use) as an indicator for environmental performance
+## 10.10 Energy use as an indicator for environmental performance
 * Cumulative Energy Demand (CED): the direct and indirect energy use throughout the life cycle, including the energy consumed during the extraction, manufacturing, and disposal of the raw and auxiliary materials.
 * Method: EF v2.0 2018 - energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels
 * Upper Heating Values of Fossil Primary Energy Resources (MJ kg-1):
