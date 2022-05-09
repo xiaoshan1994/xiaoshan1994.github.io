@@ -1892,7 +1892,7 @@ https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
 * An increase in radiative forcing results in a temperature increase, where the degree of temperature rise is governed by the magnitude of emission (**emission quantity**) and **radiative efficiency**, as well as the existing atmospheric **concentration** of the GHG and the concentrations of **other gases** in the atmosphere (e.g.OH-and O3) .
 
 ## 10.10 Is Cumulative Fossil Energy Demand (Energy use) a Useful Indicator for the Environmental Performance of Products?
-
+* Cumulative Energy Demand (CED):
 
 # 11. Life Cycle Interpretation
 ## 11.1 Definition of life cycle interpretation
