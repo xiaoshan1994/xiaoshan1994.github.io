@@ -1880,6 +1880,20 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Practice: complete sets implemented in software:
   - impact assessment = push of a button
 
+## 10.9 Methane emissions: choosing the right climate metric and time horizon
+https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
+* second largest contributor to climate change next to carbon dioxide
+* methane has a perturbation life of only **12.4** years
+* The 100 year time horizon is most common, giving a CO2 equivalent value of **28–36** for methane (depending on whether various indirect climate effects are included (oxidation to CO2 and impact on ozone creation)).
+* criticism about the use of GWP:
+  - The selected time horizon has a large impact on the value of the metric;
+  - Despite its name, it does not compare gases against their effect on global temperature
+  - Measures an average climate forcing effect of a single pulse emission over time but gives no indication of the climate impact at an end-point in time, or that of a sustained emission.
+* An increase in radiative forcing results in a temperature increase, where the degree of temperature rise is governed by the magnitude of emission (**emission quantity**) and **radiative efficiency**, as well as the existing atmospheric **concentration** of the GHG and the concentrations of **other gases** in the atmosphere (e.g.OH-and O3) .
+
+## 10.10 Is Cumulative Fossil Energy Demand (Energy use) a Useful Indicator for the Environmental Performance of Products?
+
+
 # 11. Life Cycle Interpretation
 ## 11.1 Definition of life cycle interpretation
 * ISO: Phase of life cycle assessment in which the findings of either the inventory analysis or the impact assessment, or both, are combined consistent with the defined goal and scope in order to reach conclusions & recommendations
