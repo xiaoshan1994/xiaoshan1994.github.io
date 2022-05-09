@@ -1880,9 +1880,9 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Practice: complete sets implemented in software:
   - impact assessment = push of a button
 
-## 10.9 Methane emissions: choosing the right climate metric and time horizon
+## 10.9 Choosing the right climate metric and time horizon
 https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
-* second largest contributor to climate change next to carbon dioxide
+* Methane is a second largest contributor to climate change next to carbon dioxide
 * methane has a perturbation life of only **12.4** years
 * The 100 year time horizon is most common, giving a CO2 equivalent value of **28–36** for methane (depending on whether various indirect climate effects are included (oxidation to CO2 and impact on ozone creation)).
 * criticism about the use of GWP:
