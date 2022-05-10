@@ -45,13 +45,19 @@ Department of Chemical Engineering and Analytical Science, The University of Man
 * However, pyrolysis has significantly higher other impacts than mechanical recycling, energy recovery and production of virgin plastics.
 * Sensitivity analyses show that some assumptions have notable effects on the results, including the assumed geographical region and its energy mix, carbon conversion efficiency of pyrolysis and recyclate quality.
 
-## Methods
+## Methods, results, and discussions
 1. Waste perspective
 * The functional unit is defined as the treatment of 1 t of MPW (mixed plastic waste).
 * Scope: collection and transportation of MPW from households, sorting and pyrolysis of MPW to produce pyrolysis oil, as the main product and char as a co-product.
 * System boundaries:
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr1_lrg.jpg)
 * In Germany, 30% of MPW is incinerated with MSW and 70% is used to produce RDF and recover energy (UBA, 2018).
+
+{{< hl-text orange>}}Results:{{< /hl-text >}}
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr4_lrg.jpg)
+* climate change: The credits are related to the avoided production of naphtha displaced by the pyrolysis oil, which reduces the total impact by 423 kg CO2 eq./t
+*
+* Sensitivity analysis
 
 2. Product perspective
 * The functional unit: the production of 1 t of plastic granulate of virgin-grade quality.
