@@ -60,11 +60,11 @@ Department of Chemical Engineering and Analytical Science, The University of Man
 The credits are related to the avoided production of naphtha displaced by the pyrolysis oil, which reduces the total impact by 423 kg CO2 eq./t.
 * Sensitivity analysis:
   1. Electricity mix for energy credits (in the case of energy recovery).
-  All energy is sourced from {{< hl-text blue>}}fossil fuels{{< /hl-text >}}; and all energy is provided by {{< hl-text blue>}}renewable sources{{< /hl-text >}}.^[fuels]
+  All energy is sourced from {{< hl-text blue>}}fossil fuels{{< /hl-text >}}; and all energy is provided by {{< hl-text blue>}}renewable sources{{< /hl-text >}}.[^fuels]
   2. Economic value of mixed plastic waste (Chemical recycling and energy recovery).
   Affecting the economic allocation in the sorting plant between single and mixed plastic waste.
   3. Composition of mixed plastic waste (Chemical recycling and energy recovery)
-  
+
   4. Quality of purified pyrolysis oil (Chemical recycling)
   5. Carbon conversion efficiency of pyrolysis (Chemical recycling)
   6. The quality of recyclate (Mechanical recycling)
@@ -82,5 +82,5 @@ The credits are related to the avoided production of naphtha displaced by the py
 * the functional unit is defined as the production of 1 t of mixed virgin plastics and their end-of-life treatment.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr3_lrg.jpg)
 
-[fuels]:  it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and
+[^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and
 biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
