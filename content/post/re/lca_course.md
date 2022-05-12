@@ -1458,6 +1458,24 @@ US, and other statistics, which provides:
 
 Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
 
+## 9.5 System models in ecoinvent
+### Allocation, cut-off by classification
+{{< hl-text orange>}}Introduction{{< /hl-text >}}
+In this system model, wastes are the producer’s responsibility (“polluter pays”), and there is an incentive to use recyclable products, that are available burden free (cut-off).
+
+* If a material is recycled, the primary producer does not receive any credit for the provision of any recyclable materials.
+* Recyclable materials are available burden-free to recycling processes, and secondary (recycled) materials bear only the impacts of the recycling processes (i.e. collecting, sorting, transporting).
+* Producers of wastes do not receive any credit for recycling or reuse of products resulting from any waste treatment.
+
+{{< hl-text orange>}}Handling of by-products by classification{{< /hl-text >}}
+Ordinary by-products are handled by allocation among products if an activity produces more than one product.
+{{< hl-text orange>}}1. Handling of waste products{{< /hl-text >}}
+Waste by-products have to be treated, and the treatment burden is allocated completely to the waste-producing activity.
+![image](https://user-images.githubusercontent.com/65668613/168101190-f1756eb6-16c0-4cb5-8db0-e33cfa77d556.png)
+
+
+
+
 # 9. Multi-functionality
 ## 9.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
