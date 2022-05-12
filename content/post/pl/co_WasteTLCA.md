@@ -2,7 +2,7 @@
 title: "(Collection) Plastic waste treatments and related LCA"
 date: 2022-05-07T09:59:30+02:00
 categories:
-- Plastics
+- Plastic
 - Collection
 thumbnailImage:
 thumbnailImagePosition: left
