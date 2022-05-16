@@ -1479,6 +1479,9 @@ Any {{< hl-text blue>}}non-waste by-products{{< /hl-text >}} of a waste treatmen
 
 
 {{< hl-text orange>}}2. Handling of recyclable materials{{< /hl-text >}}
+Recyclable materials are cut off from their production activities through the use of special datasets, denoted as {{< hl-text blue>}}“product name, recycled content cut-off”{{< /hl-text >}}. {{< hl-text blue>}}These datasets have no inputs or emissions and are therefore burden-free{{< /hl-text >}}. In a production activity, the material is recorded as a negative input, as in the case of waste; however, the material is not linked to any treatment activity but simply to the empty process.
+![image](https://user-images.githubusercontent.com/65668613/168536390-548d9233-9c99-4700-985b-107aaf290b0a.png)
+![image](https://user-images.githubusercontent.com/65668613/168536819-74a6a585-bd9d-43c4-821c-0eda8e8165ad.png)
 
 
 
