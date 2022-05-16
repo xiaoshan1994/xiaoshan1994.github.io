@@ -1492,7 +1492,7 @@ After the handling of waste and recyclable materials, allocation occurs for all 
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-6-2048x781.png)
 
 # 10. Multi-functionality
-## 1.1 The problem; Definitions & typologies
+## 10.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
 * There are processes which have more than one function
   - “multifunctional processes”
