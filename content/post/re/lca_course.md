@@ -1,5 +1,5 @@
 ---
-title: "(course) LCA Practice & Reporting 21-22"
+title: "(Course) LCA Practice & Reporting 21-22"
 date: 2022-03-29T09:05:04+02:00
 categories:
 - Research
