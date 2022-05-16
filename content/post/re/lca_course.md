@@ -1486,6 +1486,9 @@ Recyclable materials are cut off from their production activities through the us
 {{< hl-text orange>}}Special case: recycling chains{{< /hl-text >}}
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-5-1-1024x372.png)
 
+Handling of allocatable products
+After the handling of waste and recyclable materials, allocation occurs for all remaining allocatable by-products produced within the activity. This process uses the allocation factors defined in the dataset by the dataset author. {{< hl-text blue>}}As waste and most recyclable materials (except those within recycling chains, where they remain as products) are at this point moved to the input side of the activity, they will be considered similar to other inputs and allocated over the different co-products of the activity{{< /hl-text >}}.
+![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-6-2048x781.png)
 
 
 
