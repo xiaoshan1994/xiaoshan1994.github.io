@@ -1461,17 +1461,28 @@ Background system (ecoinvent): You do not need to model transport for products y
 ## 9.5 System models in ecoinvent
 ### Allocation, cut-off by classification
 {{< hl-text orange>}}Introduction{{< /hl-text >}}
-In this system model, wastes are the producer’s responsibility (“polluter pays”), and there is an incentive to use recyclable products, that are available burden free (cut-off).
+In this system model, {{< hl-text blue>}}wastes are the producer’s responsibility (“polluter pays”){{< /hl-text >}}, and there is an incentive to use recyclable products, that are available burden free (cut-off).
 
 * If a material is recycled, the primary producer does not receive any credit for the provision of any recyclable materials.
 * Recyclable materials are available burden-free to recycling processes, and secondary (recycled) materials bear only the impacts of the recycling processes (i.e. collecting, sorting, transporting).
 * Producers of wastes do not receive any credit for recycling or reuse of products resulting from any waste treatment.
 
 {{< hl-text orange>}}Handling of by-products by classification{{< /hl-text >}}
-Ordinary by-products are handled by allocation among products if an activity produces more than one product.
+
+
 {{< hl-text orange>}}1. Handling of waste products{{< /hl-text >}}
-Waste by-products have to be treated, and the treatment burden is allocated completely to the waste-producing activity.
+**Waste by-products have to be treated, and the treatment burden is allocated completely to the waste-producing activity.**
 ![image](https://user-images.githubusercontent.com/65668613/168101190-f1756eb6-16c0-4cb5-8db0-e33cfa77d556.png)
+
+Any {{< hl-text blue>}}non-waste by-products{{< /hl-text >}} of a waste treatment process (i.e., not other waste products) are cut off and do not provide credit to the production activity. The cut-off point is therefore the end of the waste treatment, which means that the resulting products are available in the database and can be used as burden-free inputs in other activities.
+![image](https://user-images.githubusercontent.com/65668613/168535365-f1e35a7c-cf5a-4e13-9b9e-ccaa53d9e7c0.png)
+
+
+{{< hl-text orange>}}2. Handling of recyclable materials{{< /hl-text >}}
+
+
+
+
 
 
 
