@@ -1523,7 +1523,7 @@ Background system (ecoinvent): You do not need to model transport for products y
 ## 9.7 System models in ecoinvent
 System models set the methodological rules to calculate the database. All system models start from the same pool of individual processes of human activities (Undefined Unit Processes (UPR)) and apply different assumptions to determine the supply (linking) and the distribution of impacts between producers and consumers of products and services (allocation and substitution).
 https://ecoinvent.org/the-ecoinvent-database/system-models/
-### Allocation, cut-off by classification
+### 9.7.1 Allocation, cut-off by classification
 {{< hl-text orange>}}Introduction{{< /hl-text >}}
 In this system model, {{< hl-text blue>}}wastes are the producer’s responsibility (“polluter pays”){{< /hl-text >}}, and there is an incentive to use recyclable products, that are available burden free (cut-off).
 
@@ -1553,6 +1553,21 @@ Recyclable materials are cut off from their production activities through the us
 {{< hl-text orange>}}3. Handling of allocatable products{{< /hl-text >}}
 After the handling of waste and recyclable materials, allocation occurs for all remaining allocatable by-products produced within the activity. This process uses the allocation factors defined in the dataset by the dataset author. {{< hl-text blue>}}As waste and most recyclable materials (except those within recycling chains, where they remain as products) are at this point moved to the input side of the activity, they will be considered similar to other inputs and allocated over the different co-products of the activity{{< /hl-text >}}.
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-6-2048x781.png)
+
+### 9.7.2 Allocation, cut-off, EN15804
+The key differences of the Allocation, cut-off, EN15804 to the Allocation, cut-off by classification system model are:
+* The cut-off point between the primary and secondary system.
+* The calculation of the inventory indicators required in EPDs.
+
+Further processing (e.g. sorting) that may be required after the material has reached its end-of-waste state does not belong to the primary system. For example, recycling activities at the refiner or the remelter, are beyond the end-of-waste.
+
+The “Allocation, cut-off, EN15804 system model” provides all Life Cycle Inventory (LCI) indicators (e.g. use of secondary material, renewable and non-renewable secondary fuels, Materials for recycling) required in EPDs (Environmental Product Declaration ).
+
+### 9.7.3 Allocation at the Point of Substitution (APOS)
+It follows an attributional approach in which the {{< hl-text blue>}}responsibility over wastes (burdens) are shared between producers and sub-sequent users{{< /hl-text >}} benefiting of the treatment processes by using valuable products generated in these.
+
+### 9.7.4 Substitution, consequential, long-term
+
 
 # 10. Multi-functionality
 ## 10.1 The problem; Definitions & typologies
