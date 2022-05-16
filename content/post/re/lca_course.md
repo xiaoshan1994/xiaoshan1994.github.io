@@ -1456,10 +1456,10 @@ Processes with the term “operation” as part of their name represent the use 
 The reference products of operation activities are not of any special type; they are normal products, such as refined gold resulting from gold refinery operation.
 
 ## 9.4 Products
-## 9.4.1 Reference products
+### 9.4.1 Reference products
 The reference product is the driver of a process. It is the product for which a change in demand will affect the production volume of the process (also known as the determining product). The reference product can be a good or a service.
 
-## 9.4.2 By-products/waste
+### 9.4.2 By-products/waste
 By-products and waste are co-produced together with the reference product but would not justify performing a process for their own sake. For example, straw is produced together with wheat grain, which is the reference product.
 
 In most situations, by-products can easily be distinguished from reference products. Often, by-products are similar to waste and are therefore not even fully utilised, such as straw.
@@ -1470,17 +1470,13 @@ The distinction between reference products and by-products/waste is process-spec
 
 Every intermediate exchange also carries two by-product classifications that are consistent across all the processes in which the exchange appears. These classifications determine the fate of a by-product within the rules of different system models. Every intermediate exchange is classified as either waste, recyclable or allocatable product, and every intermediate exchange is classified either as a material for treatment (mft) or not a material for treatment (non-mft).
 
-## 9.5 System Models
-
-System models set the methodological rules to calculate the database. All system models start from the same pool of individual processes of human activities (Undefined Unit Processes (UPR)) and apply different assumptions to determine the supply (linking) and the distribution of impacts between producers and consumers of products and services (allocation and substitution).
-
-## 9.6 Unit Process (UPR)
+## 9.5 Unit Process (UPR)
 The basic building blocks of the database are individual processes of human activities and their exchanges with the environment (elementary exchanges) and with the technosphere (intermediate exchanges).
 ![image](https://user-images.githubusercontent.com/65668613/166637440-2842315e-5e58-40dd-bb05-bd3f9cb8109f.png)
 
 The processes in the ecoinvent database represent the average production conditions within a geographical location, rather than company-specific or site-specific conditions. For example, the ecoinvent database would contain a process for the average banana production in Ecuador, rather than for banana production at the farm of a specific fruit company. Furthermore, the contained products are primarily intermediate products rather than final consumer products. For example, the database would contain wheat flour but not pasta made from that flour.
 
-## 9.7 Transport in ecoinvent
+## 9.6 Transport in ecoinvent
 {{< hl-text orange>}}Transport is modelled in market activities{{< /hl-text >}}
 - The transport of goods in ecoinvent version 3 is mainly included in market activities
 ![image](https://user-images.githubusercontent.com/65668613/164884267-70797953-71b3-419e-8bd9-6aeafe7d0a0b.png)
@@ -1524,7 +1520,8 @@ US, and other statistics, which provides:
 
 Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
 
-## 9.8 System models in ecoinvent
+## 9.7 System models in ecoinvent
+System models set the methodological rules to calculate the database. All system models start from the same pool of individual processes of human activities (Undefined Unit Processes (UPR)) and apply different assumptions to determine the supply (linking) and the distribution of impacts between producers and consumers of products and services (allocation and substitution).
 https://ecoinvent.org/the-ecoinvent-database/system-models/
 ### Allocation, cut-off by classification
 {{< hl-text orange>}}Introduction{{< /hl-text >}}
