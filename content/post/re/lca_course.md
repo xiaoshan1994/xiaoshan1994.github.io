@@ -1491,14 +1491,8 @@ Recyclable materials are cut off from their production activities through the us
 After the handling of waste and recyclable materials, allocation occurs for all remaining allocatable by-products produced within the activity. This process uses the allocation factors defined in the dataset by the dataset author. {{< hl-text blue>}}As waste and most recyclable materials (except those within recycling chains, where they remain as products) are at this point moved to the input side of the activity, they will be considered similar to other inputs and allocated over the different co-products of the activity{{< /hl-text >}}.
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-6-2048x781.png)
 
-
-
-
-
-
-
-# 9. Multi-functionality
-## 9.1 The problem; Definitions & typologies
+# 10. Multi-functionality
+## 1.1 The problem; Definitions & typologies
 {{< hl-text orange>}}The problem{{< /hl-text >}}
 * There are processes which have more than one function
   - “multifunctional processes”
@@ -1562,7 +1556,7 @@ recycling{{< /hl-text >}}
 {{< hl-text blue>}}Multi-functional process: combined waste processing & recycling & co-production{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/162915499-97112124-68ef-4c38-a21d-623252cd3a67.png)
 
-## 9.2 System boundary & multi-functionality; The price criterion
+## 10.2 System boundary & multi-functionality; The price criterion
 {{< hl-text orange>}}In between conclusions{{< /hl-text >}}
 * Definition of G and W is important: may determine whether a process is multi-functional or not
   - In case of recycling it matters at which point W flips to G as that determines how much impact is allocated to your product system (see Int J LCA article of allocation exercise later this afternoon)
@@ -1580,7 +1574,7 @@ How to determine if flow is G or W:
     - price>>0: include a lot
 * Is there any other principle than “price” for determining if a flow is functional or not?
 
-## 9.3 Solutions to the MF problem; Discussion
+## 10.3 Solutions to the MF problem; Discussion
 {{< hl-text orange>}}ISO’s solutions to the multi-functionality problem{{< /hl-text >}}
 Possible solutions:
 - more refined data collection
@@ -1702,12 +1696,12 @@ allocation doesn’t matter IF supply and demand balance
 * There is also a video explaining once more explaining the importance of step 1-3: “IE-MF 3 steps LCA Compendium CE_Symbiosis” (see “Web Lectures”)
 ![image](https://user-images.githubusercontent.com/65668613/162943808-074ea139-f9db-4a56-8ab5-dc70e484402a.png)
 
-# 10. Life Cycle Impact Assessment (LCIA)
-## 10.1 Definition of LCIA
+# 11. Life Cycle Impact Assessment (LCIA)
+## 11.1 Definition of LCIA
 * ISO: Phase of life cycle assessment aimed at understanding and evaluating the magnitude and significance of the potential environmental impacts of a product system.
 * Often abbreviated to LCIA
 for co-production process: mandatory to apply economic partitioning and another solution as sensitivity analyses
-## 10.2 The principle of characterization
+## 11.2 The principle of characterization
 * ISO definition: factor derived from a characterization model which is applied to convert the assigned LCI results to the common unit of the category indicator.
 * Examples: GW{{< hl-text blue>}}P{{< /hl-text >}}, A{{< hl-text blue>}}P{{< /hl-text >}}
 
@@ -1721,7 +1715,7 @@ for co-production process: mandatory to apply economic partitioning and another 
 {{< hl-text orange>}}Simple conversion & aggregation{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163550462-2743a391-e949-4c60-9ff7-b564ca894c49.png)
 
-## 10.3 Selection of impact categories, category indicators and characterization models
+## 11.3 Selection of impact categories, category indicators and characterization models
 {{< hl-text orange>}}Defining impact categories: 2 main approaches{{< /hl-text >}}
 * Midpoint-oriented (CML-IA, EDIP, TRACI, …)
 * Endpoint-oriented: damage approaches (Eco-indicator 99, Ecoscarcity, EPS, …)
@@ -1760,12 +1754,12 @@ al, 2008)
 * Guinée et al. 2002: Handbook on Life Cycle Assessment (“CML 2002”)
 ![image](https://user-images.githubusercontent.com/65668613/163555303-30e87f2e-04c8-4214-88b2-09275eb9a30a.png)
 
-## 10.4 Classification
+## 11.4 Classification
 * ISO definition: assignment of LCI results to impact categories
 * Example: CO2 and CH4 are assigned to climate change
 ![image](https://user-images.githubusercontent.com/65668613/163559158-02fd8788-7ca0-45ba-b8d6-6f88806d43a5.png)
 
-## 10.5 Characterization
+## 11.5 Characterization
 * ISO definition: calculation of category indicator results
 * Example: 5 kg CO2 and 3 kg CH4 yield 89 kg CO2-eq
 
@@ -1803,7 +1797,7 @@ al, 2008)
 Be like this:
 ![image](https://user-images.githubusercontent.com/65668613/163561096-c4026938-7624-4bd2-add5-42e39bf78d6e.png)
 
-## 10.6 Normalization
+## 11.6 Normalization
 * ISO definition: calculation of the magnitude of category indicator results to reference information
 * Reference information (over a given period of time):
   - area (e.g., France, Europe, the world)
@@ -1850,7 +1844,7 @@ further weighting!
 
 ![image](https://user-images.githubusercontent.com/65668613/163769719-1ce04c62-7ed2-417d-99cb-f6d7e7ee5c94.png)
 
-## 10.7 Weighting
+## 11.7 Weighting
 * ISO definition: converting and possibly aggregating indicator results
 across impact categories using numerical factors, also called ‘weighting factors’
   - based on value-choices
@@ -1885,7 +1879,7 @@ public”
 {{< hl-text orange>}}Example of the results of weighting{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163774208-de29c28f-16aa-4c0a-96f3-7ad0debe3c20.png)
 
-## 10.8 Practice of LCIA
+## 11.8 Practice of LCIA
 {{< hl-text orange>}}Practice of LCIA: from theory2practice{{< /hl-text >}}
 * Different methods and approaches
 * What are their real differences?
@@ -1919,7 +1913,7 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32013H0179
 * Practice: complete sets implemented in software:
   - impact assessment = push of a button
 
-## 10.9 Choosing the right climate metric and time horizon
+## 11.9 Choosing the right climate metric and time horizon
 https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
 * Methane is a second largest contributor to climate change next to carbon dioxide
 * methane has a perturbation life of only **12.4** years
@@ -1930,7 +1924,7 @@ https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
   - Measures an average climate forcing effect of a single pulse emission over time but gives no indication of the climate impact at an end-point in time, or that of a sustained emission.
 * An increase in radiative forcing results in a temperature increase, where the degree of temperature rise is governed by the magnitude of emission (**emission quantity**) and **radiative efficiency**, as well as the existing atmospheric **concentration** of the GHG and the concentrations of **other gases** in the atmosphere (e.g.OH-and O3) .
 
-## 10.10 Energy use as an indicator for environmental performance
+## 11.10 Energy use as an indicator for environmental performance
 * Cumulative Energy Demand (CED): the direct and indirect energy use throughout the life cycle, including the energy consumed during the extraction, manufacturing, and disposal of the raw and auxiliary materials.
 * Method: EF v2.0 2018 - energy resources: non-renewable - abiotic depletion potential (ADP): fossil fuels
 * Upper Heating Values of Fossil Primary Energy Resources (MJ kg-1):
@@ -1944,8 +1938,8 @@ https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
 * {{< hl-text blue>}}Land use{{< /hl-text >}} should be used as a separate indicator for environmental performance, next to fossil CED.
 * A major reason for this high uncertainty is non-fossil energy related emissions and land use, such as landfill leachates, radionuclide emissions, and land use in agriculture and forestry.
 
-# 11. Life Cycle Interpretation
-## 11.1 Definition of life cycle interpretation
+# 12. Life Cycle Interpretation
+## 12.1 Definition of life cycle interpretation
 * ISO: Phase of life cycle assessment in which the findings of either the inventory analysis or the impact assessment, or both, are combined consistent with the defined goal and scope in order to reach conclusions & recommendations
 * The fourth and last phase of an LCA
   - no abbreviation like LCI or LCIA
@@ -1958,7 +1952,7 @@ https://pubs.rsc.org/en/content/articlelanding/2018/EM/C8EM00414E
 * Conclusions, recommendations and reporting
   - critical review
 
-## 11.2 Procedural approaches: interpretation in ISO 14044
+## 12.2 Procedural approaches: interpretation in ISO 14044
 * Objective: to structure the results from LCI and/or LCIA in order to determine significant issues (‘hot spots’), e.g. certain:
   - inventory data such as energy, emissions, waste, …
   - impact categories such as resource use, climate change, …
@@ -2056,7 +2050,7 @@ packaging
 * Studies often include sensitivity analyses
   - but don’t mention their results in the conclusions
 
-## 11.3 Numerical approaches
+## 12.3 Numerical approaches
 {{< hl-text orange>}}From ISO procedural to numerical approaches for practice{{< /hl-text >}}
 * ISO only provides procedural approaches, no guidance on numerical approaches
 * Numerical approaches have been added by LCA methodology developers to basically implement the ISO guidelines in practice!!
@@ -2176,7 +2170,7 @@ for redesign, prevention strategies, etc.
 {{< hl-text orange>}}Software implementation in CMLCA{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/163824623-74764660-27cc-4fba-9e7e-0328822c080e.png)
 
-## 11.4 Concluding remarks
+## 12.4 Concluding remarks
 {{< hl-text orange>}}Concluding remarks: future of interpretation{{< /hl-text >}}
 * Numerical approaches will win ground, particularly uncertainty and sensitivity analyses
 * Dilemma:
@@ -2208,8 +2202,8 @@ such data
   - Can you base correct and clear conclusions and recommendation on them?
 {{< alert warning >}}Don’t ever consider LCAs as a push o n the button of CMLCA, SimaPro, OpenLCA, GaBi, …{{< /alert >}}
 
-# 12. Sensitivity and uncertainty analysis
-## 12.1 Difference between sensitivity analysis and uncertainty analysis
+# 13. Sensitivity and uncertainty analysis
+## 13.1 Difference between sensitivity analysis and uncertainty analysis
 What’s the difference?
 * Although closely related, sensitivity analysis and uncertainty analysis comprise of
 different techniques
@@ -2247,7 +2241,7 @@ due to variation in data sample
 * Allocation Choice
 * Characterization (LCIA; e.g., fate & transport modelling)
 
-## 12.2 Local sensitivity analysis
+## 13.2 Local sensitivity analysis
 {{< hl-text orange>}}Ad-hoc one-at-a-time (OAT) local sensitivity analysis (common practice in LCA today){{< /hl-text >}}
 1. Define the subject of the sensitivity analysis:
   - Ad hoc changing parameters, choices, … (“scenarios”)
@@ -2302,7 +2296,7 @@ Perturbation Analysis in CMLCA
 -ways of graphing it
 -How to use it in conclusions
 
-## 12.3 Uncertainty analysis (Optional)
+## 13.3 Uncertainty analysis (Optional)
 {{< hl-text orange>}}Storyline in a nutshell{{< /hl-text >}}
 * Easy to understand that LCA results are uncertain
 * But today we can treat uncertainties
@@ -2435,8 +2429,8 @@ DQI in CMLCA
 2. Histograms
 3. Discernibility Analysis
 
-# 13. Graphing LCA results
-## 13.1 LCA results
+# 14. Graphing LCA results
+## 14.1 LCA results
 ![image](https://user-images.githubusercontent.com/65668613/164173481-4e3418a4-e1b4-42ef-b73a-c8d12360fb2e.png)
 
 {{< hl-text orange>}}1. Comparative results at characterization{{< /hl-text >}}
@@ -2451,7 +2445,7 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 {{< hl-text orange>}}Normalization{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175318-2280834d-7c6b-463c-b524-85c4da645030.png)
 
-## 13.2 Critique the graph
+## 14.2 Critique the graph
 {{< hl-text orange>}}Characterized results{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164175796-691371c9-0e4f-4f9c-b818-c14115226810.png)
 ![image](https://user-images.githubusercontent.com/65668613/164175922-2a45b9fb-303b-414c-9dec-b9a68ac3971e.png)
@@ -2476,8 +2470,8 @@ Improve on this example by using {{< hl-text blue>}}scientific notation{{< /hl-t
 * Accompany results with a comment/discussion
 * {{< hl-text blue>}}Sometimes tables are better than graphs{{< /hl-text >}}
 
-# 14. Case study design and reporting
-## 14.1 Reporting & writing tips
+# 15. Case study design and reporting
+## 15.1 Reporting & writing tips
 {{< hl-text orange>}}Course study goals{{< /hl-text >}}
 * Write an LCA research proposal;
 * Conduct an LCA study;
@@ -2535,8 +2529,8 @@ You will be graded on:
 * Logical build up of your model;
 * Proper explanation of assumptions, allocation and modeling choices in your main report;
 * Consistent with flow chart in your report.
-## 14.2 Frequently made modelling CMLCA mistakes
-### 14.2.1 Functional unit and reference flows
+## 15.2 Frequently made modelling CMLCA mistakes
+### 15.2.1 Functional unit and reference flows
 {{< hl-text orange>}}Example 1{{< /hl-text >}}
   - Function: the provision of electricity
   - FU: 1 kWh of net electricity produced
@@ -2568,7 +2562,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164201845-fb7456af-eb90-4672-a17d-67627f69ba2b.png)
 ![image](https://user-images.githubusercontent.com/65668613/164201908-19b4cfe5-6afd-48c9-b2c6-b2816b55779b.png)
 
-### 14.2.2 Manipulating ecoinvent or connecting your processes to ecoinvent
+### 15.2.2 Manipulating ecoinvent or connecting your processes to ecoinvent
 {{< hl-text orange>}}Example 1: OK?{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164202431-1f33e02c-3834-4f05-83c6-3665ed27cdaf.png)
 
@@ -2582,7 +2576,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164203491-b21edebb-5fc0-441e-a58d-c2f0fd462aac.png)
 ![image](https://user-images.githubusercontent.com/65668613/164203893-e478d319-c13a-46f6-b4ac-afa5fd082090.png)
 
-### 14.2.3 Other more advanced implementation issues
+### 15.2.3 Other more advanced implementation issues
 {{< hl-text orange>}}Example 1: study comparing beer and its packaging modeling and comparing the impacts of recycling beer bottles{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164245440-072e2836-9395-423c-85a4-bd268ddc6edf.png)
 ![image](https://user-images.githubusercontent.com/65668613/164247537-65f6c156-2608-46bb-9ea7-8e5216e1a406.png)
@@ -2601,7 +2595,7 @@ You will be graded on:
 ![image](https://user-images.githubusercontent.com/65668613/164252214-1dc0bfd9-ee8e-45c8-bcc1-d97966fbf2ba.png)
 ![image](https://user-images.githubusercontent.com/65668613/164252293-930dfa58-d7d2-4bd0-930f-1c9e78d9807e.png)
 
-## 14.3 Frequently made reporting mistakes
+## 15.3 Frequently made reporting mistakes
 What we saw in previous courses…
 {{< hl-text orange>}}Content tables{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164252771-32ed39db-0f40-408a-a60a-96ddc3d7f67f.png)
@@ -2658,7 +2652,7 @@ https://www.globallcadataaccess.org/
 https://assessccus.globalco2initiative.org/lca/databases/
 ![image](https://user-images.githubusercontent.com/65668613/164259653-cd0bedee-6a21-4838-b234-a1f290b94689.png)
 
-## 14.4 Further planning of the course
+## 15.4 Further planning of the course
 * Research proposal
   - Deadline: October 4, before 9 AM
   - Feedback: ~ within 5-10 working days
@@ -2718,7 +2712,7 @@ https://assessccus.globalco2initiative.org/lca/databases/
 {{< hl-text orange>}}Examples of recent master theses on ex-ante LCA{{< /hl-text >}}
 ![image](https://user-images.githubusercontent.com/65668613/164262871-20454cc5-fe2c-49ae-86b2-c0d555024fcb.png)
 
-# 15. Jumpstarting your LCA case study
+# 16. Jumpstarting your LCA case study
 {{< hl-text orange>}}Canned or fresh pineapples?{{< /hl-text >}}
 Is fresh the greener option?
 * Grown in Costa Rica and the Philippines, consumed in The Netherlands;
