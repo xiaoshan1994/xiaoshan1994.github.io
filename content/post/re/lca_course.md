@@ -1577,7 +1577,7 @@ The marginal mixes represent the consequence of an increase in demand on the con
 These mixes are based on projections from (inter-)national authorities such as the European Commission (2016) and the International Energy Agency (2016).
 
 **Handling of a substitution and constrained markets**
-
+A market is constrained if there is no unconstrained supplier; the supply is therefore not fully elastic. Thus, an increase in demand will not be met by an increase in supply but rather by a reduction in consumption. The marginal consumer will demand less of the product in case of reduced supply.
 
 # 10. Multi-functionality
 ## 10.1 The problem; Definitions & typologies
