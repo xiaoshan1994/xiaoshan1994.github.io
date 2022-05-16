@@ -1472,16 +1472,19 @@ In this system model, {{< hl-text blue>}}wastes are the producer’s responsibil
 
 {{< hl-text orange>}}1. Handling of waste products{{< /hl-text >}}
 **Waste by-products have to be treated, and the treatment burden is allocated completely to the waste-producing activity.**
-![image](https://user-images.githubusercontent.com/65668613/168101190-f1756eb6-16c0-4cb5-8db0-e33cfa77d556.png)
+![image](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-1-1024x270.png)
 
 Any {{< hl-text blue>}}non-waste by-products{{< /hl-text >}} of a waste treatment process (i.e., not other waste products) are cut off and do not provide credit to the production activity. The cut-off point is therefore the end of the waste treatment, which means that the resulting products are available in the database and can be used as burden-free inputs in other activities.
-![image](https://user-images.githubusercontent.com/65668613/168535365-f1e35a7c-cf5a-4e13-9b9e-ccaa53d9e7c0.png)
+![image](https://ecoinvent.org/wp-content/uploads/2022/03/cut-off-2-1-1024x358.png)
 
 
 {{< hl-text orange>}}2. Handling of recyclable materials{{< /hl-text >}}
 Recyclable materials are cut off from their production activities through the use of special datasets, denoted as {{< hl-text blue>}}“product name, recycled content cut-off”{{< /hl-text >}}. {{< hl-text blue>}}These datasets have no inputs or emissions and are therefore burden-free{{< /hl-text >}}. In a production activity, the material is recorded as a negative input, as in the case of waste; however, the material is not linked to any treatment activity but simply to the empty process.
-![image](https://user-images.githubusercontent.com/65668613/168536390-548d9233-9c99-4700-985b-107aaf290b0a.png)
-![image](https://user-images.githubusercontent.com/65668613/168536819-74a6a585-bd9d-43c4-821c-0eda8e8165ad.png)
+![image](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-3-1024x294.png)
+![image](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-4-1024x336.png)
+
+{{< hl-text orange>}}Special case: recycling chains{{< /hl-text >}}
+![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-5-1-1024x372.png)
 
 
 
