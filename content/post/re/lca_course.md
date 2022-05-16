@@ -1567,6 +1567,16 @@ The “Allocation, cut-off, EN15804 system model” provides all Life Cycle Inve
 It follows an attributional approach in which the {{< hl-text blue>}}responsibility over wastes (burdens) are shared between producers and sub-sequent users{{< /hl-text >}} benefiting of the treatment processes by using valuable products generated in these.
 
 ### 9.7.4 Substitution, consequential, long-term
+In the consequential system model, {{< hl-text blue>}}all by-products are moved to the input side with a negative sign to maintain the mass balance.{{< /hl-text >}} As no allocation is applied, the activity is burdened with the impact of all its inputs and emissions.
+
+{{< hl-text blue>}}An unconstrained or marginal supplier can meet an increase in demand by increasing supply.{{< /hl-text >}}
+
+**Marginal supply in electricity**
+The marginal mixes represent the consequence of an increase in demand on the construction and operation of new electricity generating technologies.
+
+These mixes are based on projections from (inter-)national authorities such as the European Commission (2016) and the International Energy Agency (2016).
+
+**Handling of a substitution and constrained markets**
 
 
 # 10. Multi-functionality
