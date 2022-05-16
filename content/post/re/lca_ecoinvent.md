@@ -92,12 +92,12 @@ The distinction between reference products and by-products/waste is process-spec
 
 Every intermediate exchange also carries two by-product classifications that are consistent across all the processes in which the exchange appears. These classifications determine the fate of a by-product within the rules of different system models. Every intermediate exchange is classified as either waste, recyclable or allocatable product, and every intermediate exchange is classified either as a material for treatment (mft) or not a material for treatment (non-mft).
 
-# System Models
+## System Models
 
 System models set the methodological rules to calculate the database. All system models start from the same pool of individual processes of human activities (Undefined Unit Processes (UPR)) and apply different assumptions to determine the supply (linking) and the distribution of impacts between producers and consumers of products and services (allocation and substitution).
 
-# UPR, LCI & LCIA
-## Unit Process (UPR)
+## UPR, LCI & LCIA
+### Unit Process (UPR)
 The basic building blocks of the database are individual processes of human activities and their exchanges with the environment (elementary exchanges) and with the technosphere (intermediate exchanges).
 ![image](https://user-images.githubusercontent.com/65668613/166637440-2842315e-5e58-40dd-bb05-bd3f9cb8109f.png)
 
