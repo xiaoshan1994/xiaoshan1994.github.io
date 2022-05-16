@@ -1459,6 +1459,7 @@ US, and other statistics, which provides:
 Background system (ecoinvent): You do not need to model transport for products you take from existing ecoinvent market activities (it is already modelled for you; if you still want to include your own transport distance, take the product from the producing activity and not the market and add the transport as described above)
 
 ## 9.5 System models in ecoinvent
+https://ecoinvent.org/the-ecoinvent-database/system-models/
 ### Allocation, cut-off by classification
 {{< hl-text orange>}}Introduction{{< /hl-text >}}
 In this system model, {{< hl-text blue>}}wastes are the producer’s responsibility (“polluter pays”){{< /hl-text >}}, and there is an incentive to use recyclable products, that are available burden free (cut-off).
@@ -1486,7 +1487,7 @@ Recyclable materials are cut off from their production activities through the us
 {{< hl-text orange>}}Special case: recycling chains{{< /hl-text >}}
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-5-1-1024x372.png)
 
-Handling of allocatable products
+{{< hl-text orange>}}3. Handling of allocatable products{{< /hl-text >}}
 After the handling of waste and recyclable materials, allocation occurs for all remaining allocatable by-products produced within the activity. This process uses the allocation factors defined in the dataset by the dataset author. {{< hl-text blue>}}As waste and most recyclable materials (except those within recycling chains, where they remain as products) are at this point moved to the input side of the activity, they will be considered similar to other inputs and allocated over the different co-products of the activity{{< /hl-text >}}.
 ![](https://ecoinvent.org/wp-content/uploads/2021/09/cut-off-6-2048x781.png)
 
