@@ -85,6 +85,36 @@ The credits are related to the avoided production of naphtha displaced by the py
 # The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 ![image](https://user-images.githubusercontent.com/65668613/167940880-c871986f-8ee1-4f5f-b125-bdb782db5f22.png)
 
+# Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
+A.E.Schwarz
+Netherlands Organization for Applied Scientific Research (TNO), Princetonlaan 8, 3584 CB Utrecht, the Netherlands
+Available online **4 January 2021**
+## Introduction
+* Still, only {{< hl-text blue>}}9%{{< /hl-text >}} of the plastics ever produced have been recycled. The other fractions of waste plastic are either incinerated (12%), landfilled or lost to the environment (79%) (Geyer et al., 2017).
+* Plastic packaging from municipal waste is most recycled, whereas plastic recycling from other sectors (Construction, electronics, automotive) lags behind (Consultic, 2012).
+* The recycling outputs are credited as ‘avoided impact’ (materials, feedstock or energy).
+## Methodology
+* Environmental data on materials, fuels and emissions was obtained from the ecoinvent 3.4 cut-off by classification database.
+* SimaPro 8
+* applying the midpoint impact categories from ReCiPe 2008 (h)
+* the total impact was calculated to a single score by applying {{< hl-text blue>}}shadow prices{{< /hl-text >}} on the ReCiPe characterized results. The shadow price set used is developed by CE Delft and TNO and gives the most recent economic damage per impact category (De Bruyn et al., 2010, Ligthart and van Harmelen, 2019).
+
+2.3. Recycling technologies
+* The level of development of the recycling technologies is defined on the Technology Readiness Level (TRL) scale (Mankins, 1995). Three levels: low (1–4), medium (5–7), and high (8–9).
+
+1. Primary recycling or closed-loop recycling (TRL: high).
+Recycled products have the same properties as the previous product.
+  - mechanical recycling for pure plastics (TRL: high, not mixed with others).
+  - Dissolution of polymers with two solvents (TRL: low).
+2. Secondary recycling or open-loop recycling.
+Recyclate is of lower quality than the original material.
+  - Open-loop mechanical recycling (TRL: high). Collected in mixed waste streams
+    and contains a significant amount of contamination.
+3. Tertiary recycling includes plastic to feedstock and plastic to monomer recycling. The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
+  - Gasification to feedstock products (TRL: high).
+4. Quaternary recycling or incineration of plastic material with energy recovery. The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
+
+
 
 
 
