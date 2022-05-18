@@ -86,6 +86,7 @@ The credits are related to the avoided production of naphtha displaced by the py
 ![image](https://user-images.githubusercontent.com/65668613/167940880-c871986f-8ee1-4f5f-b125-bdb782db5f22.png)
 
 # Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
+[Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
 A.E.Schwarz
 Netherlands Organization for Applied Scientific Research (TNO), Princetonlaan 8, 3584 CB Utrecht, the Netherlands
 Available online **4 January 2021**
@@ -129,6 +130,9 @@ Recyclate is of lower quality than the original material.
 * {{< hl-text blue>}}Outside the system boundaries are all parameters that vary greatly depending on product type, sector, and waste collection method.{{< /hl-text >}} Polymer processing steps to products (e.g. injection moulding), the addition of additive materials, and waste collection and pre-treatment (sorting, cleaning) are not included.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0956053X20307091-gr1.jpg)
+
+# Potential trade-offs between eliminating plastics and mitigating climate change: An LCA perspective on Polyethylene Terephthalate (PET) bottles in Cornwall
+*
 
 
 
