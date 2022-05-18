@@ -147,8 +147,10 @@ two parts: residual waste and waste intended for recycling ->
 percentage of plastic bottles in every part ->
 percentage of plastic bottles made of PET
 (same way for glass bottles)
-*
+* Functional unit: the liquids packaging service provided by 2468 t of PET bottles to households in Cornwall.
+* the users can specify the glass/PET mass ratio for the bottling of the {{< hl-text blue>}}same quantity of liquid content{{< /hl-text >}}.
 
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720321987-gr2_lrg.jpg)
 
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
