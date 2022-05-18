@@ -136,10 +136,18 @@ Recyclate is of lower quality than the original material.
 V.Kouloumpis
 Environment and Sustainability Institute, University of Exeter, Penryn, Cornwall TR10 9FE, UK
 College of Engineering, Mathematics and Physical Sciences, University of Exeter, Cornwall TR10 9FE, UK
-Available online **13 April 2020**,
+Available online **13 April 2020**
 
-
-
+* The household waste can be categorised into two main types: recyclables and residual.
+* Residual waste is collected weekly at the kerbside and transported to the Cornwall {{< hl-text blue>}}Energy Recovery Centre (CERC){{< /hl-text >}}, the only {{< hl-text blue>}}waste-to-energy facility{{< /hl-text >}} in Cornwall that started operation in 2017 (Cornwall Council, 2018a).
+* Recyclables are separated by the residents and placed in four different containers. The recyclables are collected every fortnight at the kerbside and transported to one of the two {{< hl-text blue>}}Material Recovery Facilities (MRF){{< /hl-text >}} situated in the towns of Bodmin and Pool.
+* At the MRFs, the plastic bottles (including the PET bottles) are consolidated, and transported by lorry out of the county to one of the three {{< hl-text blue>}}reprocessing facilities{{< /hl-text >}}.
+* 2017–18 total household waste ->
+two parts: residual waste and waste intended for recycling ->
+percentage of plastic bottles in every part ->
+percentage of plastic bottles made of PET
+(same way for glass bottles)
+*
 
 
 
