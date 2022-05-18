@@ -112,7 +112,7 @@ Recyclate is of lower quality than the original material.
   - Open-loop mechanical recycling (TRL: high). Collected in mixed waste streams
     and contains a significant amount of contamination.
 
-3. Tertiary recycling includes plastic to feedstock and plastic to monomer recycling. The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
+3. Tertiary recycling includes plastic to feedstock and plastic to monomer recycling[^TR].
   - (1) Gasification to feedstock products (TRL: high)[^gas].
   - (2) Pyrolysis to feedstock products (TRL: high)[^pyr].
   - (3) Pyrolysis to wax products (TRL: high)[^wax].
@@ -121,8 +121,7 @@ Recyclate is of lower quality than the original material.
   - (6) Depolymerization through glycolysis (TRL: medium)[^DEPO].
   - (7) Hydrolysis with water for specific biopolymers (TRL: low)[^HYDROW].
 
-
-4. Quaternary recycling or incineration of plastic material with energy recovery. The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
+4. Quaternary recycling or incineration of plastic material with energy recovery[^qr].
 
 
 
@@ -136,3 +135,5 @@ Recyclate is of lower quality than the original material.
 [^THERPYR]: The polymer is pyrolyzed on a medium temperature and {{< hl-text blue>}}an oil with a mix of chemicals{{< /hl-text >}} is obtained, which include monomers, BTX (a mixture of benzene, toluene and xylenes) and shorter carbon molecules. These can potentially be re-used for making new polymers and the chemicals formed strongly depends on the polymer. An important requirement for monomer recovery is {{< hl-text blue>}}separation of the remaining oil{{< /hl-text >}}.
 [^DEPO]: /'diː,pɒlɪməraɪ'zeɪʃən/ With this chemical recycling technology, {{< hl-text blue>}}ethylene glycol{{< /hl-text >}} is added to specific polymers (PET, Nylon 6) in the presence of a {{< hl-text blue>}}catalyst{{< /hl-text >}}, the polymer is depolymerized to its building blocks, which can be re-used in making new polymers.
 [^HYDROW]: For specific biopolymers (in this case, PLA), the polymer can be dissolved in water when heated up and broken down to its monomer building blocks. These monomers can be re-used in making new polymers.
+[^TR]: The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
+[^qr]:  The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
