@@ -132,7 +132,11 @@ Recyclate is of lower quality than the original material.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0956053X20307091-gr1.jpg)
 
 # Potential trade-offs between eliminating plastics and mitigating climate change: An LCA perspective on Polyethylene Terephthalate (PET) bottles in Cornwall
-*
+[Science of The Total Environment](https://doi.org/10.1016/j.scitotenv.2020.138681)
+V.Kouloumpis
+Environment and Sustainability Institute, University of Exeter, Penryn, Cornwall TR10 9FE, UK
+College of Engineering, Mathematics and Physical Sciences, University of Exeter, Cornwall TR10 9FE, UK
+Available online **13 April 2020**,
 
 
 
