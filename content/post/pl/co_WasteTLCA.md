@@ -111,7 +111,10 @@ Recyclate is of lower quality than the original material.
   - Open-loop mechanical recycling (TRL: high). Collected in mixed waste streams
     and contains a significant amount of contamination.
 3. Tertiary recycling includes plastic to feedstock and plastic to monomer recycling. The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
-  - Gasification to feedstock products (TRL: high).
+  - (1)Gasification to feedstock products (TRL: high)[^gas].
+  - (2)Pyrolysis to feedstock products (TRL: high)[^pyr].
+  - (3)Pyrolysis to wax products (TRL: high)[^wax]. 
+
 4. Quaternary recycling or incineration of plastic material with energy recovery. The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
 
 
@@ -119,3 +122,6 @@ Recyclate is of lower quality than the original material.
 
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
+[^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
+[^pyr]: For this chemical recycling technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is converted to pyrolysis oil, assumed equivalent to diesel. The energy content of the diesel depends on the {{< hl-text blue>}}polymer calorific value{{< /hl-text >}}.
+[^wax]: For this chemical recycling technology, the polymer is used to obtain {{< hl-text blue>}}medium length hydrocarbon (碳氢化合物,烃) chains (C10-C14){{< /hl-text >}} to replace {{< hl-text blue>}}paraffin{{< /hl-text >}} like waxes, which can potentially be used to replace {{< hl-text blue>}}lubricating oils{{< /hl-text >}} as well.
