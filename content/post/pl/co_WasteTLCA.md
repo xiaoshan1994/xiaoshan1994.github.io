@@ -118,10 +118,9 @@ Recyclate is of lower quality than the original material.
   - (3) Pyrolysis to wax products (TRL: high)[^wax].
   - (4) Thermochemical recycling to monomers through gasification (TRL: medium)[^Ther].
   - (5) Thermochemical recycling to monomers through pyrolysis (TRL: medium)[^THERPYR].
-  - (7)
-  - (6).
-  - (7)
-  - (5)
+  - (6) Depolymerization through glycolysis (TRL: medium)[^DEPO].
+  - (7) Hydrolysis with water for specific biopolymers (TRL: low)[^HYDROW].
+
 
 4. Quaternary recycling or incineration of plastic material with energy recovery. The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
 
@@ -133,5 +132,7 @@ Recyclate is of lower quality than the original material.
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
 [^pyr]: For this chemical recycling technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is converted to pyrolysis oil, assumed equivalent to diesel. The energy content of the diesel depends on the {{< hl-text blue>}}polymer calorific value{{< /hl-text >}}.
 [^wax]: For this chemical recycling technology, the polymer is used to obtain {{< hl-text blue>}}medium length hydrocarbon (碳氢化合物,烃) chains (C10-C14){{< /hl-text >}} to replace {{< hl-text blue>}}paraffin{{< /hl-text >}} like waxes, which can potentially be used to replace {{< hl-text blue>}}lubricating oils{{< /hl-text >}} as well.
-[^Ther]: The polymers are gasified at a medium to high temperature and {{< hl-text blue>}}a gas with a mix of chemicals{{< /hl-text >}} are obtained, including BTX, monomers and short carbon molecules (C2-C5). {{< hl-text blue>}}The output can be used to make new polymers{{< /hl-text >}}. The chemicals formed strongly depends on the polymer. An important requirement for monomer recovery is **{{< hl-text blue>}}product separation{{< /hl-text >}}**.
-[^THERPYR]: The polymer is pyrolyzed on a medium temperature and an oil with a mix of chemicals is obtained, which include monomers, BTX and shorter carbon molecules. These can potentially be re-used for making new polymers and the chemicals formed strongly depends on the polymer. An important requirement for monomer recovery is separation of the remaining oil.
+[^Ther]: The polymers are gasified at a medium to high temperature and {{< hl-text blue>}}a gas with a mix of chemicals{{< /hl-text >}} are obtained, including BTX (a mixture of benzene, toluene and xylenes), monomers and short carbon molecules (C2-C5). {{< hl-text blue>}}The output can be used to make new polymers{{< /hl-text >}}. The chemicals formed strongly depends on the polymer. An important requirement for monomer recovery is **{{< hl-text blue>}}product separation{{< /hl-text >}}**.
+[^THERPYR]: The polymer is pyrolyzed on a medium temperature and {{< hl-text blue>}}an oil with a mix of chemicals{{< /hl-text >}} is obtained, which include monomers, BTX (a mixture of benzene, toluene and xylenes) and shorter carbon molecules. These can potentially be re-used for making new polymers and the chemicals formed strongly depends on the polymer. An important requirement for monomer recovery is {{< hl-text blue>}}separation of the remaining oil{{< /hl-text >}}.
+[^DEPO]: /'diː,pɒlɪməraɪ'zeɪʃən/ With this chemical recycling technology, {{< hl-text blue>}}ethylene glycol{{< /hl-text >}} is added to specific polymers (PET, Nylon 6) in the presence of a {{< hl-text blue>}}catalyst{{< /hl-text >}}, the polymer is depolymerized to its building blocks, which can be re-used in making new polymers.
+[^HYDROW]: For specific biopolymers (in this case, PLA), the polymer can be dissolved in water when heated up and broken down to its monomer building blocks. These monomers can be re-used in making new polymers.
