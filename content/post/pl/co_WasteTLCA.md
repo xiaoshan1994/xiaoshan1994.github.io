@@ -118,10 +118,18 @@ Recyclate is of lower quality than the original material.
   - (3) Pyrolysis to wax products (TRL: high)[^wax].
   - (4) Thermochemical recycling to monomers through gasification (TRL: medium)[^Ther].
   - (5) Thermochemical recycling to monomers through pyrolysis (TRL: medium)[^THERPYR].
-  - (6) Depolymerization through glycolysis (TRL: medium)[^DEPO].
+  - (6) Depolymerization through glycolysis (醣酵解) (TRL: medium)[^DEPO].
   - (7) Hydrolysis with water for specific biopolymers (TRL: low)[^HYDROW].
 
 4. Quaternary recycling or incineration of plastic material with energy recovery[^qr].
+
+![image](https://user-images.githubusercontent.com/65668613/168995164-b96457fa-09e9-4fe5-a684-f5c5cd5cdac9.png)
+
+* The system boundaries for the LCA matrix model include: polymer granulate production, recycling treatment impacts and avoided products.
+* {{< hl-text blue>}}Outside the system boundaries are all parameters that vary greatly depending on product type, sector, and waste collection method.{{< /hl-text >}} Polymer processing steps to products (e.g. injection moulding), the addition of additive materials, and waste collection and pre-treatment (sorting, cleaning) are not included.
+
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0956053X20307091-gr1.jpg)
+
 
 
 
@@ -136,4 +144,4 @@ Recyclate is of lower quality than the original material.
 [^DEPO]: /'diː,pɒlɪməraɪ'zeɪʃən/ With this chemical recycling technology, {{< hl-text blue>}}ethylene glycol{{< /hl-text >}} is added to specific polymers (PET, Nylon 6) in the presence of a {{< hl-text blue>}}catalyst{{< /hl-text >}}, the polymer is depolymerized to its building blocks, which can be re-used in making new polymers.
 [^HYDROW]: For specific biopolymers (in this case, PLA), the polymer can be dissolved in water when heated up and broken down to its monomer building blocks. These monomers can be re-used in making new polymers.
 [^TR]: The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
-[^qr]:  The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
+[^qr]:  The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as {{< hl-text blue>}}heat and electricity{{< /hl-text >}}. The amount of heat and power depend on the {{< hl-text blue>}}calorific value (energy content){{< /hl-text >}} of the polymer and the {{< /alert >}}configuration of the waste-to-energy plant{{< /hl-text >}}.
