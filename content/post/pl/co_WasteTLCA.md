@@ -106,14 +106,16 @@ Available online **4 January 2021**
 Recycled products have the same properties as the previous product.
   - mechanical recycling for pure plastics (TRL: high, not mixed with others).
   - Dissolution of polymers with two solvents (TRL: low).
+
 2. Secondary recycling or open-loop recycling.
 Recyclate is of lower quality than the original material.
   - Open-loop mechanical recycling (TRL: high). Collected in mixed waste streams
     and contains a significant amount of contamination.
+
 3. Tertiary recycling includes plastic to feedstock and plastic to monomer recycling. The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
-  - (1)Gasification to feedstock products (TRL: high)[^gas].
-  - (2)Pyrolysis to feedstock products (TRL: high)[^pyr].
-  - (3)Pyrolysis to wax products (TRL: high)[^wax]. 
+  - (1) Gasification to feedstock products (TRL: high)[^gas].
+  - (2) Pyrolysis to feedstock products (TRL: high)[^pyr].
+  - (3) Pyrolysis to wax products (TRL: high)[^wax]. 
 
 4. Quaternary recycling or incineration of plastic material with energy recovery. The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as heat and electricity.
 
