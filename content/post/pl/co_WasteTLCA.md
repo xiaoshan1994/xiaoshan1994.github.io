@@ -162,8 +162,6 @@ Technology:  PET production out of PTA (purified terephthalic acid) and ethylene
 2. {{< hl-text orange>}}polyethylene terephthalate production, granulate, bottle grade, recycled (CH){{< /hl-text >}}
   - Processes deliver the byproduct waste polethylene, unsorted, for recycling[^pro]. There are two recycled PET grades produced in Switzerland[^twore].
 
-
-
 Stretch blow molding is a manufacturing process that's well suited for different applications across a broad range of industry sectors. Blow molding is an engineering procedure in which hollow plastic forms such as water bottles and juice bottles are formed.
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
