@@ -8,7 +8,7 @@ tags:
 - love
 keywords:
 - tech
-thumbnailImage:
+thumbnailImage: https://media-exp1.licdn.com/dms/image/C511BAQEFVT6kvPzC7A/company-background_10000/0/1557672152967?e=2147483647&v=beta&t=WXz4lafl7RmxIAqxazsTnHCLySf9lO8JunDVLKCTNxI
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
