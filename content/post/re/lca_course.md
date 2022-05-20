@@ -32,6 +32,8 @@ literature review
 • Identify, justify and report LCA's key methodological assumptions and choices
 • Critically evaluate and discuss the possibilities and constraints of their LCA study.
 
+
+
 **Assignment 1: Research proposal**
 
 Proposals should demonstrate the {{< hl-text blue>}}environmental relevance{{< /hl-text >}} of the chosen case study with existing literature as well as provide {{< hl-text blue>}}justification{{< /hl-text >}} for the use of LCA in their specific applications. The goal of the research proposal is for students to formulate the research question (including a hot spot analysis), identify challenges and make a work plan.
