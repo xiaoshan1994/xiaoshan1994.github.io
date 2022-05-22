@@ -167,6 +167,7 @@ Technology:  PET production out of PTA (purified terephthalic acid) and ethylene
 ### 2.3.3. End-of-life
 {{< hl-text orange>}}The ‘net scrap’ avoided burden approach {{< /hl-text >}}
 For the PET bottles, the avoided virgin PET production would be the percentage that is sent for recycling (53%) minus the losses during the recycling processes (25% × 53% = 13% of the initial PET bottles) and the percentage of the recycled content that was used for the production of the initial PET bottles (35%), equal to 5% of the initial PET bottles.
+{{< alert info>}}avoided burden of plastics = recyclables - losses - recyclables contained in the products {{< /alert >}}
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
