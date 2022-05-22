@@ -156,13 +156,17 @@ percentage of plastic bottles made of PET
 * For the production of PET bottles, the raw material is assumed to be {{< hl-text blue>}}35%{{< /hl-text >}} of recycled bottle grade PET granulates and {{< hl-text blue>}}65%{{< /hl-text >}} of virgin PET granulates (Shen et al., 2011).
 
 ## 2.3. Life Cycle Inventory
+
 ### 2.3.1. Production
 1. {{< hl-text orange>}}polyethylene terephthalate production, granulate, amorphous{{< /hl-text >}}
 Technology:  PET production out of PTA (purified terephthalic acid) and ethylene glycol.
 2. {{< hl-text orange>}}polyethylene terephthalate production, granulate, bottle grade, recycled (CH){{< /hl-text >}}
   - Processes deliver the byproduct waste polethylene, unsorted, for recycling[^pro]. There are two recycled PET grades produced in Switzerland[^twore].
+3. {{< hl-text orange>}}Stretch blow molding{{< /hl-text >}}[^sbm].
 
-Stretch blow molding is a manufacturing process that's well suited for different applications across a broad range of industry sectors. Blow molding is an engineering procedure in which hollow plastic forms such as water bottles and juice bottles are formed.
+### 2.3.3. End-of-life
+{{< hl-text orange>}}The ‘net scrap’ avoided burden approach {{< /hl-text >}}
+For the PET bottles, the avoided virgin PET production would be the percentage that is sent for recycling (53%) minus the losses during the recycling processes (25% × 53% = 13% of the initial PET bottles) and the percentage of the recycled content that was used for the production of the initial PET bottles (35%), equal to 5% of the initial PET bottles.
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
@@ -183,3 +187,4 @@ Stretch blow molding is a manufacturing process that's well suited for different
 7. flakes purified by heating at 200 degree with 50% sodium hydroxide;
 8. washing and drying.
 [^twore]: amorphous (no definite shape) and bottle grade. For bottle grade, the viscosity of the recycled flakes is increased to a comparable level of primary PET by solid state polymerization (SSP). Data were derived from involved recycling facilities). About 40’000 t of PET bottles per year are collected in Switzerland and further processed to bottle grade (30 % recycling content) or amorphous (50 % recycling content) PET granulate. 20 % of the PET cannot be recycled again and is incinerated. Data for the PET recycling processes were derived via PET Recycling Schweiz (PRS).
+[^sbm]: a manufacturing process that's well suited for different applications across a broad range of industry sectors. Blow molding is an engineering procedure in which hollow plastic forms such as water bottles and juice bottles are formed.
