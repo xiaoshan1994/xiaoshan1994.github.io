@@ -25,7 +25,9 @@ Any of the following seven conditions at a dump site can result in the issuance 
 * Standing or flowing liquid discharge from the dump site
 * Deposition of construction or demolition debris
 
-[The Open Dump Dilemma: How to Help the Environment and Respect Human Rights](https://www.wiego.org/blog/open-dump-dilemma-how-help-environment-and-respect-human-rights)
+# The Open Dump Dilemma: How to Help the Environment and Respect Human Rights
+https://www.wiego.org/blog/open-dump-dilemma-how-help-environment-and-respect-human-rights
+
 1 March 2020
 > Open dumps, unlike sanitary landfills, are not engineered to protect the environment and human health...these sites are important sources of economic survival for expert recyclers – the world’s waste pickers – who earn a daily living there and feed our waste into the global recycling chain.
 
@@ -33,7 +35,7 @@ Any of the following seven conditions at a dump site can result in the issuance 
 
 # Inventory parameters for regionalised mixes of municipal waste disposal in ecoinvent v3.5
 Technical report Zurich, **December 2018**
-Gabor Doka
+**Gabor Doka**
 Doka Life Cycle Assessments, Zurich
 ecoinvent Association, Zurich
 https://www.doka.ch/WasteDisposalMixDoka2018.pdf
@@ -50,8 +52,11 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 * well buffered residual material landfills for polluted inorganic waste
 
 ## Municipal waste disposal technology mix
-* Open dump (unmanaged)
-* Open burning (unmanaged)
-* Unsanitary landfill (minimal management)
-* Sanitary landfill (managed plant)
-* Municipal incineration (managed plant)
+1. Open dump (unmanaged)
+  {{< hl-text blue>}}Uncollected waste{{< /hl-text >}} or collected waste with unmanaged disposals.
+2. Open burning (unmanaged)
+  Uncollected waste or collected waste with unmanaged disposals.
+3. Unsanitary landfill (minimal management)
+
+4. Sanitary landfill (managed plant)
+5. Municipal incineration (managed plant)
