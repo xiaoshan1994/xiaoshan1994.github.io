@@ -55,12 +55,51 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 ## Municipal waste disposal technology mix
 1. Open dump (unmanaged)
   {{< hl-text blue>}}Uncollected waste{{< /hl-text >}} or collected waste with unmanaged disposals.
+
 2. Open burning (unmanaged)
   Uncollected waste or collected waste with unmanaged disposals.
+
 3. Unsanitary landfill (minimal management)
     Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated.   
+
 4. Sanitary landfill (managed plant)
   sanitary landfills {{< hl-text blue>}}capture some landfill gas and treat the leachate{{< /hl-text >}}. In LCA results the {{< hl-text blue>}}flaring or utilization of landfill gas{{< /hl-text >}} is the most relevant difference compared to unsanitary landfills. Where information is available on landfill gas utilisation, it can be incorporated into the technology mix.
+
 5. Municipal incineration (managed plant)
   Municipal incineration plants are {{< hl-text blue>}}costly investments{{< /hl-text >}} and are currently only observed in countries with a {{< hl-text blue>}}Gross National Income (GNI) above 10'000 $/capita.yr{{< /hl-text >}}. In countries below that threshold incineration can very likely be excluded.
+
+The criteria to assign waste disposal technology over countries:
+* Collection, management of collected waste
+* occurrence of fires in dumps/landfills
+* Gross National Income (GNI) above or below 10'000 $/capita.yr
+
+![image](https://user-images.githubusercontent.com/65668613/170224741-d7b28276-c7f3-4baa-8a62-3850ad2014ad.png)
+
+### waste collection rate
+Collected% - percentage of generated waste being collected, in mass percent of generated waste.
+
+Source:
+1. percentage of the population being served by waste collection ([UN
+statistics](https://unstats.un.org/unsd/envstats/Questionnaires/2019/Tables/Total%20population%20served%20by%20municipal%20waste%20collection.xlsx), 74 countries, 1990-2017)
+2. Based on Gross National Income per capita (GNI)
+![image](https://user-images.githubusercontent.com/65668613/170231914-10d041c0-0868-4322-a984-795337330dab.png)
+
+![image](https://user-images.githubusercontent.com/65668613/170232186-0552a6e7-81fe-4a23-b5c5-82a3d869ad81.png)
+
+### Uncontrolled vs. controlled disposal
+Some part of the collected waste can be assumed to end up in uncontrolled, unmanaged disposals.
+![image](https://user-images.githubusercontent.com/65668613/170232699-29ab751d-5c02-4199-a47f-111626121457.png)
+
+For large collection rates, the fraction of collected waste going to managed, controlled disposals is large.
+
+![image](https://user-images.githubusercontent.com/65668613/170232950-87aa8b79-b7fa-48e2-a505-972b08ac47a8.png)
+
+the part of the generated waste going into unmanaged, uncontrolled
+disposals:
+![image](https://user-images.githubusercontent.com/65668613/170233155-35d6ba6d-2063-4a67-8398-7f10d1d6303f.png)
+
+### Open burning
+
+
+
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
