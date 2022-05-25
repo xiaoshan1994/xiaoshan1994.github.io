@@ -26,9 +26,10 @@ Any of the following seven conditions at a dump site can result in the issuance 
 * Deposition of construction or demolition debris
 
 # The Open Dump Dilemma: How to Help the Environment and Respect Human Rights
+**1 March 2020**
+**Women in Informal Employment: Globalizing and Organizing (WIEGO)**
 https://www.wiego.org/blog/open-dump-dilemma-how-help-environment-and-respect-human-rights
 
-1 March 2020
 > Open dumps, unlike sanitary landfills, are not engineered to protect the environment and human health...these sites are important sources of economic survival for expert recyclers – the world’s waste pickers – who earn a daily living there and feed our waste into the global recycling chain.
 
 * Open dumps are the most prevalent form of waste disposal in the Global South.
@@ -48,7 +49,7 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 
 {{< hl-text orange>}}Swiss disposal technologies in 1992{{< /hl-text >}}:
 * municipal incineration with elaborate flue gas cleaning
-* well-engineered sanitary landfills with landfill gas capture and leachate treatment
+* well-engineered sanitary landfills with landfill gas capture[^LFG] and leachate treatment
 * well buffered residual material landfills for polluted inorganic waste
 
 ## Municipal waste disposal technology mix
@@ -57,6 +58,9 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 2. Open burning (unmanaged)
   Uncollected waste or collected waste with unmanaged disposals.
 3. Unsanitary landfill (minimal management)
-
+    Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated.   
 4. Sanitary landfill (managed plant)
+  sanitary landfills {{< hl-text blue>}}capture some landfill gas and treat the leachate{{< /hl-text >}}. In LCA results the {{< hl-text blue>}}flaring or utilization of landfill gas{{< /hl-text >}} is the most relevant difference compared to unsanitary landfills. Where information is available on landfill gas utilisation, it can be incorporated into the technology mix.
 5. Municipal incineration (managed plant)
+  Municipal incineration plants are {{< hl-text blue>}}costly investments{{< /hl-text >}} and are currently only observed in countries with a {{< hl-text blue>}}Gross National Income (GNI) above 10'000 $/capita.yr{{< /hl-text >}}. In countries below that threshold incineration can very likely be excluded.
+[^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
