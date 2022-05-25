@@ -4,7 +4,7 @@ date: 2022-05-24T16:46:53+02:00
 categories:
 - plastic
 - collection
-thumbnailImage:
+thumbnailImage: https://safetyculture.com/wp-content/media/2021/06/Waste-Management-Life-Cycle.png
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
@@ -50,7 +50,7 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 * well buffered residual material landfills for polluted inorganic waste
 
 ## Municipal waste disposal technology mix
-* Open dump (unmanaged) 
+* Open dump (unmanaged)
 * Open burning (unmanaged)
 * Unsanitary landfill (minimal management)
 * Sanitary landfill (managed plant)
