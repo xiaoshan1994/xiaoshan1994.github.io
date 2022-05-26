@@ -52,20 +52,20 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 * well-engineered sanitary landfills with landfill gas capture[^LFG] and leachate treatment
 * well buffered residual material landfills for polluted inorganic waste
 
-## Municipal waste disposal technology mix
-1. Open dump ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
+## 1. Municipal waste disposal technology mix
+(d). Open dump ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
   {{< hl-text blue>}}Uncollected waste{{< /hl-text >}} or collected waste with unmanaged disposals.
 
-2. Open burning ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
+(b). Open burning ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
   Uncollected waste or collected waste with unmanaged disposals.
 
-3. Unsanitary landfill ({{< hl-text orange>}}minimal management{{< /hl-text >}})
+(u).  Unsanitary landfill ({{< hl-text orange>}}minimal management{{< /hl-text >}})
   Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated. The waste compaction and a daily waste cover leads to {{< hl-text blue>}}lower methane oxidation compared to open dumps{{< /hl-text >}} and therefore **{{< hl-text blue>}}larger methane emissions{{< /hl-text >}}**, which is modelled in the unsanitary landfill model.
 
-4. Sanitary landfill ({{< hl-text orange>}}managed plant{{< /hl-text >}})
+(s). Sanitary landfill ({{< hl-text orange>}}managed plant{{< /hl-text >}})
   sanitary landfills {{< hl-text blue>}}capture some landfill gas and treat the leachate{{< /hl-text >}}. In LCA results the {{< hl-text blue>}}flaring or utilization of landfill gas{{< /hl-text >}} is the most relevant difference compared to unsanitary landfills. Where information is available on landfill gas utilisation, it can be incorporated into the technology mix.
 
-5. Municipal incineration ({{< hl-text orange>}}managed plant{{< /hl-text >}})
+(m). Municipal incineration ({{< hl-text orange>}}managed plant{{< /hl-text >}})
   Municipal incineration plants are {{< hl-text blue>}}costly investments{{< /hl-text >}} and are currently only observed in countries with a {{< hl-text blue>}}Gross National Income (GNI) above 10'000 $/capita.yr{{< /hl-text >}}. In countries below that threshold incineration can very likely be excluded.
 
 The criteria to assign waste disposal technology over countries:
@@ -75,7 +75,7 @@ The criteria to assign waste disposal technology over countries:
 
 ![image](https://user-images.githubusercontent.com/65668613/170224741-d7b28276-c7f3-4baa-8a62-3850ad2014ad.png)
 
-### waste collection rate
+### 1.1 Collected waste
 Collected% - percentage of generated waste being collected, in mass percent of generated waste.
 
 Source:
@@ -86,7 +86,7 @@ statistics](https://unstats.un.org/unsd/envstats/Questionnaires/2019/Tables/Tota
 
 ![image](https://user-images.githubusercontent.com/65668613/170232186-0552a6e7-81fe-4a23-b5c5-82a3d869ad81.png)
 
-### Uncontrolled vs. controlled disposal
+### 1.2 Uncontrolled vs. controlled disposal
 Some part of the collected waste can be assumed to end up in uncontrolled, unmanaged disposals.
 ![image](https://user-images.githubusercontent.com/65668613/170232699-29ab751d-5c02-4199-a47f-111626121457.png)
 
@@ -98,31 +98,34 @@ the part of the generated waste going into unmanaged, uncontrolled
 disposals:
 ![image](https://user-images.githubusercontent.com/65668613/170233155-35d6ba6d-2063-4a67-8398-7f10d1d6303f.png)
 
-### Open burning
+### 1.3 Open burning
 ![image](https://user-images.githubusercontent.com/65668613/170445136-ae451fa0-87ff-46be-979a-d6fac8ca0a6e.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/170446375-e07d7da6-a02c-4b42-bd05-2b4b27d79067.png)
 
 ![image](https://user-images.githubusercontent.com/65668613/170446477-fe8ba37a-9834-400c-a3b5-a7eb8f79bb69.png)
 
-### Open dumping
+### 1.4 Open dumping
 ![image](https://user-images.githubusercontent.com/65668613/170446931-d4d35d58-4344-4dd6-810c-d72e2ef63c6f.png)
 
-### Unsanitary landfills
+### 1.5 Unsanitary landfills
 ![image](https://user-images.githubusercontent.com/65668613/170451874-c5cf2f38-3c1b-44c9-a5e4-83ac6ad80a62.png)
 
 The mass landfilled in an unsanitary landfill will be further modified by subtracting an estimated amount of waste being burnt off in landfill fires.
 
-### Landfill Fires
+### 1.6 Landfill Fires
 ![image](https://user-images.githubusercontent.com/65668613/170452331-a67766bd-89b5-4b43-aad7-272f0624ddb5.png)
 
-### Sanitary landfills
+### 1.7 Sanitary landfills
 In the sanitary landfill inventory model, {{< hl-text blue>}}landfill gas can be captured and flared or utilized and the leachate is captured and treated{{< /hl-text >}}.
 
 Country-wise information on the quantitative extent of landfill gas capture is difficult to obtain.
 
-## Data reduction: Infiltration classes
+### 1.8 Municipal incineration
+* masses into waste incineration plants is available from Eurostat and OECD data
+* The statistical data shows that in most countries practically 100% of incinerators also perform energy recovery.
 
+## 2. Data reduction: Infiltration classes
 In the model, {{< hl-text blue>}}scarcity of available precipitation water can influence the amount of landfill gases{{< /hl-text >}}. The rate of water infiltrating the landfill body determines the speed of weathering of the landfill and influences inventoried emissions from the landfill body.
 
 Each country or region can be assigned to a class of five infiltration rates. Infiltration in the landfill model is annual precipitation minus annual
@@ -132,18 +135,44 @@ actual evapotranspiration.![]()
 ![image](https://user-images.githubusercontent.com/65668613/170457570-33517d62-3ac2-42ac-ad47-a090066ca1aa.png)
 ![image](https://user-images.githubusercontent.com/65668613/170457626-97cfe152-41df-4816-a6dd-9cda109c5e2f.png)
 
-## Municipal waste treatment markets
-### Treatment technology mix
+## 3. Municipal waste treatment markets
+### 3.1 Treatment technology mix
 ![image](https://user-images.githubusercontent.com/65668613/170459864-4bdc8ef4-46a3-4cb4-bbe7-31283c6a4281.png)
 
-### Waste treatment production volumes
+### 3.2 Waste treatment production volumes
 ![image](https://user-images.githubusercontent.com/65668613/170460932-fc575f76-4cea-4b4a-8e27-be3ea00753c7.png)
 
-{{< hl-text orange>}}Tab. 5.2 List of generic waste materials in mixed municipal waste used to generate new disposal activities in ecoinvent v3.5.{{< /hl-text >}}
-* graphical paper; packaging paper; paperboard
-* plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC,聚氯乙烯)
-* glass
-* wood, untreated
+### 3.2.1 Discerned waste materials
+{{< hl-text orange>}}Tab. 5.2 List of generic waste materials in mixed munici![]()pal waste used to generate new disposal activities in ecoinvent v3.5.{{< /hl-text >}}
+1. graphical paper; packaging paper; paperboard
+2. plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC,聚氯乙烯)
+4. glass
+5. wood, untreated
+
+### 3.2.2 Country-specific mass of disposed mixed municipal waste
+{{< hl-text orange>}}Generated mass{{< /hl-text >}}
+per-capita waste generation mMSW and a country's population by simple multiplication
+
+{{< hl-text orange>}}Recycling rate{{< /hl-text >}}
+* OECD data
+  - From data for 45 OECD countries the entries for '{{< hl-text blue>}}Recycling{{< /hl-text >}}', '{{< hl-text blue>}}Composting{{< /hl-text >}}' and '{{< hl-text blue>}}Other recovery{{< /hl-text >}}' were added and then divided by the '{{< hl-text blue>}}Municipal waste generated{{< /hl-text >}}' figure to obtain a recycling rate.
+* Eurostat data
+  - From data for 40 European countries (including non-EU) the entries for '{{< hl-text blue>}}Material recycling{{< /hl-text >}}' and '{{< hl-text blue>}}Composting and digestion{{< /hl-text >}}' were added and then divided by the 'Waste generated' figure to obtain a recycling rate.
+
+With data on the generated waste and the recycling rate it is now possible to calculate the non-recycled disposed waste mass as mD = mMSW ⋅ (1 – r).
+The generated waste mass mMSW and disposed, non-recycled waste mass
+mD.
+
+### 3.2.3 Country-specific composition of disposed mixed municipal waste
+{{< hl-text blue>}}Waste fraction analysis {{< /hl-text >}}for around 100 countries is available from UN statistics (UNSD 2016b), which is based on UN questionnaires, EU or OECD statistics with the majority of data originating in the period 2000-2013. This UN data however only discerns the following waste fractions: "Paper, paperboard", "Organic material", "Plastics", "Glass", "Metals", "Textiles", "Other inorganic material".
+
+![image](https://user-images.githubusercontent.com/65668613/170530315-4499b5ee-007a-407d-9dcc-74407c9b8a68.png)
+
+{{< hl-text orange>}}Subdividing Plastics{{< /hl-text >}}
+The {{< hl-text blue>}}UN fraction "Plastics"{{< /hl-text >}} corresponds to the target fraction {{< hl-text blue>}}"plastic, mixture"{{< /hl-text >}}. Therefore this can be applied directly.
+
+This method of using production input data to estimate waste data is flawed with respect of assuming that all polymer types have the same short lifetime. In a market that has not reached a steady state or plateau this means that polymer shares in production are not the same as polymer shares in disposal.
+![image](https://user-images.githubusercontent.com/65668613/170531992-a9285c38-54e6-420d-a3fc-6d70d671aff8.png)
 
 
 
