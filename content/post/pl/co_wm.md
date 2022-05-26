@@ -140,8 +140,8 @@ actual evapotranspiration.![]()
 ![image](https://user-images.githubusercontent.com/65668613/170460932-fc575f76-4cea-4b4a-8e27-be3ea00753c7.png)
 
 {{< hl-text orange>}}Tab. 5.2 List of generic waste materials in mixed municipal waste used to generate new disposal activities in ecoinvent v3.5.{{< /hl-text >}}
-* graphical paper; packaging paper; cardboard
-* plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC)
+* graphical paper; packaging paper; paperboard
+* plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC,聚氯乙烯)
 * glass
 * wood, untreated
 
