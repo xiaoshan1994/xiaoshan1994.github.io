@@ -109,6 +109,30 @@ disposals:
 ![image](https://user-images.githubusercontent.com/65668613/170446931-d4d35d58-4344-4dd6-810c-d72e2ef63c6f.png)
 
 ### Unsanitary landfills
+![image](https://user-images.githubusercontent.com/65668613/170451874-c5cf2f38-3c1b-44c9-a5e4-83ac6ad80a62.png)
+
+The mass landfilled in an unsanitary landfill will be further modified by subtracting an estimated amount of waste being burnt off in landfill fires.
+
+### Landfill Fires
+![image](https://user-images.githubusercontent.com/65668613/170452331-a67766bd-89b5-4b43-aad7-272f0624ddb5.png)
+
+### Sanitary landfills
+In the sanitary landfill inventory model, {{< hl-text blue>}}landfill gas can be captured and flared or utilized and the leachate is captured and treated{{< /hl-text >}}.
+
+Country-wise information on the quantitative extent of landfill gas capture is difficult to obtain.
+
+## Data reduction: Infiltration classes
+
+In the model, {{< hl-text blue>}}scarcity of available precipitation water can influence the amount of landfill gases{{< /hl-text >}}. The rate of water infiltrating the landfill body determines the speed of weathering of the landfill and influences inventoried emissions from the landfill body.
+
+Each country or region can be assigned to a class of five infiltration rates. Infiltration in the landfill model is annual precipitation minus annual
+actual evapotranspiration.![]()
+![image](https://user-images.githubusercontent.com/65668613/170456840-81522d39-506e-4999-84f9-ea2ffaa83468.png)
+![image](https://user-images.githubusercontent.com/65668613/170457440-e4cf0afc-126c-44e9-8897-f50865b6d463.png)
+![image](https://user-images.githubusercontent.com/65668613/170457570-33517d62-3ac2-42ac-ad47-a090066ca1aa.png)
+![image](https://user-images.githubusercontent.com/65668613/170457626-97cfe152-41df-4816-a6dd-9cda109c5e2f.png)
+
+
 
 
 
