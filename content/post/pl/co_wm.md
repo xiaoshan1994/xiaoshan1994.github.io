@@ -99,7 +99,15 @@ disposals:
 ![image](https://user-images.githubusercontent.com/65668613/170233155-35d6ba6d-2063-4a67-8398-7f10d1d6303f.png)
 
 ### Open burning
+![image](https://user-images.githubusercontent.com/65668613/170445136-ae451fa0-87ff-46be-979a-d6fac8ca0a6e.png)
 
+![image](https://user-images.githubusercontent.com/65668613/170446375-e07d7da6-a02c-4b42-bd05-2b4b27d79067.png)
 
+![image](https://user-images.githubusercontent.com/65668613/170446477-fe8ba37a-9834-400c-a3b5-a7eb8f79bb69.png)
+
+### Open dumping
+![image](https://user-images.githubusercontent.com/65668613/170446931-d4d35d58-4344-4dd6-810c-d72e2ef63c6f.png)
+
+### 
 
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
