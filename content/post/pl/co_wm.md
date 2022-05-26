@@ -41,6 +41,11 @@ Doka Life Cycle Assessments, Zurich
 ecoinvent Association, Zurich
 https://www.doka.ch/WasteDisposalMixDoka2018.pdf
 
+## Highlights
+* New activities are open burning, open dumping and unsanitary landfill.
+* Five different climate classes are created based on annual water infiltration
+* The devised methodology allows to create additional market mixes for other countries in the future as well as inputs of updated statistical data.
+
 Employed disposal activities in the model encompass a selection of {{< hl-text blue>}}unmanaged activities (open burning, open dumping){{< /hl-text >}}, and {{< hl-text blue>}}activities managed to different degrees (unsanitary landfill, sanitary landfill, municipal incineration){{< /hl-text >}}.
 
 we decided to create {{< hl-text blue>}}five different climate classes{{< /hl-text >}} based on {{< hl-text blue>}}annual water infiltration{{< /hl-text >}} to discern the different local conditions, instead of inventorying the activities of each country with their specific climate.
