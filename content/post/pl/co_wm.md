@@ -133,6 +133,17 @@ actual evapotranspiration.![]()
 ![image](https://user-images.githubusercontent.com/65668613/170457626-97cfe152-41df-4816-a6dd-9cda109c5e2f.png)
 
 ## Municipal waste treatment markets
+### Treatment technology mix
+![image](https://user-images.githubusercontent.com/65668613/170459864-4bdc8ef4-46a3-4cb4-bbe7-31283c6a4281.png)
+
+### Waste treatment production volumes
+![image](https://user-images.githubusercontent.com/65668613/170460932-fc575f76-4cea-4b4a-8e27-be3ea00753c7.png)
+
+{{< hl-text orange>}}Tab. 5.2 List of generic waste materials in mixed municipal waste used to generate new disposal activities in ecoinvent v3.5.{{< /hl-text >}}
+* graphical paper; packaging paper; cardboard
+* plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC)
+* glass
+* wood, untreated
 
 
 
