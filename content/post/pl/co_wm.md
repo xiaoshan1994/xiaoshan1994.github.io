@@ -53,19 +53,19 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
 * well buffered residual material landfills for polluted inorganic waste
 
 ## Municipal waste disposal technology mix
-1. Open dump (unmanaged)
+1. Open dump ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
   {{< hl-text blue>}}Uncollected waste{{< /hl-text >}} or collected waste with unmanaged disposals.
 
-2. Open burning (unmanaged)
+2. Open burning ({{< hl-text orange>}}unmanaged{{< /hl-text >}})
   Uncollected waste or collected waste with unmanaged disposals.
 
-3. Unsanitary landfill (minimal management)
-  Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated. The waste compaction and a daily waste cover leads to {{< hl-text blue>}}lower methane oxidation compared to open dumps{{< /hl-text >}} and therefore **{{< hl-text orange>}}larger methane emissions{{< /hl-text >}}**, which is modelled in the unsanitary landfill model.
+3. Unsanitary landfill ({{< hl-text orange>}}minimal management{{< /hl-text >}})
+  Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated. The waste compaction and a daily waste cover leads to {{< hl-text blue>}}lower methane oxidation compared to open dumps{{< /hl-text >}} and therefore **{{< {{< hl-text blue>}}>}}larger methane emissions{{< /hl-text >}}**, which is modelled in the unsanitary landfill model.
 
-4. Sanitary landfill (managed plant)
+4. Sanitary landfill ({{< hl-text orange>}}managed plant{{< /hl-text >}})
   sanitary landfills {{< hl-text blue>}}capture some landfill gas and treat the leachate{{< /hl-text >}}. In LCA results the {{< hl-text blue>}}flaring or utilization of landfill gas{{< /hl-text >}} is the most relevant difference compared to unsanitary landfills. Where information is available on landfill gas utilisation, it can be incorporated into the technology mix.
 
-5. Municipal incineration (managed plant)
+5. Municipal incineration ({{< hl-text orange>}}managed plant{{< /hl-text >}})
   Municipal incineration plants are {{< hl-text blue>}}costly investments{{< /hl-text >}} and are currently only observed in countries with a {{< hl-text blue>}}Gross National Income (GNI) above 10'000 $/capita.yr{{< /hl-text >}}. In countries below that threshold incineration can very likely be excluded.
 
 The criteria to assign waste disposal technology over countries:
