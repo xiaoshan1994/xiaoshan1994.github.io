@@ -60,7 +60,7 @@ From the present project, ecoinvent inventories for market mixes for {{< hl-text
   Uncollected waste or collected waste with unmanaged disposals.
 
 3. Unsanitary landfill ({{< hl-text orange>}}minimal management{{< /hl-text >}})
-  Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated. The waste compaction and a daily waste cover leads to {{< hl-text blue>}}lower methane oxidation compared to open dumps{{< /hl-text >}} and therefore **{{< {{< hl-text blue>}}>}}larger methane emissions{{< /hl-text >}}**, which is modelled in the unsanitary landfill model.
+  Waste is {{< hl-text blue>}}compacted{{< /hl-text >}} and a {{< hl-text blue>}}daily cover{{< /hl-text >}} is applied. This mitigates the direct unhygienic effects of dumps, but {{< hl-text blue>}}emissions to air or water{{< /hl-text >}} remain unmitigated. The waste compaction and a daily waste cover leads to {{< hl-text blue>}}lower methane oxidation compared to open dumps{{< /hl-text >}} and therefore **{{< hl-text blue>}}larger methane emissions{{< /hl-text >}}**, which is modelled in the unsanitary landfill model.
 
 4. Sanitary landfill ({{< hl-text orange>}}managed plant{{< /hl-text >}})
   sanitary landfills {{< hl-text blue>}}capture some landfill gas and treat the leachate{{< /hl-text >}}. In LCA results the {{< hl-text blue>}}flaring or utilization of landfill gas{{< /hl-text >}} is the most relevant difference compared to unsanitary landfills. Where information is available on landfill gas utilisation, it can be incorporated into the technology mix.
@@ -132,6 +132,7 @@ actual evapotranspiration.![]()
 ![image](https://user-images.githubusercontent.com/65668613/170457570-33517d62-3ac2-42ac-ad47-a090066ca1aa.png)
 ![image](https://user-images.githubusercontent.com/65668613/170457626-97cfe152-41df-4816-a6dd-9cda109c5e2f.png)
 
+## Municipal waste treatment markets
 
 
 
