@@ -198,5 +198,9 @@ in open dumps and other unhygienic treatments
 * 6 waste incinerator plants existed in 2015; 12 facilities for refuse derived fuels (RDF); 600 digester plants for biowaste existed; 95 local bodies of a total of 203'700 have set up sanitary landfills
 
 ### South Africa
+* In 2014 {{< hl-text blue>}}66%{{< /hl-text >}} of all households having municipal waste collection services while others having their own informal refuse dumps or communal waste dumps (no collection service) or simply littered their waste.
+![image](https://user-images.githubusercontent.com/65668613/170819966-72884e88-6bfc-4ac4-af84-d9ee6d78cf62.png)
+* "disposal to land" signifies an engineered landfill, while "disposal to landfill" is coined for more specific disposal in a non-engineered landfill (informal and open dumps).
+
 
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
