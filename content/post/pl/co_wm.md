@@ -34,7 +34,7 @@ https://www.wiego.org/blog/open-dump-dilemma-how-help-environment-and-respect-hu
 
 * Open dumps are the most prevalent form of waste disposal in the Global South.
 
-# Inventory parameters for regionalised mixes of municipal waste disposal in ecoinvent v3.5
+# Inventory parameters for regionalised mixes of municipal waste disposal in ecoinvent v3.5 (2018)
 Technical report Zurich, **December 2018**
 **Gabor Doka**
 Doka Life Cycle Assessments, Zurich
@@ -179,7 +179,24 @@ The {{< hl-text blue>}}UN fraction "Plastics"{{< /hl-text >}} corresponds to the
 This method of using production input data to estimate waste data is flawed with respect of assuming that all polymer types have the same short lifetime. In a market that has not reached a steady state or plateau this means that polymer shares in production are not the same as polymer shares in disposal.
 ![image](https://user-images.githubusercontent.com/65668613/170531992-a9285c38-54e6-420d-a3fc-6d70d671aff8.png)
 
+## LCI calculation tools  for regionalised waste treatment  – General introduction (2020)
+Technical report, version 2, Zurich, July 2020
 
+* Patterns of household waste disposal methods in developing countries vary according to climate, housing conditions, availability and cost of waste collection services, local regulations, cultural and other factors. Also the characteristics of the waste itself (smell, attractiveness to flies and rodents) determines disposal habits.
 
+### Brazil{{< hl-text orange>}}
+* sanitary landfill in Brazil are very diverse.
+* 25% (147) reported to have neither base seal, nor gas collection pipes, nor any form of leachate collection and treatment.
+* Incineration is only a targeted treatment for {{< hl-text blue>}}health care waste{{< /hl-text >}}, septic waste and food waste from ports and airports. {{< hl-text blue>}}Incineration of household waste can therefore be considered negligible in the current Brazilian situation{{< /hl-text >}}.
+* Waste incineration is usually not practiced in {{< hl-text blue>}}all of Latin America{{< /hl-text >}}. Only Brazil and some Caribbean islands have experience with urban solid waste incinerators (PAHO 2010:130).
+
+### India
+* Urban households and businesses usually collect waste {{< hl-text blue>}}in a single bin{{< /hl-text >}}. Waste separation at the source is not commonly performed.
+* a rate of 88% all generated municipal waste will probably end up
+in open dumps and other unhygienic treatments
+* The Indian national average landfill gas capture rate estimated for 2007 was very close to zero, as only a few small pilot projects in large cities exist.
+* 6 waste incinerator plants existed in 2015; 12 facilities for refuse derived fuels (RDF); 600 digester plants for biowaste existed; 95 local bodies of a total of 203'700 have set up sanitary landfills
+
+### South Africa
 
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
