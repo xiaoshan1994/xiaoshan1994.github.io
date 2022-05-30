@@ -32,6 +32,9 @@ Based on the already existing system and {{< hl-text blue>}}complementing the bi
 * complemented with a door-to-door bio-waste collection scheme if a significant part of the population lives in dense areas within the municipality.
 
 3. Adopt flexibility regarding the treatment of sorted and residual waste:
+* Adopt a strategy prioritising waste prevention and recycling over disposal avoiding the lock-in effect that can be created after a contract for an incineration plant.
+
+4. Start implementing and promoting waste prevention programs
 
 # The Story of Milan - Successfully collecting food waste for over 1.4 million inhabitants
 * densely populated with 1.4 million inhabitants
