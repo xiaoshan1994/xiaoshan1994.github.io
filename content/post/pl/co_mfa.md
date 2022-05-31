@@ -51,3 +51,11 @@ https://www.sciencedirect.com/science/article/abs/pii/S0956053X17308802
 Received 31 July 2018, Accepted September 2018, Revised 23 August 2018, Published online **5 September 2018**
 Emile Van Eygen*, David Laner, and Johann Fellner
 Christian Doppler Laboratory for Anthropogenic Resources, TU Wien, Karlsplatz 13/226, 1040 Vienna, Austria
+
+# Dynamic Material Flow Analysis of PET, PE, and PP Flows in Europe: Evaluation of the Potential for Circular Economy
+[***Environmental Science & Technology***](https://pubs.acs.org/doi/full/10.1021/acs.est.0c03435)
+Marie Kampmann Eriksen
+Department of Environmental Engineering, Technical University of Denmark, Bygningstorvet 115, 2800 Kgs. Lyngby, Denmark
+# Abstract
+* PET, PE, and PP flows in Europe
+* dynamic material flow analysis considering product lifetimes, demand growth rates, and quality reductions of recycled plastic (downcycling).
