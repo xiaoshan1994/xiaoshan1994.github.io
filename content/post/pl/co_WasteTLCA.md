@@ -64,7 +64,6 @@ The credits are related to the avoided production of naphtha displaced by the py
   2. Economic value of mixed plastic waste (Chemical recycling and energy recovery).
   Affecting the economic allocation in the sorting plant between single and mixed plastic waste.
   3. Composition of mixed plastic waste (Chemical recycling and energy recovery)
-
   4. Quality of purified pyrolysis oil (Chemical recycling)
   5. Carbon conversion efficiency of pyrolysis (Chemical recycling)
   6. The quality of recyclate (Mechanical recycling)
@@ -81,6 +80,19 @@ The credits are related to the avoided production of naphtha displaced by the py
 3. Combined product and waste perspective
 * the functional unit is defined as the production of 1 t of mixed virgin plastics and their end-of-life treatment.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr3_lrg.jpg)
+
+### {{< hl-text orange>}}Mechanical recycling and CFF parameters{{< /hl-text >}}
+The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatment of plastic waste{{< /hl-text >}}(sorting, grinding, washing and drying) and {{< hl-text blue>}}production of recycled plastic granulate{{< /hl-text >}}(separation of materials, removal of contaminants, additional sorting, extruding and pelletising).
+
+**Table 4. Inventory data for mechanical recycling.**
+![image](https://user-images.githubusercontent.com/65668613/172816643-2069411b-230f-4e74-86d4-e72f713063fb.png)
+
+* [The factor A allocates burdens and benefits from recycling and primary material production between the two connected life cycles](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
+![image](https://user-images.githubusercontent.com/65668613/172906654-b311b244-91d2-4b32-a6d5-a0c5534794ac.png)
+
+
+
+
 
 # The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 ![image](https://user-images.githubusercontent.com/65668613/167940880-c871986f-8ee1-4f5f-b125-bdb782db5f22.png)
