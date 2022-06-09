@@ -169,6 +169,10 @@ Technology:  PET production out of PTA (purified terephthalic acid) and ethylene
 For the PET bottles, the avoided virgin PET production would be the percentage that is sent for recycling (53%) minus the losses during the recycling processes (25% × 53% = 13% of the initial PET bottles) and the percentage of the recycled content that was used for the production of the initial PET bottles (35%), equal to 5% of the initial PET bottles.
 {{< alert info>}}avoided burden of plastics = recyclables - losses - recyclables contained in the products {{< /alert >}}
 
+# Plastic-related entries in ecoinvent 3.6
+## polyethylene
+
+
 
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
