@@ -11,32 +11,35 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
-# Achieving net-zero greenhouse gas emission plastics by a circular carbon economy
-
-## Scenarios
+## Achieving net-zero greenhouse gas emission plastics by a circular carbon economy
+[Science](https://www.science.org/doi/10.1126/science.abg9853)
+30 Sep 2021
+Raoul Meys
+Institute for Technical Thermodynamics, RWTH Aachen University, Schinkelstr. 8, 52062 Aachen, Germany.
+### Scenarios
 Using this model, we project five pathways for life-cycle GHG emissions of plastic from “cradle-to-grave” in the year 2050.
 * The recycling pathway allows **maximal recycling** of all plastic wastes, on the basis of a 6% minimal **landfilling** rate projected by Geyer et al.
 * Biomass and CCU pathways assume that plastic waste is primarily incinerated.
 The resulting CO2 emissions are circulated via biomass uptake or CCU.
 * The circular carbon pathway optimally combines recycling, biomass utilization, and CCU.
 * The GHG emissions of all circular pathways are benchmarked to state-of-the-art plastic production and waste incineration, framed as the linear carbon pathway.
-## End-of-life technologies
+### End-of-life technologies
 Three options exist to treat plastic waste: landfilling, incineration (e.g., energy recovery), and recycling. Several intermediate waste fractions occur during these three waste treatment options: sorted fractions, residues from sorting, and residues from mechanical and chemical recycling (Fig.
 S2).
 Landfilling and incineration are included for all plastic wastes and intermediate waste fractions. In case of mechanical recycling, current practice from European countries like Germany and Austria shows that plastic packaging waste can be efficiently recycled. In contrast, other plastic wastes suffer significant difficulties due to impurities inside the waste and cannot be adequately recycled mechanically (39). Thus, our analysis only considers mechanical recycling for sorted fractions of plastic packaging waste.
 
 In addition to mechanical recycling, chemical recycling is highlighted as one of the most promising technologies to combat the plastic crisis and, at the same time, reduce greenhouse gas emissions of chemical and plastic production. While chemical recycling is not limited to the plastic waste input, its outputs range from refinery feedstock over liquid and gaseous fuels to monomer products and even value-added chemicals. Previous studies showed that chemical recycling is most promising if value-added chemicals, like monomers, are produced (42, 78). However, these technologies are still under development. Thus, this publication includes the **pyrolysis of plastic wastes to steam-cracking feedstock**, e.g., naphtha, and the production of the respective chemical monomers from chemical recycling as early-stage technologies. Chemical recycling is assumed to be able to treat every plastic waste and all intermediate waste fractions.
 
-## CCU pathway
+### CCU pathway
 **The CCU pathway establishes carbon loops via the incineration of plastic and the respective re-utilization of CO2.** The following high-TRL technologies are available: methanol and methane from CO2, direct air capture, and electrified steam production. Via methanol-to-olefins or methanol-to-aromatics, all plastic raw materials can be produced. The following low-TRL technologies are available: benzene, toluene, p-xylene, mixed xylenes, carbon monoxide, ethylene oxide, ethylene, propylene, and styrene from CO2, as well as the ohmic heating to provide high-temperature thermal energy.
 
-# Life cycle environmental impacts of chemical recycling via pyrolysis of mixed plastic waste in comparison with mechanical recycling and energy recovery
+## Life cycle environmental impacts of chemical recycling via pyrolysis of mixed plastic waste in comparison with mechanical recycling and energy recovery
 [***Science of The Total Environment***](https://www.sciencedirect.com/science/article/pii/S0048969720380141?via%3Dihub)
 Received 4 November 2020, Available online **5 January 2021**.
 Harish Jeswani et al.
 Department of Chemical Engineering and Analytical Science, The University of Manchester, Sackville Street, M13 9PL, UK
 
-## Abstract
+### Abstract
 * This study uses life cycle assessment (LCA) to compare the environmental impacts of chemical recycling of mixed plastic waste (MPW) via pyrolysis with the established waste management alternatives: mechanical recycling and energy recovery.
 * Three LCA studies have been carried out under three perspectives: waste, product and a combination of the two.
 * To ensure robust comparisons, the impacts have been estimated using two impact assessment methods: Environmental footprint and ReCiPe.
@@ -45,7 +48,7 @@ Department of Chemical Engineering and Analytical Science, The University of Man
 * However, pyrolysis has significantly higher other impacts than mechanical recycling, energy recovery and production of virgin plastics.
 * Sensitivity analyses show that some assumptions have notable effects on the results, including the assumed geographical region and its energy mix, carbon conversion efficiency of pyrolysis and recyclate quality.
 
-## Methods, results, and discussions
+### Methods, results, and discussions
 1. Waste perspective
 * The functional unit is defined as the treatment of 1 t of MPW (mixed plastic waste).
 * Scope: collection and transportation of MPW from households, sorting and pyrolysis of MPW to produce pyrolysis oil, as the main product and char as a co-product.
@@ -81,20 +84,18 @@ The credits are related to the avoided production of naphtha displaced by the py
 * the functional unit is defined as the production of 1 t of mixed virgin plastics and their end-of-life treatment.
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0048969720380141-gr3_lrg.jpg)
 
-### {{< hl-text orange>}}Mechanical recycling and CFF parameters{{< /hl-text >}}
+#### {{< hl-text orange>}}Mechanical recycling and CFF parameters{{< /hl-text >}}
 The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatment of plastic waste{{< /hl-text >}}(sorting, grinding, washing and drying) and {{< hl-text blue>}}production of recycled plastic granulate{{< /hl-text >}}(separation of materials, removal of contaminants, additional sorting, extruding and pelletising).
 
 **Table 4. Inventory data for mechanical recycling.**
 ![image](https://user-images.githubusercontent.com/65668613/172816643-2069411b-230f-4e74-86d4-e72f713063fb.png)
 
-* [The factor A allocates burdens and benefits from recycling and primary material production between the two connected life cycles](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
-![image](https://user-images.githubusercontent.com/65668613/172906654-b311b244-91d2-4b32-a6d5-a0c5534794ac.png)
 
 
-# The circular footprint formula (CCF), the EU methodology to credit for circular strategies
-![image](https://user-images.githubusercontent.com/65668613/167940880-c871986f-8ee1-4f5f-b125-bdb782db5f22.png)
-
-# Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
+## The circular footprint formula (CCF), the EU methodology to credit for circular strategies
+[Slides for explanation by Sphera Solutions GmbH](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
+[Original technical reports by Joint Research Centre of EC, Luca Zampori](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
+## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
 A.E.Schwarz
 Netherlands Organization for Applied Scientific Research (TNO), Princetonlaan 8, 3584 CB Utrecht, the Netherlands
