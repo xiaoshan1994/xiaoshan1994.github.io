@@ -94,7 +94,28 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 
 ## The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 [Slides for explanation by Sphera Solutions GmbH](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
-[Original technical reports by Joint Research Centre of EC, Luca Zampori](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
+
+### Suggestions for updating the Product Environmental Footprint (PEF) method
+[Original technical reports by Joint Research Centre of EC, Luca Zampori, 2019](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
+
+4.4.8.2 The A factor
+> The A factor allocates burdens and credits from recycling and virgin material production between two life cycles (i.e. the one supplying and the one using recycled material) and it aims to reflect market realities.
+
+> An A factor equal to 1 would reflect a 100:0 approach (i.e. credits are given to the recycled content), an A factor equal to 0 would reflect a 0:100 approach (i.e. credits are given to the recyclable materials at the end of life).
+
+> In PEF studies the A factor values shall be in the range 0.2 ≤ A ≤ 0.8, to always capture both aspects of recycling (recycled content and recyclability at end of life).
+
+> The driver to determine the values of the A factor is the analysis of the market situation. This means:
+  * A=0.2. Low offer of recyclable materials and high demand: the formula focuses on recyclability at end of life.
+  * A=0.8. High offer of recyclable materials and low demand: the formula focuses on recycled content.
+  * A=0.5. Equilibrium between offer and demand: the formula focuses both on recyclability at end of life and recycled content.
+
+> Default application-specific and material-specific A values are available in Annex C. The following procedure shall be applied (in hierarchical order) to select the value of A to be used in a PEF study:
+  1. Check in Annex C the availability of an application-specific A value which fits the PEF study,
+  2. If an application-specific A value is not available, the material-specific A value in Annex C shall be used,
+  3. If a material-specific A value is not available, the A value shall be set equal to 0.5.
+
+
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
 A.E.Schwarz
