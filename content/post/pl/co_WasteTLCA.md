@@ -354,7 +354,7 @@ Technical report, version 2, Zurich, July 2020
 
 * Patterns of household waste disposal methods in developing countries vary according to climate, housing conditions, availability and cost of waste collection services, local regulations, cultural and other factors. Also the characteristics of the waste itself (smell, attractiveness to flies and rodents) determines disposal habits.
 
-### Brazil{{< hl-text orange>}}
+### Brazil
 * sanitary landfill in Brazil are very diverse.
 * 25% (147) reported to have neither base seal, nor gas collection pipes, nor any form of leachate collection and treatment.
 * Incineration is only a targeted treatment for {{< hl-text blue>}}health care waste{{< /hl-text >}}, septic waste and food waste from ports and airports. {{< hl-text blue>}}Incineration of household waste can therefore be considered negligible in the current Brazilian situation{{< /hl-text >}}.
