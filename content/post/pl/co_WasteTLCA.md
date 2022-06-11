@@ -91,14 +91,35 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 ![image](https://user-images.githubusercontent.com/65668613/172816643-2069411b-230f-4e74-86d4-e72f713063fb.png)
 
 
+# The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 
-## The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 [Slides for explanation by Sphera Solutions GmbH](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
 
-### Suggestions for updating the Product Environmental Footprint (PEF) method
+## Suggestions for updating the Product Environmental Footprint (PEF) method
 [Original technical reports by Joint Research Centre of EC, Luca Zampori, 2019](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
 
-4.4.8.2 The A factor
+### 4.4.8.1 The Circular Footprint Formula (CFF)
+![image](https://user-images.githubusercontent.com/65668613/173184009-d145616c-ba47-4603-8b42-c0ea5bc210b6.png)
+
+{{< hl-text orange>}}Parameters of the CFF{{< /hl-text >}}
+{{< hl-text orange>}}A{{< /hl-text >}}: allocation factor of burdens and credits between supplier and user of recycled materials.
+{{< hl-text orange>}}B{{< /hl-text >}}: allocation factor of energy recovery processes. It applies both to burdens and credits.
+{{< hl-text orange>}}Qsin{{< /hl-text >}}: quality of the ingoing secondary material, i.e. the quality of the recycled material at the point of substitution.
+{{< hl-text orange>}}Qsout{{< /hl-text >}}: quality of the outgoing secondary material, i.e. the quality of the recyclable material at the point of substitution.
+{{< hl-text orange>}}Qp{{< /hl-text >}}: quality of the primary material, i.e. quality of the virgin material.
+{{< hl-text orange>}}R1{{< /hl-text >}}: it is the proportion of material in the input to the production that has been recycled from a previous system.
+{{< hl-text orange>}}R2{{< /hl-text >}}: it is the proportion of the material in the product that will be recycled (or reused) in a subsequent system. R2 shall therefore take into account the inefficiencies in the collection and recycling (or reuse) processes. R2 shall be measured at the output of the recycling plant.
+{{< hl-text orange>}}R3: it is the proportion of the material in the product that is used for energy recovery at EoL.
+{{< hl-text orange>}}Erecycled (Erec){{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the recycling process of the recycled (reused) material, including collection, sorting and transportation process.
+{{< hl-text orange>}}ErecyclingEoL (ErecEoL){{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the recycling process at EoL, including collection, sorting and transportation process.
+{{< hl-text orange>}}Ev{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the acquisition and pre-processing of virgin material.
+{{< hl-text orange>}}E*v{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the acquisition and pre-processing of virgin material assumed to be substituted by recyclable materials.
+{{< hl-text orange>}}EER{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the energy recovery process (e.g. incineration with energy recovery, landfill with energy recovery, etc.).
+{{< hl-text orange>}}ESE, heat and ESE, elec{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) that would have arisen from the specific substituted energy source, heat and electricity respectively.
+{{< hl-text orange>}}ED{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from disposal of waste material at the EoL of the analysed product, without energy recovery.
+{{< hl-text orange>}}XER, heat and XER, elec{{< /hl-text >}}: the efficiency of the energy recovery process for both heat and electricity.
+{{< hl-text orange>}}LHV{{< /hl-text >}}: lower heating value of the material in the product that is used for energy recovery.
+### 4.4.8.2 The A factor
 > The A factor allocates burdens and credits from recycling and virgin material production between two life cycles (i.e. the one supplying and the one using recycled material) and it aims to reflect market realities.
 
 > An A factor equal to 1 would reflect a 100:0 approach (i.e. credits are given to the recycled content), an A factor equal to 0 would reflect a 0:100 approach (i.e. credits are given to the recyclable materials at the end of life).
@@ -109,11 +130,18 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
   * A=0.2. Low offer of recyclable materials and high demand: the formula focuses on recyclability at end of life.
   * A=0.8. High offer of recyclable materials and low demand: the formula focuses on recycled content.
   * A=0.5. Equilibrium between offer and demand: the formula focuses both on recyclability at end of life and recycled content.
-
 > Default application-specific and material-specific A values are available in Annex C. The following procedure shall be applied (in hierarchical order) to select the value of A to be used in a PEF study:
   1. Check in Annex C the availability of an application-specific A value which fits the PEF study,
   2. If an application-specific A value is not available, the material-specific A value in Annex C shall be used,
   3. If a material-specific A value is not available, the A value shall be set equal to 0.5.
+
+### 4.4.8.3 The B factor
+
+> The B factor is used as an allocation factor of energy recovery processes. It applies both to burdens and credits. Credits refer to the amount of heat and electricity sold, not to the total produced, taking into account relevant variations over a 12-months period, e.g. for heat.
+
+> In PEF studies the B value shall be equal to 0 as default.
+
+> To avoid double-counting between the current and the subsequent system in case of energy recovery, the subsequent system shall model its own energy use as primary energy.
 
 
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
