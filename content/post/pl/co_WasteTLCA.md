@@ -109,7 +109,7 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 {{< hl-text orange>}}Qp{{< /hl-text >}}: quality of the primary material, i.e. quality of the virgin material.
 {{< hl-text orange>}}R1{{< /hl-text >}}: it is the proportion of material in the input to the production that has been recycled from a previous system.
 {{< hl-text orange>}}R2{{< /hl-text >}}: it is the proportion of the material in the product that will be recycled (or reused) in a subsequent system. R2 shall therefore take into account the inefficiencies in the collection and recycling (or reuse) processes. R2 shall be measured at the output of the recycling plant.
-{{< hl-text orange>}}R3: it is the proportion of the material in the product that is used for energy recovery at EoL.
+{{< hl-text orange>}}R3{{< /hl-text >}}: it is the proportion of the material in the product that is used for energy recovery at EoL.
 {{< hl-text orange>}}Erecycled (Erec){{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the recycling process of the recycled (reused) material, including collection, sorting and transportation process.
 {{< hl-text orange>}}ErecyclingEoL (ErecEoL){{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the recycling process at EoL, including collection, sorting and transportation process.
 {{< hl-text orange>}}Ev{{< /hl-text >}}: specific emissions and resources consumed (per functional unit) arising from the acquisition and pre-processing of virgin material.
