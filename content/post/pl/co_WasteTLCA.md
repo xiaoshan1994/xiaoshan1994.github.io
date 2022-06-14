@@ -143,6 +143,7 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 
 > To avoid double-counting between the current and the subsequent system in case of energy recovery, the subsequent system shall model its own energy use as primary energy.
 
+##  
 
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
@@ -422,6 +423,11 @@ in open dumps and other unhygienic treatments
 ![image](https://user-images.githubusercontent.com/65668613/170819966-72884e88-6bfc-4ac4-af84-d9ee6d78cf62.png)
 * "disposal to land" signifies an engineered landfill, while "disposal to landfill" is coined for more specific disposal in a non-engineered landfill (informal and open dumps).
 
+## European Database for Corrugated Board Life Cycle Studies
+### Closed-loop approach
+{{< hl-text orange>}}To analyse an open-loop system, the inputs and outputs from the linked systems have to be studied.{{< /hl-text >}}
+### Calculation for one tonne of corrugated product
+> The closed-loop system assumes the ideal case that {{< hl-text blue>}}no recovered fibres are lost{{< /hl-text >}} from the production shavings and the collected corrugated board after use, and that the {{< hl-text blue>}}fibre quality remains constant due to the reprocessing of the fibres{{< /hl-text >}}. The primary fibre is thus recycled several times within the system.
 
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
