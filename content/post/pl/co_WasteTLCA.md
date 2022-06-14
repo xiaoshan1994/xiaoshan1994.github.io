@@ -158,10 +158,19 @@ IVL Swedish Environmental Research Institute
 * aiming to analyze and discuss how {{< hl-text blue>}}open-loop recycling{{< /hl-text >}} of materials should be modeled in LCA and similar environmental assessments.
 
 ![image](https://user-images.githubusercontent.com/65668613/173545497-b9adc98f-a6ea-4e57-8791-372416730b2f.png)
+
 {{< alert warning >}}the system investigated in a CLCA is expanded beyond the product life cycle when it accounts for the avoided processes{{< /alert >}}
 
 In Figure 1, all of the material in Product 1 is recycled into Product 2, which does not include any other material. Similarly, all of the material in Product 2 is recycled into Product 3, which does not include any other material. However, no part of Product 3 is recycled after use.
-![image](https://user-images.githubusercontent.com/65668613/173546113-2d8fd263-9355-4e27-979e-149fe303f46b.png)
+
+EV = E*V2 = E*V3 = 12
+ER1 = ER2 = 4
+E*D1 = E*D2 = ED = 6
+ETot = EV + ER1 + ER2 + ED
+QP = 1
+Q2 = 0.75 (if not otherwise stated)
+Q3 = 0.5 (if not otherwise stated)
+
 • EV is the environmental burdens of virgin material production,
 • ER is the environmental burdens of the recycling process,
 • ED is the environmental burdens of the waste disposal,
@@ -172,12 +181,17 @@ In Figure 1, all of the material in Product 1 is recycled into Product 2, which 
 • Q3 is the quality of the material delivered by the second recycling process.
 
 ### 1. Simple cut-off
-E = (1 – R1) × EV + R1 × ER + (1 – R2) × ED
+E = (1 – R1) × EV + R1 × ER + (1 – R2) × ED (Recycled content approach 100/0 method)
 • R1 is the share of recycled material in the product,
 • R2 is the rate of recycling of material after use in the product, and
 • ER is the environmental burdens of the recycling activities that supply recycled material to the product.
 
 a drawback of the simple cut-off is that it does not give incentives for recycling after use, when the final disposal has little or positive net environmental burdens.
+
+The Greenhouse Gas (GHG) Protocol of the World Resources Institute (WRI) and the World Business Council for Sustainable Development (WBCSD) recommends the method when (WRI & WBCSD 2011, p.74):
+* the product investigated contains recycled input, but there is no or an unknown amount of recycling after use,
+* {{< hl-text blue>}}the supply of recyclable material exceeds the demand for recycled material{{< /hl-text >}}, or
+* the company doing the LCA has control over how much recycled material to use.
 
 ### 2. Cut-off with economic allocation
 E = (1 – R1) × EV + β × R1 × ERin + (1 – R2) × ED + α × R2 × ERout
@@ -185,7 +199,36 @@ E = (1 – R1) × EV + β × R1 × ERin + (1 – R2) × ED + α × R2 × ERout
 • ERout is the environmental burdens of the recycling process accepting materials from the product.
 
 ### 3. Cut-off plus credit
+
 ### 4. Allocation to material losses
+* The international standard for LCA, ISO 14044, states that a closed-loop approach applies when a material is recycled into the same product system, or when it is recycled into another product system without changes in the properties of the material (ISO 2006).
+
+In the technical report ISO TR 14049, ISO (2012, pp.30-33) proposes the following interpretation of the closed-loop approach:
+E = (1 – R2) × EV + R2 × ER + (1 – R2) × ED
+
+* This interpretation of closed loop means that the environmental burdens of {{< hl-text blue>}}virgin material production{{< /hl-text >}} and {{< hl-text blue>}}final disposal{{< /hl-text >}} are attributed to the product life cycle where the {{< hl-text blue>}}material is not recycled{{< /hl-text >}}.
+
+{{< hl-text orange>}}However, the method gives no incentive to use recycled material. The share of recycled material in the product (R1) does not affect the results at all.{{< /hl-text >}}
+
+PAS 2050 and the GHG Protocol both call the attributional interpretation of allocation to material losses the closed-loop approximation. Like ISO (2006, 2012), PAS 2050 recommends the method for cases where the recycled material maintains the same inherent properties as the virgin material input (BSI 2011, p.31). The GHG Protocol recommends the method in cases when (WRI & WBCSD 2011, p.74):
+* the recycled content in the product is unknown, because recycled and virgin material cannot be distinguished on the market,
+* {{< hl-text blue>}}the demand for recycled material exceeds the supply of recyclable material{{< /hl-text >}}, or
+* the product service life is short and/or well known.
+
+In many of these cases, the GHG Protocol recommends the use of two methods in parallel to assess the robustness of the results: the closed-loop approximation (allocation to material losses) and the recycled-content approach (simple cut-off; see above).
+
+### 5. Allocation to virgin material use
+
+### 6. 50/50 methods
+E = 0.5 × [(1 – R1) + (1 – R2)] × (EV + ED) + 0.5 × (R1 × ERin + R2 × ERout)
+
+All 50/50 methods reflect the view that 1) material use requires both virgin material production and final disposal, and 2) supply of and demand for recyclable material are both necessary for recycling to take place.
+
+### 7. Quality-adjusted 50/50 methods
+
+### 8. The Circular Footprint Formula
+
+
 
 # Recycling methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
