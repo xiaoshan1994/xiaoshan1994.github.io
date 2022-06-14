@@ -314,3 +314,35 @@ which is equivalent to dumping the contents of one garbage truck into the ocean 
 *  An LCA optimisation by each individual actor does not necessarily lead to better system outcomes (while it is well suited to evaluate individual choices today, it is less suitable for determining the target state towards which a system as a whole could innovate).
 * {{< hl-text orange>}}Another drawback is considering only carbon, leaving behind the effects of leakage into the natural environment. {{< /hl-text >}}
 * Format and delivery model redesign could reduce or eliminate the need for small-format plastic packaging items (e.g. for former one, tear-off tabs to stay-on tabs, flip-top cap of ketchup; for latter one, a dispenser instead of sachets or 'disappearing package' (water-soluble laundry detergent pods))
+
+# How Many Times Can Plastic Be Recycled? The seven types of plastic vary in their recycling potential.
+[Treehugger](https://www.treehugger.com/how-many-times-can-plastic-be-recycled-5184396)
+Olivia Young, Updated August 13, 2021
+*  Waste Plastics can be recycled one to 10 times, depending on the type, although most can be recycled only once.
+* the heating process shortens polymer chains, thus degrading plastic quality
+## 1 PET
+> When PET plastic is turned into a {{< hl-text blue>}}non-food container{{< /hl-text >}}, it may be able to endure a second or third round of recycling, but when it's spun into {{< hl-text blue>}}polyester fiber{{< /hl-text >}}—most often the case —then it becomes more difficult to recycle because large-scale postconsumer textile recycling doesn't currently exist.
+
+## 2 HDPE
+* HDPE can be recycled 10 times under experiment conditions.
+
+## 3 PVC
+not recycled
+
+## 4 LDPE
+LDPE can be recycled only once because the quality is so degraded
+
+## 5 PP
+PP can be recycled four times
+
+## 6 PS
+Traditional PS is not recyclable
+
+## 7 Other
+Not many curbside services will pick up
+
+# How many times can plastic be recycled?
+https://www.plasticexpert.co.uk/how-many-times-can-plastic-be-recycled/
+* The majority of the time, all of these plastics can only be recycled once.
+* The fact is that plastics lose their quality when they’re recycled.
+* As such, the majority of plastics only get recycled once and then used in other products that can be used for longer and avoid going into landfill sites.
