@@ -151,8 +151,41 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 > The closed-loop system assumes the ideal case that {{< hl-text blue>}}no recovered fibres are lost{{< /hl-text >}} from the production shavings and the collected corrugated board after use, and that the {{< hl-text blue>}}fibre quality remains constant due to the reprocessing of the fibres{{< /hl-text >}}. The primary fibre is thus recycled several times within the system.
 
 ## Modeling recycling in life cycle assessment
+[Final project report](https://www.lifecyclecenter.se/wp-content/uploads/2020_05_Modeling-recyling-in-life-cycle-assessment-1.pdf)
+Project period: 2018-11-15 – 2020-05-31
+IVL Swedish Environmental Research Institute
 
+* aiming to analyze and discuss how {{< hl-text blue>}}open-loop recycling{{< /hl-text >}} of materials should be modeled in LCA and similar environmental assessments.
 
+![image](https://user-images.githubusercontent.com/65668613/173545497-b9adc98f-a6ea-4e57-8791-372416730b2f.png)
+{{< alert warning >}}the system investigated in a CLCA is expanded beyond the product life cycle when it accounts for the avoided processes{{< /alert >}}
+
+In Figure 1, all of the material in Product 1 is recycled into Product 2, which does not include any other material. Similarly, all of the material in Product 2 is recycled into Product 3, which does not include any other material. However, no part of Product 3 is recycled after use.
+![image](https://user-images.githubusercontent.com/65668613/173546113-2d8fd263-9355-4e27-979e-149fe303f46b.png)
+• EV is the environmental burdens of virgin material production,
+• ER is the environmental burdens of the recycling process,
+• ED is the environmental burdens of the waste disposal,
+• the asterisk indicates that the process is avoided through recycling,
+• ETot is the total burdens of virgin material production, recycling and disposal in the recycling cascade,
+• QP is the quality of the material delivered by the primary production,
+• Q2 is the quality of the material delivered by the first recycling process, and
+• Q3 is the quality of the material delivered by the second recycling process.
+
+### 1. Simple cut-off
+E = (1 – R1) × EV + R1 × ER + (1 – R2) × ED
+• R1 is the share of recycled material in the product,
+• R2 is the rate of recycling of material after use in the product, and
+• ER is the environmental burdens of the recycling activities that supply recycled material to the product.
+
+a drawback of the simple cut-off is that it does not give incentives for recycling after use, when the final disposal has little or positive net environmental burdens.
+
+### 2. Cut-off with economic allocation
+E = (1 – R1) × EV + β × R1 × ERin + (1 – R2) × ED + α × R2 × ERout
+• ERin is the environmental burdens of the recycling process supplying recycled material to the product and
+• ERout is the environmental burdens of the recycling process accepting materials from the product.
+
+### 3. Cut-off plus credit
+### 4. Allocation to material losses
 
 # Recycling methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
