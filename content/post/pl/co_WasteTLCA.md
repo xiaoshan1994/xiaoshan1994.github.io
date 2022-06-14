@@ -150,6 +150,10 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 ### Calculation for one tonne of corrugated product
 > The closed-loop system assumes the ideal case that {{< hl-text blue>}}no recovered fibres are lost{{< /hl-text >}} from the production shavings and the collected corrugated board after use, and that the {{< hl-text blue>}}fibre quality remains constant due to the reprocessing of the fibres{{< /hl-text >}}. The primary fibre is thus recycled several times within the system.
 
+## Modeling recycling in life cycle assessment
+
+
+
 # Recycling methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
