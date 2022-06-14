@@ -33,6 +33,7 @@ In addition to mechanical recycling, chemical recycling is highlighted as one of
 ### CCU pathway
 **The CCU pathway establishes carbon loops via the incineration of plastic and the respective re-utilization of CO2.** The following high-TRL technologies are available: methanol and methane from CO2, direct air capture, and electrified steam production. Via methanol-to-olefins or methanol-to-aromatics, all plastic raw materials can be produced. The following low-TRL technologies are available: benzene, toluene, p-xylene, mixed xylenes, carbon monoxide, ethylene oxide, ethylene, propylene, and styrene from CO2, as well as the ohmic heating to provide high-temperature thermal energy.
 
+# Recycling burdens and benefit allocation
 ## Life cycle environmental impacts of chemical recycling via pyrolysis of mixed plastic waste in comparison with mechanical recycling and energy recovery
 [***Science of The Total Environment***](https://www.sciencedirect.com/science/article/pii/S0048969720380141?via%3Dihub)
 Received 4 November 2020, Available online **5 January 2021**.
@@ -91,11 +92,11 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 ![image](https://user-images.githubusercontent.com/65668613/172816643-2069411b-230f-4e74-86d4-e72f713063fb.png)
 
 
-# The circular footprint formula (CCF), the EU methodology to credit for circular strategies
+## The circular footprint formula (CCF), the EU methodology to credit for circular strategies
 
 [Slides for explanation by Sphera Solutions GmbH](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
 
-## Suggestions for updating the Product Environmental Footprint (PEF) method
+### Suggestions for updating the Product Environmental Footprint (PEF) method
 [Original technical reports by Joint Research Centre of EC, Luca Zampori, 2019](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
 
 ### 4.4.8.1 The Circular Footprint Formula (CFF)
@@ -143,8 +144,13 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 
 > To avoid double-counting between the current and the subsequent system in case of energy recovery, the subsequent system shall model its own energy use as primary energy.
 
-##  
+## European Database for Corrugated Board Life Cycle Studies
+### Closed-loop approach
+{{< hl-text orange>}}To analyse an open-loop system, the inputs and outputs from the linked systems have to be studied.{{< /hl-text >}}
+### Calculation for one tonne of corrugated product
+> The closed-loop system assumes the ideal case that {{< hl-text blue>}}no recovered fibres are lost{{< /hl-text >}} from the production shavings and the collected corrugated board after use, and that the {{< hl-text blue>}}fibre quality remains constant due to the reprocessing of the fibres{{< /hl-text >}}. The primary fibre is thus recycled several times within the system.
 
+# Recycling methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
 A.E.Schwarz
@@ -191,14 +197,14 @@ Recyclate is of lower quality than the original material.
 
 ![](https://ars.els-cdn.com/content/image/1-s2.0-S0956053X20307091-gr1.jpg)
 
-# Potential trade-offs between eliminating plastics and mitigating climate change: An LCA perspective on Polyethylene Terephthalate (PET) bottles in Cornwall
+## Potential trade-offs between eliminating plastics and mitigating climate change: An LCA perspective on Polyethylene Terephthalate (PET) bottles in Cornwall
 [Science of The Total Environment](https://doi.org/10.1016/j.scitotenv.2020.138681)
 V.Kouloumpis
 Environment and Sustainability Institute, University of Exeter, Penryn, Cornwall TR10 9FE, UK
 College of Engineering, Mathematics and Physical Sciences, University of Exeter, Cornwall TR10 9FE, UK
 Available online **13 April 2020**
 
-## Methods
+### Methods
 * The household waste can be categorised into two main types: recyclables and residual.
 * Residual waste is collected weekly at the kerbside and transported to the Cornwall {{< hl-text blue>}}Energy Recovery Centre (CERC){{< /hl-text >}}, the only {{< hl-text blue>}}waste-to-energy facility{{< /hl-text >}} in Cornwall that started operation in 2017 (Cornwall Council, 2018a).
 * Recyclables are separated by the residents and placed in four different containers. The recyclables are collected every fortnight at the kerbside and transported to one of the two {{< hl-text blue>}}Material Recovery Facilities (MRF){{< /hl-text >}} situated in the towns of Bodmin and Pool.
@@ -215,22 +221,23 @@ percentage of plastic bottles made of PET
 
 * For the production of PET bottles, the raw material is assumed to be {{< hl-text blue>}}35%{{< /hl-text >}} of recycled bottle grade PET granulates and {{< hl-text blue>}}65%{{< /hl-text >}} of virgin PET granulates (Shen et al., 2011).
 
-## 2.3. Life Cycle Inventory
+### 2.3. Life Cycle Inventory
 
-### 2.3.1. Production
+#### 2.3.1. Production
 1. {{< hl-text orange>}}polyethylene terephthalate production, granulate, amorphous{{< /hl-text >}}
 Technology:  PET production out of PTA (purified terephthalic acid) and ethylene glycol.
 2. {{< hl-text orange>}}polyethylene terephthalate production, granulate, bottle grade, recycled (CH){{< /hl-text >}}
   - Processes deliver the byproduct waste polethylene, unsorted, for recycling[^pro]. There are two recycled PET grades produced in Switzerland[^twore].
 3. {{< hl-text orange>}}Stretch blow molding{{< /hl-text >}}[^sbm].
 
-### 2.3.3. End-of-life
+#### 2.3.3. End-of-life
 {{< hl-text orange>}}The ‘net scrap’ avoided burden approach {{< /hl-text >}}
 For the PET bottles, the avoided virgin PET production would be the percentage that is sent for recycling (53%) minus the losses during the recycling processes (25% × 53% = 13% of the initial PET bottles) and the percentage of the recycled content that was used for the production of the initial PET bottles (35%), equal to 5% of the initial PET bottles.
 {{< alert info>}}avoided burden of plastics = recyclables - losses - recyclables contained in the products {{< /alert >}}
 
-# Plastic-related entries in ecoinvent 3.6
-## polyethylene
+# ecoinvent life cycle inventory
+## Plastic-related entries in ecoinvent 3.6
+### polyethylene
 
 # Waste Management
 ## Open Dumping
