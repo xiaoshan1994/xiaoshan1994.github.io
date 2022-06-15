@@ -35,6 +35,22 @@ In addition to mechanical recycling, chemical recycling is highlighted as one of
 **The CCU pathway establishes carbon loops via the incineration of plastic and the respective re-utilization of CO2.** The following high-TRL technologies are available: methanol and methane from CO2, direct air capture, and electrified steam production. Via methanol-to-olefins or methanol-to-aromatics, all plastic raw materials can be produced. The following low-TRL technologies are available: benzene, toluene, p-xylene, mixed xylenes, carbon monoxide, ethylene oxide, ethylene, propylene, and styrene from CO2, as well as the ohmic heating to provide high-temperature thermal energy.
 
 # Recycling burdens and benefit allocation
+## Cradle-to-grave life cycle assessment of single-use cups made from PLA, PP and PET
+[Resources, Conservation and Recycling](https://doi.org/10.1016/j.resconrec.2021.105508)
+Christian Moretti
+Utrecht University, Copernicus Institute of Sustainable Development, Utrecht, the Netherlands
+![](https://ars.els-cdn.com/content/image/1-s2.0-S0921344921001154-gr2_lrg.jpg)
+
+* PET production out of PTA and ethylene gylcol(Purified Terephthalic Acid)  (esterification[^est] and polymerisation)-> Amorphous PET-> PET cups
+* Propylene (polymerisation) -> PP
+* Polylactide (PLA) is both bio‐based and biodegradable
+
+## Life cycle energy and GHG emissions of PET recycling: change-oriented effect
+Li Shen
+[The International Journal of Life Cycle Assessment](https://link.springer.com/article/10.1007/s11367-011-0296-4)
+
+
+
 ## Life cycle environmental impacts of chemical recycling via pyrolysis of mixed plastic waste in comparison with mechanical recycling and energy recovery
 [***Science of The Total Environment***](https://www.sciencedirect.com/science/article/pii/S0048969720380141?via%3Dihub)
 Received 4 November 2020, Available online **5 January 2021**.
@@ -541,3 +557,4 @@ in open dumps and other unhygienic treatments
 [^twore]: amorphous (no definite shape) and bottle grade. For bottle grade, the viscosity of the recycled flakes is increased to a comparable level of primary PET by solid state polymerization (SSP). Data were derived from involved recycling facilities). About 40’000 t of PET bottles per year are collected in Switzerland and further processed to bottle grade (30 % recycling content) or amorphous (50 % recycling content) PET granulate. 20 % of the PET cannot be recycled again and is incinerated. Data for the PET recycling processes were derived via PET Recycling Schweiz (PRS).
 [^sbm]: a manufacturing process that's well suited for different applications across a broad range of industry sectors. Blow molding is an engineering procedure in which hollow plastic forms such as water bottles and juice bottles are formed.
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
+[^est]: Esterification is the process of combining an organic acid (RCOOH) with an alcohol (ROH) to form an ester (RCOOR) and water
