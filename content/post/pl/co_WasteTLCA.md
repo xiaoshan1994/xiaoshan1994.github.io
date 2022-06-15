@@ -228,8 +228,6 @@ All 50/50 methods reflect the view that 1) material use requires both virgin mat
 
 ### 8. The Circular Footprint Formula
 
-
-
 # Recycling methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
