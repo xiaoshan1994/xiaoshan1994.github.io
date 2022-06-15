@@ -11,6 +11,7 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
+# Recycling methods
 ## Achieving net-zero greenhouse gas emission plastics by a circular carbon economy
 [Science](https://www.science.org/doi/10.1126/science.abg9853)
 30 Sep 2021
@@ -227,8 +228,12 @@ All 50/50 methods reflect the view that 1) material use requires both virgin mat
 ### 7. Quality-adjusted 50/50 methods
 
 ### 8. The Circular Footprint Formula
+E = (1 – R1) × EV + R1 × [A × ERin + (1 – A) × EV × QSin/QP] + + (1 – A) × R2 × [(ERout –E*V × (QSout/QP)] + (1 – R2) × ED = = [1 – R1 + R1 × (1–A) × QSin/QP] × EV – (1 – A) × R2 × (QSout/QP) × E*V + + AR1 × ERin + (1 – A) × R2 × ERout + (1-R2) × ED
 
-# Recycling methods
+> With the low Factor A = 0.2 recommended for many materials, the CFF gives a rather weak incentive to use recycled material with a quality similar to virgin material. In other words, it gives a weak incentive to use most recycled metals.
+
+
+# waste treatment methods
 ## Plastic recycling in a circular economy: determining environmental performance through an LCA matrix model approach
 [Waste Management](https://doi.org/10.1016/j.wasman.2020.12.020)
 A.E.Schwarz
