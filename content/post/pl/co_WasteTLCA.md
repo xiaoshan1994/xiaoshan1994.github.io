@@ -334,9 +334,31 @@ Technology:  PET production out of PTA (purified terephthalic acid) and ethylene
 For the PET bottles, the avoided virgin PET production would be the percentage that is sent for recycling (53%) minus the losses during the recycling processes (25% × 53% = 13% of the initial PET bottles) and the percentage of the recycled content that was used for the production of the initial PET bottles (35%), equal to 5% of the initial PET bottles.
 {{< alert info>}}avoided burden of plastics = recyclables - losses - recyclables contained in the products {{< /alert >}}
 
+
 # ecoinvent life cycle inventory
-## Plastic-related entries in ecoinvent 3.6
-### polyethylene
+## polyethylene terephthalate (ecoinvent 3.6)
+{{< hl-text orange>}}Activity{{< /hl-text >}}: polyethylene terephthalate production, granulate, {{< hl-text blue>}}bottle grade{{< /hl-text >}}
+{{< hl-text orange>}}Product{{< /hl-text >}}: polyethylene terephthalate, granulate, bottle grade
+{{< hl-text orange>}}Location{{< /hl-text >}}: RER
+{{< hl-text orange>}}Description{{< /hl-text >}}: The first step of PET production is the esterification of PTA and MEG to bishydroxyethyl terepthalate (BHET) with water as a by-product at around 220-260 °C in the presence of an anti-mony catalyst (usually Sb2O3). Water forming from the esterification reaction is continuously removed by distillation. Formation of the undesired side product diethylene glycol is suppressed by maintaining low molar ratios of MEG:PTA (less than 2 or even 1.5). BHET is then sent to Pre-polycondensation in a second reactor under a vacuum and further to a melt polycondensation reactor at higher temperatures and still under vacuum. Vacuum is required to remove water and other side products and to drive the reaction equilibrium towards the polymer.
+As melt polymerisation does not produce high molecular weight, a subsequent polymerisation step, solid state polymerisation (SSP) is required for bottle grade PET. During SSP the polymer chain lengths are increased by heat in the absence of oxygen and water, by means of either vacuum or purging with an inert gas to drive off the by-products of reactions. The reaction is driven by temperature, pressure, and the diffusion of by-products from the interior of the pellet to the surface. The product of SSP is a partially crystalline resin that can be used to produce bottles via injection moulding and stretch blow moulding.
+
+The dataset represents the production mix of commercial bottle grade PET production technologies. PET production covered by this study is by esterification of ethylene glycol and terephthalic acid (PTA). The esterification process is carried out under moderate pressure (2.5-5.5 bar) and at high temperature (230-270 °C) whilst the water formed during the reaction is continuously removed via distillation.
+
+The monomers of PET production, purified terephthalic acid (PTA) and mono ethylene glycol (MEG) are polymerised in the liquid phase to produce amorphous PET. This form of the polymer is suitable for the production of fibres and film. Most bottle grade PET today is a copolyester slightly modified through addition of 1-2% Benzene-1,3-dicarboxylic acid (isophthalic acid, IPA) or 4(hydroxymethyl)cyclohexyl-methanol (cyclohexanedimethanol, CHDM) during polymerisation.
+
+Geography:  EU27 including Norway and Switzerland
+Technology:  Coverage of production capacity in Europe: 85%
+Time period:  Data was collected for the year 2015, processed in 2016 and published in 2017
+
+{{< hl-text orange>}}Activity{{< /hl-text >}}: polyethylene terephthalate production, granulate, amorphous
+{{< hl-text orange>}}Product{{< /hl-text >}}: polyethylene terephthalate, granulate, amorphous
+{{< hl-text orange>}}Location{{< /hl-text >}}: RER
+{{< hl-text orange>}}Description{{< /hl-text >}}:
+Data are based on the average unit process from the Eco-profiles of the European plastics industry
+Geography:  Data from several European production sites
+Technology:  PET production out of PTA and ethylene gylcol
+Time period:  date of publication
 
 # Waste Management
 ## Open Dumping
