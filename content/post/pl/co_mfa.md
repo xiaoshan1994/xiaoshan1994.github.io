@@ -58,4 +58,4 @@ Marie Kampmann Eriksen
 Department of Environmental Engineering, Technical University of Denmark, Bygningstorvet 115, 2800 Kgs. Lyngby, Denmark
 # Abstract
 * PET, PE, and PP flows in Europe
-* dynamic material flow analysis considering product lifetimes, demand growth rates, and quality reductions of recycled plastic (downcycling).
+* dynamic material flow analysis considering {{< hl-text blue>}}product lifetimes{{< /hl-text >}}, {{< hl-text blue>}}demand growth rates{{< /hl-text >}}, and {{< hl-text blue>}}quality reductions of recycled plastic (downcycling){{< /hl-text >}}.
