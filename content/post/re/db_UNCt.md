@@ -7,7 +7,7 @@ categories:
 tags:
 - UN Comtrade
 keywords:
-- tech
+- UN Comtrade
 thumbnailImage: https://www.insper.edu.br/wp-content/uploads/2021/01/UN_Comtrade.png
 thumbnailImagePosition: left
 metaAlignment: left
