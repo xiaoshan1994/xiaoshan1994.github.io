@@ -4,8 +4,6 @@ date: 2022-01-09T09:48:54+01:00
 categories:
 - Research
 - Collection
-tags:
-- IOA
 keywords:
 - tech
 thumbnailImage: https://www.exiobase.eu/images/mr_iot_v5_400px.png
