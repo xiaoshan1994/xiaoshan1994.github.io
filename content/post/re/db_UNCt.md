@@ -229,6 +229,40 @@ Rules of origin are used:
 — for the application of labelling and marking requirements; and
 — for government procurement.
 
+# Differences between Imports and Exports, Reporters and Partners
+https://unstats.un.org/wiki/display/comtrade/Differences+between+Imports+and+Exports%2C+Reporters+and+Partners
+Q: What are the differences between Imports and Exports, Reporters and Partners?
+
+A: "Reporter" is the country (or area) which reports the trade data to us.
+
+A "Partner" is the country or area from/to which the commodity was imported or exported, as declared by the reporting country.
+
+There are many valid reasons why the reported exports of the USA may not coincide with the reported imports of Mexico. The main reason, in this case, is probably the different valuation of imports and exports.
+
+Valuation. Imports are generally reported on Cost, Insurance and Freight (CIF) basis, while exports are reported on a Free on Board (FOB) basis. For this reason, {{< hl-text orange>}}import values tend to be higher than export values{{< /hl-text >}}.
+
+Looking at the reported data of Durum Wheat over the last 4 or 5 years, it seems that the correspondence between USA exports and Mexico imports is, in fact, very good. The CIF/FOB factor explains why import values are higher, and other minor differences may just be due to differences in time of recording.
+
+https://wits.worldbank.org/wits/wits/witshelp/content/data_retrieval/T/Intro/B2.Imports_Exports_and_Mirror.htm
+
+**Imports, Exports and Mirror Data with UN COMTRADE**
+
+In a perfect world, country A reported imports from country B would match with country B reported exports to country A. Consequently, this would make mirroring (using information from the partner when a country does not report its trade) a transparent and error-free process.
+
+However, this is not the case for the following reasons:
+
+{{< hl-text orange>}}In UN COMTRADE, imports are recorded cif (cost insurance and freight) while exports are fob (free on board). This may represent a 10% to 20% difference.{{< /hl-text >}}
+Despite all efforts made by national and international agencies, data quality may vary among countries.
+**{{< hl-text orange>}}For a given country, imports are usually recorded with more accuracy than exports because imports generally generate tariff revenues while exports don't.{{< /hl-text >}}**
+{{< hl-text orange>}}At a detailed level, a same good may be recorded in different categories by the exporter and the importer.{{< /hl-text >}}
+For example, in 2001 Pakistan reported US$ 236 millions exports to China while China was reporting US$ 557 millions.
+
+There will be cases where you can't avoid using mirror data. In such cases, it is recommended to use reporters for which you believe statistics are the most accurate and to keep using the same reporter for the full period if you build time series. For example, if Rwanda's imports from USA are missing for some selected years and you want a complete time series, it is better to rely on USA exports to Rwanda for each and every year, even if Rwanda's imports from USA is available for some of them. Otherwise, year to year trade value variations may reflect a shift from USA to Rwanda as a reporter rather than actual variations in trade flows
+
+# Gross Imports vs Re-imports and Gross Exports vs Re-exports in UN COMTRADE
+In addition to gross imports, UNSD recently introduced re-imports as trade flow. {{< hl-text orange>}}Re-imports is included in gross imports{{< /hl-text >}}. In addition to Gross Exports, UNSD also records a flow called Re-exports (included in exports).
+
+
 [^fob]: The abbreviation CIF stands for "cost, insurance and freight," and FOB means "free on board."
 [^ba]: [The basic price](https://stats.oecd.org/glossary/detail.asp?ID=189) is the amount receivable by the producer from the purchaser for a unit of a good or service produced as output {{< hl-text orange>}}minus any tax payable, and plus any subsidy receivable{{< /hl-text >}}, on that unit as a consequence of its production or sale; {{< hl-text orange>}}it excludes any transport charges invoiced separately by the producer{{< /hl-text >}}.
 [^imts]: Trade Statistics Branch of UN Statistics Division is responsible for the development and maintenance of the methodological guidelines on IMTS, including the Standard International Trade Classification (SITC) and related correspondence tables. As part of this work several surveys of national practices have been conducted.
