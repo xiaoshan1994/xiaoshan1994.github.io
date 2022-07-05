@@ -559,8 +559,16 @@ in open dumps and other unhygienic treatments
 
 # Environmental effects of plastic waste recycling
 European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Nessi, S., Environmental effects of plastic waste recycling, Publications Office, 2021, https://data.europa.eu/doi/10.2760/955772
-
 * EU level
+
+>  These include Polyethylene Terephthalate (both amorphous and bottle-grade), High-density Polyethylene, Low-density Polyethylene, Polypropylene, Polystyrene, Expanded Polystyrene, Polyurethane, and Polyvinylchloride.
+
+> about {{< hl-text blue>}}1140-3573 kg CO2-eq./t{{< /hl-text >}} polymer waste achieved when one additional tonne of plastic waste is recycled comparing alternative treatments, including a mix of incineration and landfilling.
+
+> Savings are highest for recycling of {{< hl-text blue>}}Polyurethane and bottle-grade Polyethylene Terephthalate{{< /hl-text >}}, and when recycling displaces incineration, due to the avoided CO2 emissions from combustion of fossil carbon in polymers.
+
+> In a broader perspective, considering that the {{< hl-text blue>}}annual generation of plastic waste in the EU{{< /hl-text >}} is estimated to about {{< hl-text blue>}}29.1 Mt{{< /hl-text >}}, a total (additional to what achieved today with current recycling) {{< hl-text blue>}}annual GHG saving potential{{< /hl-text >}} of nearly {{< hl-text blue>}}17.6 Mt CO2-eq{{< /hl-text >}}. can be estimated under the assumption that 70% of the investigated polymer waste currently non-collected (i.e. landfilled or incinerated) is instead collected and sent for recycling, and assuming constant conditions for technology efficiencies and energy systems (as of today). This corresponds to the average impact of 2.3 million of EU citizens. Under the hypothetical scenario that 100% of the investigated polymer waste were collected for recycling, the annual GHG savings would reach about {{< hl-text blue>}}25 Mt CO2-eq{{< /hl-text >}}. The results of this study are highly relevant for circular economy policies related to plastics and for informing how the circular economy can contribute to the objectives of the EU Green Deal, especially in respect to decarbonisation.
+
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
