@@ -499,7 +499,7 @@ actual evapotranspiration.![]()
 #### 3.2.1 Discerned waste materials
 {{< hl-text orange>}}Tab. 5.2 List of generic waste materials in mixed munici![]()pal waste used to generate new disposal activities in ecoinvent v3.5.{{< /hl-text >}}
 1. graphical paper; packaging paper; paperboard
-2. plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU,聚亚安酯); polyvinylchloride (PVC,聚氯乙烯)
+2. plastic, mixture; polyethylene (PE); polyethylene terephtalate (PET); polypropylene (PP); polystyrene(PS); polyurethane(PU, 聚亚安酯); polyvinylchloride (PVC, 聚氯乙烯)
 4. glass
 5. wood, untreated
 
@@ -557,6 +557,10 @@ in open dumps and other unhygienic treatments
 ### Calculation for one tonne of corrugated product
 > The closed-loop system assumes the ideal case that {{< hl-text blue>}}no recovered fibres are lost{{< /hl-text >}} from the production shavings and the collected corrugated board after use, and that the {{< hl-text blue>}}fibre quality remains constant due to the reprocessing of the fibres{{< /hl-text >}}. The primary fibre is thus recycled several times within the system.
 
+# Environmental effects of plastic waste recycling
+European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Nessi, S., Environmental effects of plastic waste recycling, Publications Office, 2021, https://data.europa.eu/doi/10.2760/955772
+
+* EU level
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
