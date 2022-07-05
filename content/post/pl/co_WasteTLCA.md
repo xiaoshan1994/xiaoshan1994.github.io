@@ -561,7 +561,7 @@ in open dumps and other unhygienic treatments
 European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Nessi, S., Environmental effects of plastic waste recycling, Publications Office, 2021, https://data.europa.eu/doi/10.2760/955772
 * EU level
 
->  These include Polyethylene Terephthalate (both amorphous and bottle-grade), High-density Polyethylene, Low-density Polyethylene, Polypropylene, Polystyrene, Expanded Polystyrene, Polyurethane, and Polyvinylchloride.
+>  These include {{< hl-text blue>}}Polyethylene Terephthalate (both amorphous and bottle-grade){{< /hl-text >}}, {{< hl-text blue>}}High-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Low-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Polypropylene{{< /hl-text >}}, {{< hl-text blue>}}Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Expanded Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Polyurethane{{< /hl-text >}}, and {{< hl-text blue>}}Polyvinylchloride{{< /hl-text >}}.
 
 > about {{< hl-text blue>}}1140-3573 kg CO2-eq./t{{< /hl-text >}} polymer waste achieved when one additional tonne of plastic waste is recycled comparing alternative treatments, including a mix of incineration and landfilling.
 
