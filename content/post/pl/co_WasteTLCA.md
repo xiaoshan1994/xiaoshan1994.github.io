@@ -580,14 +580,7 @@ European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Ne
 [^HYDROW]: For specific biopolymers (in this case, PLA), the polymer can be dissolved in water when heated up and broken down to its monomer building blocks. These monomers can be re-used in making new polymers.
 [^TR]: The polymer is not kept intact, but valuable materials (feedstock, monomers) are being recovered.
 [^qr]:  The material is incinerated and fully destroyed. However, the high calorific value of plastic results in recovery of energy as {{< hl-text blue>}}heat and electricity{{< /hl-text >}}. The amount of heat and power depend on the {{< hl-text blue>}}calorific value (energy content){{< /hl-text >}} of the polymer and the {{< hl-text blue>}}configuration of the waste-to-energy plant{{< /hl-text >}}.
-[^pro]: 1. sorting (receive pure-coloured PET bales in recycling plants in Switzerland);
-2. cut the wire of PET bales;
-3. pass through a metal separator (separates aluminium-containing labels);
-4. shredded with knives to 12 mm size in the mill;
-5. air separator separates the label residues from the PET flakes (labels to incinerator);
-6. Sink in water where caps separated (caps for PE recycling);
-7. flakes purified by heating at 200 degree with 50% sodium hydroxide;
-8. washing and drying.
+[^pro]: 1. sorting (receive pure-coloured PET bales in recycling plants in Switzerland); 2. cut the wire of PET bales; 3. pass through a metal separator (separates aluminium-containing labels); 4. shredded with knives to 12 mm size in the mill; 5. air separator separates the label residues from the PET flakes (labels to incinerator); 6. Sink in water where caps separated (caps for PE recycling); 7. flakes purified by heating at 200 degree with 50% sodium hydroxide; 8. washing and drying.
 [^twore]: amorphous (no definite shape) and bottle grade. For bottle grade, the viscosity of the recycled flakes is increased to a comparable level of primary PET by solid state polymerization (SSP). Data were derived from involved recycling facilities). About 40’000 t of PET bottles per year are collected in Switzerland and further processed to bottle grade (30 % recycling content) or amorphous (50 % recycling content) PET granulate. 20 % of the PET cannot be recycled again and is incinerated. Data for the PET recycling processes were derived via PET Recycling Schweiz (PRS).
 [^sbm]: a manufacturing process that's well suited for different applications across a broad range of industry sectors. Blow molding is an engineering procedure in which hollow plastic forms such as water bottles and juice bottles are formed.
 [^LFG]: [Landfill gas (LFG)](https://www.epa.gov/lmop/basic-information-about-landfill-gas#:~:text=LFG%20is%20extracted%20from%20landfills,in%20an%20LFG%20energy%20project.) is a natural byproduct of the decomposition of organic material in landfills. LFG is composed of roughly 50 percent methane (the primary component of natural gas), 50 percent carbon dioxide (CO2) and a small amount of non-methane organic compounds.
