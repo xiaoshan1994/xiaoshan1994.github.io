@@ -604,7 +604,7 @@ https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A01994L0062-20180704
 # Questions & Answers: A European strategy for plastics
 https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
 
-> In the EU, the potential for recycling plastic waste remains largely unexploited. Around {{< hl-text blue>}}26 million tonnes of plastic waste{{< hl-text blue>}} are generated in Europe every year. But {{< hl-text blue>}}less than 30%{{< /hl-text >}} of such waste is collected for recycling. Of this amount, a significant share leaves the EU to be treated in third countries, where different environmental standards may apply.{{< hl-text blue>}}70% of plastic waste{{< /hl-text >}} is put in landfills or incinerated.
+> In the EU, the potential for recycling plastic waste remains largely unexploited. Around {{< hl-text blue>}}26 million tonnes of plastic waste{{< /hl-text >}} are generated in Europe every year. But {{< hl-text blue>}}less than 30%{{< /hl-text >}} of such waste is collected for recycling. Of this amount, a significant share leaves the EU to be treated in third countries, where different environmental standards may apply.{{< hl-text blue>}}70% of plastic waste{{< /hl-text >}} is put in landfills or incinerated.
 
 > What's more, {{< hl-text blue>}}the cost of incinerating plastic waste is high{{< /hl-text >}}. The potential annual energy savings that could be achieved from recycling all global plastic waste is equivalent to 3.5 billion barrels of oil per year. Not to mention the effect on the carbon footprint – recycling 1 million tonnes of plastics is the equivalent of taking 1 million cars off the road.
 
@@ -613,6 +613,7 @@ https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
 > According to recent scientific data, {{< hl-text blue>}}single-use plastics{{< /hl-text >}} represent {{< hl-text blue>}}half of all marine litter{{< /hl-text >}}. It has been forecast that {{< hl-text blue>}}by 2050{{< /hl-text >}} there will be {{< hl-text blue>}}more plastics than fish{{< hl-text blue>}} in the oceans, {{< hl-text blue>}}by weight.
 
 > **{{< hl-text blue>}}About two-thirds of plastic waste comes from packaging{{< /hl-text >}}**.
+
 
 [^frr]: Calculated based on **{{< hl-text blue>}}the amount of recycled material ultimately obtained{{< /hl-text >}}**, considering the whole recycling chain (collection, sorting, and reprocessing into pellets, flakes and granules).
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
