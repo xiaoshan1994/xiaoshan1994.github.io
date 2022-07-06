@@ -559,7 +559,7 @@ in open dumps and other unhygienic treatments
 
 # Environmental effects of plastic waste recycling
 European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Nessi, S., Environmental effects of plastic waste recycling, Publications Office, 2021, https://data.europa.eu/doi/10.2760/955772
-
+## Summary and abstract
 * EU level
 
 >  These include {{< hl-text blue>}}Polyethylene Terephthalate (both amorphous and bottle-grade){{< /hl-text >}}, {{< hl-text blue>}}High-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Low-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Polypropylene{{< /hl-text >}}, {{< hl-text blue>}}Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Expanded Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Polyurethane{{< /hl-text >}}, and {{< hl-text blue>}}Polyvinylchloride{{< /hl-text >}}.
@@ -570,11 +570,49 @@ European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Ne
 
 > In a broader perspective, considering that the {{< hl-text blue>}}annual generation of plastic waste in the EU{{< /hl-text >}} is estimated to about {{< hl-text blue>}}29.1 Mt{{< /hl-text >}}, a total (additional to what achieved today with current recycling) {{< hl-text blue>}}annual GHG saving potential{{< /hl-text >}} of nearly {{< hl-text blue>}}17.6 Mt CO2-eq{{< /hl-text >}}. can be estimated under the assumption that 70% of the investigated polymer waste currently non-collected (i.e. landfilled or incinerated) is instead collected and sent for recycling, and assuming constant conditions for technology efficiencies and energy systems (as of today). This corresponds to the average impact of 2.3 million of EU citizens. Under the hypothetical scenario that 100% of the investigated polymer waste were collected for recycling, the annual GHG savings would reach about {{< hl-text blue>}}25 Mt CO2-eq{{< /hl-text >}}. The results of this study are highly relevant for circular economy policies related to plastics and for informing how the circular economy can contribute to the objectives of the EU Green Deal, especially in respect to decarbonisation.
 
-> plastic waste collected and sent for recycling are as low as {{< hl-text blue>}}32.5%{{< /hl-text >}} for {{< hl-text blue>}}post-consumer plastic waste{{< /hl-text >}} as a whole, and {{< hl-text blue>}}42% for plastic packaging waste{{< /hl-text >}} (PlasticsEurope 2020; data for EU28+NO+CH).
+> {{< hl-text blue>}}plastic waste collected and sent for recycling{{< /hl-text >}} are as low as {{< hl-text blue>}}32.5%{{< /hl-text >}} for {{< hl-text blue>}}post-consumer plastic waste{{< /hl-text >}} as a whole, and {{< hl-text blue>}}42% for plastic packaging waste{{< /hl-text >}} (PlasticsEurope 2020; data for EU28+NO+CH).
 
 > For example, for post-consumer plastic packaging waste Antonopoulos et al. (2021) estimated {{< hl-text blue>}}a final recycling rate{{< /hl-text >}}[^frr] of about 14% within EU27 (25% when assuming that all plastic waste collected, sorted and exported outside EU27, e.g. to Asia, is also fully recycled) using a dedicated material flow analysis.
 
+{{< alert info>}}See the recycling rate difference caused by plastic waste exported outside EU.{{< /alert >}}
+
 > A significant portion of the generated plastic waste is therefore currently disposed of in {{< hl-text blue>}}landfills{{< /hl-text >}}, {{< hl-text blue>}}incinerated{{< /hl-text >}}, {{< hl-text blue>}}or exported outside EU{{< /hl-text >}}, thus incurring loss of valuable resources alongside environmental emissions, primarily (but not limited to) CO2 from the oxidation of the fossil carbon in the incinerated plastic material.
+
+## 1 Introduction
+
+> In view of this situation, the {{< hl-text blue>}}European Commission has set ambitious targets{{< /hl-text >}} on the recycling of plastic packaging waste, i.e. {{< hl-text blue>}}50%{{< /hl-text >}}, {{< hl-text blue>}}55%{{< /hl-text >}}, and {{< hl-text blue>}}60%{{< /hl-text >}} of the amount generated to be achieved by {{< hl-text blue>}}2025{{< /hl-text >}}, {{< hl-text blue>}}2030{{< /hl-text >}}, and {{< hl-text blue>}}2035{{< /hl-text >}}, respectively (European Parliament and the Council, 2018; amendment to Directive 94/62/EC on Packaging and Packaging Waste).
+
+
+# Recycling of post-consumer plastic packaging waste in the EU: Recovery rates, material flows, and barriers
+[Waste Management](https://doi.org/10.1016/j.wasman.2021.04.002)
+19 April 2021
+Ioannis Antonopoulos, Giorgia Faraca, Davide Tonini
+European Commission Joint Research Centre, Calle Inca Garcilaso 3, 41092 Sevilla, Spain
+
+## Highlights
+* Recovery rates are higher for {{< hl-text blue>}}PET and HDPE{{< /hl-text >}} and lower for films, PP, PS.
+* Current EU27 PPW recycling rate is 15% excluding the exported waste (25% otherwise)
+* {{< hl-text blue>}}Presence of films{{< /hl-text >}} in the input-waste hampers recovery of target materials.
+* Substantial improvements are needed in the recycling chain, primarily the {{< hl-text blue>}}collection{{< /hl-text >}}.
+
+## 1. Introduction
+
+
+# European Parliament and Council Directive 94/62/EC of 20 December 1994 on packaging and packaging waste
+https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A01994L0062-20180704
+
+# Questions & Answers: A European strategy for plastics
+https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
+
+> In the EU, the potential for recycling plastic waste remains largely unexploited. Around {{< hl-text blue>}}26 million tonnes of plastic waste{{< hl-text blue>}} are generated in Europe every year. But {{< hl-text blue>}}less than 30%{{< /hl-text >}} of such waste is collected for recycling. Of this amount, a significant share leaves the EU to be treated in third countries, where different environmental standards may apply.{{< hl-text blue>}}70% of plastic waste{{< /hl-text >}} is put in landfills or incinerated.
+
+> What's more, {{< hl-text blue>}}the cost of incinerating plastic waste is high{{< /hl-text >}}. The potential annual energy savings that could be achieved from recycling all global plastic waste is equivalent to 3.5 billion barrels of oil per year. Not to mention the effect on the carbon footprint – recycling 1 million tonnes of plastics is the equivalent of taking 1 million cars off the road.
+
+> The new rules fix a new target of {{< hl-text blue>}}55% recycling of plastic packaging waste by 2030{{< /hl-text >}}, set a ban on landfilling separately collected waste and fix stronger arrangements for extended producer responsibility (EPR) schemes.
+
+> According to recent scientific data, {{< hl-text blue>}}single-use plastics{{< /hl-text >}} represent {{< hl-text blue>}}half of all marine litter{{< /hl-text >}}. It has been forecast that {{< hl-text blue>}}by 2050{{< /hl-text >}} there will be {{< hl-text blue>}}more plastics than fish{{< hl-text blue>}} in the oceans, {{< hl-text blue>}}by weight.
+
+> **{{< hl-text blue>}}About two-thirds of plastic waste comes from packaging{{< /hl-text >}}**.
 
 [^frr]: Calculated based on **{{< hl-text blue>}}the amount of recycled material ultimately obtained{{< /hl-text >}}**, considering the whole recycling chain (collection, sorting, and reprocessing into pellets, flakes and granules).
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
