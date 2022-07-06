@@ -602,6 +602,7 @@ European Commission Joint Research Centre, Calle Inca Garcilaso 3, 41092 Sevilla
 https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A01994L0062-20180704
 
 # Questions & Answers: A European strategy for plastics
+16 januari 2018
 https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
 
 > In the EU, the potential for recycling plastic waste remains largely unexploited. Around {{< hl-text blue>}}26 million tonnes of plastic waste{{< /hl-text >}} are generated in Europe every year. But {{< hl-text blue>}}less than 30%{{< /hl-text >}} of such waste is collected for recycling. Of this amount, a significant share leaves the EU to be treated in third countries, where different environmental standards may apply.{{< hl-text blue>}}70% of plastic waste{{< /hl-text >}} is put in landfills or incinerated.
@@ -613,6 +614,20 @@ https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
 > According to recent scientific data, {{< hl-text blue>}}single-use plastics{{< /hl-text >}} represent {{< hl-text blue>}}half of all marine litter{{< /hl-text >}}. It has been forecast that {{< hl-text blue>}}by 2050{{< /hl-text >}} there will be {{< hl-text blue>}}more plastics than fish{{< hl-text blue>}} in the oceans, {{< hl-text blue>}}by weight.
 
 > **{{< hl-text blue>}}About two-thirds of plastic waste comes from packaging{{< /hl-text >}}**.
+
+> Today's situation where {{< hl-text blue>}}31% of plastic waste goes to landfill and 39% to incineration{{< /hl-text >}} means loss of precious resources and is not acceptable. This will require investment in collection, sorting and recycling infrastructure; and improving the traceability of materials and substances in materials so that the correct recycling technology can be applied.
+
+# Plastic waste and recycling in the EU: facts and figures
+Updated: 30-06-2021 - 14:01
+Created: 19-12-2018 - 14:58
+[News from EU parliament](https://www.europarl.europa.eu/news/en/headlines/society/20181212STO21610/plastic-waste-and-recycling-in-the-eu-facts-and-figures)
+* Nearly a third of plastic waste in Europe is recycled.
+* **Plastic production** by type: {{< hl-text blue>}}39.9% Packaging, 19.8% Building and construction, 9.9% Automotive, 6.2% Electrical and electronic equipment{{< /hl-text >}}. 
+![image](https://user-images.githubusercontent.com/65668613/177603620-b5f9b104-4136-4fd2-a934-6edf897516fb.png)
+
+# Guidance for the compilation and reporting of data on packaging and packaging waste according to Decision 2005/270/EC
+[Eurostat Waste Methodology](https://ec.europa.eu/eurostat/documents/342366/351811/PPW+-+Guidance+for+the+compilation+and+reporting+of+data+on+packaging+and+packaging+waste.pdf/297d0cda-e5ff-41e5-855b-5d0abe425673?t=1621978014507)
+
 
 
 [^frr]: Calculated based on **{{< hl-text blue>}}the amount of recycled material ultimately obtained{{< /hl-text >}}**, considering the whole recycling chain (collection, sorting, and reprocessing into pellets, flakes and granules).
