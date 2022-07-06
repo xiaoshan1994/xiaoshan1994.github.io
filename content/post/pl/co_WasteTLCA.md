@@ -559,6 +559,7 @@ in open dumps and other unhygienic treatments
 
 # Environmental effects of plastic waste recycling
 European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Nessi, S., Environmental effects of plastic waste recycling, Publications Office, 2021, https://data.europa.eu/doi/10.2760/955772
+
 * EU level
 
 >  These include {{< hl-text blue>}}Polyethylene Terephthalate (both amorphous and bottle-grade){{< /hl-text >}}, {{< hl-text blue>}}High-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Low-density Polyethylene{{< /hl-text >}}, {{< hl-text blue>}}Polypropylene{{< /hl-text >}}, {{< hl-text blue>}}Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Expanded Polystyrene{{< /hl-text >}}, {{< hl-text blue>}}Polyurethane{{< /hl-text >}}, and {{< hl-text blue>}}Polyvinylchloride{{< /hl-text >}}.
@@ -568,6 +569,10 @@ European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Ne
 > Savings are highest for recycling of {{< hl-text blue>}}Polyurethane and bottle-grade Polyethylene Terephthalate{{< /hl-text >}}, and when recycling displaces incineration, due to the avoided CO2 emissions from combustion of fossil carbon in polymers.
 
 > In a broader perspective, considering that the {{< hl-text blue>}}annual generation of plastic waste in the EU{{< /hl-text >}} is estimated to about {{< hl-text blue>}}29.1 Mt{{< /hl-text >}}, a total (additional to what achieved today with current recycling) {{< hl-text blue>}}annual GHG saving potential{{< /hl-text >}} of nearly {{< hl-text blue>}}17.6 Mt CO2-eq{{< /hl-text >}}. can be estimated under the assumption that 70% of the investigated polymer waste currently non-collected (i.e. landfilled or incinerated) is instead collected and sent for recycling, and assuming constant conditions for technology efficiencies and energy systems (as of today). This corresponds to the average impact of 2.3 million of EU citizens. Under the hypothetical scenario that 100% of the investigated polymer waste were collected for recycling, the annual GHG savings would reach about {{< hl-text blue>}}25 Mt CO2-eq{{< /hl-text >}}. The results of this study are highly relevant for circular economy policies related to plastics and for informing how the circular economy can contribute to the objectives of the EU Green Deal, especially in respect to decarbonisation.
+
+* plastic waste collected and sent for recycling are as low as {{< hl-text blue>}}32.5%{{< /hl-text >}} for {{< hl-text blue>}}post-consumer plastic waste{{< /hl-text >}} as a whole, and {{< hl-text blue>}}42% for plastic packaging waste{{< /hl-text >}} (PlasticsEurope 2020; data for EU28+NO+CH).
+
+
 
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
