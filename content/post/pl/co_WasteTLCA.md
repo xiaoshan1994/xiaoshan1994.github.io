@@ -572,8 +572,7 @@ European Commission, Joint Research Centre, Tonini, D., Garcia-Gutierrez, P., Ne
 
 * plastic waste collected and sent for recycling are as low as {{< hl-text blue>}}32.5%{{< /hl-text >}} for {{< hl-text blue>}}post-consumer plastic waste{{< /hl-text >}} as a whole, and {{< hl-text blue>}}42% for plastic packaging waste{{< /hl-text >}} (PlasticsEurope 2020; data for EU28+NO+CH).
 
-
-
+> A significant portion of the generated plastic waste is therefore currently disposed of in {{< hl-text blue>}}landfills{{< /hl-text >}}, {{< hl-text blue>}}incinerated{{< /hl-text >}}, {{< hl-text blue>}}or exported outside EU{{< /hl-text >}}, thus incurring loss of valuable resources alongside environmental emissions, primarily (but not limited to) CO2 from the oxidation of the fossil carbon in the incinerated plastic material.
 
 [^fuels]: it is assumed that all electricity is generated from lignite (LHV: 9.9 MJ/kg) and all heat from light fuel oil (LHV: 42.8 MJ/kg). This scenario might be representative of parts of Eastern Europe. In the renewables option (S-1.2), electricity from hydro power (100%) and heat from biogas (50%) and biomass (50%) are considered as examples. This or similar scenario could be relevant in the future for some European countries (e.g. Scandinavian).
 [^gas]: This chemical recycling technology resembles {{< hl-text blue>}}a high temperature gasification{{< /hl-text >}}. For this technology the polymer is used as a {{< hl-text blue>}}refuse derived fuel{{< /hl-text >}} and is transformed in a gasifier to syngas with a {{< hl-text blue>}}H2/CO molar ratio of 2:1{{< /hl-text >}}. The quantity of syngas and the accompanying CO2 emissions depending on the polymer type.
