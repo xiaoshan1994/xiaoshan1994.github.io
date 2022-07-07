@@ -611,7 +611,7 @@ https://ec.europa.eu/commission/presscorner/detail/sv/MEMO_18_6
 
 > The new rules fix a new target of {{< hl-text blue>}}55% recycling of plastic packaging waste by 2030{{< /hl-text >}}, set a ban on landfilling separately collected waste and fix stronger arrangements for extended producer responsibility (EPR) schemes.
 
-> According to recent scientific data, {{< hl-text blue>}}single-use plastics{{< /hl-text >}} represent {{< hl-text blue>}}half of all marine litter{{< /hl-text >}}. It has been forecast that {{< hl-text blue>}}by 2050{{< /hl-text >}} there will be {{< hl-text blue>}}more plastics than fish{{< hl-text blue>}} in the oceans, {{< hl-text blue>}}by weight.
+> According to recent scientific data, {{< hl-text blue>}}single-use plastics{{< /hl-text >}} represent {{< hl-text blue>}}half of all marine litter{{< /hl-text >}}. It has been forecast that {{< hl-text blue>}}by 2050{{< /hl-text >}} there will be {{< hl-text blue>}}more plastics than fish in the oceans{{< /hl-text >}}, by weight.
 
 > **{{< hl-text blue>}}About two-thirds of plastic waste comes from packaging{{< /hl-text >}}**.
 
