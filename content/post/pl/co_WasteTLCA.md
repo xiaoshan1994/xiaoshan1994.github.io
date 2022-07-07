@@ -622,7 +622,7 @@ Updated: 30-06-2021 - 14:01
 Created: 19-12-2018 - 14:58
 [News from EU parliament](https://www.europarl.europa.eu/news/en/headlines/society/20181212STO21610/plastic-waste-and-recycling-in-the-eu-facts-and-figures)
 * Nearly a third of plastic waste in Europe is recycled.
-* **Plastic production** by type: {{< hl-text blue>}}39.9% Packaging, 19.8% Building and construction, 9.9% Automotive, 6.2% Electrical and electronic equipment{{< /hl-text >}}. 
+* **Plastic production** by type: {{< hl-text blue>}}39.9% Packaging, 19.8% Building and construction, 9.9% Automotive, 6.2% Electrical and electronic equipment{{< /hl-text >}}.
 ![image](https://user-images.githubusercontent.com/65668613/177603620-b5f9b104-4136-4fd2-a934-6edf897516fb.png)
 
 # Guidance for the compilation and reporting of data on packaging and packaging waste according to Decision 2005/270/EC
