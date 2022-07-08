@@ -21,6 +21,7 @@ Math: True
 {{< toc >}}
 
 {{< wide-image src="https://www.nationsonline.org/maps/countries_europe_map-L.jpg" title="Map of the European States" >}}
+
 # Slavs
 Slavs are the largest European ethnolinguistic group. Present-day Slavs are classified into **East Slavs** (chiefly Belarusians, Russians, Rusyns, and Ukrainians), **West Slavs** (chiefly Czechs, Kashubs, Poles, Slovaks, Silesians and Sorbs) and **South Slavs** (chiefly Bosniaks, Bulgarians, Croats, Macedonians, Montenegrins, Serbs and Slovenes).
 
