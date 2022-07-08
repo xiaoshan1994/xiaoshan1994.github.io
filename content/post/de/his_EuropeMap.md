@@ -8,12 +8,12 @@ tags:
 - Europe history
 keywords:
 - tech
-coverImage:
+coverImage: https://www.nationsonline.org/maps/countries_europe_map-L.jpg
 coverSize: full
 coverMeta: out
 metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+thumbnailImage: https://www.nationsonline.org/maps/countries_europe_map-L.jpg
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
