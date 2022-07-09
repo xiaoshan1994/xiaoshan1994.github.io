@@ -1,5 +1,5 @@
 ---
-title: "Europe Map"
+title: "Europe Map and ethnic groups"
 date: 2022-07-08T16:49:17+02:00
 categories:
 - Daily English
@@ -18,6 +18,13 @@ Math: True
 {{< toc >}}
 
 {{< wide-image src="https://www.nationsonline.org/maps/countries_europe_map-L.jpg" title="Map of the European States" >}}
+
+# Ethnic groups in Europe
+
+Of the total population of Europe of some 740 million (as of 2010), close to 90% (or some 650 million) fall within three large branches of Indo-European languages, these being:
+* Romance, including Aromanian, Arpitan, Catalan, Corsican, French and other Langues d'oïl, Friulian, Galician, Istro-Romanian, Italian, Ladino, Megleno-Romanian, Occitan, Portuguese, Romanian, Romansh, Sardinian and Spanish.
+* Germanic, including Danish, Dutch, English, Faroese, Frisian, German, Icelandic, Limburgish, Low Saxon, Luxembourgish, Norwegian, Scots, Swedish, and Yiddish. Afrikaans, a daughter language of Dutch, is spoken by some South African and Namibian migrant populations.
+* Slavic, including Belarusian, Bulgarian, Czech, Kashubian, Macedonian, Polish, Russian, Rusyn, Serbo-Croatian, Slovak, Slovenian, Sorbian and Ukrainian.
 
 # Slavs
 Slavs are the largest European ethnolinguistic group. Present-day Slavs are classified into **East Slavs** (chiefly Belarusians, Russians, Rusyns, and Ukrainians), **West Slavs** (chiefly Czechs, Kashubs, Poles, Slovaks, Silesians and Sorbs) and **South Slavs** (chiefly Bosniaks, Bulgarians, Croats, Macedonians, Montenegrins, Serbs and Slovenes).
@@ -42,7 +49,7 @@ According to Y chromosome, mDNA, and autosomal marker CCR5de132, the gene pool o
 
 The 2006 Y-DNA study results "suggest that the Slavic expansion started from the territory of present-day {{< hl-text blue>}}Ukraine{{< /hl-text >}}, thus supporting the hypothesis that places the earliest known homeland of Slavs in the basin of the middle Dnieper". According to genetic studies until 2020, the distribution, variance and frequency of the Y-DNA haplogroups R1a and I2 and their subclades R-M558, R-M458 and I-CTS10228 among South Slavs are in correlation with the spreading of Slavic languages during the medieval Slavic expansion from Eastern Europe, most probably from the territory of present-day Ukraine and Southeastern Poland.
 
-# Old Prussians and Prussia
+## Old Prussians and Prussia
 Old Prussians, Baltic Prussians or simply Prussians were an {{< hl-text blue>}}indigenous tribe{{< /hl-text >}} among the Baltic peoples that inhabited the region of Prussia, at the {{< hl-text blue>}}south-eastern shore of the Baltic Sea{{< /hl-text >}}.
 
 The duchy of the Polans under {{< hl-text blue>}}Mieszko I{{< /hl-text >}}[^mie], which was the predecessor of the Kingdom of Poland, first attempted to conquer and baptize the Baltic tribes during the 10th century, but repeatedly encountered strong resistance. Not until the 13th century were the Old Prussians subjugated and their lands conquered by the {{< hl-text blue>}}Teutonic Order{{< /hl-text >}}. The remaining Old Prussians were assimilated during the following two centuries. The old Prussian language, largely undocumented, was effectively extinct by the 17th century.
@@ -55,6 +62,8 @@ In 1871, owing to the efforts of Prussian Minister-President {{< hl-text blue>}}
 
 The end of Prussia
 The areas east of the Oder-Neisse line, mainly Eastern Prussia, Western Prussia, and Silesia, were ceded over to Poland and the Soviet Union in {{< hl-text blue>}}1945{{< /hl-text >}} owing to the {{< hl-text blue>}}Treaty of Potsdam{{< /hl-text >}}[^pos]between {{< hl-text blue>}}three of the Allies{{< /hl-text >}}: the United States, United Kingdom, and the Soviet Union. This included important Prussian cities like Danzig, Königsberg, Breslau, and Stettin. The population fled, mostly to the Western zones, or was driven out.
+
+# Teutons
 
 [^mie]: Mieszko I  (c. 930 – 25 May 992) was the ruler of Poland from about 960 to his death and was the founder of the first independent Polish state, the Duchy of Poland.
 [^pos]: The Potsdam Agreement was the August 1945 agreement between three of the Allies of World War II: the United Kingdom, the United States, and the Soviet Union. A product of the Potsdam Conference, it concerned the military occupation and reconstruction of Germany, its borders, and the entire European Theatre of War territory. It also addressed Germany's demilitarisation, reparations, the prosecution of war criminals and the mass expulsion of ethnic Germans from various parts of Europe.
