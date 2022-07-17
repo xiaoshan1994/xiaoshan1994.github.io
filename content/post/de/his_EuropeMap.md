@@ -67,3 +67,15 @@ The areas east of the Oder-Neisse line, mainly Eastern Prussia, Western Prussia,
 
 [^mie]: Mieszko I  (c. 930 – 25 May 992) was the ruler of Poland from about 960 to his death and was the founder of the first independent Polish state, the Duchy of Poland.
 [^pos]: The Potsdam Agreement was the August 1945 agreement between three of the Allies of World War II: the United Kingdom, the United States, and the Soviet Union. A product of the Potsdam Conference, it concerned the military occupation and reconstruction of Germany, its borders, and the entire European Theatre of War territory. It also addressed Germany's demilitarisation, reparations, the prosecution of war criminals and the mass expulsion of ethnic Germans from various parts of Europe.
+
+# Liechtenstein /ˈlɪktənstaɪn/
+
+a German-speaking microstate located in the Alps between Austria and Switzerland. Liechtenstein is a constitutional monarchy headed by the Prince of Liechtenstein. It was once known as {{< hl-text blue>}}a billionaire tax haven{{< /hl-text >}}, but is no longer on any official blacklists of uncooperative tax haven countries. An Alpine country, Liechtenstein is mountainous, making it a winter sport destination.
+
+Liechtenstein was in dire financial straits following the end of World War II. The Liechtenstein dynasty often resorted to selling family artistic treasures, including the portrait Ginevra de' Benci by Leonardo da Vinci, which was purchased by the National Gallery of Art of the United States in 1967 for US$5 million ($41 million in 2021 dollars), then a record price for a painting.
+
+By the late 1970s, Liechtenstein used its low corporate tax rates to draw many companies and became one of the wealthiest countries in the world.
+
+Liechtenstein is one of the few countries in Europe (along with Monaco and San Marino) not to have a tax treaty with the United States, and efforts toward one seem to have stalled.
+
+As of September 2019 the Prince of Liechtenstein is the world's sixth wealthiest monarch, with an estimated wealth of US$3.5 billion. The country's population enjoys one of the world's highest standards of living.
