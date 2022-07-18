@@ -628,16 +628,41 @@ Created: 19-12-2018 - 14:58
 # Guidance for the compilation and reporting of data on packaging and packaging waste according to Decision 2005/270/EC
 [Eurostat Waste Methodology](https://ec.europa.eu/eurostat/documents/342366/351811/PPW+-+Guidance+for+the+compilation+and+reporting+of+data+on+packaging+and+packaging+waste.pdf/297d0cda-e5ff-41e5-855b-5d0abe425673?t=1621978014507)
 
+## 3 Guidance for the preparation of data for reporting
+### 3.1.1 Placed on the market data
 One method of obtaining waste generation data is based on the collection of data on the {{< hl-text blue>}}amount of packaging waste placed on the market (PoM){{< /hl-text >}}. As stated in Article 6a of the Directive:  
 > “Member States shall calculate the weight of packaging waste generated and recycled in a given calendar year. Packaging waste generated in a Member State may be deemed to be equal to the amount of packaging placed on the market in the same year within that Member State.”
 
 Typically, producers provide information on the amount of packaging PoM through an {{< hl-text blue>}}Extended Producer Responsibility (EPR) scheme{{< /hl-text >}}.
+
+#### 3.1.1.7 Best practice example - Netherlands
 
 In the Netherlands, PoM data is collected through the national EPR scheme, run by Afvalfonds Verpakkingen. Producers/importers of packaged products are required to report PoM data as part of their essential EPR requirements.
 
 > The Netherlands sets a de minimis producer/importer reporting threshold of 50,000 kg per year of packaging PoM. While only 3% of companies placing packaging on the Dutch market fall above this de minimis threshold, these companies account for 93% of the market. Afvalfonds Verpakkingen then estimates the weight of packaging PoM by producers/importers falling below the de minimis threshold, based on a survey it has undertaken in order to understand the gaps in the PoM data.
 
 Afvalfonds Verpakkingen also cooperates with municipalities and companies as part of the Netherlands’ Packaging Agreement, under which {{< hl-text blue>}}the EPR system collects money from producers/importers and remunerates municipalities for packaging collection costs{{< /hl-text >}}. In addition, a quality protocol between Afvalfonds Verpakkingen and municipalities defines the quality criteria for all collected materials.
+
+### Afvalfonds Verpakkingen (Packaging Waste Fund Foundation in the Netherlands)
+
+By 2020, {{< hl-text blue>}}82%{{< /hl-text >}} of all packaging released on the market was recycled. This figure is well above the Dutch target of {{< hl-text blue>}}70%{{< /hl-text >}} and means that we also well exceed the {{< hl-text blue>}}EU target of 55%{{< /hl-text >}}.
+
+![image](https://user-images.githubusercontent.com/65668613/179518933-04a654eb-ef3b-4796-908a-cc0b21f0d747.png)
+
+{{< alert warning >}}They are recycling rates of plastic under the category of packaging{{< /alert >}}
+
+#### 3.1.2.3 Best practice example – Ireland
+
+The data are processed and compiled by the Irish Environmental Protection Agency (EPA).
+
+The system differentiates between packaging waste that is {{< hl-text blue>}}recycled{{< /hl-text >}} and packaging waste that is {{< hl-text blue>}}not recycled{{< /hl-text >}}, with a different approach to collecting data on each. In general, the measurement point for the former is {{< hl-text blue>}}outputs from waste treatment facilities{{< /hl-text >}}, while the measurement point for the latter is {{< hl-text blue>}}at the point of waste collection{{< /hl-text >}}. The sum of the two is assumed to be the total packaging waste generated; adjustments are made where necessary.
+
+To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste{{< /hl-text >}}, the EPA applies national factors determined by waste compositional analysis. These studies are well developed and control for geographical, seasonal and socio-economic variations as far as possible.
+
+###  Irish Environmental Protection Agency (EPA)
+
+## 3.2 Recycling
+
 
 
 
