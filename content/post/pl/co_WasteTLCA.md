@@ -666,30 +666,40 @@ To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste
 
 ## 3.2 Recycling
 
-# DIRECTIVE 2008/98/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 on waste and repealing certain Directives
+# DIRECTIVE 2008/98/EC (known as the Waste Framework Directive or WFD)
 [Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)
 
 ## Article 3 Definitions
 
-2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
+* 2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
 
-14. ‘{{< hl-text blue>}}treatment{{< /hl-text >}}’ means recovery or disposal operations, including {{< hl-text blue>}}preparation prior to recovery or disposal{{< /hl-text >}};
+* 2b. ‘municipal waste’ means:
+(a) mixed waste and separately collected waste from households, including {{< hl-text blue>}}paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture{{< /hl-text >}};
+(b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households;
 
-15. ‘recovery’ means any operation the principal result of which is waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in the plant or in the wider economy. Annex II sets out a non-exhaustive list of recovery operations;
+Municipal waste does not include waste from {{< hl-text blue>}}production, agriculture, forestry, fishing, septic tanks and sewage network and treatment{{< /hl-text >}}, including {{< hl-text blue>}}sewage sludge{{< /hl-text >}}, {{< hl-text blue>}}end-of-life vehicles{{< /hl-text >}} or {{< hl-text blue>}}construction and demolition waste{{< /hl-text >}}.
 
-17. ‘recycling’ means any {{< hl-text blue>}}recovery operation{{< /hl-text >}} by which {{< hl-text blue>}}waste materials are reprocessed into products, materials or substances{{< /hl-text >}} whether for {{< hl-text blue>}}the original or other purposes{{< /hl-text >}}. It includes the {{< hl-text blue>}}reprocessing of organic material{{< /hl-text >}} but does not include {{< hl-text blue>}}energy recovery{{< /hl-text >}} and the reprocessing into materials that are to be used as {{< hl-text blue>}}fuels or for backfilling operations{{< /hl-text >}};
+* 4. ‘bio-waste’ means biodegradable garden and park waste, food and kitchen waste from households, offices, restaurants, wholesale, canteens, caterers and retail premises and comparable waste from food processing plants;
 
-19. ‘disposal’ means any operation which is not recovery even where the operation has as a secondary consequence the reclamation of substances or energy. Annex I sets out a non-exhaustive list of disposal operations;
+* 14. ‘{{< hl-text blue>}}treatment{{< /hl-text >}}’ means recovery or disposal operations, including {{< hl-text blue>}}preparation prior to recovery or disposal{{< /hl-text >}};
+
+* 15. ‘recovery’ means any operation the principal result of which is waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in the plant or in the wider economy. Annex II sets out a non-exhaustive list of recovery operations;
+
+* 17. ‘recycling’ means any {{< hl-text blue>}}recovery operation{{< /hl-text >}} by which {{< hl-text blue>}}waste materials are reprocessed into products, materials or substances{{< /hl-text >}} whether for {{< hl-text blue>}}the original or other purposes{{< /hl-text >}}. It includes the {{< hl-text blue>}}reprocessing of organic material{{< /hl-text >}} but does not include {{< hl-text blue>}}energy recovery{{< /hl-text >}} and the reprocessing into materials that are to be used as {{< hl-text blue>}}fuels or for backfilling operations{{< /hl-text >}};
+
+* 17a. ‘backfilling’ means any recovery operation where suitable non-hazardous waste is used for purposes of {{< hl-text blue>}}reclamation in excavated areas or for engineering purposes in landscaping{{< /hl-text >}}. Waste used for backfilling must substitute non-waste materials, be suitable for the aforementioned purposes, and be limited to the amount strictly necessary to achieve those purposes.
+
+* 19. ‘disposal’ means any operation which is not recovery even where the operation has as a secondary consequence the reclamation of substances or energy. Annex I sets out a non-exhaustive list of disposal operations;
 
 ## Article 4 Waste hierarchy
-1. The following waste hierarchy shall apply as a priority order in waste prevention and management legislation and policy:
+1. The following {{< hl-text blue>}}waste hierarchy{{< /hl-text >}} shall apply as a priority order in waste prevention and management legislation and policy:
 (a) prevention;
 (b) preparing for re-use;
 (c) recycling;
 (d) other recovery, e.g. energy recovery; and
 (e) disposal.
 
-
+## Article 9 Prevention of waste
 
 
 [^frr]: Calculated based on **{{< hl-text blue>}}the amount of recycled material ultimately obtained{{< /hl-text >}}**, considering the whole recycling chain (collection, sorting, and reprocessing into pellets, flakes and granules).
