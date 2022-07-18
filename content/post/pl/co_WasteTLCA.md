@@ -635,7 +635,7 @@ One method of obtaining waste generation data is based on the collection of data
 
 Typically, producers provide information on the amount of packaging PoM through an {{< hl-text blue>}}Extended Producer Responsibility (EPR) scheme{{< /hl-text >}}.
 
-#### 3.1.1.7 Best practice example - Netherlands
+### 3.1.1.7 Best practice example - Netherlands
 
 In the Netherlands, PoM data is collected through the national EPR scheme, run by Afvalfonds Verpakkingen. Producers/importers of packaged products are required to report PoM data as part of their essential EPR requirements.
 
@@ -651,7 +651,7 @@ By 2020, {{< hl-text blue>}}82%{{< /hl-text >}} of all packaging released on the
 
 {{< alert warning >}}They are recycling rates of plastic under the category of packaging{{< /alert >}}
 
-#### 3.1.2.3 Best practice example – Ireland
+### 3.1.2.3 Best practice example – Ireland
 
 The data are processed and compiled by the Irish Environmental Protection Agency (EPA).
 
@@ -659,7 +659,10 @@ The system differentiates between packaging waste that is {{< hl-text blue>}}rec
 
 To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste{{< /hl-text >}}, the EPA applies national factors determined by waste compositional analysis. These studies are well developed and control for geographical, seasonal and socio-economic variations as far as possible.
 
-###  Irish Environmental Protection Agency (EPA)
+### Irish Environmental Protection Agency (EPA)
+#### Key findings for 2019
+
+
 
 ## 3.2 Recycling
 
