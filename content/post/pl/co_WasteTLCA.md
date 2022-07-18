@@ -666,6 +666,28 @@ To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste
 
 ## 3.2 Recycling
 
+# DIRECTIVE 2008/98/EC OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL of 19 November 2008 on waste and repealing certain Directives
+[Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)
+
+## Article 3 Definitions
+
+2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
+
+14. ‘{{< hl-text blue>}}treatment{{< /hl-text >}}’ means recovery or disposal operations, including {{< hl-text blue>}}preparation prior to recovery or disposal{{< /hl-text >}};
+
+15. ‘recovery’ means any operation the principal result of which is waste serving a useful purpose by replacing other materials which would otherwise have been used to fulfil a particular function, or waste being prepared to fulfil that function, in the plant or in the wider economy. Annex II sets out a non-exhaustive list of recovery operations;
+
+17. ‘recycling’ means any {{< hl-text blue>}}recovery operation{{< /hl-text >}} by which {{< hl-text blue>}}waste materials are reprocessed into products, materials or substances{{< /hl-text >}} whether for {{< hl-text blue>}}the original or other purposes{{< /hl-text >}}. It includes the {{< hl-text blue>}}reprocessing of organic material{{< /hl-text >}} but does not include {{< hl-text blue>}}energy recovery{{< /hl-text >}} and the reprocessing into materials that are to be used as {{< hl-text blue>}}fuels or for backfilling operations{{< /hl-text >}};
+
+19. ‘disposal’ means any operation which is not recovery even where the operation has as a secondary consequence the reclamation of substances or energy. Annex I sets out a non-exhaustive list of disposal operations;
+
+## Article 4 Waste hierarchy
+1. The following waste hierarchy shall apply as a priority order in waste prevention and management legislation and policy:
+(a) prevention;
+(b) preparing for re-use;
+(c) recycling;
+(d) other recovery, e.g. energy recovery; and
+(e) disposal.
 
 
 
