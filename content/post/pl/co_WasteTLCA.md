@@ -628,6 +628,17 @@ Created: 19-12-2018 - 14:58
 # Guidance for the compilation and reporting of data on packaging and packaging waste according to Decision 2005/270/EC
 [Eurostat Waste Methodology](https://ec.europa.eu/eurostat/documents/342366/351811/PPW+-+Guidance+for+the+compilation+and+reporting+of+data+on+packaging+and+packaging+waste.pdf/297d0cda-e5ff-41e5-855b-5d0abe425673?t=1621978014507)
 
+One method of obtaining waste generation data is based on the collection of data on the {{< hl-text blue>}}amount of packaging waste placed on the market (PoM){{< /hl-text >}}. As stated in Article 6a of the Directive:  
+> “Member States shall calculate the weight of packaging waste generated and recycled in a given calendar year. Packaging waste generated in a Member State may be deemed to be equal to the amount of packaging placed on the market in the same year within that Member State.”
+
+Typically, producers provide information on the amount of packaging PoM through an {{< hl-text blue>}}Extended Producer Responsibility (EPR) scheme{{< /hl-text >}}.
+
+In the Netherlands, PoM data is collected through the national EPR scheme, run by Afvalfonds Verpakkingen. Producers/importers of packaged products are required to report PoM data as part of their essential EPR requirements.
+
+> The Netherlands sets a de minimis producer/importer reporting threshold of 50,000 kg per year of packaging PoM. While only 3% of companies placing packaging on the Dutch market fall above this de minimis threshold, these companies account for 93% of the market. Afvalfonds Verpakkingen then estimates the weight of packaging PoM by producers/importers falling below the de minimis threshold, based on a survey it has undertaken in order to understand the gaps in the PoM data.
+
+Afvalfonds Verpakkingen also cooperates with municipalities and companies as part of the Netherlands’ Packaging Agreement, under which {{< hl-text blue>}}the EPR system collects money from producers/importers and remunerates municipalities for packaging collection costs{{< /hl-text >}}. In addition, a quality protocol between Afvalfonds Verpakkingen and municipalities defines the quality criteria for all collected materials.
+
 
 
 
