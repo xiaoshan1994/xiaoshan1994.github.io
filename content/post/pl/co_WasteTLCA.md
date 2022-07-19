@@ -744,6 +744,10 @@ As from 1 January 2027, Member States may count municipal bio-waste entering aer
 \8.  {{< hl-text blue>}}Waste exported{{< /hl-text >}} from the Union for preparing for re-use or recycling shall count towards the attainment of the targets laid down in Article 11(2) and (3) of this Directive by the Member State in which it was collected only if the requirements of paragraph 3 of this Article are met and if, in accordance with Regulation (EC) No 1013/2006, the exporter can prove that the shipment of waste complies with the requirements of that Regulation and that the treatment of waste outside the Union took place in conditions that are broadly equivalent to the requirements of the relevant Union environmental law.
 
 ## Article 14 Costs
+1.  In accordance with the {{< hl-text blue>}}polluter-pays principle{{< /hl-text >}}, the costs of waste management, including for the necessary infrastructure and its operation, shall be borne by the {{< hl-text blue>}}original waste producer{{< /hl-text >}} or {{< hl-text blue>}}by the current or previous waste holders{{< /hl-text >}}.
+
+2.  Without prejudice to Articles 8 and 8a, Member States may decide that the costs of waste management are to be borne {{< hl-text blue>}}partly or wholly{{< /hl-text >}} by the {{< hl-text blue>}}producer{{< /hl-text >}} of the product from which the waste came and that the {{< hl-text blue>}}distributors{{< /hl-text >}} of such product may share these costs.
+
 
 
 
