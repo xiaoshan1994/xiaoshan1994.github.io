@@ -669,6 +669,8 @@ To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste
 # DIRECTIVE 2008/98/EC (known as the Waste Framework Directive or WFD)
 [Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)
 
+
+
 ## Article 3 Definitions
 
 \2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
