@@ -700,6 +700,17 @@ Municipal waste does not include waste from {{< hl-text blue>}}production, agric
 (e) disposal.
 
 ## Article 9 Prevention of waste
+1.  Member States shall take measures to prevent waste generation. Those measures shall, at least:
+(g) reduce the generation of food waste in primary production, in processing and manufacturing, in retail and other distribution of food, in restaurants and food services as well as in households as a contribution to the United Nations Sustainable Development Goal to reduce by 50 % the per capita global food waste at the retail and consumer levels and to reduce food losses along production and supply chains by 2030;
+(h) encourage food donation and other redistribution for human consumption, prioritising human use over animal feed and the reprocessing into non-food products;
+(i) promote the reduction of the content of hazardous substances in materials and products, without prejudice to harmonised legal requirements concerning those materials and products laid down at Union level, and ensure that any supplier of an article as defined in point 33 of Article 3 of Regulation (EC) No 1907/2006 of the European Parliament and of the Council ( 6 ) provides the information pursuant to Article 33(1) of that Regulation to the European Chemicals Agency as from 5 January 2021;
+(k) identify products that are the main sources of littering, notably in natural and marine environments, and take appropriate measures to prevent and reduce litter from such products; where Member States decide to implement this obligation through market restrictions, they shall ensure that such restrictions are proportionate and non-discriminatory;
+
+## Article 10 Recovery
+2.  Where necessary to comply with paragraph 1 and to facilitate or improve preparing for re-use, recycling and other recovery operations, waste shall be subject to {{< hl-text blue>}}separate collection{{< /hl-text >}} and {{< hl-text blue>}}shall not be mixed with other waste or other materials with different properties{{< /hl-text >}}.
+
+## Article 11 Preparing for re-use and recycling
+
 
 
 [^frr]: Calculated based on **{{< hl-text blue>}}the amount of recycled material ultimately obtained{{< /hl-text >}}**, considering the whole recycling chain (collection, sorting, and reprocessing into pellets, flakes and granules).
