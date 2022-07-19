@@ -27,12 +27,14 @@ One of the features of the WFD is the {{< hl-text blue>}}European Waste Hierarch
 
 ## Article 3 Definitions
 
-2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
+//2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
 
-\2b. ‘municipal waste’ means:
+2b. ‘municipal waste’ means:
 (a) mixed waste and separately collected waste from households, including {{< hl-text blue>}}paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture{{< /hl-text >}};
 (b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households;
 Municipal waste does not include waste from {{< hl-text blue>}}production, agriculture, forestry, fishing, septic tanks and sewage network and treatment{{< /hl-text >}}, including {{< hl-text blue>}}sewage sludge{{< /hl-text >}}, {{< hl-text blue>}}end-of-life vehicles{{< /hl-text >}} or {{< hl-text blue>}}construction and demolition waste{{< /hl-text >}}.
+
+3. ‘waste oils’ means any mineral or synthetic lubrication or industrial oils which have become unfit for the use for which they were originally intended, such as used combustion engine oils and gearbox oils, lubricating oils, oils for turbines and hydraulic oils;
 
 \4. ‘bio-waste’ means biodegradable garden and park waste, food and kitchen waste from households, offices, restaurants, wholesale, canteens, caterers and retail premises and comparable waste from food processing plants;
 
