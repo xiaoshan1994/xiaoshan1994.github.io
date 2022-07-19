@@ -7,7 +7,7 @@ categories:
 - Guidance
 tags:
 - EU
-thumbnailImage: https://agenda.ge/files/news/002/free-trade-with-efta.jpg
+thumbnailImage: https://www.efta.int/sites/default/files/styles/large/public/EFTAENsmall_History_0.jpg
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
