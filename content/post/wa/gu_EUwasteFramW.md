@@ -27,7 +27,7 @@ One of the features of the WFD is the {{< hl-text blue>}}European Waste Hierarch
 
 ## Article 3 Definitions
 
-//2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
+\\2. ‘hazardous waste’ means waste which displays one or more of the hazardous properties listed in Annex III;
 
 2b. ‘municipal waste’ means:
 (a) mixed waste and separately collected waste from households, including {{< hl-text blue>}}paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture{{< /hl-text >}};
