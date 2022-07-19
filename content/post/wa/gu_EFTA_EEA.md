@@ -7,7 +7,7 @@ categories:
 - Guidance
 tags:
 - EU
-thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/140px-Flag_of_Europe.svg.png
+thumbnailImage: https://agenda.ge/files/news/002/free-trade-with-efta.jpg
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
