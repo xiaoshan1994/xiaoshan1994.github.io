@@ -676,7 +676,6 @@ To estimate the {{< hl-text blue>}}packaging content of mixed non-recycled waste
 * 2b. ‘municipal waste’ means:
 (a) mixed waste and separately collected waste from households, including {{< hl-text blue>}}paper and cardboard, glass, metals, plastics, bio-waste, wood, textiles, packaging, waste electrical and electronic equipment, waste batteries and accumulators, and bulky waste, including mattresses and furniture{{< /hl-text >}};
 (b) mixed waste and separately collected waste from other sources, where such waste is similar in nature and composition to waste from households;
-
 Municipal waste does not include waste from {{< hl-text blue>}}production, agriculture, forestry, fishing, septic tanks and sewage network and treatment{{< /hl-text >}}, including {{< hl-text blue>}}sewage sludge{{< /hl-text >}}, {{< hl-text blue>}}end-of-life vehicles{{< /hl-text >}} or {{< hl-text blue>}}construction and demolition waste{{< /hl-text >}}.
 
 * 4. ‘bio-waste’ means biodegradable garden and park waste, food and kitchen waste from households, offices, restaurants, wholesale, canteens, caterers and retail premises and comparable waste from food processing plants;
