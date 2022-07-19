@@ -1,5 +1,5 @@
 ---
-title: "EFTA and the EEA: What are they"
+title: "EU, EEA, EFTA and Schengen countries"
 date: 2022-07-19T12:16:34+02:00
 description: ""
 categories:
@@ -14,6 +14,11 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
+# The 27 EU countries
+https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/2020_EU_MAP.svg/1200px-2020_EU_MAP.svg.png
+
+From 31 January 2020 the UK is no longer an EU/EEA member state. However, during the transition period EU law continues to apply.
+
 # What is EFTA?
 https://brexit.law/2016/07/06/efta-and-the-eea-what-are-they/
 
