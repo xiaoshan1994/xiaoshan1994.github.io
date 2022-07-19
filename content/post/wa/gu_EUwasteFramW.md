@@ -19,7 +19,7 @@ The Waste Framework Directive (WFD) is a European Union Directive concerned with
 
 One of the features of the WFD is the {{< hl-text blue>}}European Waste Hierarchy{{< /hl-text >}}.
 
-Key terms: End-of-waste criteria, High quality recycling, Separate collection, Technically, environmentally and economically practicable.
+**Key terms**: End-of-waste criteria, High quality recycling, Separate collection, Technically, environmentally and economically practicable.
 
 
 # DIRECTIVE 2008/98/EC (known as the Waste Framework Directive or WFD)
