@@ -1,57 +1,16 @@
 ---
-title: ""
+title: "EU Waste Framework Directive (WFD)"
 date: 2022-07-19T12:05:39+02:00
-description: ""
 categories:
-- category
-- subcategory
+- Waste
+- Guidance
 tags:
-- tag1
-- tag2
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+- EU
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/140px-Flag_of_Europe.svg.png
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-
+The present directive was adopted on 19 November 2008.
 <!--more-->
-### Table of content
 {{< toc >}}
-
-### Wide image showcase
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
-
-### left or right quote
-{{< pullquote left/right >}}content{{< /pullquote >}}
-
-### Youtube
-{{< youtube BSVkI3Ds8E >}}
-
-### Figure
-{{< image classes= "fig-33" src="https://xxx.png">}}
-
-### Figure with fancybox
-{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
-
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
