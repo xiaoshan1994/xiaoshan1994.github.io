@@ -15,6 +15,13 @@ The present directive was adopted on 19 November 2008.
 <!--more-->
 {{< toc >}}
 
+The Waste Framework Directive (WFD) is a European Union Directive concerned with "measures to {{< hl-text blue>}}protect the environment and human health by preventing or reducing the adverse impacts of the generation and management of waste and by reducing overall impacts of resource use and improving the efficiency of such use{{< /hl-text >}}". The first Waste Framework Directive dates back to 1975. It had previously been substantially amended in 1991 and 2006. The present directive was adopted on 19 November 2008.
+
+One of the features of the WFD is the {{< hl-text blue>}}European Waste Hierarchy{{< /hl-text >}}.
+
+Key terms: End-of-waste criteria, High quality recycling, Separate collection, Technically, environmentally and economically practicable.
+
+
 # DIRECTIVE 2008/98/EC (known as the Waste Framework Directive or WFD)
 [Official Journal of the European Union](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)
 
