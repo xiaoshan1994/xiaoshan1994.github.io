@@ -106,5 +106,46 @@ As from 1 January 2027, Member States may count municipal bio-waste entering aer
 
 ## Article 22 Bio-waste
 * 1.  Member States shall ensure that, by 31 December 2023 and subject to Article 10(2) and (3), bio-waste is either separated and recycled at source, or is collected separately and is not mixed with other types of waste.
+Member States may allow waste with {{< hl-text blue>}}similar biodegradability and compostability properties{{< /hl-text >}} which complies with relevant European standards or any equivalent national standards for packaging recoverable through composting and biodegradation, to be {{< hl-text blue>}}collected together with bio-waste{{< /hl-text >}}.
 
-Member States may allow waste with similar biodegradability and compostability properties which complies with relevant European standards or any equivalent national standards for packaging recoverable through composting and biodegradation, to be collected together with bio-waste.
+2.  Member States shall take measures in accordance with Articles 4 and 13, to:
+(a) encourage the {{< hl-text blue>}}recycling{{< /hl-text >}}, including {{< hl-text blue>}}composting and digestion{{< /hl-text >}}, of bio-waste in a way that fulfils a high level of environment protection and results in output which meets relevant high-quality standards;
+(b) encourage home composting; and
+(c) promote the use of materials produced from bio-waste.
+
+## Article 23 Issue of permits
+4.  It shall be a condition of any permit covering incineration or co-incineration with energy recovery that the recovery of energy take place with {{< hl-text blue>}}a high level of energy efficiency{{< /hl-text >}}.
+
+...
+
+## ANNEX I DISPOSAL OPERATIONS
+D 1 Deposit into or on to land (e.g. landfill, etc.)
+D 2 Land treatment (e.g. biodegradation of liquid or sludgy discards in soils, etc.)
+D 3 Deep injection (e.g. injection of pumpable discards into wells, salt domes or naturally occurring repositories, etc.)
+D 4 Surface impoundment (e.g. placement of liquid or sludgy discards into pits, ponds or lagoons, etc.)
+D 5 Specially engineered landfill (e.g. placement into lined discrete cells which are capped and isolated from one another and the environment, etc.)
+D 6 Release into a water body except seas/oceans
+D 7 Release to seas/oceans including sea-bed insertion
+D 8 Biological treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12
+D 9 Physico-chemical treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12 (e.g. evaporation, drying, calcination, etc.)
+{{< hl-text blue>}}D 10 Incineration on land{{< /hl-text >}}
+D 11 Incineration at sea (*5)
+D 12 Permanent storage (e.g. emplacement of containers in a mine, etc.)
+D 13 Blending or mixing prior to submission to any of the operations numbered D 1 to D 12 ( *6 )
+D 14 Repackaging prior to submission to any of the operations numbered D 1 to D 13
+D 15 Storage pending any of the operations numbered D 1 to D 14 (excluding temporary storage, pending collection, on the site where the waste is produced) ( *7 )
+
+## ANNEX II RECOVERY OPERATIONS
+{{< hl-text blue>}}R 1 Use principally as a fuel or other means to generate energy ( *8 ){{< /hl-text >}}
+R 2 Solvent reclamation/regeneration
+R 3 Recycling/reclamation of organic substances which are not used as solvents (including composting and other biological transformation processes) ( *9 )
+R 4 Recycling/reclamation of metals and metal compounds ( *10 )
+R 5 Recycling/reclamation of other inorganic materials ( *11 )
+R 6 Regeneration of acids or bases
+R 7 Recovery of components used for pollution abatement
+R 8 Recovery of components from catalysts
+R 9 Oil re-refining or other reuses of oil
+R 10 Land treatment resulting in benefit to agriculture or ecological improvement
+R 11 Use of waste obtained from any of the operations numbered R 1 to R 10
+R 12 Exchange of waste for submission to any of the operations numbered R 1 to R 11 ( *12 )
+R 13 Storage of waste pending any of the operations numbered R 1 to R 12 (excluding temporary storage, pending collection, on the site where the waste is produced) ( *13 )
