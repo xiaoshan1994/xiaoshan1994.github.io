@@ -1,7 +1,6 @@
 ---
 title: "Commission Implementing Decision (EU) 2019/1004 of 7 June 2019"
 date: 2022-07-20T12:03:14+02:00
-description: ""
 categories:
 - Waste
 - Guidance
@@ -25,3 +24,9 @@ For the purposes of this Decision, the following definitions shall apply:
 # Article 3 Calculating recycled municipal waste pursuant to Article 11a(1), Article 11a(2) and Article 11a(5) of Directive 2008/98/EC
 
 2. Calculation points applicable to certain waste materials and certain recycling operations are specified in Annex I.
+
+4. ...the amount of sorted municipal waste that is {{< hl-text blue>}}rejected by the recycling facility{{< /hl-text >}} shall {{< hl-text blue>}}not be included{{< /hl-text >}} in the amount of recycled municipal waste.
+
+## Article 4 Calculating recycled municipal bio-waste pursuant to Article 11a(4) of Directive 2008/98/EC
+
+## {{< hl-text orange>}}ANNEX I CALCULATION POINTS REFERRED TO IN ARTICLE 3(2){{< /hl-text >}}
