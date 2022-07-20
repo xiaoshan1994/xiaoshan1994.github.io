@@ -44,7 +44,7 @@ Paper/board
 Sorted paper that does not undergo further processing before entering {{< hl-text blue>}}a pulping operation{{< /hl-text >}}.
 
 {{< hl-text orange>}}Plastics{{< /hl-text >}}
-{{< hl-text orange>}}Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations.{{< /hl-text >}}
+**{{< hl-text orange>}}Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations.{{< /hl-text >}}**
 
 {{< hl-text blue>}}Plastic flakes that do not undergo further processing before their use in a final product{{< /hl-text >}}.
 
