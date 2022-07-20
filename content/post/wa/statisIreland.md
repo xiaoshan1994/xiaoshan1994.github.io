@@ -12,4 +12,4 @@ Math: True
 <!--more-->
 {{< toc >}}
 
-{{< image classes="https://www.worldatlas.com/upload/90/ca/2b/ie-01.jpg" src="//xxx.jpg" >}}
+{{< image classes="fancybox fig-100" src="https://www.worldatlas.com/upload/90/ca/2b/ie-01.jpg" >}}
