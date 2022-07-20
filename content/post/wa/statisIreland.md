@@ -4,7 +4,7 @@ date: 2022-07-20T11:05:02+02:00
 categories:
 - Waste
 - Guidance
-thumbnailImage: https://cdn.britannica.com/33/1733-050-04264811/FLAG-Ireland.jpg
+thumbnailImage: https://upload.wikimedia.org/wikipedia/commons/1/19/Ireland_flag.gif
 thumbnailImagePosition: left
 Math: True
 ---
