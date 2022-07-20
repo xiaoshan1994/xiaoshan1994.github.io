@@ -118,8 +118,8 @@ Member States may allow waste with {{< hl-text blue>}}similar biodegradability a
 
 ...
 
-## ANNEX I DISPOSAL OPERATIONS
-D 1 Deposit into or on to land (e.g. landfill, etc.)
+## {{< hl-text orange>}}ANNEX I DISPOSAL OPERATIONS{{< /hl-text >}}
+D 1 Deposit into or on to land (e.g. {{< hl-text blue>}}landfill{{< /hl-text >}}, etc.)
 D 2 Land treatment (e.g. biodegradation of liquid or sludgy discards in soils, etc.)
 D 3 Deep injection (e.g. injection of pumpable discards into wells, salt domes or naturally occurring repositories, etc.)
 D 4 Surface impoundment (e.g. placement of liquid or sludgy discards into pits, ponds or lagoons, etc.)
@@ -129,7 +129,7 @@ D 7 Release to seas/oceans including sea-bed insertion
 D 8 Biological treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12
 D 9 Physico-chemical treatment not specified elsewhere in this Annex which results in final compounds or mixtures which are discarded by means of any of the operations numbered D 1 to D 12 (e.g. evaporation, drying, calcination, etc.)
 {{< hl-text blue>}}D 10 Incineration on land{{< /hl-text >}}
-D 11 Incineration at sea (*5)
+{{< hl-text blue>}}D 11 Incineration at sea (*5){{< /hl-text >}}
 D 12 Permanent storage (e.g. emplacement of containers in a mine, etc.)
 D 13 Blending or mixing prior to submission to any of the operations numbered D 1 to D 12 ( *6 )
 D 14 Repackaging prior to submission to any of the operations numbered D 1 to D 13
@@ -145,7 +145,45 @@ R 6 Regeneration of acids or bases
 R 7 Recovery of components used for pollution abatement
 R 8 Recovery of components from catalysts
 R 9 Oil re-refining or other reuses of oil
-R 10 Land treatment resulting in benefit to agriculture or ecological improvement
+{{< hl-text blue>}}R 10 Land treatment resulting in benefit to agriculture or ecological improvement{{< /hl-text >}}
 R 11 Use of waste obtained from any of the operations numbered R 1 to R 10
 R 12 Exchange of waste for submission to any of the operations numbered R 1 to R 11 ( *12 )
 R 13 Storage of waste pending any of the operations numbered R 1 to R 12 (excluding temporary storage, pending collection, on the site where the waste is produced) ( *13 )
+
+## ANNEX III PROPERTIES OF WASTE WHICH RENDER IT HAZARDOUS
+‘Explosive’, ‘Oxidising’, ‘Flammable’, ‘Irritant — skin irritation and eye damage’, ‘Specific Target Organ Toxicity (STOT)/Aspiration Toxicity’, ‘Acute Toxicity’, ‘Carcinogenic’, ‘Corrosive’, ‘Infectious’, ‘Mutagenic’,
+‘Release of an acute toxic gas’, ‘Ecotoxic’, ‘Waste capable of exhibiting a hazardous property listed above not directly displayed by the original waste’.
+
+## ANNEX IVa EXAMPLES OF ECONOMIC INSTRUMENTS AND OTHER MEASURES TO PROVIDE INCENTIVES FOR THE APPLICATION OF THE WASTE HIERARCHY REFERRED TO IN ARTICLE 4(3) ( 16 )
+
+1. Charges and restrictions for the landfilling and incineration of waste which incentivise waste prevention and recycling, while keeping landfilling the least preferred waste management option;
+
+2. {{< hl-text blue>}}‘Pay-as-you-throw’ schemes{{< /hl-text >}} that charge waste producers on the basis of the actual amount of waste generated and provide incentives for separation at source of recyclable waste and for reduction of mixed waste;
+
+3. {{< hl-text blue>}}Fiscal incentives for donation of products, in particular food{{< /hl-text >}};
+
+4. {{< hl-text blue>}}Extended producer responsibility schemes{{< /hl-text >}} for various types of waste and measures to increase their effectiveness, cost efficiency and governance;
+
+5. {{< hl-text blue>}}Deposit-refund schemes [^drs]{{< /hl-text >}} and other measures to encourage efficient collection of used products and materials;
+
+6. Sound planning of {{< hl-text blue>}}investments in waste management infrastructure{{< /hl-text >}}, including through Union funds;
+
+7. Sustainable public procurement to encourage better waste management and the use of recycled products and materials;
+
+8. Phasing out of subsidies which are not consistent with the waste hierarchy;
+
+9. Use of fiscal measures or other means to promote the uptake of products and materials that are prepared for re-use or recycled;
+
+10. Support to research and innovation in advanced recycling technologies and remanufacturing;
+
+11. Use of best available techniques for waste treatment;
+
+12. Economic incentives for regional and local authorities, in particular to promote waste prevention and intensify separate collection schemes, while avoiding support to landfilling and incineration;
+
+13. Public awareness campaigns, in particular on separate collection, waste prevention and litter reduction, and mainstreaming these issues in education and training;
+
+14. Systems for coordination, including by digital means, between all competent public authorities involved in waste management;
+
+15. Promoting continuous dialogue and cooperation between all stakeholders in waste management and encouraging voluntary agreements and company reporting on waste.
+
+[^drs]: Deposit refund schemes are systems where consumers pay a small amount of money upfront, to be reimbursed to them when they bring the container to a collection point once they have finished using it. The container can then be recycled and transformed into secondary raw materials.
