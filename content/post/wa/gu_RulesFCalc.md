@@ -15,3 +15,13 @@ Math: True
 [Laying down rules for the calculation, verification and reporting of data on waste in accordance with Directive 2008/98/EC](https://eur-lex.europa.eu/eli/dec_impl/2019/1004/oj)(Text with EEA relevance.)
 <!--more-->
 {{< toc >}}
+
+(2) ... As a general rule, the recycled waste is to be measured at the point {{< hl-text blue>}}where the waste enters the recycling operation{{< /hl-text >}}. However, Member States may use a derogation and measure municipal waste {{< hl-text blue>}}at the output of a sorting operation{{< /hl-text >}}, provided that {{< hl-text blue>}}further losses due to treatment prior to the recycling operation are deducted and that the output waste is actually recycled{{< /hl-text >}}.
+
+# Article 1 Definitions
+For the purposes of this Decision, the following definitions shall apply:
+(e) ‘calculation point’ means the point where municipal waste materials enter the recycling operation whereby waste is reprocessed into products, materials or substances that are not waste or the point where waste materials cease to be waste as a result of a preparatory operation before being reprocessed;
+
+# Article 3 Calculating recycled municipal waste pursuant to Article 11a(1), Article 11a(2) and Article 11a(5) of Directive 2008/98/EC
+
+2. Calculation points applicable to certain waste materials and certain recycling operations are specified in Annex I.
