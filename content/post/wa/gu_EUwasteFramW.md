@@ -11,7 +11,7 @@ thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-The present directive was adopted on 19 November 2008.
+[Directive 2008/98/EC of the European Parliament and of the Council of 19 November 2008 on waste and repealing certain Directives](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32008L0098)(Text with EEA relevance). The present directive was adopted on 19 November 2008.
 <!--more-->
 {{< toc >}}
 
