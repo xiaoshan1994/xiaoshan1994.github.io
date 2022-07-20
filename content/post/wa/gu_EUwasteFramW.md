@@ -164,7 +164,7 @@ R 13 Storage of waste pending any of the operations numbered R 1 to R 12 (exclud
 
 4. {{< hl-text blue>}}Extended producer responsibility schemes{{< /hl-text >}} for various types of waste and measures to increase their effectiveness, cost efficiency and governance;
 
-5. {{< hl-text blue>}}Deposit-refund schemes [^drs]{{< /hl-text >}} and other measures to encourage efficient collection of used products and materials;
+5. {{< hl-text blue>}}Deposit-refund schemes {{< /hl-text >}}[^drs] and other measures to encourage efficient collection of used products and materials;
 
 6. Sound planning of {{< hl-text blue>}}investments in waste management infrastructure{{< /hl-text >}}, including through Union funds;
 
