@@ -30,30 +30,31 @@ For the purposes of this Decision, the following definitions shall apply:
 ## Article 4 Calculating recycled municipal bio-waste pursuant to Article 11a(4) of Directive 2008/98/EC
 
 ## {{< hl-text orange>}}ANNEX I CALCULATION POINTS REFERRED TO IN ARTICLE 3(2){{< /hl-text >}}
+
 Material
 Calculation Point
 
 Glass
-Sorted glass that does not undergo further processing before entering a glass furnace or the production of filtration media, abrasive materials, glass based insulation and construction materials.
+Sorted glass that does not undergo further processing before entering {{< hl-text blue>}}a glass furnace{{< /hl-text >}} or the production of filtration media, abrasive materials, glass based insulation and construction materials.
 
 Metals
-Sorted metal that does not undergo further processing before entering a metal smelter or furnace.
+Sorted metal that does not undergo further processing before entering {{< hl-text blue>}}a metal smelter or furnace{{< /hl-text >}}.
 
 Paper/board
-Sorted paper that does not undergo further processing before entering a pulping operation.
+Sorted paper that does not undergo further processing before entering {{< hl-text blue>}}a pulping operation{{< /hl-text >}}.
 
-Plastics
-Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations.
+{{< hl-text orange>}}Plastics{{< /hl-text >}}
+{{< hl-text orange>}}Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations.{{< /hl-text >}}
 
-Plastic flakes that do not undergo further processing before their use in a final product.
+{{< hl-text blue>}}Plastic flakes that do not undergo further processing before their use in a final product{{< /hl-text >}}.
 
 Wood
-Sorted wood that does not undergo further treatment before utilisation in particleboard manufacture.
+Sorted wood that does not undergo further treatment before utilisation in {{< hl-text blue>}}particleboard manufacture{{< /hl-text >}}.
 
-Sorted wood entering a composting operation.
+Sorted wood entering {{< hl-text blue>}}a composting operation{{< /hl-text >}}.
 
 Textiles
-Sorted textile that does not undergo further processing before its utilisation for the production of textile fibres, rags or granulates.
+Sorted textile that does not undergo further processing before its utilisation for {{< hl-text blue>}}the production of textile fibres, rags or granulates{{< /hl-text >}}.
 
 Waste items composed of multiple materials
 
@@ -61,7 +62,7 @@ Plastic, glass, metal, wood, textile, paper and cardboard and other individual c
 
 Waste Electric and Electronic Equipment (WEEE)
 
-WEEE entering a recycling facility after proper treatment and completion of preliminary activities in accordance with Article 11 of Directive 2012/19/EU of the European Parliament and of the Council (1).
+{{< hl-text blue>}}WEEE entering a recycling facility after proper treatment and completion of preliminary activities{{< /hl-text >}} in accordance with Article 11 of Directive 2012/19/EU of the European Parliament and of the Council (1).
 
 Batteries
 
