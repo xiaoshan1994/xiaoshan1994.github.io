@@ -29,3 +29,5 @@ Municipal Waste includes these following waste types:
 * Some 1.2 million tonnes of Ireland’s municipal waste was recycled in 2019, resulting in a recycling rate of 37 per cent, down from 38 per cent in 2018. This decrease resulted from a method change advised by the European Commission1. However, there has been a downward trend in Ireland’s recycling performance to the 38 per cent recorded for 2018 from 40 per cent in 2017 and 41 per cent in 2016. This trend indicates that Ireland faces significant challenges to meet the new EU recycling targets set for 2025 to 2035 (Figure 2).
 
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180035403-24264c2a-2783-4406-9e14-dad93c577bbc.png" >}}
+
+{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180036778-1ae8ced6-6766-4bb4-a208-b27826032564.png" >}}
