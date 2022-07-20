@@ -30,3 +30,39 @@ For the purposes of this Decision, the following definitions shall apply:
 ## Article 4 Calculating recycled municipal bio-waste pursuant to Article 11a(4) of Directive 2008/98/EC
 
 ## {{< hl-text orange>}}ANNEX I CALCULATION POINTS REFERRED TO IN ARTICLE 3(2){{< /hl-text >}}
+Material
+Calculation Point
+
+Glass
+Sorted glass that does not undergo further processing before entering a glass furnace or the production of filtration media, abrasive materials, glass based insulation and construction materials.
+
+Metals
+Sorted metal that does not undergo further processing before entering a metal smelter or furnace.
+
+Paper/board
+Sorted paper that does not undergo further processing before entering a pulping operation.
+
+Plastics
+Plastic separated by polymers that does not undergo further processing before entering pelletisation, extrusion, or moulding operations.
+
+Plastic flakes that do not undergo further processing before their use in a final product.
+
+Wood
+Sorted wood that does not undergo further treatment before utilisation in particleboard manufacture.
+
+Sorted wood entering a composting operation.
+
+Textiles
+Sorted textile that does not undergo further processing before its utilisation for the production of textile fibres, rags or granulates.
+
+Waste items composed of multiple materials
+
+Plastic, glass, metal, wood, textile, paper and cardboard and other individual component materials resulting from the treatment of waste items composed of multiple materials that do not undergo further processing before reaching the calculation point established for the specific material in accordance with this Annex or with 11a of Directive 2008/98/EC and Article 3 of this Decision.
+
+Waste Electric and Electronic Equipment (WEEE)
+
+WEEE entering a recycling facility after proper treatment and completion of preliminary activities in accordance with Article 11 of Directive 2012/19/EU of the European Parliament and of the Council (1).
+
+Batteries
+
+Input fractions entering the battery recycling process in accordance with Commission Regulation (EU) No 493/2012 (2).
