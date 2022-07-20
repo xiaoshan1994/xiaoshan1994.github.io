@@ -23,4 +23,5 @@ Municipal Waste includes these following waste types:
 * Organic (i.e. brown bin) waste e.g. food and garden waste
 * Bulky waste e.g. waste that cannot fit in a wheelie bin such as broken furniture, carpets, toys etc.
 * Waste Electrical and Electronic Equipment (WEEE)
-#
+
+# Key findings for 2019
