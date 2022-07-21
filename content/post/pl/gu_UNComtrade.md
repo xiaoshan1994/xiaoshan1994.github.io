@@ -1,9 +1,9 @@
 ---
-title: "(Collection) UN Comtrade Database"
+title: "UN Comtrade Database"
 date: 2022-01-18T09:32:42+01:00
 categories:
 - Research
-- Collection
+- Guidance
 tags:
 - UN Comtrade
 keywords:
