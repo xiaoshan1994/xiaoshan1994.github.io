@@ -43,6 +43,7 @@ Waste, defined by Directive 2008/98/EC Article 3(1) as {{< hl-text blue>}}‘any
 
 The share of different economic activities and of households in total waste generation in 2018 is presented in Figure 1. In the EU, {{< hl-text blue>}}construction{{< /hl-text >}} contributed 35.9 % of the total in 2018 and was followed by {{< hl-text blue>}}mining and quarrying{{< /hl-text >}} (26.6 %), {{< hl-text blue>}}manufacturing{{< /hl-text >}} (10.6 %), {{< hl-text blue>}}waste and water services{{< /hl-text >}} (9.8 %) and {{< hl-text blue>}}households{{< /hl-text >}} (8.2 %); the remaining 9.1 % was waste generated from other economic activities, mainly services (4.2 %) and energy (3.4 %).
 {{< image classes="fancybox fig-100" src="https://ec.europa.eu/eurostat/statistics-explained/images/thumb/9/9b/Waste_generation_by_economic_activities_and_households%2C_EU%2C_2018_%28%25_share_of_total_waste%29_30-04-2021.png/500px-Waste_generation_by_economic_activities_and_households%2C_EU%2C_2018_%28%25_share_of_total_waste%29_30-04-2021.png" >}}
+
 ## Major mineral waste
 Major mineral waste are excluded because weight of total waste generation and treatment is mainly driven by mineral waste from construction/demolition and from mining activities, and the latter widely varies in importance across Member States. Excluding major mineral wastes reflects more accurately general trends than the total waste and improves comparability across countries.
 
