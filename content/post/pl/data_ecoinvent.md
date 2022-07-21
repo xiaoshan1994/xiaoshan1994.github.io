@@ -1,24 +1,13 @@
 ---
-title: ""
+title: "Plastic treatment in Ecoinvent 3.6"
 date: 2022-07-21T10:24:28+02:00
-description: ""
 categories:
-- category
-- subcategory
+- Plastic
+- Data
 tags:
-- tag1
-- tag2
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+- Ecoinvent
+thumbnailImage: https://simapro.com/wp-content/uploads/2021/11/ecoinvent-logo-280x280.png
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
