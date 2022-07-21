@@ -33,4 +33,6 @@ Municipal Waste includes these following waste types:
 
 {{< alert info>}}Recovery includes recycling (R2-R11), energy recovery (R1), and other recovery(backfilling). Recycling includes composting, aerobic, and anaerobic digestion. Disposal also includes land and sea incineration.{{< /alert >}}
 
+{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180036778-1ae8ced6-6766-4bb4-a208-b27826032564.png" >}}
+
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180177001-ea636e33-0705-4014-b3b5-6ce01f5ee8c4.png" >}}
