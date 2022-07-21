@@ -11,6 +11,7 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
+
 All data -> Tables on EU policy -> [{{< hl-text orange>}}Circular economy indicators{{< /hl-text >}}](https://ec.europa.eu/eurostat/databrowser/explore/all/tb_eu?lang=en&subtheme=cei&display=list&sort=category&extractionId=CEI_WM011) {{< /hl-text >}}->
 
 {{< hl-text blue>}}Production and consumption{{< /hl-text >}}:
