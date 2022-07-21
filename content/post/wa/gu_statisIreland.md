@@ -30,7 +30,7 @@ Municipal Waste includes these following waste types:
 * Of the municipal waste recycled in 2019, 857,793 tonnes went for material recycling (up 1 percent on 2018) and 294,761 tonnes was composted/anaerobically digested (up 20 percent on 2018).
 * A total of 1.4 million tonnes or 46 per cent of Ireland’s municipal waste went for incineration with energy recovery in 2019. The upward trend in the share of municipal waste incinerated since 2011 is evident in Figure 3, reflecting {{< hl-text blue>}}a shift away from disposal of residual waste to landfill{{< /hl-text >}} and {{< hl-text blue>}}an increased incineration capacity nationally{{< /hl-text >}}.
 * {{< hl-text blue>}}Before 2019, biostabilised fines used for landfill cover were calssified as a waste recovery process (backfill). From 2019 on, this practice is classified as disposal.{{< /hl-text >}}
-* Ireland’s reliance on exporting municipal waste abroad for final treatment increased in 2019. Some 40 percent of all municipal waste (1.2 million tonnes) was exported for final treatment in 2019, up from 35 per cent in 2018. Of the waste exported, most went for recycling (56 percent) or energy recovery (36 per cent) while 7 percent went for composting.
+* Ireland’s reliance on exporting municipal waste abroad for final treatment increased in 2019. Some 40 percent of all municipal waste (1.2 million tonnes) was exported for final treatment in 2019, up from 35 per cent in 2018. Of the waste exported, {{< hl-text orange>}}most went for recycling (56 percent) or energy recovery (36 per cent) while 7 percent went for composting.{{< /hl-text >}}
 {{< alert info>}Where the source is to get the conclusion?{{< /alert >}}
 
 
