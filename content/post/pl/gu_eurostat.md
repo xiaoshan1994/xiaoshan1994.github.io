@@ -16,6 +16,8 @@ All data -> Tables on EU policy ->  {{< hl-text orange>}}[Circular economy indic
 {{< hl-text blue>}}Production and consumption{{< /hl-text >}}:
 EU self-sufficiency for raw materials, Material footprint, Resource productivity, **Generation of municipal waste per capita**, **Generation of waste excluding major mineral wastes per GDP unit**, **Generation of waste excluding major mineral wastes per domestic material consumption**, **Generation of packaging waste per capita**, **Generation of plastic packaging waste per capita**.
 
+{{< alert info>}} Major mineral waste are excluded because weight of total waste generation and treatment is mainly driven by mineral waste from construction/demolition and from mining activities, and the latter widely varies in importance across Member States. Excluding major mineral wastes reflects more accurately general trends than the total waste and improves comparability across countries.{{< /alert >}}
+
 {{< hl-text blue>}}Waste management{{< /hl-text >}}
 Recycling rate of municipal waste, Recycling rate of all waste excluding major mineral waste, Recycling rate of packaging waste by type of packaging
 
