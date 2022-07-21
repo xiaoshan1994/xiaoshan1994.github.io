@@ -4,7 +4,7 @@ date: 2022-07-21T16:33:15+02:00
 categories:
 - Plastic
 - Guidance
-thumbnailImage: https://ec.europa.eu/eurostat/cache/infographs/pricelevels/pricelevels_2020/img/logoEstat.png
+thumbnailImage: http://proderechos.org/wp-content/uploads/2018/04/eurostat-759x3051.png
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
