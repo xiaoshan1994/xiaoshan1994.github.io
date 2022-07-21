@@ -44,7 +44,7 @@ Municipal waste does not include waste from {{< hl-text blue>}}production, agric
 
 * 17. ‘recycling’ means any {{< hl-text blue>}}recovery operation{{< /hl-text >}} by which {{< hl-text blue>}}waste materials are reprocessed into products, materials or substances{{< /hl-text >}} whether for {{< hl-text blue>}}the original or other purposes{{< /hl-text >}}. It includes the {{< hl-text blue>}}reprocessing of organic material{{< /hl-text >}} but does not include {{< hl-text blue>}}energy recovery{{< /hl-text >}} and the reprocessing into materials that are to be used as {{< hl-text blue>}}fuels or for backfilling operations{{< /hl-text >}};
 
-* 17a. ‘backfilling’ means any recovery operation where suitable non-hazardous waste is used for purposes of {{< hl-text blue>}}reclamation in excavated areas or for engineering purposes in landscaping{{< /hl-text >}}. Waste used for backfilling must substitute non-waste materials, be suitable for the aforementioned purposes, and be limited to the amount strictly necessary to achieve those purposes.
+* 17a. ‘backfilling’ means any {{< hl-text blue>}}recovery operation{{< /hl-text >}} where suitable non-hazardous waste is used for purposes of {{< hl-text blue>}}reclamation in excavated areas or for engineering purposes in landscaping{{< /hl-text >}}. Waste used for backfilling must substitute non-waste materials, be suitable for the aforementioned purposes, and be limited to the amount strictly necessary to achieve those purposes.
 
 19. ‘disposal’ means any operation which is not recovery even where the operation has as a secondary consequence the reclamation of substances or energy. Annex I sets out a non-exhaustive list of disposal operations;
 
