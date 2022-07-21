@@ -35,6 +35,6 @@ Municipal Waste includes these following waste types:
 
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180036778-1ae8ced6-6766-4bb4-a208-b27826032564.png" >}}
 
-{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180177001-ea636e33-0705-4014-b3b5-6ce01f5ee8c4.png" >}}
+{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180177818-6ffb944d-2780-46d6-b5e4-6dde7eaf4a26.png" >}}
 
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/180177558-e4adfba8-a074-42b1-87ea-21ac6e9b3d0f.png" >}}
