@@ -4,20 +4,8 @@ date: 2022-07-21T16:33:15+02:00
 categories:
 - Plastic
 - Guidance
-tags:
-- tag1
-- tag2
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+thumbnailImage: https://ec.europa.eu/eurostat/cache/infographs/pricelevels/pricelevels_2020/img/logoEstat.png
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
