@@ -28,4 +28,6 @@ Math: True
 {{< toc >}}
 
 # WHAT IS PLASTIC PELLETIZING?
-One of the best ways to repurpose plastic waste is through the process of plastic pelletizing. Plastic pelletizing is the process of converting scrap plastic back into a usable clean raw material. Plastic manufacturing companies can then re-use these pelletized plastics in a wide variety of applications, creating a closed-loop recycling process.
+Plastic pellets, also known as pre-production pellets or nurdles, are the building blocks for nearly every product made of plastic.
+
+One of the best ways to repurpose plastic waste is through the process of plastic pelletizing. Plastc pelletizing is the process of converting scrap plastic back into a usable clean raw material. Plastic manufacturing companies can then re-use these pelletized plastics in a wide variety of applications, creating a closed-loop recycling process.
