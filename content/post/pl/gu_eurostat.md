@@ -31,11 +31,14 @@ Resource productivity,
 **Recycling of biowaste**,
 **Recovery rate of construction and demolition waste**.
 
+{{< hl-text blue>}}Secondary raw materials{{< /hl-text >}} ->
+Contribution of recycled materials to raw materials demand - end-of-life recycling input rates (EOL-RIR),
+Circular material use rate,
+Trade in recyclable raw materials
 
-Recycling of biowaste
-
-
-Recovery rate of construction and demolition waste
+{{< hl-text blue>}} Competitiveness and innovation{{< /hl-text >}} ->
+Private investments, jobs and gross value added related to circular economy sectors,
+Patents related to recycling and secondary raw materials
 
 # Explanatory texts
 ## Statistics explained - [Waste statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Waste_statistics#Total_waste_generation)
