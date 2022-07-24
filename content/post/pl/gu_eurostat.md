@@ -46,7 +46,6 @@ Waste -> {{< hl-text blue>}}Waste generation and treatment{{< /hl-text >}}
 **Treatment of waste by waste category, hazardousness and waste management operations**
 
 
-
 # Explanatory texts
 ## Statistics explained - [Waste statistics](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Waste_statistics#Total_waste_generation)
 Waste, defined by Directive 2008/98/EC Article 3(1) as {{< hl-text blue>}}‘any substance or object which the holder discards or intends or is required to discard‘{{< /hl-text >}}.
