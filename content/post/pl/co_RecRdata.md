@@ -1,13 +1,9 @@
 ---
-title: ""
+title: "Recycling rates in 27 top countries"
 date: 2022-08-02T13:36:27+02:00
-description: ""
 categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
+- Plastic
+- Collection
 keywords:
 - tech
 gallery:
@@ -22,36 +18,21 @@ thumbnailImagePosition: left/bottom
 metaAlignment: left
 Math: True
 ---
-
 <!--more-->
-### Table of content
 {{< toc >}}
+Three Key Quantitative Findings on {{< hl-text blue>}}Collected For Recycling (CFR) Rates{{< /hl-text >}} and Material Value Loss
+Malaysia recycled about 24% of the key plastic resins in 2019.
+> In 2019, 1.41 million tonnes per year (TPY) of the four key resins assessed in this study (PET, HDPE, LDPE and PP) were consumed in Malaysia, out of which an estimated 334,000 TPY (24%) were recycled.
 
-### Wide image showcase
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
+* the JPSPN (National Solid Waste Management Department) recycling target for 2025 is {{< hl-text blue>}}40%{{< /hl-text >}}.
 
-### left or right quote
-{{< pullquote left/right >}}content{{< /pullquote >}}
+![image](https://user-images.githubusercontent.com/65668613/182415459-37f4636a-9120-44a8-a65b-c38bd223e6c5.png)
 
-### Youtube
-{{< youtube BSVkI3Ds8E >}}
-
-### Figure
-{{< image classes= "fig-33" src="https://xxx.png">}}
-
-### Figure with fancybox
-{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
-
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
+Figure 1a. Estimated CFR rates for each resin 2019
+{{< hl-text blue>}}PET packaging 37%{{< /hl-text >}}
+{{< hl-text blue>}}PET Polyester 3%{{< /hl-text >}}
+{{< hl-text blue>}}PP 30%{{< /hl-text >}}
+{{< hl-text blue>}}HDPE 27%{{< /hl-text >}}
+{{< hl-text blue>}}LDPE 27%{{< /hl-text >}}
+{{< hl-text blue>}}LDPE/LLDPE 10% {{< /hl-text >}}
+{{< hl-text blue>}}average 24%{{< /hl-text >}}
