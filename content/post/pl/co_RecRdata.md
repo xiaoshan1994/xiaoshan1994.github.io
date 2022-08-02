@@ -4,17 +4,8 @@ date: 2022-08-02T13:36:27+02:00
 categories:
 - Plastic
 - Collection
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+thumbnailImage: https://article.innovadatabase.com/articleimgs/article_images/637733585884645051recycling.jpg
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
