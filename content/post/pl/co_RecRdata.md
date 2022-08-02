@@ -36,3 +36,11 @@ Figure 1a. Estimated CFR rates for each resin 2019
 {{< hl-text blue>}}LDPE 27%{{< /hl-text >}}
 {{< hl-text blue>}}LDPE/LLDPE 10% {{< /hl-text >}}
 {{< hl-text blue>}}average 24%{{< /hl-text >}}
+
+the Malaysia Sustainable Plastics Alliance (MaSPA) in 2019:
+1. Identify and eliminate five problematic or unnecessary single-use plastic items through redesign, innovation or alternative (reuse) delivery models by 2025. 
+2. 100% of plastic packaging to be recyclable/reusable/compostable by 2030
+3. 25% of post-consumer plastic packaging effectively recycled or composted by 2025.
+4. 15% of average recycled content to be achieved across all plastic packaging by 2030.
+
+* In Malaysia, much of the recycling happens separate from the SWM system via upstream diversion directly by the {{< hl-text blue>}}informal sector{{< /hl-text >}} (e.g. waste pickers, collectors, junk shops and waste aggregators) leading to a parallel economy for recyclables collection.
