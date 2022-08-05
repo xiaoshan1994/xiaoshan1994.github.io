@@ -1,57 +1,19 @@
 ---
-title: ""
+title: "Dynamic Material Flow Analysis of PET, PE, and PP Flows in Europe: Evaluation of the Potential for Circular Economy"
 date: 2022-08-05T11:52:46+02:00
-description: ""
 categories:
-- category
-- subcategory
-tags:
-- tag1
-- tag2
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+- Plastic
+- Material Flow Analysis
+thumbnailImage: https://pubs.acs.org/cms/10.1021/esthag/asset/title.png
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-
 <!--more-->
-### Table of content
 {{< toc >}}
-
-### Wide image showcase
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
-
-### left or right quote
-{{< pullquote left/right >}}content{{< /pullquote >}}
-
-### Youtube
-{{< youtube BSVkI3Ds8E >}}
-
-### Figure
-{{< image classes= "fig-33" src="https://xxx.png">}}
-
-### Figure with fancybox
-{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
-
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
+[***Environmental Science & Technology***](https://pubs.acs.org/doi/full/10.1021/acs.est.0c03435)
+Marie Kampmann Eriksen
+Department of Environmental Engineering, Technical University of Denmark, Bygningstorvet 115, 2800 Kgs. Lyngby, Denmark
+# Abstract
+* PET, PE, and PP flows in Europe
+* dynamic material flow analysis considering {{< hl-text blue>}}product lifetimes{{< /hl-text >}}, {{< hl-text blue>}}demand growth rates{{< /hl-text >}}, and {{< hl-text blue>}}quality reductions of recycled plastic (downcycling){{< /hl-text >}}.
