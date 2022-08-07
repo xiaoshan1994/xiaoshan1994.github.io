@@ -17,3 +17,8 @@ Department of Environmental Engineering, Technical University of Denmark, Bygnin
 # Abstract
 * PET, PE, and PP flows in Europe
 * dynamic material flow analysis considering {{< hl-text blue>}}product lifetimes{{< /hl-text >}}, {{< hl-text blue>}}demand growth rates{{< /hl-text >}}, and {{< hl-text blue>}}quality reductions of recycled plastic (downcycling){{< /hl-text >}}.
+
+# S2 Data for the baseline scenario
+## S2 Data for the baseline scenario
+![image](https://user-images.githubusercontent.com/65668613/183283932-aaf3af1f-dacc-4268-b5c0-7eac0e1300d7.png)
+{{< alert info>}}How to access different quantities of plastic resins across sectors?{{< /alert >}}
