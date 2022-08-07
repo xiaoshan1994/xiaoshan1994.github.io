@@ -29,3 +29,5 @@ Department of Environmental Engineering, Technical University of Denmark, Bygnin
 ![image](https://user-images.githubusercontent.com/65668613/183286731-9583f054-9e89-4f02-9a13-bddd0a0c6366.png)
 
 {{< alert info >}}They get the average value of all sources{{< /alert >}}
+
+## S2.3 Lifetime functions
