@@ -1,57 +1,17 @@
 ---
-title: ""
+title: "Arthur Schopenhauer"
 date: 2022-08-08T17:14:52+02:00
 description: ""
 categories:
-- category
-- subcategory
+- Daily English
+- Life
 tags:
-- tag1
-- tag2
-keywords:
-- tech
-gallery:
--
--
-coverImage:
-coverSize: full/partial
-coverMeta: out
-metaAlignment: left
-thumbnailImage:
-thumbnailImagePosition: left/bottom
+- philosophy
+thumbnailImage: https://i3.lsqww.com/0b461f2c14cdba53c84c/0e420b/571a5f76/5658582218dae34c984fbd.jpg
+thumbnailImagePosition: left
 metaAlignment: left
 Math: True
 ---
-
 <!--more-->
-### Table of content
 {{< toc >}}
-
-### Wide image showcase
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
-
-### left or right quote
-{{< pullquote left/right >}}content{{< /pullquote >}}
-
-### Youtube
-{{< youtube BSVkI3Ds8E >}}
-
-### Figure
-{{< image classes= "fig-33" src="https://xxx.png">}}
-
-### Figure with fancybox
-{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
-
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
+/ˈʃəupənhauə/
