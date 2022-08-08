@@ -41,4 +41,22 @@ the Malaysia Sustainable Plastics Alliance (MaSPA) in 2019:
 * Table 1. BREAKDOWN OF PLASTICS END-USE INDUSTRIES IN MALAYSIA
 ![image](https://user-images.githubusercontent.com/65668613/182458658-189e3d90-9b84-4e02-b516-d45469f4fbe6.png)
 
-#
+# (Journal) Malaysia Versus Waste
+https://www.thechemicalengineer.com/features/malaysia-versus-waste/
+First published in The Chemical Engineer, Jul/Aug 2020, issue 949/50
+By Dr Eleni Iacovidou and Dr Kok Siew Ng
+29 Jul 2020
+
+MALAYSIA is on track to miss its 2020 targets to divert 40% of waste from landfill and increase recycling rates to 22%.
+
+According to the Ministry of Housing and Local Government in Malaysia, around RM430m (US$100m) has been spent on {{< hl-text blue>}}closing just 17 out of 165 existing dumpsites{{< /hl-text >}}, and promoting the disposal of solid waste to sanitary landfill.
+
+According to the most recent stats available, almost {{< hl-text blue>}}90%{{< /hl-text >}} of waste was reportedly disposed to {{< hl-text blue>}}sanitary landfills{{< /hl-text >}}, while only {{< hl-text blue>}}10.5%{{< /hl-text >}} was {{< hl-text blue>}}recycled{{< /hl-text >}}.
+
+# (Journal) The plastic waste problem in Malaysia: management, recycling and disposal of local and global plastic waste
+[SN Applied Sciences](https://link.springer.com/article/10.1007/s42452-021-04234-y)
+Published: 08 March 2021
+Hui Ling Chen
+School of Environmental and Geographical Sciences, University of Nottingham Malaysia, Semenyih, Malaysia
+
+That being said, {{< hl-text blue>}}landfill{{< /hl-text >}}is the favoured form of solid waste management in Malaysia, with {{< hl-text blue>}}85 percent{{< /hl-text >}} of material going to landfill; this high percentage stems from the low cost of this form of solid waste management.
