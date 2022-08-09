@@ -36,3 +36,5 @@ According to Schopenhauer, all objects of perception respect the fourfold princi
 基于现代科学的实证主义：眼见为实、精准度量，实际比抽象更重要。
 胡塞尔现象学与海德格尔存在主义：拥抱本质性，追求存在感。
 萨特与法国存在主义：悬置人生意义，回归纯粹自由。
+
+#
