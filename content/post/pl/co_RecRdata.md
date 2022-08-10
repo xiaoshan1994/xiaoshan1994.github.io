@@ -86,8 +86,7 @@ the non-sanitary landfill rate in Malaysia is 92.35 (based on site numbers)
 
 [Compendium of Environment Statistics, Malaysia 2021](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=162&bul_id=VFRCSEtSRlRWWmxoNlRLTTYrb1FVdz09&menu_id=NWVEZGhEVlNMeitaMHNzK2htRU05dz09)
 
-
-recycle rate %
+recycle rate%
 2018: 24.6
 2019: 28.1
 2020: 30.7
