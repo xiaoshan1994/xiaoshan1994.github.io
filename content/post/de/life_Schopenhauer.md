@@ -37,4 +37,4 @@ According to Schopenhauer, all objects of perception respect the fourfold princi
 胡塞尔现象学与海德格尔存在主义：拥抱本质性，追求存在感。
 萨特与法国存在主义：悬置人生意义，回归纯粹自由。
 
-#
+# Sartre 萨特
