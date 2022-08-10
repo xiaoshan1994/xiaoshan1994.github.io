@@ -81,7 +81,7 @@ https://www.researchgate.net/publication/341651210_Sanitary_Landfill_is_a_Soluti
 
 the non-sanitary landfill rate in Malaysia is 92.35 (based on site numbers)
 
-## Compendium of Environment Statistics, Malaysia 2020
+## (official website) Compendium of Environment Statistics, Malaysia 2020
 [Page of 2020](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=162&bul_id=TjM1ZlFxb3VOakdmMnozVms5dUlKZz09&menu_id=NWVEZGhEVlNMeitaMHNzK2htRU05dz09)
 
 [Compendium of Environment Statistics, Malaysia 2021](https://www.dosm.gov.my/v1/index.php?r=column/cthemeByCat&cat=162&bul_id=VFRCSEtSRlRWWmxoNlRLTTYrb1FVdz09&menu_id=NWVEZGhEVlNMeitaMHNzK2htRU05dz09)
@@ -90,3 +90,9 @@ recycle rate%
 2018: 24.6
 2019: 28.1
 2020: 30.7
+
+# Indonesia
+## On the Frontline of Indonesia’s Plastic Waste Crisis
+https://www.wilsoncenter.org/event/frontline-indonesias-plastic-waste-crisis
+
+Indonesia’s National Plastic Action Partnership estimates that only {{< hl-text blue>}}10 percent{{< /hl-text >}} of Indonesia’s yearly 6.8 million tons of plastic waste is recycled and {{< hl-text blue>}}nearly half{{< /hl-text >}} is dumped or burned. Indonesia is responsible for 10 percent of global plastic leakage into the ocean, second only behind China.
