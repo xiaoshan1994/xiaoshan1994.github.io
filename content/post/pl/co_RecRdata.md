@@ -11,6 +11,7 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
+#
 Three Key Quantitative Findings on {{< hl-text blue>}}Collected For Recycling (CFR) Rates{{< /hl-text >}} and Material Value Loss
 Malaysia recycled about 24% of the key plastic resins in 2019.
 > In 2019, 1.41 million tonnes per year (TPY) of the four key resins assessed in this study (PET, HDPE, LDPE and PP) were consumed in Malaysia, out of which an estimated 334,000 TPY (24%) were recycled.
@@ -60,3 +61,14 @@ Hui Ling Chen
 School of Environmental and Geographical Sciences, University of Nottingham Malaysia, Semenyih, Malaysia
 
 That being said, {{< hl-text blue>}}landfill{{< /hl-text >}}is the favoured form of solid waste management in Malaysia, with {{< hl-text blue>}}85 percent{{< /hl-text >}} of material going to landfill; this high percentage stems from the low cost of this form of solid waste management.
+
+# (Journal) Sustainable Waste-to-Energy Development in Malaysia: Appraisal of Environmental, Financial, and Public Issues Related with Energy Recovery from Municipal Solid Waste
+
+In Malaysia, {{< hl-text blue>}}50%{{< /hl-text >}} of landfills are open dumping sites; 30% use-controlled tipping; 12% are controlled landfills with daily cover; {{< hl-text blue>}}5%{{< /hl-text >}} are sanitary landfills without leachate treatment facility; and the other {{< hl-text blue>}}5%{{< /hl-text >}} are sanitary landfills with leachate treatment.
+50, 40, 10
+
+# Malaysia is eyeing waste-to-energy solutions
+https://www.greendkinsea.com/post/malaysia-is-eyeing-waste-to-energy-solutions
+Malaysia’s first WTE plant in Ladang Tanah Merah, Port Dickson, Negeri Sembilan, which was scheduled to be fully operational in June 2020 is now delayed due to nationwide movement restrictions amidst the global COVID-19 pandemic.
+
+The Housing and Local Government Ministry of Malaysia aims at reducing solid waste disposed directly to landfills by promoting the 3R (Reduce, Reuse, Recycle) lifestyle and introducing new and proven technologies such as plans to set up {{< hl-text blue>}}six{{< /hl-text >}} waste-to-energy (WtE) plants by 2025 with various technologies to be evaluated.
