@@ -12,7 +12,7 @@ Math: True
 <!--more-->
 {{< toc >}}
 # Malaysia
-## Market Study for Malaysia: Plastics Circularity Opportunities and Barriers
+## (Report) Market Study for Malaysia: Plastics Circularity Opportunities and Barriers
 https://www.worldbank.org/en/country/malaysia/publication/market-study-for-malaysia-plastics-circularity-opportunities-and-barriers
 Three Key Quantitative Findings on {{< hl-text blue>}}Collected For Recycling (CFR) Rates{{< /hl-text >}} and Material Value Loss
 Malaysia recycled about **{{< hl-text blue>}}24%{{< /hl-text >}}** of the key plastic resins in 2019.
@@ -116,3 +116,7 @@ March 2019, Minister Luhut B. Pandjaitan, Indonesia's Coordinating Minister of M
 
 Around 6.8 million tonnes of plastics became plastic waste (MSW) in 2017.
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/184113104-245bb38f-f139-438d-94bb-c421876ab25a.png" >}}
+
+# Thailand
+## (report) Plastic Waste Material Flow Analysis for Thailand
+[the World Bank](https://www.worldbank.org/en/country/thailand/publication/plastic-waste-material-flow-analysis-for-thailand#:~:text=Despite%20a%20high%20municipal%20solid,year%20of%20mismanaged%20plastic%20waste)
