@@ -120,3 +120,19 @@ Around 6.8 million tonnes of plastics became plastic waste (MSW) in 2017.
 # Thailand
 ## (report) Plastic Waste Material Flow Analysis for Thailand
 [the World Bank](https://www.worldbank.org/en/country/thailand/publication/plastic-waste-material-flow-analysis-for-thailand#:~:text=Despite%20a%20high%20municipal%20solid,year%20of%20mismanaged%20plastic%20waste)
+data for 2018
+recycled 21.4%
+incineration 6%
+sanitary landfill 46.6%
+unsanitary landfill 15%
+open dump 2.3
+open burning 8.7
+## (report) Market Study for Thailand: PLASTICS CIRCULARITY OPPORTUNITIES AND BARRIERS
+[the World Bank](https://www.worldbank.org/en/country/thailand/publication/market-study-for-thailand-plastics-circularity-opportunities-and-barriers)
+data for 2018
+recycled 17.6% (follow-up structure is as same as above)
+incineration 7.63%
+sanitary landfill 46.6%
+unsanitary landfill 15%
+open dump 2.3
+open burning 8.7
