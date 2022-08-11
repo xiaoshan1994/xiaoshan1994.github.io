@@ -115,4 +115,4 @@ April 2020
 March 2019, Minister Luhut B. Pandjaitan, Indonesia's Coordinating Minister of Maritime Affairs and Investment, joined forces with the **Global Plastic Action Partnership** to launch the Indonesia National Plastic Action Partnership (NPAP).
 
 Around 6.8 million tonnes of plastics became plastic waste (MSW) in 2017.
-{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/184112121-62140678-aa72-4531-8a3c-9ff103376e9f.png" >}}
+{{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/184113104-245bb38f-f139-438d-94bb-c421876ab25a.png" >}}
