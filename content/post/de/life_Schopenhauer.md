@@ -15,10 +15,25 @@ Math: True
 /ˈʃəupənhauə/ 1788年2月22日－1860年9月21日
 <!--more-->
 {{< toc >}}
+# Arthur Schopenhauer
+Arthur Schopenhauer (/ˈʃoʊpənhaʊər/ 22 February 1788 – 21 September 1860) was a German philosopher. He is best known for his 1818 work {{< hl-text blue>}}The World as Will and Representation{{< /hl-text >}} (expanded in 1844), which characterizes the phenomenal world as the product of a blind noumenal will. Building on the transcendental idealism of Immanuel Kant (1724-1804), Schopenhauer developed an atheistic metaphysical and ethical system that rejected the contemporaneous ideas of German idealism. He was among the first thinkers in Western philosophy to share and affirm significant tenets of Indian philosophy, such as asceticism, denial of the self, and the notion of the world-as-appearance. His work has been described as an exemplary manifestation of {{< hl-text blue>}}philosophical pessimism{{< /hl-text >}}.
+
+Though his work failed to garner substantial attention during his lifetime, Schopenhauer had a posthumous impact across various disciplines, including philosophy, literature, and science. His writing on aesthetics, morality, and psychology have influenced many thinkers and artists. Those who have cited his influence include philosophers Emil Cioran, Friedrich Nietzsche and Ludwig Wittgenstein, scientists Erwin Schrödinger and Albert Einstein, psychoanalysts Sigmund Freud and Carl Jung, writers Leo Tolstoy, Herman Melville, Thomas Mann, Hermann Hesse, Machado de Assis,[33] Jorge Luis Borges, Marcel Proust and Samuel Beckett,and composers Richard Wagner, Johannes Brahms, Arnold Schoenberg and Gustav Mahler.
+
 Schopenhauer, a disciple of Kant, takes over and transforms Kantian idealism. Reading it requires some knowledge of Kantian philosophy.
 
-The World as Will and Representation
-作为意志和表象的世界
+## The World as Will and Representation 作为意志和表象的世界
+
+The world as representation
+Schopenhauer saw his philosophy as an extension of Kant's, and used the results of Kantian epistemological investigation (transcendental idealism) as starting point for his own. Kant had argued that the empirical world is merely a complex of appearances whose existence and connection occur only in our mental representations.[173] Schopenhauer did not deny that the external world existed empirically but followed Kant in claiming that our knowledge and experience of the world is always indirect.[174] Schopenhauer reiterates this in the first sentence of his main work: "The world is my representation (Die Welt ist meine Vorstellung)". Everything that there is for cognition (the entire world) exists simply as an object in relation to a subject—a 'representation' to a subject. Everything that belongs to the world is, therefore, 'subject-dependent'. In Book One of The World as Will and Representation, Schopenhauer considers the world from this angle—that is, insofar as it is representation.
+
+The world as will
+Main article: The World as Will and Representation
+In Book Two of The World as Will and Representation, Schopenhauer considers what the world is beyond the aspect of it that appears to us—that is, the aspect of the world beyond representation, the world considered "in-itself" or "noumena", its inner essence. The very being in-itself of all things, Schopenhauer argues, is will (Wille). The empirical world that appears to us as representation has plurality and is ordered in a spatio-temporal framework. The world as thing in-itself must exist outside the subjective forms of space and time. Although the world manifests itself to our experience as a multiplicity of objects (the "objectivation" of the will), each element of this multiplicity has the same blind essence striving towards existence and life. Human rationality is merely a secondary phenomenon that does not distinguish humanity from the rest of nature at the fundamental, essential level. The advanced cognitive abilities of human beings, Schopenhauer argues, serve the ends of willing—an illogical, directionless, ceaseless striving that condemns the human individual to a life of suffering unredeemed by any final purpose. Schopenhauer's philosophy of the will as the essential reality behind the world as representation is often called metaphysical voluntarism.[3]
+
+For Schopenhauer, understanding the world as will leads to ethical concerns (see the ethics section below for further detail), which he explores in the Fourth Book of The World as Will and Representation and again in his two prize essays on ethics, On the Freedom of the Will and On the Basis of Morality. No individual human actions are free, Schopenhauer argues, because they are events in the world of appearance and thus are subject to the principle of sufficient reason: a person's actions are a necessary consequence of motives and the given character of the individual human. Necessity extends to the actions of human beings just as it does to every other appearance, and thus we cannot speak of freedom of individual willing. Albert Einstein quoted the Schopenhauerian idea that "a man can do as he will, but not will as he will."[181] Yet the will as thing in-itself is free, as it exists beyond the realm of representation and thus is not constrained by any of the forms of necessity that are part of the principle of sufficient reason.
+
+According to Schopenhauer, salvation from our miserable existence can come through the will's being "tranquillized" by the metaphysical insight that reveals individuality to be merely an illusion. The saint or 'great soul' intuitively "recognizes the whole, comprehends its essence, and finds that it is constantly passing away, caught up in vain strivings, inner conflict, and perpetual suffering".[182] The negation of the will, in other words, stems from the insight that the world in-itself (free from the forms of space and time) is one. Ascetic practices, Schopenhauer remarks, are used to aid the will's "self-abolition", which brings about a blissful, redemptive "will-less" state of emptiness that is free from striving or suffering.
 
 The epistemology of Schopenhauer:
 Schopenhauer posits from the outset that the world is an idea insofar as it is an object in the mind of a subject. The subject / object relation is that of all or nothing: if an object is perceived, it is then in the subject and thus becomes idea.
@@ -122,6 +137,97 @@ https://baijiahao.baidu.com/s?id=1646813359835896439&wfr=spider&for=pc
 与结构主义哲学相比，海德格尔的语言观更看重语言的指称和外部世界的关系，而非语言能指或所指的“差异性”，所以海德格尔的语言论属于人本主义语言学，结构主义或后结构主义语言论具有后现代主义倾向。换言之，海德格尔哲学更看重人及其生活的存在，属于现代性思维；结构主义或后结构主义更看重语言游戏，属于后现代思维。
 
 综上所述，存在主义和结构主义同属于现代西方哲学的重要形态，各自在西方哲学中扮演了不同角色，发挥了不同作用。存在主义消解了传统哲学的主客二分模式（原子论思维），结构主义消解了西方哲学的”主体性“，把独立、自由的“人”拉下神坛。这两种前后相继的哲学潮流共同推动着西方哲学走向后现代。
+
+# 叔本华的哲学——揭示了世界和人性的本质
+https://baijiahao.baidu.com/s?id=1667837391491751389&wfr=spider&for=pc
+在亚瑟·叔本华年轻的时候，欧洲已经四分五裂。拿破仑向东进军，征服了一个又一个国家，建立了一个强大的帝国，可以与古罗马匹敌。
+
+讲德语的世界深受拿破仑的影响。当时，日耳曼人分散在不同的小国中，这些小国发现自己被冲突极化了。一些人认为拿破仑带来了巨大进步，另一些人认为拿破仑的征服带来的只有死亡和毁灭。
+
+所有这些都促使哲学家们思考进步到底是什么，以及为什么世界上有如此多的苦难。叔本华把这两个问题发展成一种综合的哲学，不仅描述了世界是怎样的，而且还描述了我们应该怎样生活在其中。
+
+1852年的亚瑟·叔本华。叔本华很早就形成了自己的思想。由于他对列夫·托尔斯泰和理查德·瓦格纳等思想家影响很大，他成为了一位超级哲学家。(来源：维基百科)
+叔本华是在晚年“被发现”的。他的杰作《意志与表象的世界》在很大程度上被忽视了。直到60岁那年，他出版了一本散文集，才因其对哲学的贡献而获得认可。在他72岁去世前的几年里，他声名鹊起。
+
+名誉是短暂的，影响是持久的。叔本华现在还不是一个家喻户晓的名字，但他是现代最重要的思想家之一。
+
+这位哲学家对艺术有特别深远的影响。列夫·托尔斯泰、托马斯·哈代、托马斯·曼、约瑟夫·康拉德和安东·契诃夫都从这位哲学家的思想中找到了灵感。他们中的一些人在他们的作品中提到了他的名字。科学家和哲学家们也受到了叔本华的影响，阿尔伯特·爱因斯坦、欧文·薛定谔、路德维希·维特根斯坦和弗里德里希·尼采都把阅读和赞美世界作为意志和表象。爱因斯坦在他的书房里放了一张叔本华的半身像。
+
+01 原罪是存在本身的犯罪
+叔本华那个时代的大多数哲学思想都认为进步正在发生。启蒙运动之后，随着科学的进步使西方世界现代化，人们很容易做出这样的假设。塑造欧洲的工业和政治革命使这种进步对人们来说非常现实。
+
+日耳曼哲学走得更远。当时最具影响力的哲学家乔治·威廉·弗里德里希·黑格尔认为，世界是一种无所不包的“精神”，朝着完美的方向发展。
+
+许多人相信拿破仑的征服带来了进步。(来源：维基百科)
+当黑格尔目睹拿破仑骑着马穿过耶拿市时，他给一位朋友写信说：
+
+我看见皇帝——这个世界的灵魂——骑马出城去侦察。骑着一匹马，跨越世界，征服世界，确实是一种奇妙的感觉。
+
+叔本华的哲学，在黑格尔的阴影下，以其悲观主义而臭名昭出名著。对于叔本华来说，世界上没有精神。关于拿破仑，他写道：
+
+他具有一种非常普通的利己主义，这种利己主义以牺牲他人为代价来谋求自身的福祉。他的杰出之处在于他有更大的力量来满足自己的意志。”
+
+拿破仑没有体现任何精神，他只是为了自己的满足而打仗和屠杀成千上万的人。在叔本华看来，历史是没有意义的。人类所经受的一切考验和磨难最终都归于乌有。
+
+在地球上，大自然中充斥着可怕的竞争。一些生物靠捕食其他生物才能生存。每个人都会死，多半是死于痛苦之中。叔本华认为上帝是不存在的。原罪是存在本身的犯罪。
+
+叔本华世界观中也没有救赎，只有宽慰。叔本华认为，我们不应该寄希望于上帝，而应该从两个方面寻求内心的平静：同情和艺术。要了解他是如何得出这个结论的，有必要对他的哲学进行一番剖析。
+
+痛苦和死亡是生命的一部分。叔本华认为，同情对个人和人类的幸福都是至关重要的，战争只是由利己主义引起的。（来源：维基百科）。
+
+02 超越我们所知的世界
+叔本华的哲学体系是建立在德国哲学家康德的著作之上的。与康德一样，叔本华认为我们的世界有两个截然不同的方面：我们能体验到的和不能体验到的。
+
+首先是“现象”世界（现象的意思是“所经历的”）。这个世界是由我们的感觉和我们在空间和时间中体验，并根据因果律来构造的。简而言之，现象世界就是我们能感觉到、听到、感知到的一切。
+
+但如果我们能以某种方式接触到真实的世界呢？什么东西在我们对世界的感知之外？在我们的感官之外？甚至在空间和时间之外？在因果关系之外？叔本华称之为世界的“本体”（本体的意思是“经验之外的东西”）。
+
+简而言之，宇宙分为宇宙本身和人类的宇宙。这就是为什么叔本华把他的书命名为《意志与表象的世界》。叔本华认为，既然我们的智力将差异强加于宇宙，那么我们智力之外的宇宙必定是一种无差异的统一体。
+
+“非凡的”世界是空间和时间的事物：树木、灰尘、人、天空、水。如果我们能够超越自己（我们当然不能），“本体”世界将是纯粹的、无差异的“能量”。所有这些树，尘埃，人，天空和水等作为一个纯粹的存在状态。
+
+03 意志
+
+这种“能量”就是叔本华所说的“意志”。这位哲学家认为事情会发生，一定是因为有某种东西使它发生。通过直觉的判断，他推断出我们本质上只是一组欲望和驱动力。动力就像我们的心跳一样简单，是繁殖的需要，欲望就是我们活下去的欲望。
+
+你可以把这个推演到动物和植物上，最终推演到惰性物质上。宇宙中的一切都在变化。一切都有趋势，从彗星在太空深处的惯性，到摇滚明星的性欲。
+
+意志是永恒的，如果它是永恒的，它就是无目的的。意志在我们身上表现为欲望：渴望活下去，渴望吃、喝和购买最新的iPhone。叔本华在生命的语境中称其为“生命意志”。
+
+在一个没有意义的世界里，只有欲望驱使着人类向前，去繁衍，去消费，去征服，去积累。盲目的，无意识的意志力量，驱动着宇宙，也驱动着我们，它不允许我们从欲望中得到休息。
+
+当我们获得某样东西时，我们可能会从不满足中得到短暂的释放，但很快另一种欲望又会成为我们意识的主导地位。正如叔本华所说:
+
+因此，生活就像钟摆一样从右向左摆动，饱受无聊之苦。
+
+叔本华认为，我们永远不会真正感到满足。“苦难是所有生命的本质”，只有死亡才是真正的解脱。除了死亡，叔本华认为放弃尘世的东西是减轻我们无法抑制的欲望所带来的痛苦的最好方法。
+
+04 同情
+放弃的一个重要方面是同情。对叔本华来说，关心人和动物是很重要的，因为事物之间并没有根本的区别。每一事物、每一个人都是存在的本体。这位哲学家同意佛教的观点，即伤害其他生物最终就是伤害我们自己。
+
+叔本华的思想与佛教有许多共同之处
+叔本华提出的伦理思想与佛教信仰之间的相似性是显而易见的。禁欲主义是所有宗教的共同美德，尤其是佛教。叔本华写道：
+
+如果我以我的哲学作为真理的标准，我就不得不承认佛教高于其他一切。
+
+以善意行事的人，是在内心深处看得透彻的人。在事物的宏伟蓝图中，生物之间的区别是一种幻觉。如果我们带着同情去行动，我们就会感到更少的分离和孤立，我们会感到彼此相连。这就是为什么我们把善良的行为描述为“无私”。
+
+05 美与艺术
+另一种暂时逃避欲望的方式，是我们在艺术和美中找到享受的方式。对于叔本华来说，艺术的乐趣让我们沉浸在作为表象的世界里，而暂时忘却了世界的存在。艺术也可以给我们一种直觉，它比科学或理性更深入地与世界联系。
+
+音乐是叔本华的最高艺术形式。因为它不是“模仿的”，也不是其他任何事物的复制品，音乐描绘的是意志本身。因此，音乐是纯粹的表达，是一种“真正的通用语言”，在任何地方都能理解。通过听音乐，我们可以欣赏意志而不感到痛苦。
+
+作曲家用一种推理思维所不能理解的语言揭示了世界的最内在的本质，表达了最深刻的智慧。
+
+在1865年的首次演出中，约瑟夫·艾伯特·路德维希和马尔文·施诺尔·冯·卡尔斯菲尔德饰演特里斯坦和伊索尔德。（来源：维基百科）
+
+06 落幕
+
+叔本华晚年时（19世纪50年代末）获得了巨大的声誉。人们在他最喜欢的餐馆订了位子，就是为了看他吃饭。
+
+列夫·托尔斯泰)曾这样描述叔本华的哲学:“它是整个世界无可比拟的美丽和清晰的反映。”托尔斯泰声称，他在《战争与和平》中所写的东西是叔本华的意志和表现。
+
+这位哲学家72岁时死在沙发上。
 
 # Sartre 萨特
 {{< image classes="fancybox fig-100" src="https://assets.theschooloflife.com/wp-content/uploads/sites/2/2022/03/18073832/header-blog-jeanpaulsartre.jpg" >}}
