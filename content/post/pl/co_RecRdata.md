@@ -92,7 +92,27 @@ recycle rate%
 2020: 30.7
 
 # Indonesia
-## On the Frontline of Indonesia’s Plastic Waste Crisis
+## (News) On the Frontline of Indonesia’s Plastic Waste Crisis
 https://www.wilsoncenter.org/event/frontline-indonesias-plastic-waste-crisis
 
 Indonesia’s National Plastic Action Partnership estimates that only {{< hl-text blue>}}10 percent{{< /hl-text >}} of Indonesia’s yearly 6.8 million tons of plastic waste is recycled and {{< hl-text blue>}}nearly half{{< /hl-text >}} is dumped or burned. Indonesia is responsible for 10 percent of global plastic leakage into the ocean, second only behind China.
+
+## (Report) National Plastic Waste Reduction Strategic Actions for Indonesia
+https://www.unep.org/ietc/resources/policy-and-strategy/national-plastic-waste-reduction-strategic-actions-indonesia
+June 2020
+the Ministry of Environment and Forestry (MoEF), the Government of Indonesia, and the IGES Centre Collaborating with UNEP on Environmental Technologies (CCET), in collaboration with Sustainable Waste Indonesia (SWI).
+
+MoEF - Ministry of Environment and Forestry
+EPR - Extended Producer's Responsibility
+
+Fig. 3 and Table 2 show plastic waste reduction projection estimates by MoEF during the discussion on development of the EPR regulation.
+
+The composition of plastic waste, the baseline recycling rate, and the annual increase in the recycling rate are estimated at 14%, 7% and 2% respectively.
+
+## (Report) Radically Reducing Plastic Pollution in Indonesia: A Multistakeholder Action Plan National Plastic Action Partnership
+https://globalplasticaction.org/countries/indonesia/#:~:text=Released%20in%20April%202020%2C%20Radically,pollution%20by%202040%20through%20transitioning
+April 2020
+March 2019, Minister Luhut B. Pandjaitan, Indonesia's Coordinating Minister of Maritime Affairs and Investment, joined forces with the **Global Plastic Action Partnership** to launch the Indonesia National Plastic Action Partnership (NPAP).
+
+Around 6.8 million tonnes of plastics became plastic waste (MSW) in 2017.
+![image](https://user-images.githubusercontent.com/65668613/184112121-62140678-aa72-4531-8a3c-9ff103376e9f.png)
