@@ -21,7 +21,7 @@ Department of Environmental Engineering, Technical University of Denmark, Bygnin
 # S2 Data for the baseline scenario
 ## S2 Data for the baseline scenario
 ![image](https://user-images.githubusercontent.com/65668613/183283932-aaf3af1f-dacc-4268-b5c0-7eac0e1300d7.png)
-{{< alert info>}}How to access different quantities of plastic resins across sectors?{{< /alert >}
+{{< alert info>}}How to access different quantities of plastic resins across sectors?{{< /alert >}}
 
 ![image](https://user-images.githubusercontent.com/65668613/183284505-b53aba4a-f4a3-459c-9256-9f93e5cd54b5.png)
 
