@@ -15,14 +15,14 @@ Math: True
 ## (Report) Market Study for Malaysia: Plastics Circularity Opportunities and Barriers
 https://www.worldbank.org/en/country/malaysia/publication/market-study-for-malaysia-plastics-circularity-opportunities-and-barriers
 Three Key Quantitative Findings on {{< hl-text blue>}}Collected For Recycling (CFR) Rates{{< /hl-text >}} and Material Value Loss
-Malaysia recycled about **{{< hl-text blue>}}24%{{< /hl-text >}}** of the key plastic resins in 2019.
+Malaysia recycled about **{{< hl-text blue>}}24%{{< /hl-text >}}** of the key plastic resins in **{{< hl-text blue>}}2019{{< /hl-text >}}**.
 > In 2019, 1.41 million tonnes per year (TPY) of the four key resins assessed in this study (PET, HDPE, LDPE and PP) were consumed in Malaysia, out of which an estimated 334,000 TPY (24%) were recycled.
 
 * the JPSPN (National Solid Waste Management Department) recycling target for 2025 is {{< hl-text blue>}}40%{{< /hl-text >}}.
 
 ![image](https://user-images.githubusercontent.com/65668613/182415459-37f4636a-9120-44a8-a65b-c38bd223e6c5.png)
 
-Figure 1a. Estimated CFR rates for each resin 2019
+Figure 1a. Estimated CFR rates for each resin **{{< hl-text blue>}}2019{{< /hl-text >}}**
 {{< hl-text blue>}}PET packaging 37%{{< /hl-text >}}
 {{< hl-text blue>}}PET Polyester 3%{{< /hl-text >}}
 {{< hl-text blue>}}PP 30%{{< /hl-text >}}
@@ -66,8 +66,9 @@ That being said, {{< hl-text blue>}}landfill{{< /hl-text >}}is the favoured form
 
 ## (Journal) Sustainable Waste-to-Energy Development in Malaysia: Appraisal of Environmental, Financial, and Public Issues Related with Energy Recovery from Municipal Solid Waste
 
-In Malaysia, {{< hl-text blue>}}50%{{< /hl-text >}} of landfills are open dumping sites; 30% use-controlled tipping; 12% are controlled landfills with daily cover; {{< hl-text blue>}}5%{{< /hl-text >}} are sanitary landfills without leachate treatment facility; and the other {{< hl-text blue>}}5%{{< /hl-text >}} are sanitary landfills with leachate treatment.
-50, 40, 10
+In Malaysia, **{{< hl-text blue>}}50%{{< /hl-text >}}** of landfills are open dumping sites; 30% use-controlled tipping; 12% are controlled landfills with daily cover; **{{< hl-text blue>}}5%{{< /hl-text >}}** are sanitary landfills without leachate treatment facility; and the other **{{< hl-text blue>}}5%{{< /hl-text >}}** are sanitary landfills with leachate treatment.
+
+**sanitary landfill:10, unsanitary landfill:40, open dump:50**
 
 ## Malaysia is eyeing waste-to-energy solutions
 https://www.greendkinsea.com/post/malaysia-is-eyeing-waste-to-energy-solutions
@@ -136,3 +137,5 @@ sanitary landfill 46.6%
 unsanitary landfill 15%
 open dump 2.3
 open burning 8.7
+
+#
