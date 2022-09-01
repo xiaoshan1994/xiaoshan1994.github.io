@@ -11,3 +11,8 @@ Math: True
 ---
 <!--more-->
 {{< toc >}}
+# Plastic waste shipments: new EU rules on importing and exporting plastic waste
+NEWS ANNOUNCEMENT22
+**December 2020**
+Directorate-General for Environment
+https://environment.ec.europa.eu/news/plastic-waste-shipments-new-eu-rules-importing-and-exporting-plastic-waste-2020-12-22_en
