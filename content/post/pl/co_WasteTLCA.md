@@ -113,6 +113,8 @@ The recycling process consists of two main steps: {{< hl-text blue>}}pre-treatme
 
 [Slides for explanation by Sphera Solutions GmbH](https://ec.europa.eu/environment/eussd/smgp/pdf/TrainingCFF%20Circular%20Footprint%20Formula10Nov2020_final_corr.pdf)
 
+[The circular footprint formula (CCF), the EU methodology to credit for circular strategies](https://areco.org.es/en/the-circular-footprint-formula/)
+
 ### Suggestions for updating the Product Environmental Footprint (PEF) method
 [Original technical reports by Joint Research Centre of EC, Luca Zampori, 2019](https://eplca.jrc.ec.europa.eu/permalink/PEF_method.pdf)
 
