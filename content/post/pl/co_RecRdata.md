@@ -138,4 +138,5 @@ unsanitary landfill 15%
 open dump 2.3
 open burning 8.7
 
-#
+# USA
+[The Real Truth About the U.S. Plastics Recycling Rate](https://www.beyondplastics.org/reports/the-real-truth-about-the-us-plastics-recycling-rate)
