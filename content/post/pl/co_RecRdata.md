@@ -140,3 +140,5 @@ open burning 8.7
 
 # USA
 [The Real Truth About the U.S. Plastics Recycling Rate](https://www.beyondplastics.org/reports/the-real-truth-about-the-us-plastics-recycling-rate)
+
+![image](https://user-images.githubusercontent.com/65668613/189703254-16e7a49e-44ca-4942-9aea-5cc793058597.png)
