@@ -138,7 +138,28 @@ unsanitary landfill 15%
 open dump 2.3
 open burning 8.7
 
+# Viet Nam
+
+# Europe (without Turkey)
+## (report) The Circular Economy for Plastics – A European Overview (28/04/2022)
+https://plasticseurope.org/knowledge-hub/the-circular-economy-for-plastics-a-european-overview-2/
+EU27 + Norway, Switzerland and The United Kingdom
+for the year 2020
+![image](https://user-images.githubusercontent.com/65668613/189929369-562d5c29-c845-44c0-8c39-0ff9d1020287.png)
+## (report) Plastics – the Facts 2020
+https://plasticseurope.org/knowledge-hub/plastics-the-facts-2020/
+EU27 + Norway, Switzerland and The United Kingdom
+for the year 2018
+![image](https://user-images.githubusercontent.com/65668613/189951541-5c352d5a-fc9a-43d3-828b-6adbe9249349.png)
+
 # USA
 [The Real Truth About the U.S. Plastics Recycling Rate](https://www.beyondplastics.org/reports/the-real-truth-about-the-us-plastics-recycling-rate)
 
 ![image](https://user-images.githubusercontent.com/65668613/189703254-16e7a49e-44ca-4942-9aea-5cc793058597.png)
+
+# Canada
+[Environment and Climate Change Canada. (2019). Economic study of the Canadian plastic industry, markets and waste](https://publications.gc.ca/site/eng/9.871296/publication.html)
+[Plastic Waste in Canada](https://www.iisd.org/system/files/publications/plastic-waste-canada.pdf)
+Poor plastic waste management in Canada contributes to environmental pollution and economic inefficiencies. The country deposits **86** per cent of plastic waste in **landfills**, and **incinerates** another **4 per cent**, while only **9 per cent** is **recycled** (Environment and Climate Change Canada, 2019).
+
+#
