@@ -118,6 +118,7 @@ March 2019, Minister Luhut B. Pandjaitan, Indonesia's Coordinating Minister of M
 Around 6.8 million tonnes of plastics became plastic waste (MSW) in 2017.
 {{< image classes="fancybox fig-100" src="https://user-images.githubusercontent.com/65668613/184113104-245bb38f-f139-438d-94bb-c421876ab25a.png" >}}
 
+Currently use one year instead.
 # Thailand
 ## (report) Plastic Waste Material Flow Analysis for Thailand
 [the World Bank](https://www.worldbank.org/en/country/thailand/publication/plastic-waste-material-flow-analysis-for-thailand#:~:text=Despite%20a%20high%20municipal%20solid,year%20of%20mismanaged%20plastic%20waste)
@@ -138,6 +139,7 @@ unsanitary landfill 15%
 open dump 2.3
 open burning 8.7
 
+Currently use one year 2018 instead.
 # Viet Nam
 
 # Europe (without Turkey)
