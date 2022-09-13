@@ -164,4 +164,5 @@ for the year 2018
 [Plastic Waste in Canada](https://www.iisd.org/system/files/publications/plastic-waste-canada.pdf)
 Poor plastic waste management in Canada contributes to environmental pollution and economic inefficiencies. The country deposits **86** per cent of plastic waste in **landfills**, and **incinerates** another **4 per cent**, while only **9 per cent** is **recycled** (Environment and Climate Change Canada, 2019).
 
+Currently use one year only instead.
 #
