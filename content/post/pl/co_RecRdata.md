@@ -234,3 +234,12 @@ re: 60
 in: 2
 landfill: 17
 un:21
+
+# South Korea
+## (journal) Recycling and management practices of plastic packaging waste towards a circular economy in South Korea
+https://doi.org/10.1016/j.resconrec.2020.104798
+27 March 2020
+for the year 2017
+re: 13.5
+in: 75.5(37 with energy recovery and 38.5 without energy recovery)
+land: 11
