@@ -243,3 +243,21 @@ for the year 2017
 re: 13.5
 in: 75.5(37 with energy recovery and 38.5 without energy recovery)
 land: 11
+
+# Vietnam
+## (journal) Plastic Recycling Practices in Vietnam and Related Hazards for Health and the Environment
+[Int J Environ Res Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8071425/#B18-ijerph-18-04203)
+2021 Apr 15
+From the total volume of MSW collected, about 71% is treated by landfilling, 16% is processed in composting plants, and 13% is treated by incineration. Out of the larger landfills, receiving more than 20,000 t/day, only 30% are classified as sanitary landfills as landfills with daily cover. Only 9% of the landfills are equipped with weights and 36% with bottom lining. Most landfills do not have compactors, a gas collection system, leachate treatment, or environmental monitoring [18].
+
+## (report) Market Study for Vietnam : Plastics Circularity Opportunities and Barriers
+https://www.worldbank.org/en/country/vietnam/publication/market-study-for-vietnam-plastics-circularity-opportunities-and-barriers
+Vietnam recycled about 33% of key plastics resins in 2019.
+
+re: 33
+in: 1.37
+sani landfill: 17
+unsani landfill: 40
+open dump: 8.63
+
+# Japan
