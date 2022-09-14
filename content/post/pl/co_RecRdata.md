@@ -165,4 +165,72 @@ for the year 2018
 Poor plastic waste management in Canada contributes to environmental pollution and economic inefficiencies. The country deposits **86** per cent of plastic waste in **landfills**, and **incinerates** another **4 per cent**, while only **9 per cent** is **recycled** (Environment and Climate Change Canada, 2019).
 
 Currently use one year only instead.
-#
+
+# Mexico
+## (News) In Mexico City, Veolia will build and operate one of the largest waste to energy facilities in the world and the first in Latin America
+https://www.veolia.com/en/news/waste-to-energy-renewable-energy-mexico
+The plant is scheduled to start in 2020
+This plant will treat 1.6 million tonnes of household waste per year
+## (report) mexico city brief - No Waste Challenge
+https://nowaste.whatdesigncando.com/app/uploads/2021/01/Mexico-City-Perspective.pdf
+More than 7 million tonnes of plastic is produced in Mexico every year, and less than **10%** of this is recycled.
+## (report) Waste Management Country Report: Mexico
+https://hollandcircularhotspot.nl/wp-content/uploads/2021/04/Report_Waste_Management_Mexico_20210322.pdf
+70% ends up in landfills and the remaining 20% is disposed of in illegal dumpsites.
+40% of the deposited waste ends up in 82 (bigger) landfills with basic infrastructure in place.
+re: 10%
+incineration: 0%
+sani landfill: 28%
+unsani landfill:42%
+open dump: 20%
+open burning: 0%
+
+# Turkey
+## (reprot) Plastic Pollution Policy Country Profile: Turkey
+https://nicholasinstitute.duke.edu/sites/default/files/projects/Plastic-Pollution-Policy-Country-Profile-Turkey.pdf
+re: 6%
+landfill: 61%
+open dump:33%
+
+## (news) UK plastics sent for recycling in Turkey dumped and burned, Greenpeace finds
+https://www.theguardian.com/environment/2021/may/17/uk-plastics-sent-for-recycling-in-turkey-dumped-and-burned-greenpeace-finds
+re :12%
+
+# Hongkong
+## (government report) Monitoring of Solid Waste in Hong Kong
+https://www.wastereduction.gov.hk/sites/default/files/msw2020.pdf
+Among the various types of recyclables, plastic recyclables' recovery rate increased from 8% in 2019 to 11% in 2020.
+2019: Disposed of at landfills 4.04 million tonnes (71%) Recovered 1.64 million tonnes (29%)
+2020: Disposed of at landfills 3.96 million tonnes (72%) Recovered 1.54 million tonnes (28%)
+2019: re: 8% in: 26.68% land: 65.32%
+2020: re: 11% in: 24.92% land: 64.08%
+
+# Taiwan
+## (journal) Management strategy of plastic wastes in Taiwan
+[Sustainable Environment Research](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-022-00123-0#:~:text=A%20plastic%20overall%20recycle%20rate,51%25%20was%20attained%20(Fig.)
+Published: 24 January 2022
+for the year 2019
+recycled 0.5
+energy recovery: 0.86
+landfill: 0.01
+re: 0.3650
+incineration: 0.6277
+landfill: 0.0073
+
+# India
+## (government report) Annual Report for the year 2018-19 on Implementation of Plastic Waste Management Rules
+https://cpcb.nic.in/uploads/plasticwaste/Annual_Report_2018-19_PWM.pdf
+According to the Central Pollution Control Board report 2019-2020, India recycles around 60% of plastic waste. The remaining 40% ends up in landfills, on the streets, clogging water bodies, etc.
+## (report) Global Plastics Outlook
+https://www.oecd-ilibrary.org/environment/global-plastics-outlook_de747aef-en
+22 Feb 2022
+Share of plastics treated by waste management category, after disposal of recycling residues and collected litter, 2019
+re: 13
+in: 4
+landfill: 36
+uncollected: 46
+
+re: 60
+in: 2
+landfill: 17
+un:21
