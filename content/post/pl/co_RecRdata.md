@@ -261,3 +261,29 @@ unsani landfill: 40
 open dump: 8.63
 
 # Japan
+## (report) An Introduction to Plastic Recycling 2019
+https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf
+Japan’s Plastic Waste Management Institute
+July 2019
+re: 0.27
+in: 0.56
+landfill: 0.08
+open burning: 0.08
+
+# Philippines
+## (report) Philippines: Plastics Circularity Opportunities Report
+https://www.worldbank.org/en/country/philippines/publication/market-study-for-philippines-plastics-circularity-opportunities-and-barriers-report-landing-page#:~:text=ThThe%20Philippines%20recycled%20just,than%20recycled%20into%20valuable%20materials.
+The Philippines recycled just 28% of key plastic resins in 2019.
+
+## (report) BACKGROUND - WWF-Philippines
+https://wwf.org.ph/wp-content/uploads/2020/10/WWF_A4_Factsheet_PHILIPPINES.pdf
+for the year 2019
+re: 0.1139
+in: 0.0253
+landfill: 0.4177
+open: 0.4430
+
+re:0.27
+in: 0.02
+landfill: 0.34
+open: 0.37
