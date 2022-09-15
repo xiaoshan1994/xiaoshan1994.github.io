@@ -287,3 +287,16 @@ re:0.27
 in: 0.02
 landfill: 0.34
 open: 0.37
+
+# Australia
+## (report) APCO Collective Impact Report
+https://documents.packagingcovenant.org.au/public-documents/APCO%20Collective%20Impact%20Report
+Australian Packaging Covenant Organisation (Apco)
+recovery rate 16 for plastic 2019-2020
+## (News) 20 Startling Waste & Landfill Statistics Australia (2022)
+
+In 2019, 84% (2.94 million tonnes) of plastic waste in Australia was dumped in landfills. A staggeringly low figure of just 12% of plastic used by the Australian public is actually recycled.
+
+re: 12
+in: 4
+landfill: 84
