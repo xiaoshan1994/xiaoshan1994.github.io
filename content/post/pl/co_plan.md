@@ -39,3 +39,5 @@ Step 2: Collection
 Step 3: Sorting in source country
 Waste collected for reprocessing is sent to a Material Recovery Facility (MRF) to be sorted.
 A PRF(plastic recovery facility) is an additional degree of sorting, occurring either within an MRF or within a separate PRF facility. This step separates plastic by polymer type (i.e. HDPE, PET) and as a result, increases its purity and market value.
+Step 4: Domestic reprocessing (recycling and recovery)
+Mechanical recycling, chemical recycling, and waste
