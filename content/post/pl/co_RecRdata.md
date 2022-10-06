@@ -264,7 +264,8 @@ open dump: 8.63
 ## (report) An Introduction to Plastic Recycling 2019
 https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf
 Japan’s Plastic Waste Management Institute
-July 2019
+data: July 2019
+2018
 re: 0.27
 in: 0.56
 landfill: 0.08
