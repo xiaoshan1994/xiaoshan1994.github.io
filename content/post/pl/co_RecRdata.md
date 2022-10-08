@@ -211,18 +211,6 @@ https://www.wastereduction.gov.hk/sites/default/files/msw2019.pdf
 **2018**: re: **7%** land: **93%**
 
 # Taiwan
-## (journal) Management strategy of plastic wastes in Taiwan
-[Sustainable Environment Research](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-022-00123-0#:~:text=A%20plastic%20overall%20recycle%20rate,51%25%20was%20attained%20(Fig.)
-Published: 24 January 2022
-for the year **2019**
-recycled 0.5
-energy recovery: 0.86
-landfill: 0.01
-
-re: 0.3650
-incineration: 0.6277
-landfill: 0.0073
-
 ## (official report) Solid Waste Statistics, Environmental Protection Administration
 Table 4-1 Generation and Treatment of Municipal Waste
 Amount of Municipal Waste Generated (Tonnes)/Incineration/Sanitary Landfill
