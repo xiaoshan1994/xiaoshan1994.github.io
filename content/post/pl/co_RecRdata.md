@@ -196,7 +196,7 @@ open dump:33%
 https://www.theguardian.com/environment/2021/may/17/uk-plastics-sent-for-recycling-in-turkey-dumped-and-burned-greenpeace-finds
 re :12%
 
-# Hongkong
+# Hongkong (3 year)
 ## (government report) Monitoring of Solid Waste in Hong Kong: Waste Statistics for 2020
 Environmental Protection Department
 **December 2021**
@@ -209,20 +209,48 @@ Among the various types of recyclables, plastic recyclables' recovery rate incre
 ## (government report) Monitoring of Solid Waste in Hong Kong: Waste Statistics for 2019
 https://www.wastereduction.gov.hk/sites/default/files/msw2019.pdf
 **2018**: re: **7%** land: **93%**
+
 # Taiwan
 ## (journal) Management strategy of plastic wastes in Taiwan
 [Sustainable Environment Research](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-022-00123-0#:~:text=A%20plastic%20overall%20recycle%20rate,51%25%20was%20attained%20(Fig.)
 Published: 24 January 2022
-for the year 2019
+for the year **2019**
 recycled 0.5
 energy recovery: 0.86
 landfill: 0.01
+
 re: 0.3650
 incineration: 0.6277
 landfill: 0.0073
 
+## (official report) Solid Waste Statistics, Environmental Protection Administration
+Table 4-1 Generation and Treatment of Municipal Waste
+Amount of Municipal Waste Generated (Tonnes)/Incineration/Sanitary Landfill
+2018: 9,740,671/4,103,398/87,251
+2019: 9,812,418/4,042,110/86,402
+2020: 9,869,675/3,789,352/106,703
+2021: 10,049,062/3,501,983/247,114
+Table 4-2 Composition of Municipal Solid Waste
+Plastics
+2018:17.79
+2019:18.67
+2020:20.20
+2021:26.28
+Table 4-3 Amount of Municipal Waste Recycled by Implementing Agencies
+Plastic (Kg)
+2018: 536,388,476
+2019: 642,242,139
+2020: 676,934,348
+2021: 699,928,065
+
+**2018**: re: 0.3095, in:0,6761, landfill: 0,0144
+**2019**: re: 0.3506, in: 0,6358, landfill: 0,0136
+**2020**: re: 0.3395, in: 0,6424, landfill: 0,0181
+**2021**: re: 0.2650, in: 0,6866, landfill: 0,0484
+
+
 # India
-## (government report) Annual Report for the year 2018-19 on Implementation of Plastic Waste Management Rules
+## (official report) Annual Report for the year 2018-19 on Implementation of Plastic Waste Management Rules
 https://cpcb.nic.in/uploads/plasticwaste/Annual_Report_2018-19_PWM.pdf
 According to the Central Pollution Control Board report 2019-2020, India recycles around 60% of plastic waste. The remaining 40% ends up in landfills, on the streets, clogging water bodies, etc.
 ## (report) Global Plastics Outlook
