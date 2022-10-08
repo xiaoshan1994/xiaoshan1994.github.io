@@ -248,7 +248,6 @@ Plastic (Kg)
 **2020**: re: 0.3395, in: 0,6424, landfill: 0,0181
 **2021**: re: 0.2650, in: 0,6866, landfill: 0,0484
 
-
 # India
 ## (official report) Annual Report for the year 2018-19 on Implementation of Plastic Waste Management Rules
 https://cpcb.nic.in/uploads/plasticwaste/Annual_Report_2018-19_PWM.pdf
