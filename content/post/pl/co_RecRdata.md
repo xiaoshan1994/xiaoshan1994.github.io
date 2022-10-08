@@ -197,14 +197,18 @@ https://www.theguardian.com/environment/2021/may/17/uk-plastics-sent-for-recycli
 re :12%
 
 # Hongkong
-## (government report) Monitoring of Solid Waste in Hong Kong
+## (government report) Monitoring of Solid Waste in Hong Kong: Waste Statistics for 2020
+Environmental Protection Department
+**December 2021**
 https://www.wastereduction.gov.hk/sites/default/files/msw2020.pdf
 Among the various types of recyclables, plastic recyclables' recovery rate increased from 8% in 2019 to 11% in 2020.
 2019: Disposed of at landfills 4.04 million tonnes (71%) Recovered 1.64 million tonnes (29%)
 2020: Disposed of at landfills 3.96 million tonnes (72%) Recovered 1.54 million tonnes (28%)
-2019: re: 8% in: 26.68% land: 65.32%
-2020: re: 11% in: 24.92% land: 64.08%
-
+**2019**: re: **8%** land: **92%**
+**2020**: re: **11%** land: **89%**
+## (government report) Monitoring of Solid Waste in Hong Kong: Waste Statistics for 2019
+https://www.wastereduction.gov.hk/sites/default/files/msw2019.pdf
+**2018**: re: **7%** land: **93%**
 # Taiwan
 ## (journal) Management strategy of plastic wastes in Taiwan
 [Sustainable Environment Research](https://sustainenvironres.biomedcentral.com/articles/10.1186/s42834-022-00123-0#:~:text=A%20plastic%20overall%20recycle%20rate,51%25%20was%20attained%20(Fig.)
