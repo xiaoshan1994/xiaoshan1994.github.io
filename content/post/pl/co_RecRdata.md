@@ -258,33 +258,33 @@ un:21
 ## (journal) Recycling and management practices of plastic packaging waste towards a circular economy in South Korea
 https://doi.org/10.1016/j.resconrec.2020.104798
 27 March 2020
-for the year 2017
+for the year **2017**
 re: 13.5
-in: 75.5(37 with energy recovery and 38.5 without energy recovery)
+in: 37
 land: 11
+open buring: 38.5
+##
 
 # Vietnam
 ## (journal) Plastic Recycling Practices in Vietnam and Related Hazards for Health and the Environment
 [Int J Environ Res Public Health](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8071425/#B18-ijerph-18-04203)
 2021 Apr 15
 From the total volume of MSW collected, about 71% is treated by landfilling, 16% is processed in composting plants, and 13% is treated by incineration. Out of the larger landfills, receiving more than 20,000 t/day, only 30% are classified as sanitary landfills as landfills with daily cover. Only 9% of the landfills are equipped with weights and 36% with bottom lining. Most landfills do not have compactors, a gas collection system, leachate treatment, or environmental monitoring [18].
-
 ## (report) Market Study for Vietnam : Plastics Circularity Opportunities and Barriers
 https://www.worldbank.org/en/country/vietnam/publication/market-study-for-vietnam-plastics-circularity-opportunities-and-barriers
-Vietnam recycled about 33% of key plastics resins in 2019.
-
+Vietnam recycled about 33% of key plastics resins in **2019**.
 re: 33
-in: 1.37
-sani landfill: 17
-unsani landfill: 40
-open dump: 8.63
+in: 10.37
+sani landfill: 17.00
+unsani landfill: 39.63
+
 
 # Japan
 ## (report) An Introduction to Plastic Recycling 2019
 https://www.pwmi.or.jp/ei/plastic_recycling_2019.pdf
 Japan’s Plastic Waste Management Institute
 data: July 2019
-2018
+**2018**
 re: 0.27
 in: 0.56
 landfill: 0.08
@@ -303,7 +303,7 @@ in: 0.0253
 landfill: 0.4177
 open: 0.4430
 
-With the fixed re from **the World Bank** and the structure from WWF:
+With the fixed re from **the World Bank** and the structure from WWF for the year **2019**:
 re: 0.28
 in: 0.0206
 landfill: 0.3394
