@@ -165,24 +165,24 @@ for the year 2018
 Poor plastic waste management in Canada contributes to environmental pollution and economic inefficiencies. The country deposits **86** per cent of plastic waste in **landfills**, and **incinerates** another **4 per cent**, while only **9 per cent** is **recycled** (Environment and Climate Change Canada, 2019).
 
 Currently use one year only instead.
-
 # Mexico
 ## (News) In Mexico City, Veolia will build and operate one of the largest waste to energy facilities in the world and the first in Latin America
 https://www.veolia.com/en/news/waste-to-energy-renewable-energy-mexico
 The plant is scheduled to start in 2020
 This plant will treat 1.6 million tonnes of household waste per year
-## (report) mexico city brief - No Waste Challenge
-https://nowaste.whatdesigncando.com/app/uploads/2021/01/Mexico-City-Perspective.pdf
-More than 7 million tonnes of plastic is produced in Mexico every year, and less than **10%** of this is recycled.
+## (News) Recycling in Mexico, an industry with potential
+https://www.plastico.com/es/noticias/recycling-mexico-industry-potential
+In the "First Quantitative Study of the Plastics Recycling Industry in Mexico", presented by Anipac last May, which means a recycling rate of **30%** of the plastics consumed in the country.
+2020
 ## (report) Waste Management Country Report: Mexico
 https://hollandcircularhotspot.nl/wp-content/uploads/2021/04/Report_Waste_Management_Mexico_20210322.pdf
-70% ends up in landfills and the remaining 20% is disposed of in illegal dumpsites.
+70% ends up in landfills and the remaining 20% is disposed of in illegal dumpsites. (Mexican Institute for Statistics and Geography INEGI, 2018)
 40% of the deposited waste ends up in 82 (bigger) landfills with basic infrastructure in place.
-re: 10%
+re: 30%
 incineration: 0%
-sani landfill: 28%
-unsani landfill:42%
-open dump: 20%
+sani landfill: 21.78%
+unsani landfill:32.66%
+open dump: 15.56%
 open burning: 0%
 
 # Turkey
@@ -237,22 +237,17 @@ Plastic (Kg)
 **2021**: re: 0.2650, in: 0,6866, landfill: 0,0484
 
 # India
-## (official report) Annual Report for the year 2018-19 on Implementation of Plastic Waste Management Rules
-https://cpcb.nic.in/uploads/plasticwaste/Annual_Report_2018-19_PWM.pdf
-According to the Central Pollution Control Board report 2019-2020, India recycles around 60% of plastic waste. The remaining 40% ends up in landfills, on the streets, clogging water bodies, etc.
-## (report) Global Plastics Outlook
-https://www.oecd-ilibrary.org/environment/global-plastics-outlook_de747aef-en
-22 Feb 2022
-Share of plastics treated by waste management category, after disposal of recycling residues and collected litter, 2019
-re: 13
-in: 4
-landfill: 36
-uncollected: 46
+## (official report) Annual Report 2019-20 on Implementation of Plastic Waste Management Rules, 2016
+https://cpcb.nic.in/status-of-implementation-of-plastic-waste/
+Maharashtra 2019
+total: 443724
+RE: 273589 61.66%
+RDF:　108700 24.50%
+landfill: 5.29%
+(waste for road construction and co-processing in cement industry is counted as mechanical recycling)
 
-re: 60
-in: 2
-landfill: 17
-un:21
+the newest report exposed the data of 2019
+
 
 # South Korea
 ## (journal) Recycling and management practices of plastic packaging waste towards a circular economy in South Korea
@@ -263,7 +258,7 @@ re: 13.5
 in: 37
 land: 11
 open buring: 38.5
-##
+
 
 # Vietnam
 ## (journal) Plastic Recycling Practices in Vietnam and Related Hazards for Health and the Environment
