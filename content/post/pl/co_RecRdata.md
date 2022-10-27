@@ -246,6 +246,7 @@ RDF:　108700 24.50%
 landfill: 5.29%
 (waste for road construction and co-processing in cement industry is counted as mechanical recycling)
 
+Plastic waste collection = 3,47,681 tonnes; Collection efficiency= 78% Plastic waste recycling and processing= 2,73,589 tonnes (62% of plastic waste generated) Out of this, following are main modes of use- Plastic waste used for Refuse Derived Fuel (RDF) = 1,08,700 tonnes Plastic waste sent for coprocessing= 15,857 tonnes Plastic waste used for granule making= 17,981 tonnes Plastic waste used for pyrolysis= 5,579 tonnes Plastic waste used for road construction= 5,515 tonnes Plastic waste sent to landfilling facility= 23,482 tonnes In compliance of order dated 04.12.2019 passed by Hon'ble NGT, in the matter of O.A. 
 the newest report exposed the data of 2019
 
 
