@@ -212,6 +212,7 @@ https://www.wastereduction.gov.hk/sites/default/files/msw2019.pdf
 
 # Taiwan
 ## (official report) Solid Waste Statistics, Environmental Protection Administration
+https://www.epa.gov.tw/eng/513B0B39D090DE4C
 Table 4-1 Generation and Treatment of Municipal Waste
 Amount of Municipal Waste Generated (Tonnes)/Incineration/Sanitary Landfill
 2018: 9,740,671/4,103,398/87,251
@@ -246,7 +247,7 @@ RDF:　108700 24.50%
 landfill: 5.29%
 (waste for road construction and co-processing in cement industry is counted as mechanical recycling)
 
-Plastic waste collection = 3,47,681 tonnes; Collection efficiency= 78% Plastic waste recycling and processing= 2,73,589 tonnes (62% of plastic waste generated) Out of this, following are main modes of use- Plastic waste used for Refuse Derived Fuel (RDF) = 1,08,700 tonnes Plastic waste sent for coprocessing= 15,857 tonnes Plastic waste used for granule making= 17,981 tonnes Plastic waste used for pyrolysis= 5,579 tonnes Plastic waste used for road construction= 5,515 tonnes Plastic waste sent to landfilling facility= 23,482 tonnes In compliance of order dated 04.12.2019 passed by Hon'ble NGT, in the matter of O.A. 
+Plastic waste collection = 3,47,681 tonnes; Collection efficiency= 78% Plastic waste recycling and processing= 2,73,589 tonnes (62% of plastic waste generated) Out of this, following are main modes of use- Plastic waste used for Refuse Derived Fuel (RDF) = 1,08,700 tonnes Plastic waste sent for coprocessing= 15,857 tonnes Plastic waste used for granule making= 17,981 tonnes Plastic waste used for pyrolysis= 5,579 tonnes Plastic waste used for road construction= 5,515 tonnes Plastic waste sent to landfilling facility= 23,482 tonnes In compliance of order dated 04.12.2019 passed by Hon'ble NGT, in the matter of O.A.
 the newest report exposed the data of 2019
 
 
