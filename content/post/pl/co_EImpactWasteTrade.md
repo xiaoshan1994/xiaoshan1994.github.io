@@ -24,3 +24,8 @@ Stephanie B. Borrelle
 Department of Ecology and Evolutionary Biology, University of Toronto, Toronto, Ontario, Canada.
 College of Engineering, University of Georgia, Athens, GA, USA.
 David H. Smith Conservation Research Program, Society for Conservation Biology, Washington, DC, USA.
+
+# An analysis of the plastic waste trade and management in Asia
+https://www.sciencedirect.com/science/article/pii/S0956053X20305602
+
+# How does the global plastic waste trade contribute to environmental benefits: Implication for reductions of greenhouse gas emissions?
