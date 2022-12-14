@@ -9,7 +9,6 @@ thumbnailImagePosition: left
 Math: True
 ---
 <!--more-->
-### Table of content
 {{< toc >}}
 https://www.science.org/doi/10.1126/science.abd9925
 
