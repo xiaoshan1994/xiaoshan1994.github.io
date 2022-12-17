@@ -4,7 +4,7 @@ categories:
 - Plastic
 tags:
 - Sangwon Suh
-thumbnailImage:
+thumbnailImage: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAAICX9Lgkj3mmErz9o-X_oPBFi_wuq1ywsw&usqp=CAU
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
