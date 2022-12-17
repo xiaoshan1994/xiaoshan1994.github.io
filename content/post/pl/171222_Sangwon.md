@@ -1,5 +1,6 @@
 ---
 title: "A plastic container for carbon emissions"
+date: 2022-12-17T14:30:44+01:00
 categories:
 - Plastic
 tags:
