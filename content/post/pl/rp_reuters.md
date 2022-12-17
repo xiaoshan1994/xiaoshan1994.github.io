@@ -4,7 +4,7 @@ date: 2022-12-06T11:24:14+01:00
 categories:
 - Plastic
 - Report
-thumbnailImage: https://www.reuters.com/investigates/static/4-3-1/en/images/reuters-investigates.png?v=283709061020
+thumbnailImage: https://static.reuters.com/resources/r/?m=02&d=20180918&t=2&i=1305521985&r=LYNXNPEE8H0IV&w=800
 thumbnailImagePosition: left
 metaAlignment: left
 Math: True
