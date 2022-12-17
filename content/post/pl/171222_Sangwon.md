@@ -40,59 +40,7 @@ Sangwon Suh is in the Bren School of Environmental Science and Management, Unive
 André Bardow is in the Department of Mechanical and Process Engineering, ETH Zurich, 8092 Zurich, Switzerland.
 e-mails: suh@bren.ucsb.edu; abardow@ethz.ch
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![image](https://user-images.githubusercontent.com/65668613/208244077-dc1e8a64-b88b-4955-b142-a9aa77960666.png)
 Figure 1 | Carbon balance of the plastics industry. Stegmann et al.2 modelled the life cycle of plastics (from production to disposal) in the context of
 four scenarios for climate-change mitigation. Their baseline scenario was a ‘middle of the road’ socio-economic pathway (see go.nature. com/3uvdbgs). They then examined the effects of increasing the price of carbon emissions,
 incentivizing recycling and renewable-energy use, and prioritizing the use of biomass as a feedstock for plastics production. In two of the four scenarios, the plastics industry is forecast to have net negative carbon emissions before 2100. (Adapted from Fig. 3 of ref. 2.)
-
-### Wide image showcase
-{{< wide-image src="//d1u9biwaxjngwg.cloudfront.net/tag-plugins-showcase/car-1.jpg" title="Mercedes SLS" >}}
-
-### left or right quote
-{{< pullquote left/right >}}content{{< /pullquote >}}
-
-### Youtube
-{{< youtube BSVkI3Ds8E >}}
-
-### Figure
-{{< image classes= "fig-33" src="https://xxx.png">}}
-
-### Figure with fancybox
-{{< image classes="fancybox fig-100" src="//xxx.jpg" >}}
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}*2
-
-{{< image classes="fancybox fig-33" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-75" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*3
-
-{{< image classes="fancybox fig-50" src="//xxx.jpg">}}
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-25" src="//xxx.jpg">}}*4
-
-{{< image classes="fancybox fig-20" src="//xxx.jpg">}}*5
