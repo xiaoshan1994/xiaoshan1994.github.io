@@ -20,6 +20,7 @@ Math: True
 {{< wide-image src="https://www.nationsonline.org/maps/countries_europe_map-L.jpg" title="Map of the European States" >}}
 
 # Ethnic groups in Europe
+dfd
 
 Of the total population of Europe of some 740 million (as of 2010), close to 90% (or some 650 million) fall within three large branches of Indo-European languages, these being:
 * Romance, including Aromanian, Arpitan, Catalan, Corsican, French and other Langues d'oïl, Friulian, Galician, Istro-Romanian, Italian, Ladino, Megleno-Romanian, Occitan, Portuguese, Romanian, Romansh, Sardinian and Spanish.
